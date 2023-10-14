@@ -10,2482 +10,2336 @@ creating your own Awesome List by GitHub stars!
 
 # Contents
 
-* [.NET](#.net)
-  * [.NET Core](#.net-core)
-    * [ASP.NET Core](#asp.net-core)
-    * [EF Core](#ef-core)
-* [Android](#android)
-  * [APP](#app)
-    * [Utility](#utility)
-  * [MIUI](#miui)
-  * [Magick](#magick)
-  * [Xposed](#xposed)
-* [Arduino](#arduino)
-* [Awesome](#awesome)
-* [Blog](#blog)
-* [C](#c)
-  * [JSON](#json)
-  * [Utility](#utility-1)
-* [Chinese APP Hack](#chinese-app-hack)
-  * [QQ](#qq)
-  * [WeChat](#wechat)
-    * [Mini Program](#mini-program)
-* [Computer Science](#computer-science)
-* [Docker](#docker)
-* [Font](#font)
-* [GFW](#gfw)
-* [Game](#game)
-  * [Ingress](#ingress)
-  * [KSP](#ksp)
 * [GitHub](#github)
-* [Gnome Shell Extensions](#gnome-shell-extensions)
-* [Go](#go)
-* [Gov](#gov)
-* [JSON](#json-1)
-* [Java](#java)
-  * [JSON](#json-2)
-  * [Web](#web)
-    * [RESTful](#restful)
-* [JavaScript](#javascript)
-  * [jQuery](#jquery)
 * [Jekyll](#jekyll)
-  * [Theme](#theme)
-* [Kindle](#kindle)
-* [LaTeX](#latex)
-* [Linux](#linux)
-  * [Device](#device)
-    * [Surface](#surface)
-  * [Distribution](#distribution)
-    * [Arch Linux](#arch-linux)
-  * [GUI](#gui)
-    * [Desktop Environment](#desktop-environment)
-      * [Gnome](#gnome)
-        * [Extension](#extension)
-        * [Theme](#theme-1)
-    * [Display Manager](#display-manager)
-    * [Windows Manager](#windows-manager)
-  * [Kernel](#kernel)
-  * [Utility](#utility-2)
-* [Machine Learning](#machine-learning)
-* [Nextcloud](#nextcloud)
-* [Node.js](#node.js)
-  * [Windows](#windows)
-* [OpenShift](#openshift)
-* [Operating System](#operating-system)
-  * [HarmonyOS](#harmonyos)
 * [Other](#other)
-* [Pandoc](#pandoc)
-* [Python](#python)
-  * [API](#api)
-  * [Tutorial](#tutorial)
-* [Resource](#resource)
-* [SBC](#sbc)
-* [SQLite](#sqlite)
-* [Spider](#spider)
-* [Unity](#unity)
-* [Utility](#utility-3)
-* [VS Code](#vs-code)
-* [Vim](#vim)
-* [WeChat](#wechat-1)
-  * [Mini Program](#mini-program-1)
-    * [Develop](#develop)
-    * [Utility](#utility-4)
-* [Web](#web-1)
-  * [Backend](#backend)
-    * [REST](#rest)
-  * [CSS](#css)
-  * [JavaScript](#javascript-1)
-  * [Tutorial](#tutorial-1)
-  * [Vue](#vue)
-* [Windows](#windows-1)
-  * [PowerShell](#powershell)
-  * [Terminal](#terminal)
-    * [ConEmu](#conemu)
-    * [Mintty](#mintty)
-  * [Utility](#utility-5)
-  * [WSL](#wsl)
-
-# .NET
-
-* [ZeekoZhu/TextTemplatingCore](https://github.com/ZeekoZhu/TextTemplatingCore): T4 scaffolding for ASP.NET Core 2.0 without IDE
-
-## .NET Core
-
-
-### ASP.NET Core
-
-* [dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker): Docker images for .NET and the .NET Tools.
-* [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers): Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
-* [dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb): Sample ASP.NET Core 7.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download the eBook PDF from docs folder.
-
-### EF Core
-
-* [PomeloFoundation/Pomelo.EntityFrameworkCore.MySql](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql): Entity Framework Core provider for MySQL and MariaDB built on top of MySqlConnector
-
-# Android
-
-* [kesenhoo/android-training-course-in-chinese](https://github.com/kesenhoo/android-training-course-in-chinese): Android官方培训课程中文版
-* [greenrobot/greenDAO](https://github.com/greenrobot/greenDAO): greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases.
-* [skylot/jadx](https://github.com/skylot/jadx): Dex to Java decompiler
-* [asLody/VirtualApp](https://github.com/asLody/VirtualApp): Virtual Engine for Android(Support 14.0 in business version)
-
-## APP
-
-* [loopeer/code-reader](https://github.com/loopeer/code-reader): One Multi program language code reader
-* [k0shk0sh/FastHub](https://github.com/k0shk0sh/FastHub): FastHub the ultimate GitHub client for Android.
-* [klausw/hackerskeyboard](https://github.com/klausw/hackerskeyboard): Hacker's Keyboard (official)
-* [ghbhaha/JzApp](https://github.com/ghbhaha/JzApp): 账单助手--一款简洁的记账软件
-* [koreader/koreader](https://github.com/koreader/koreader): An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
-* [meefik/linuxdeploy](https://github.com/meefik/linuxdeploy): Install and run GNU/Linux on Android
-
-### Utility
-
-* [GhostFlying/LocationReportEnabler](https://github.com/GhostFlying/LocationReportEnabler): A simple android app to enable Google Location Report, Google Now and related functions in China mainland or somewhere like.
-* [ThirtyDegreesRay/OpenHub](https://github.com/ThirtyDegreesRay/OpenHub): An open source GitHub Android client app, faster and concise.
-* [ekibun/QQNotfAndShare](https://github.com/ekibun/QQNotfAndShare): (Deprecated)QQ通知增强+分享转发
-* [termux/termux-app](https://github.com/termux/termux-app): Termux - a terminal emulator application for Android OS extendible by variety of packages.
-
-## MIUI
-
-* [linusyang92/mipay-extract](https://github.com/linusyang92/mipay-extract): Extract Mi Pay from MIUI China Rom
-
-## Magick
-
-* [Jman420/magisk-permissive-script](https://github.com/Jman420/magisk-permissive-script): Installs a simple script to enable Permissive Mode during Magisk Startup
-* [D4rCM4rC/MagiskSSH](https://github.com/D4rCM4rC/MagiskSSH): None
-
-## Xposed
-
-* [liubaoyua/CustomText](https://github.com/liubaoyua/CustomText): 一个可以自定义替换文本的 Xposed 模块
-* [liubaoyua/CustomText-MD](https://github.com/liubaoyua/CustomText-MD): CustomText with MD
-* [coderstory/Mi-Purify](https://github.com/coderstory/Mi-Purify): None
-* [android-hacker/VirtualXposed](https://github.com/android-hacker/VirtualXposed): A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.
-* [abforce/xposed_art_n](https://github.com/abforce/xposed_art_n): ART module for a built-in enabled Xposed firmware based on AOSP 7
-* [halfkiss/ZjDroid](https://github.com/halfkiss/ZjDroid): Android app dynamic reverse tool based on Xposed framework.
-
-# Arduino
-
-* [adafruit/Adafruit_NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel): Arduino library for controlling single-wire LED pixels (NeoPixel, WS2812, etc.)
-* [blanboom/Arduino-Task-Scheduler](https://github.com/blanboom/Arduino-Task-Scheduler): Enable Arduinos to run multiple tasks.
-* [DeanIsMe/SevSeg](https://github.com/DeanIsMe/SevSeg): Seven segment display controller library for Arduino
-* [tclem/vim-arduino](https://github.com/tclem/vim-arduino): Compile and Deploy Arduino sketches in Vim
-* [sudar/vim-arduino-snippets](https://github.com/sudar/vim-arduino-snippets): Vim snippets for Arduino files
-* [sudar/vim-arduino-syntax](https://github.com/sudar/vim-arduino-syntax): Arduino syntax files for Vim
-
-# Awesome
-
-* [jobbole/awesome-c-cn](https://github.com/jobbole/awesome-c-cn): C 资源大全中文版，包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等。
-* [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs): :octocat: A collection of APIs
-
-# Blog
-
-* [mojombo/mojombo.github.io](https://github.com/mojombo/mojombo.github.io): Jekyll source for my personal blog.
-* [mzlogin/mzlogin.github.io](https://github.com/mzlogin/mzlogin.github.io): Jekyll Themes / GitHub Pages 博客模板 / A template repository for Jekyll based blog
-
-# C
-
-* [GNOME/glib](https://github.com/GNOME/glib): Read-only mirror of https://gitlab.gnome.org/GNOME/glib
-* [attractivechaos/klib](https://github.com/attractivechaos/klib): A standalone and lightweight C library
-* [keybuk/libnih](https://github.com/keybuk/libnih): NIH Utility Library
-* [shenfeng/tiny-web-server](https://github.com/shenfeng/tiny-web-server): a tiny web server in C, for daily use.
-
-## JSON
-
-* [DaveGamble/cJSON](https://github.com/DaveGamble/cJSON): Ultralightweight JSON parser in ANSI C
-
-## Utility
-
-* [cs01/gdbgui](https://github.com/cs01/gdbgui): Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
-
-# Chinese APP Hack
-
-
-## QQ
-
-* [BUPT-HJM/fun-photo-combine](https://github.com/BUPT-HJM/fun-photo-combine): 一个有趣的图片合成工具（生成的图片在QQ缩略图与大图表现不同）
-* [xiehuc/pidgin-lwqq](https://github.com/xiehuc/pidgin-lwqq): a pidgin plugin based on lwqq, a excellent safe useful library for webqq protocol
-* [Yinzo/SmartQQBot](https://github.com/Yinzo/SmartQQBot): 基于SmartQQ的自动机器人框架
-
-## WeChat
-
-* [geeeeeeeeek/electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat): :speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
-* [littlecodersh/ItChat](https://github.com/littlecodersh/ItChat): A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
-* [trazyn/weweChat](https://github.com/trazyn/weweChat): 💬 Unofficial WeChat client built with React, MobX and Electron.
-* [ety001/wx_msg](https://github.com/ety001/wx_msg): 简易便捷发送微信模板消息的小玩意儿
-
-### Mini Program
-
-* [wangshub/wechat_jump_game](https://github.com/wangshub/wechat_jump_game): 微信《跳一跳》Python 辅助
-
-# Computer Science
-
-* [llimllib/bloomfilter-tutorial](https://github.com/llimllib/bloomfilter-tutorial): A Bloom Filter Tutorial
-
-# Docker
-
-* [wangxian/alpine-mysql](https://github.com/wangxian/alpine-mysql): a docker image base on alpine with mysql
-* [gdiepen/docker-convenience-scripts](https://github.com/gdiepen/docker-convenience-scripts): None
-* [captnbp/docker-owncloud](https://github.com/captnbp/docker-owncloud): Docker for Ownclud on Alpine Linux
-* [docker-library/haproxy](https://github.com/docker-library/haproxy): Docker Official Image packaging for HAProxy
-* [docker-library/openjdk](https://github.com/docker-library/openjdk): Docker Official Image packaging for EA builds of OpenJDK from Oracle
-* [portainer/portainer](https://github.com/portainer/portainer): Making Docker and Kubernetes management easy.
-* [loomchild/volume-backup](https://github.com/loomchild/volume-backup): docker volume backup & restore utility
-* [blacklabelops/volumerize](https://github.com/blacklabelops/volumerize): Docker Volume Backups Multiple Backends
-
-# Font
-
-* [be5invis/Iosevka](https://github.com/be5invis/Iosevka): Versatile typeface for code, from code.
-* [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic): Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
-* [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro): Monospaced font family for user interface and coding environments
-* [adobe-fonts/source-han-sans](https://github.com/adobe-fonts/source-han-sans): Source Han Sans | 思源黑体 | 思源黑體 | 思源黑體 香港 | 源ノ角ゴシック | 본고딕
-* [yakumioto/YaHei-Consolas-Hybrid-1.12](https://github.com/yakumioto/YaHei-Consolas-Hybrid-1.12): YaHei Consolas Hybrid 字体
-
-# GFW
-
-* [teddysun/across](https://github.com/teddysun/across): Across the Great Wall we can reach every corner in the world
-* [breakwa11/gfw_whitelist](https://github.com/breakwa11/gfw_whitelist): gfw_whitelist
-* [n0wa11/gfw_whitelist](https://github.com/n0wa11/gfw_whitelist): A Pac File of the Whitelisted Websites for the Great Firewall of China (GFW)
-* [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist): The one and only one gfwlist here
-* [snachx/gfwlist2privoxy](https://github.com/snachx/gfwlist2privoxy): Generate action file for privoxy from gfwlist, inspired by clowwindy's gfwlist and modified from it.
-* [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows): A C# port of shadowsocks
-* [shadowsocksr-backup/shadowsocksr](https://github.com/shadowsocksr-backup/shadowsocksr): Python port of ShadowsocksR
-* [shadowsocksrr/shadowsocksr-csharp](https://github.com/shadowsocksrr/shadowsocksr-csharp): None
-* [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core): A platform for building proxies to bypass network restrictions.
-
-# Game
-
-* [Doreamonsky/CampusAdventure](https://github.com/Doreamonsky/CampusAdventure): None
-* [frogatto/frogatto](https://github.com/frogatto/frogatto): Frogatto & Friends is an action-adventure game, starring a certain quixotic frog. 
-
-## Ingress
-
-* [iitc-project/ingress-intel-total-conversion](https://github.com/iitc-project/ingress-intel-total-conversion): ingress.com/intel total conversion user script with some new features. Should allow easier extension of the intel map.
-
-## KSP
-
-* [KSP-CKAN/CKAN](https://github.com/KSP-CKAN/CKAN): The Comprehensive Kerbal Archive Network
-* [TriggerAu/KerbalAlarmClock](https://github.com/TriggerAu/KerbalAlarmClock): A time management and utility plugin for Kerbal Space Program
-* [CYBUTEK/KerbalEngineer](https://github.com/CYBUTEK/KerbalEngineer): Kerbal Engineer v1.0 (current in-development build).
+* [Utility](#utility)
 
 # GitHub
 
-* [astralapp/astral](https://github.com/astralapp/astral): Organize Your GitHub Stars With Ease
-* [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti): abusing github commit history for the lulz
-* [github-tools/github](https://github.com/github-tools/github): A higher-level wrapper around the Github API. Intended for the browser.
-* [sigmavirus24/github3.py](https://github.com/sigmavirus24/github3.py):  Hi, I'm a library for interacting with GItHub's REST API in a convenient and ergonomic way. I work on Python 3.6+.
 * [maguowei/starred](https://github.com/maguowei/starred): creating your own Awesome List by GitHub stars!
-
-# Gnome Shell Extensions
-
-* [Edenhofer/Minimalism-Gnome-Shell](https://github.com/Edenhofer/Minimalism-Gnome-Shell): Minimalism Gnome Shell  Extensions
-
-# Go
-
-* [hanwen/go-fuse](https://github.com/hanwen/go-fuse): FUSE bindings for Go
-
-# Gov
-
-* [mlouielu/cn_constitution_2018](https://github.com/mlouielu/cn_constitution_2018): 2018-02-25 中国共产党中央委员会关于修改宪法部分内容的建议
-
-# JSON
-
-* [DaveGamble/cJSON](https://github.com/DaveGamble/cJSON): Ultralightweight JSON parser in ANSI C
-* [FasterXML/jackson](https://github.com/FasterXML/jackson): Main Portal page for the Jackson project
-
-# Java
-
-* [rkalla/imgscalr](https://github.com/rkalla/imgscalr): Simple Java image-scaling library implementing Chris Campbell's incremental scaling algorithm as well as Java2D's "best-practices" image-scaling techniques.
-* [tipsy/j2html](https://github.com/tipsy/j2html): Java to HTML generator. Enjoy typesafe HTML generation.
-* [skylot/jadx](https://github.com/skylot/jadx): Dex to Java decompiler
-* [ferbar/jmagick](https://github.com/ferbar/jmagick): None
-* [pdudits/soundlibs](https://github.com/pdudits/soundlibs): Maven artifacts for Java Sound Libraries
-
-## JSON
-
-* [FasterXML/jackson](https://github.com/FasterXML/jackson): Main Portal page for the Jackson project
-
-## Web
-
-* [NanoHttpd/nanohttpd](https://github.com/NanoHttpd/nanohttpd): Tiny, easily embeddable HTTP server in Java.
-
-### RESTful
-
-* [dropwizard/dropwizard](https://github.com/dropwizard/dropwizard): A damn simple library for building production-ready RESTful web services.
-
-# JavaScript
-
-* [aemkei/jsfuck](https://github.com/aemkei/jsfuck): Write any JavaScript with 6 Characters: []()!+
-* [almende/vis](https://github.com/almende/vis): ⚠️ This project is not maintained anymore! Please go to https://github.com/visjs
-
-## jQuery
-
-* [blueimp/jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload): File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.
 
 # Jekyll
 
 * [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll): ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
-* [kronik3r/daktilo](https://github.com/kronik3r/daktilo): A Jekyll theme with a minimal design inspired by typewriters.
-* [imsun/gitment](https://github.com/imsun/gitment): A comment system based on GitHub Issues.
-* [egoist/hack](https://github.com/egoist/hack): ⛷ Dead simple CSS framework.
-* [jekyll/jekyll](https://github.com/jekyll/jekyll): :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
-* [jekyll/jekyll-paginate](https://github.com/jekyll/jekyll-paginate): NO LONGER UNDER ACTIVE DEVELOPMENT as of Jekyll 3: Pagination Generator for Jekyll
-* [pattex/jekyll-tagging](https://github.com/pattex/jekyll-tagging): Jekyll plugin to automatically generate a tag cloud and tag pages.
-* [gfjaru/Kiko](https://github.com/gfjaru/Kiko): :apple: Kiko, a Jekyll Theme
-* [eduardoboucas/staticman](https://github.com/eduardoboucas/staticman): 💪  User-generated content for Git-powered websites
-
-## Theme
-
-* [TaylanTatli/Halve](https://github.com/TaylanTatli/Halve): Stylish Two-Column Jekyll Theme
-* [TaylanTatli/Moon](https://github.com/TaylanTatli/Moon): 🌓 Moon is a minimal, one column jekyll theme.
-
-# Kindle
-
-* [samsheff/Amazon-Kindle-Cross-Toolchain](https://github.com/samsheff/Amazon-Kindle-Cross-Toolchain): A cross-compiling toolchain for the Amazon Kindle
-* [hwhw/kindlevncviewer](https://github.com/hwhw/kindlevncviewer): A VNC viewer for ebook readers
-* [koreader/koreader](https://github.com/koreader/koreader): An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
-
-# LaTeX
-
-* [cmhughes/latexindent.pl](https://github.com/cmhughes/latexindent.pl): Perl script to add indentation (leading horizontal space) to LaTeX files. It can modify line breaks before, during and after code blocks; it can perform text wrapping and paragraph line break removal. It can also perform string-based and regex-based substitutions/replacements. The script is customisable through its YAML interface.
-
-# Linux
-
-* [fcitx/fcitx](https://github.com/fcitx/fcitx): A Flexible Input Method Framework
-
-## Device
-
-
-### Surface
-
-* [jimdigriz/debian-mssp4](https://github.com/jimdigriz/debian-mssp4): Installing Debian on the Microsoft Surface Pro 4
-* [matthewwardrop/linux-surfacepro3](https://github.com/matthewwardrop/linux-surfacepro3): Arch Linux package to compile the Linux kernel with patches designed to improve user experience on the Surface Pro 3.
-* [AykoPoel/surface3-scripts](https://github.com/AykoPoel/surface3-scripts): None
-
-## Distribution
-
-
-### Arch Linux
-
-* [archlinuxcn/repo](https://github.com/archlinuxcn/repo): Arch Linux CN Repository
-
-## GUI
-
-
-### Desktop Environment
-
-
-#### Gnome
-
-
-##### Extension
-
-* [p-e-w/argos](https://github.com/p-e-w/argos): Create GNOME Shell extensions in seconds
-* [emiapwil/glassy-gnome](https://github.com/emiapwil/glassy-gnome): To bring opacity features to gnome windows.
-* [paradoxxxzero/gnome-shell-system-monitor-applet](https://github.com/paradoxxxzero/gnome-shell-system-monitor-applet): Display system informations in gnome shell status bar, such as memory usage, cpu usage, network rates…
-* [gTile/gTile](https://github.com/gTile/gTile): A window tiling extension for Gnome. This is the new official home of the vibou.gTile extension.
-* [emasab/shelltile](https://github.com/emasab/shelltile): A tiling window extension for GNOME Shell
-* [rosghub/TLP-Switcher](https://github.com/rosghub/TLP-Switcher): Gnome shell extension for switching TLP configurations
-* [phocean/TopIcons-plus](https://github.com/phocean/TopIcons-plus): An gnome-shell extension to put the icons back to the tray.
-
-##### Theme
-
-* [adapta-project/adapta-gtk-theme](https://github.com/adapta-project/adapta-gtk-theme): An adaptive Gtk+ theme based on Material Design Guidelines
-* [horst3180/arc-theme](https://github.com/horst3180/arc-theme): A flat theme with transparent elements
-* [snwh/paper-gtk-theme](https://github.com/snwh/paper-gtk-theme): Paper Theme Suite
-
-### Display Manager
-
-* [prikhi/lightdm-mini-greeter](https://github.com/prikhi/lightdm-mini-greeter): A Minimal, Configurable, Single-User GTK3 LightDM Greeter
-
-### Windows Manager
-
-* [baskerville/bspwm](https://github.com/baskerville/bspwm): A tiling window manager based on binary space partitioning
-* [Airblader/i3](https://github.com/Airblader/i3): A fork of the i3 window manager with gaps and some other features. :warning: i3-gaps has been merged into i3. 
-
-## Kernel
-
-* [kvalo/ath10k-firmware](https://github.com/kvalo/ath10k-firmware): Firmware files for ath10k, a mac80211 driver for Qualcomm 802.11ac devices
-
-## Utility
-
-* [XuShaohua/bcloud](https://github.com/XuShaohua/bcloud): 百度网盘的linux桌面客户端
-* [gliffy/canvas2svg](https://github.com/gliffy/canvas2svg): Translates HTML5 Canvas draw commands to SVG
-* [caldwell/daemon-manager](https://github.com/caldwell/daemon-manager): Manage Daemons run and controlled by non root users
-* [bilelmoussaoui/Hardcode-Tray](https://github.com/bilelmoussaoui/Hardcode-Tray): Fixes Hardcoded tray icons in Linux
-* [skilion/onedrive](https://github.com/skilion/onedrive): Free Client for OneDrive on Linux
-* [mk-fg/onedrive-fuse-fs](https://github.com/mk-fg/onedrive-fuse-fs): Script to mount Microsoft OneDrive (formerly known as SkyDrive) folder as a FUSE filesystem
-* [Xfennec/progress](https://github.com/Xfennec/progress): Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
-* [hmrc/service-manager](https://github.com/hmrc/service-manager): A python tool to manage developing and testing with lots of microservices
-* [bytegust/spm](https://github.com/bytegust/spm): A process manager similar to systemd and foreman with stop feature, written in Go.
-* [Supervisor/supervisor](https://github.com/Supervisor/supervisor): Supervisor process control system for Unix (supervisord)
-* [d4nj1/TLPUI](https://github.com/d4nj1/TLPUI): A GTK user interface for TLP written in Python
-
-# Machine Learning
-
-* [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x): Image Super-Resolution for Anime-Style Art
-* [lltcggie/waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe): waifu2xのCaffe版
-
-# Nextcloud
-
-* [DecaTec/Nextcloud-Backup-Restore](https://github.com/DecaTec/Nextcloud-Backup-Restore): Moved to codeberg.org - https://codeberg.org/DecaTec/Nextcloud-Backup-Restore - Bash scripts for backup/restore of Nextcloud
-
-# Node.js
-
-
-## Windows
-
-* [felixrieseberg/npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade): :rocket: Upgrade npm on Windows
-
-# OpenShift
-
-* [boekkooi/openshift-cartridge-nginx](https://github.com/boekkooi/openshift-cartridge-nginx): None
-* [gsterjov/openshift-nginx-cartridge](https://github.com/gsterjov/openshift-nginx-cartridge): An Nginx Cartridge for OpenShift
-* [gnurag/openshift-origin-cartridge-httpd-proxy](https://github.com/gnurag/openshift-origin-cartridge-httpd-proxy): A cartridge for using Apache httpd as a reverse proxy server
-
-# Operating System
-
-
-## HarmonyOS
-
-* [Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS): A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
 
 # Other
 
-* [gpakosz/.tmux](https://github.com/gpakosz/.tmux): 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
-* [hao14293/2021-Postgraduate-408](https://github.com/hao14293/2021-Postgraduate-408): 💯✍备考2021年研究生-408 
-* [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code): Short code snippets for all your development needs
-* [duguosheng/6.S081-All-in-one](https://github.com/duguosheng/6.S081-All-in-one): 6.S081课程全记录，包括课程使用的书籍、论文、实验要求的中文翻译，以及实验过程记录
-* [geektutu/7days-golang](https://github.com/geektutu/7days-golang): 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
-* [formulahendry/944.Life](https://github.com/formulahendry/944.Life): 996.ICU 的反向 repo: 944 工作制 - 工作 944，生活为先
-* [jdan/98.css](https://github.com/jdan/98.css): A design system for building faithful recreations of old UIs
-* [996icu/996.ICU](https://github.com/996icu/996.ICU): Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-* [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students): ✅  Curated list of resources for college students 
-* [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh): A pure Unix shell script implementing ACME client protocol
+* [zhekazuev/.mac-dotfiles](https://github.com/zhekazuev/.mac-dotfiles): My configs for prompt and terminal
+* [badmojr/1Hosts](https://github.com/badmojr/1Hosts): World's most advanced  DNS filter-/blocklists!
+* [tortious/2019Firefox](https://github.com/tortious/2019Firefox): None
+* [tortious/2021_Firefox](https://github.com/tortious/2021_Firefox): Updated config settings & possibilities for Firefox. This includes all file types (css; uc.js; js; etc) and other tips and tricks, including about:config tweaks
+* [rsapkf/42](https://github.com/rsapkf/42): @rsapkf's wiki. [Merged into rsapkf/www]
+* [Lexxrt/9xe3](https://github.com/Lexxrt/9xe3): 🔍sᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ ʟᴏᴏᴋᴜᴘ🔍
+* [earthlng/aboutconfig](https://github.com/earthlng/aboutconfig): None
+* [garywill/aboutconfig-menu](https://github.com/garywill/aboutconfig-menu): Shortcuts to settings in about:config (universal), through a button on toolbar. Firefox userChrome script 🛠️ (runs on ff 115)
+* [abp-filters/abp-filters-anti-cv](https://github.com/abp-filters/abp-filters-anti-cv): None
+* [bartoszj/acextract](https://github.com/bartoszj/acextract): A tool to list and extract content from Assets.car file.
+* [pgrimaud/action-shopify](https://github.com/pgrimaud/action-shopify): Deploy Shopify theme with Theme Kit on GitHub Actions
+* [sindresorhus/Actions](https://github.com/sindresorhus/Actions): ⚙️ Supercharge your shortcuts
 * [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages): GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
-* [biokoda/actordb](https://github.com/biokoda/actordb): ActorDB distributed SQL database
-* [ada-url/ada](https://github.com/ada-url/ada): WHATWG-compliant and fast URL parser written in modern C++
-* [senzhk/ADBKeyBoard](https://github.com/senzhk/ADBKeyBoard): Android Virtual Keyboard Input via ADB (Useful for Test Automation)
-* [hrdwrrsk/adementary-theme](https://github.com/hrdwrrsk/adementary-theme): A theme for GNOME/Budgie/Xfce/Cinnamon desktop with elementary-ish aesthetics.
-* [mrvautin/adminMongo](https://github.com/mrvautin/adminMongo): adminMongo is a Web based user interface (GUI) to handle all your MongoDB connections/databases needs.
-* [doocs/advanced-java](https://github.com/doocs/advanced-java): 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
-* [avanisubbiah/adwaita-materialu](https://github.com/avanisubbiah/adwaita-materialu): Utility to generate adwaita presets for use with AdwCustomizer from images using Google's MaterialU color generator.
-* [agendav/agendav](https://github.com/agendav/agendav): A CalDAV web client similar to Google Calendar
-* [TsinghuaDatabaseGroup/AIDB](https://github.com/TsinghuaDatabaseGroup/AIDB): ai4db and db4ai work
-* [Tinche/aiofiles](https://github.com/Tinche/aiofiles): File support for asyncio
-* [YunYouJun/air-conditioner](https://github.com/YunYouJun/air-conditioner): ❄️ Yun Portable Air Conditoner. 云空调，便携小空调，为你的夏日带去清凉！
-* [akiraux/Akira](https://github.com/akiraux/Akira): Native Linux App for UI and UX Design built in Vala and GTK
-* [alacritty/alacritty](https://github.com/alacritty/alacritty): A cross-platform, OpenGL terminal emulator.
-* [albertlauncher/albert](https://github.com/albertlauncher/albert): A fast and flexible keyboard launcher
-* [dense-analysis/ale](https://github.com/dense-analysis/ale): Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support
-* [Dev-XYS/Algorithms](https://github.com/Dev-XYS/Algorithms): 全面的算法代码仓库
-* [jeffgerickson/algorithms](https://github.com/jeffgerickson/algorithms): Bug-tracking for Jeff's algorithms book, notes, etc.
-* [alist-org/alist](https://github.com/alist-org/alist): 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
-* [messense/aliyundrive-fuse](https://github.com/messense/aliyundrive-fuse): 阿里云盘 FUSE 磁盘挂载
-* [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav): 阿里云盘 WebDAV 服务
-* [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS): A list of RSS related stuff: tools, services, communities and tutorials, etc.
+* [techgaun/active-forks](https://github.com/techgaun/active-forks): Find active github forks of a repo https://git.io/vSnrC
+* [easonwong-de/Adaptive-Tab-Bar-Colour](https://github.com/easonwong-de/Adaptive-Tab-Bar-Colour): Changes the colour of Firefox tab bar to match the website theme.
+* [AdAway/AdAway](https://github.com/AdAway/AdAway): AdAway is a free and open source ad blocker for Android. 
+* [robertocaldas/AdbInstallService](https://github.com/robertocaldas/AdbInstallService): Simple adb install APK Automator Service for Mac with Notification
+* [Yuki2718/adblock](https://github.com/Yuki2718/adblock): Personal filters and rules for AdGuard/uBlock Origin
+* [adblockultimate/AdBlocker-Ultimate-for-Browsers](https://github.com/adblockultimate/AdBlocker-Ultimate-for-Browsers): AdBlocker Ultimate for Browsers
+* [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast): Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
+* [evilpie/add-custom-search-engine](https://github.com/evilpie/add-custom-search-engine): Add a custom search engine to the list of available search engines in Firefox
+* [erichgoldman/add-url-to-window-title](https://github.com/erichgoldman/add-url-to-window-title): A Firefox addon which will put the web page address (URL) into the window's title. Useful for customizing KeePass's auto-type
+* [mozilla/addons-linter](https://github.com/mozilla/addons-linter): 🔍 Firefox Add-ons linter, written in JavaScript. 👁
+* [himanshukumar660/Address-Validation](https://github.com/himanshukumar660/Address-Validation): This is a website where user can perform Address Verification.
+* [mkoryak/address-validator](https://github.com/mkoryak/address-validator): nodejs address validator via google api
+* [DandelionSprout/adfilt](https://github.com/DandelionSprout/adfilt): The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.
+* [AdguardTeam/AdGuardForSafari](https://github.com/AdguardTeam/AdGuardForSafari): AdGuard for Safari app extension
+* [CleanMachine1/AdlistTXTS](https://github.com/CleanMachine1/AdlistTXTS): A repository dedicated to mirroring some block-lists into 1 file for ease of use
+* [chiumax/adobe-font-scraper](https://github.com/chiumax/adobe-font-scraper): 💢 don't have adobe plan and want their fonts? no need to worry! download from us ;)
+* [baileylatimer/adobe-illustrator](https://github.com/baileylatimer/adobe-illustrator): None
+* [Drovosek01/adobe-packager](https://github.com/Drovosek01/adobe-packager): Script that allows to download portable installers of different versions Adobe software for macOS
+* [adsbypasser/adsbypasser](https://github.com/adsbypasser/adsbypasser): Bypass ad counter if possible.
+* [adsbypasser/adsbypasser.github.io](https://github.com/adsbypasser/adsbypasser.github.io): None
+* [polywock/advanced-image-search](https://github.com/polywock/advanced-image-search): An extension to search Google images. 
+* [cipher387/Advanced-search-operators-list](https://github.com/cipher387/Advanced-search-operators-list): List of the links to the docs for different services, which explain using of advanced search operators
+* [117649/AdvancedLocationbar2](https://github.com/117649/AdvancedLocationbar2): None
+* [Czarto/Adwords-Scripts](https://github.com/Czarto/Adwords-Scripts): Google Ads Bidding scripts
+* [piroor/aggregate-tabs-to-main-window](https://github.com/piroor/aggregate-tabs-to-main-window): Aggregate new tabs to a window which has most many tabs and largest size.
+* [canalnoises/AirDrop-Shortcut](https://github.com/canalnoises/AirDrop-Shortcut): A script to select AirDrop from Finder's Share menu. Assign to a keyboard shortcut for quick AirDropping.
+* [Airmail/AirmailPlugIn-Framework](https://github.com/Airmail/AirmailPlugIn-Framework): None
+* [xwmx/airport](https://github.com/xwmx/airport): A command line / terminal tool for Wi-Fi on macOS / OS X.
+* [ajrosen/Alfred](https://github.com/ajrosen/Alfred): Alfred workflows
+* [kkanzelmeyer/alfred](https://github.com/kkanzelmeyer/alfred): Raspberry pi webcam and motion sensor project
+* [kevin-funderburg/alfred-bettertouchtool-gestures](https://github.com/kevin-funderburg/alfred-bettertouchtool-gestures): Use Alfred to quickly search through all the trackpad gestures within BetterTouchTool
+* [trietsch/alfred-bluetooth-connector](https://github.com/trietsch/alfred-bluetooth-connector): Alfred workflow for listing known Bluetooth devices and (dis)connecting to them -> NOT MAINTAINED ANYMORE, work is merged into https://github.com/tilmanginzel/alfred-bluetooth-workflow
+* [tilmanginzel/alfred-bluetooth-workflow](https://github.com/tilmanginzel/alfred-bluetooth-workflow): Yet another Alfred workflow to connect / disconnect Bluetooth devices
+* [CacherApp/alfred-cacher](https://github.com/CacherApp/alfred-cacher): Alfred workflow for finding a Cacher snippet.
+* [msoedov/Alfred-collection](https://github.com/msoedov/Alfred-collection): A collection of all known Alfred3 workflows
+* [deanishe/alfred-convert](https://github.com/deanishe/alfred-convert): Convert between different units in Alfred
+* [azai91/alfred-drive-workflow](https://github.com/azai91/alfred-drive-workflow): Alfred workflow to search google drive
+* [deanishe/alfred-firefox](https://github.com/deanishe/alfred-firefox): Search and control Firefox from Alfred
+* [edgarjs/alfred-github-repos](https://github.com/edgarjs/alfred-github-repos): Alfred workflow to easily open Github repositories
+* [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow): GitHub Workflow for Alfred 4
+* [aviaryan/alfred-last2imgur](https://github.com/aviaryan/alfred-last2imgur): Alfred workflow to upload the last screenshot taken to Imgur + (delete and minify image)
+* [nikitavoloboev/alfred-my-mind](https://github.com/nikitavoloboev/alfred-my-mind): Alfred workflow to search through my notes and bookmarks
+* [kostyafarber/alfred-notable-workflow](https://github.com/kostyafarber/alfred-notable-workflow): Search, open and make notes from Alfred 5 in Notable 📓
+* [otherguy/alfred-passwords-workflow](https://github.com/otherguy/alfred-passwords-workflow): An Alfred 4 workflow that allows you to quickly generate strong passwords.
+* [fniephaus/alfred-pocket](https://github.com/fniephaus/alfred-pocket): Manage your Pocket list with Alfred
+* [cj1128/alfred-qrcode-workflow](https://github.com/cj1128/alfred-qrcode-workflow): 🎉 Generate/Scan QR Code on the fly
+* [surrealroad/alfred-reminders](https://github.com/surrealroad/alfred-reminders): Manages reminders in Reminders.app
+* [sballin/alfred-search-notes-app](https://github.com/sballin/alfred-search-notes-app): Use Alfred to quickly open notes in iCloud/Apple Notes.
+* [deanishe/alfred-smartfolders](https://github.com/deanishe/alfred-smartfolders): Quick access to your Smart Folders (Saved Searches) from Alfred
+* [dkarter/alfred-switch-audio](https://github.com/dkarter/alfred-switch-audio): 🔊 Switch Audio Output/Input with Alfred
+* [pawelgrzybek/alfred-text-manipulation](https://github.com/pawelgrzybek/alfred-text-manipulation): None
+* [chrismessina/alfred-theme-chirp](https://github.com/chrismessina/alfred-theme-chirp): Themes inspired by Twitter's new font, Chirp
+* [xilopaint/alfred-things](https://github.com/xilopaint/alfred-things): Interact with Things using Alfred.
+* [onury/alfred-video-downloader](https://github.com/onury/alfred-video-downloader): Video Downloader is an Alfred workflow written in Bash/Shell for easily downloading videos (and/or extracting audio) from various websites such as YouTube, Vimeo, DailyMotion and more...
+* [ikedaosushi/alfred-wf-music-dl](https://github.com/ikedaosushi/alfred-wf-music-dl): A Alfred workflow that download Spotify, Youtube, SoundCloud, Bandcamp Musics
+* [deanishe/alfred-workflow](https://github.com/deanishe/alfred-workflow): Full-featured library for writing Alfred 3 & 4 workflows
+* [Stephen-Lon/Alfred-workflow-open-macos-settings-panes](https://github.com/Stephen-Lon/Alfred-workflow-open-macos-settings-panes): Open macOS Settings Panes from list
+* [alanhg/alfred-workflows](https://github.com/alanhg/alfred-workflows): Save time, Improve life.🚀  ☕️ 💻
+* [learn-anything/alfred-workflows](https://github.com/learn-anything/alfred-workflows): Amazing Alfred Workflows
+* [rknightuk/alfred-workflows](https://github.com/rknightuk/alfred-workflows): My Alfred Workflows
+* [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows): Collection of Alfred workflows
+* [zeitlings/alfred-workflows](https://github.com/zeitlings/alfred-workflows): Collected Alfred Workflows & Proofs of Concept
+* [jenslys/alfred-youtube-downloader](https://github.com/jenslys/alfred-youtube-downloader): Alfred Workflow to download YouTube videos
+* [simonbs/alfred-youtube-workflow](https://github.com/simonbs/alfred-youtube-workflow): A workflow for Alfred 2.0 which lets the user search for YouTube videos and have them returned to Alfred.
+* [willfarrell/alfred-youtube-workflow](https://github.com/willfarrell/alfred-youtube-workflow): Search and Download YouTube Videos
+* [raleycs/alfred-ytsuggest](https://github.com/raleycs/alfred-ytsuggest): Alfred Workflow to get search suggestions from YouTube.
+* [mandrigin/AlfredSwitchWindows](https://github.com/mandrigin/AlfredSwitchWindows): An application for using in Alfred workflow to enumerate and switch between windows on OSX.
+* [thepante/alfs-firefox](https://github.com/thepante/alfs-firefox): Always Loaded Floating Sidebar it's a small modification for Firefox
+* [sindresorhus/alfy](https://github.com/sindresorhus/alfy): Create Alfred workflows with ease
+* [djui/alias-tips](https://github.com/djui/alias-tips): An oh-my-zsh plugin to help remembering those aliases you defined once
+* [lunu-bounir/allow-right-click](https://github.com/lunu-bounir/allow-right-click): A browser extension to release right-click context menu blockage
+* [AllToMP3/alltomp3-app](https://github.com/AllToMP3/alltomp3-app): Download and Convert YouTube, SoundCloud & Spotify in MP3 with full tags (title, artist, genre, cover, lyrics 🔥)
+* [dnomd343/alltube-docker](https://github.com/dnomd343/alltube-docker): Docker of AllTube Download
+* [Godiesc/AlpenBlue](https://github.com/Godiesc/AlpenBlue): Theme to blue lovers
+* [shredthaGNAR/AlpenBr0-firefox-theme](https://github.com/shredthaGNAR/AlpenBr0-firefox-theme): Alpenfox custom theme eith glowing gradient active tab and gradient to transparent hover plus other mods. Use with firefox alpenglow for look in pics or use default dark/light for transparent theme with cool look.
+* [marcel8121/alpenglow-thunderbird](https://github.com/marcel8121/alpenglow-thunderbird): The Firefox "Alpenglow" Theme for Thunderbird.
 * [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos): Windows alt-tab on macOS 
-* [altair-graphql/altair](https://github.com/altair-graphql/altair): ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
-* [FascodeNet/alterlinux](https://github.com/FascodeNet/alterlinux): Alter Linux - ArchLinux-derived OS made in Japan aimed at being usable by anyone
-* [zealotCE/America-Against-America](https://github.com/zealotCE/America-Against-America): 《美国反对美国》是王沪宁先生在上世纪80年代末赴美观察写作的。我们知道在那个年代中国对西方特别是美国的追捧有多高，所以突然看到一个学者在80年代就有如此清楚的认识，十分钦佩。由于网上只有效果很差的PDF扫描版，所以我想利用OCR技术和肉眼（人体OCR）来转成现代化的文本格式。目前已经全部完成。
-* [anbox/anbox](https://github.com/anbox/anbox): Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system 
-* [Rprop/And64InlineHook](https://github.com/Rprop/And64InlineHook): Lightweight ARMv8-A(ARM64, AArch64, Little-Endian) Inline Hook Library for Android C/C++
-* [koral--/android-gif-drawable](https://github.com/koral--/android-gif-drawable): Views and Drawable for displaying animated GIFs on Android
-* [bytedance/android-inline-hook](https://github.com/bytedance/android-inline-hook): :fire: ShadowHook is an Android inline hook library which supports thumb, arm32 and arm64.
-* [ele7enxxh/Android-Inline-Hook](https://github.com/ele7enxxh/Android-Inline-Hook): thumb16 thumb32 arm32 inlineHook in Android
-* [android-password-store/Android-Password-Store](https://github.com/android-password-store/Android-Password-Store): Android application compatible with ZX2C4's Pass command line application
-* [M0Rf30/android-udev-rules](https://github.com/M0Rf30/android-udev-rules): Android udev rules list aimed to be the most comprehensive on the net
-* [xiaomi-sdm660/android_device_xiaomi_clover](https://github.com/xiaomi-sdm660/android_device_xiaomi_clover): None
-* [androidannotations/androidannotations](https://github.com/androidannotations/androidannotations): Fast Android Development. Easy maintainance.
-* [fankes/AndroidNotifyIconAdapt](https://github.com/fankes/AndroidNotifyIconAdapt): 这是一个在线规则平台，为国内 Android 不规范的 APP 和厂商适配原生通知图标与规范图标修复
-* [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books): Anime Girls Holding Programming Books
-* [TachibanaYoshino/AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2): [Open Source].  The improved version of AnimeGAN. Landscape photos/videos to anime
-* [TachibanaYoshino/AnimeGANv3](https://github.com/TachibanaYoshino/AnimeGANv3): Use AnimeGANv3 to make your own animation works, including turning photos or videos into anime.
-* [drudru/ansi_up](https://github.com/drudru/ansi_up): A javascript library that converts text with ANSI terminal codes into colorful HTML Zero dependencies.
-* [ansible/ansible](https://github.com/ansible/ansible): Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
-* [PyratLabs/ansible-role-k3s](https://github.com/PyratLabs/ansible-role-k3s): Ansible role for installing k3s as either a standalone server or HA cluster.
-* [geerlingguy/ansible-role-k8s_manifests](https://github.com/geerlingguy/ansible-role-k8s_manifests): Ansible Role - K8s Manifests
-* [githubixx/ansible-role-wireguard](https://github.com/githubixx/ansible-role-wireguard): Ansible role for installing WireGuard VPN. Supports Ubuntu, Debian, Archlinx, Fedora and CentOS.
-* [evrardjp/ansible-tinc](https://github.com/evrardjp/ansible-tinc): Role to install tinc in a star/ring topology (w/ leaf/spine) (based on your variables)
-* [andrewrothstein/ansible-velero](https://github.com/andrewrothstein/ansible-velero): None
-* [sleighzy/ansible-zookeeper](https://github.com/sleighzy/ansible-zookeeper): Ansible role for installing and configuring Apache ZooKeeper
-* [EliverLara/Ant](https://github.com/EliverLara/Ant): :ant:  A flat and light theme with a modern look
-* [ant-design/ant-design-charts](https://github.com/ant-design/ant-design-charts): A React Chart Library
-* [KaitoHH/AnyCodeToBmp](https://github.com/KaitoHH/AnyCodeToBmp): None
-* [japila-books/apache-spark-internals](https://github.com/japila-books/apache-spark-internals): The Internals of Apache Spark
-* [wechat-miniprogram/api-typings](https://github.com/wechat-miniprogram/api-typings): Type definitions for APIs of Wechat Mini Program in TypeScript
-* [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11): Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
-* [ApostropheEditor/Apostrophe](https://github.com/ApostropheEditor/Apostrophe): Mirror of
-* [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit): Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.chat
-* [Dr-TSNG/ApplistDetector](https://github.com/Dr-TSNG/ApplistDetector): A library to detect suspicious apps like Magisk
-* [agronholm/apscheduler](https://github.com/agronholm/apscheduler): Task scheduling library for Python
-* [dginev/ar5iv](https://github.com/dginev/ar5iv): A web service offering HTML5 articles from arXiv.org as converted with latexml
-* [horst3180/arc-icon-theme](https://github.com/horst3180/arc-icon-theme): None
-* [arc-design/arc-theme](https://github.com/arc-design/arc-theme): A flat theme with transparent elements
-* [jnsh/arc-theme](https://github.com/jnsh/arc-theme): A flat theme with transparent elements (actively maintained fork)
-* [RobertCsordas/arch-efiboot](https://github.com/RobertCsordas/arch-efiboot): Boot EFISTUB linux kernels on UEFI systems not supporting kernel command line
-* [nakanomikuorg/arch-guide](https://github.com/nakanomikuorg/arch-guide): ✨ archlinux 简明指南 | 本指南包含从 archlinux 安装、显卡驱动、日常软件配置、多媒体制作、编程等你可能需要的全部内容 | 提供在线文档 ✨
-* [berberman/arch-hs](https://github.com/berberman/arch-hs): Distribute hackage packages to archlinux
-* [RaphaelRochet/arch-update](https://github.com/RaphaelRochet/arch-update): Update indicator for ArchLinux and Gnome-Shell
-* [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome): 后端架构师技术图谱
-* [Arduino-IRremote/Arduino-IRremote](https://github.com/Arduino-IRremote/Arduino-IRremote): Infrared remote library for Arduino: send and receive infrared signals with multiple protocols
-* [ALawating-Rex/AreaAndBanks](https://github.com/ALawating-Rex/AreaAndBanks): 中国省市区以及银行和银行支行等数据
-* [mayswind/AriaNg](https://github.com/mayswind/AriaNg): AriaNg, a modern web frontend making aria2 easier to use.
-* [apache/arrow](https://github.com/apache/arrow): Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing
-* [arrow-py/arrow](https://github.com/arrow-py/arrow): 🏹 Better dates & times for Python
-* [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion): Apache Arrow DataFusion SQL Query Engine
-* [hackergrrl/art-of-readme](https://github.com/hackergrrl/art-of-readme): :love_letter: Things I've learned about writing good READMEs.
-* [AsahiLinux/AsahiLinux.github.io](https://github.com/AsahiLinux/AsahiLinux.github.io): AsahiLinux.org website
-* [hermanTenuki/ASCII-Generator.site](https://github.com/hermanTenuki/ASCII-Generator.site): Django website for generating ASCII-arts out of images or text 🎨
-* [asciinema/asciinema](https://github.com/asciinema/asciinema): Terminal session recorder 📹
-* [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore): ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
-* [mmacneil/ASPNetCoreGraphQL](https://github.com/mmacneil/ASPNetCoreGraphQL): Sample project demonstrating a GraphQL service built with ASP.NET Core 2.2, Entity Framework Core and graphql-dotnet.
-* [astroturfcss/astroturf](https://github.com/astroturfcss/astroturf): Better Styling through Compiling: CSS-in-JS for those that want it all.
-* [isaacs/async-cache](https://github.com/isaacs/async-cache): Cache your async lookups and don't fetch the same thing more than necessary.
-* [alibaba/async_simple](https://github.com/alibaba/async_simple): Simple, light-weight and easy-to-use asynchronous components 
-* [netcan/asyncio](https://github.com/netcan/asyncio): asyncio is a c++20 library to write concurrent code using the async/await syntax.
-* [skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim): :rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!
-* [kvalo/ath11k-firmware](https://github.com/kvalo/ath11k-firmware): Firmware files for ath11k, a mac80211 driver for Qualcomm Technologies 802.11ax devices
-* [ariga/atlas](https://github.com/ariga/atlas): A modern tool for managing database schemas
-* [emedvedev/attention-ocr](https://github.com/emedvedev/attention-ocr): A Tensorflow model for text recognition (CNN + seq2seq with visual attention) available as a Python package and compatible with Google Cloud ML Engine.
-* [eli-schwartz/aurpublish](https://github.com/eli-schwartz/aurpublish): PKGBUILD management framework for the Arch User Repository
-* [qor/auth](https://github.com/qor/auth): Golang Authentication solution
-* [volatiletech/authboss](https://github.com/volatiletech/authboss): The boss of http auth.
-* [keratin/authn-server](https://github.com/keratin/authn-server): Authentication service that keeps you in control without forcing you to be an expert in web security.
-* [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi): AutoBangumi - 全自动追番工具
-* [google/autocxx](https://github.com/google/autocxx): Tool for safe ergonomic Rust/C++ interop driven from existing C++ headers
-* [uber/AutoDispose](https://github.com/uber/AutoDispose): Automatic binding+disposal of RxJava streams.
-* [AutoMapper/AutoMapper](https://github.com/AutoMapper/AutoMapper): A convention-based object-object mapper in .NET. 
-* [AutoMapper/AutoMapper.Extensions.Microsoft.DependencyInjection](https://github.com/AutoMapper/AutoMapper.Extensions.Microsoft.DependencyInjection): None
+* [steventheworker/alt-tab-macos](https://github.com/steventheworker/alt-tab-macos): AltTab - scriptable branch
+* [altstoreio/AltStore](https://github.com/altstoreio/AltStore): AltStore is an alternative app store for non-jailbroken iOS devices.
+* [ryanpcmcquen/amatron](https://github.com/ryanpcmcquen/amatron): A cross-platform electron Amazon Cloud Drive app.
+* [BoolenBread/Amazon-Drive-Video-Stream-API](https://github.com/BoolenBread/Amazon-Drive-Video-Stream-API): Grabs direct mp4 link from amazon drive with filename and picture.
+* [elliotlepers/Amazon-Killer](https://github.com/elliotlepers/Amazon-Killer): Extension Chrome et Firefox pour chercher un livre sur Amazon et l'acheter dans une vraie librairie.
+* [Finickyflame/amazon-unsponsored](https://github.com/Finickyflame/amazon-unsponsored): Source for the browser extension to remove all sponsored links in amazon
+* [ianyh/Amethyst](https://github.com/ianyh/Amethyst): Automatic tiling window manager for macOS à la xmonad.
+* [amethyst/amethyst-starter-2d](https://github.com/amethyst/amethyst-starter-2d): Seed project for 2D games
+* [tlouth19/analyze.golf](https://github.com/tlouth19/analyze.golf): Browser based golf swing analyzer built with React, Redux, Tailwind and Konva.js. ⛳️🔥
+* [phosphor-icons/android](https://github.com/phosphor-icons/android): An elegant and sophisticated line icon pack to declutter your home screen.
+* [kevalpatel2106/android-ringtone-picker](https://github.com/kevalpatel2106/android-ringtone-picker): Simple Ringtone Picker dialog which allows you to pick different sounds from ringtone, alarm tone, notification tone and music from external storage.
+* [mrfaptastic/Android-WebCam](https://github.com/mrfaptastic/Android-WebCam): Reuse an old crap Android phone for a basic streaming webcam, or periodic photo capture and upload to an external webserver. Best for devices on really old Android versions: 4.0.4 etc.
+* [mortenjust/androidtool-mac](https://github.com/mortenjust/androidtool-mac): One-click screenshots, video recordings, app installation for iOS and Android
+* [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod): A podcast manager for Android
+* [amugofjava/anytime_podcast_player](https://github.com/amugofjava/anytime_podcast_player): Simple, easy to use Podcast player app written in Flutter and Dart.
+* [wulkano/Aperture](https://github.com/wulkano/Aperture): Record the screen on macOS
+* [amirgamil/apollo](https://github.com/amirgamil/apollo): A Unix-style personal search engine and web crawler for your digital footprint.
+* [xbrowsersync/app](https://github.com/xbrowsersync/app): xBrowserSync browser extensions / mobile app
+* [yiisoft/app](https://github.com/yiisoft/app): Yii3 application template
+* [kal247/App-bookmarks](https://github.com/kal247/App-bookmarks): Export browser bookmarks as plain text.
+* [doug-leith/appFirewall](https://github.com/doug-leith/appFirewall): A free, fully open-source application firewall for MAC OS High Sierra and later. Allows real-time monitoring of network connections being made by applications, and blocking/allowing of these per app by user. Supports use of hostname lists (Energized Blu etc) to block known tracker and advertising domains for all apps. Also allows blocking of all network connections for specified apps, blocking of all connections except for specified whitelisted connections, use of pre-configured lists of connections per app to allow/block etc.
+* [mjolnirapp/AppGrid](https://github.com/mjolnirapp/AppGrid): macOS window manager with Vim–like hotkeys
+* [aaronfreimark/Apple-ID-AppleScript](https://github.com/aaronfreimark/Apple-ID-AppleScript): AppleScript to programatically create Apple IDs
+* [revblaze/AppleMusicUltra](https://github.com/revblaze/AppleMusicUltra): Music Client for macOS. Upgrade your music experience with themes, styles, custom scripting and more. Uses WebKit and JavaScript.
+* [unforswearing/applescript](https://github.com/unforswearing/applescript): Applescript applets, snippets, resources, and links
+* [adriannier/applescript-functions](https://github.com/adriannier/applescript-functions): None
+* [BLXXDING/applescript-snippets](https://github.com/BLXXDING/applescript-snippets): Some Apple Script snippets I made over the years. Maybe it will help you.
+* [ChristoferK/AppleScriptive](https://github.com/ChristoferK/AppleScriptive): Functional AppleScripts operating out of Keyboard Maestro, Alfred and Automator to optimise productivity.
+* [Jmuccigr/AppleScripts](https://github.com/Jmuccigr/AppleScripts): Handy AppleScripts I use
+* [abbeycode/AppleScripts](https://github.com/abbeycode/AppleScripts): My collection of scripts I've written over the years
+* [kevin-funderburg/AppleScripts](https://github.com/kevin-funderburg/AppleScripts): My collection of AppleScripts I've developed or acquired over the years.
+* [nathan-artist/AppleScripts](https://github.com/nathan-artist/AppleScripts): AppleScripts for use with OS X / macOS
+* [steventheworker/applescripts](https://github.com/steventheworker/applescripts): This is where I keep my applescript's and BetterTouchTool configuration, and some apps/automation's I use.
+* [wafflesnatcha/AppleScripts](https://github.com/wafflesnatcha/AppleScripts): ~/Library/Scripts
+* [JT5D/AppleTree](https://github.com/JT5D/AppleTree): Applescripts, apps, services, droplets, actions & automator workflows grow abudant on this Apple Tree, some fruit made by me, while many come from Web tuts & altruist worker bees
+* [axross/aqua](https://github.com/axross/aqua):  ♠️ Beautiful iOS/Android poker odds calculator app made of Flutter.
+* [yuuiko/AquaTouch](https://github.com/yuuiko/AquaTouch): Dynamic Custom Macros for your MacBook TouchBar! (Supports 40+ Apps and Websites)
+* [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox): 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+* [aria2/aria2](https://github.com/aria2/aria2): aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+* [trmckay/article-export](https://github.com/trmckay/article-export): Export Pocket list as CSV!
+* [TKOxff/ASAP](https://github.com/TKOxff/ASAP): The Global Shortcuts for macOS, to launch any apps
+* [GSA/asis](https://github.com/GSA/asis): ASIS (Advanced Social Image Search) indexes Flickr and MRSS images and provides a search API across both indexes.
+* [withastro/astro](https://github.com/withastro/astro): The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
+* [ixartz/Astro-boilerplate](https://github.com/ixartz/Astro-boilerplate): 🚀 Astro boilerplate with responsive blog and portfolio template using TypeScript and React styled with Tailwind CSS ⚡️ Made with developer experience first: TypeScript + ESLint + Prettier + Husky + Lint-Staged + Commitlint + VSCode
+* [netlify-templates/astro-quickstart](https://github.com/netlify-templates/astro-quickstart): A bare-bones Astro template to get you deployed to Netlify fast!
+* [manuelernestog/astrofy](https://github.com/manuelernestog/astrofy): Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS. Create in minutes a website with Blog, CV, Project Section, Store and RSS Feed.
+* [surjithctly/astroship](https://github.com/surjithctly/astroship): Astroship is a starter template for startups, marketing websites, landing pages & blog. Built with Astro & TailwindCSS
+* [atom/atom](https://github.com/atom/atom): :atom: The hackable text editor
+* [Hann8n/Atom-for-Firefox](https://github.com/Hann8n/Atom-for-Firefox): Restores UI to default settings but keeps the translucency effects of FluidFox for MacOS
+* [nathanbuchar/atom-one-dark-terminal](https://github.com/nathanbuchar/atom-one-dark-terminal): A Terminal theme that mimics the One Dark theme made by the Atom team.
+* [sagars007/Australis-like-tabs-FF-ProtonUI-changes](https://github.com/sagars007/Australis-like-tabs-FF-ProtonUI-changes): Changes to make the new proton UI redesign in Firefox better; including australis tabs, compact mode, gradient accents in elements and much more
+* [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator): Authenticator generates 2-Step Verification codes in your browser.
+* [rNeomy/auto-tab-discard](https://github.com/rNeomy/auto-tab-discard): Use native tab discarding method to automatically reduce memory usage of inactive tabs
+* [ede1998/autoarchive](https://github.com/ede1998/autoarchive): Add an archiving button to thunderbird.
+* [withfig/autocomplete](https://github.com/withfig/autocomplete): IDE-style autocomplete for your existing terminal & shell
+* [withfig/autocomplete-tools](https://github.com/withfig/autocomplete-tools): Command line tools for working with Fig autocomplete specs
+* [shedaniel/AutoConfig](https://github.com/shedaniel/AutoConfig): Fork of Auto Config.
+* [thundernest/autoconfig](https://github.com/thundernest/autoconfig): The ISPDB, Thunderbird's database of mail configuration files.
+* [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq): Automatic headphone equalization from frequency responses
+* [synappser/AutoFocus](https://github.com/synappser/AutoFocus): A focus-follows-mouse implementation on steroids!
+* [wting/autojump](https://github.com/wting/autojump): A cd command that learns - easily navigate directories from the command line
+* [thirdinsight/AutoMarkFolderRead](https://github.com/thirdinsight/AutoMarkFolderRead): Thunderbird Addon to automatically mark folders (like junk) as read.
+* [alfredapp/automation-tasks](https://github.com/alfredapp/automation-tasks): Official Alfred Automation Tasks
+* [tcellerier/automator](https://github.com/tcellerier/automator): Mac OS Automator quick actions
+* [princelundgren/automator-collection](https://github.com/princelundgren/automator-collection): Various Automator and AppleScript workflow and scripts for simplifying life
+* [moosethegoose2213/automator-for-barrykn-micropatcher](https://github.com/moosethegoose2213/automator-for-barrykn-micropatcher): Automator for the BarryKN Micropatcher
+* [lawrenceting/Automator-Services-and-Workflows](https://github.com/lawrenceting/Automator-Services-and-Workflows): Automator Services and Workflows
+* [sparanoid/automator-workflows](https://github.com/sparanoid/automator-workflows): A collection of Automator workflows (services) that speed up your design / development process. Compatible with LaunchBar 6 actions
+* [yeutterg/automator-workflows](https://github.com/yeutterg/automator-workflows): MacOS Automator Workflows for PDFs, images, and more
+* [lhaeger/AutoRaise](https://github.com/lhaeger/AutoRaise): AutoRaise (and focus) a window when hovering over it with the mouse as a menubar app.
+* [sbmpost/AutoRaise](https://github.com/sbmpost/AutoRaise): AutoRaise (and focus) a window when hovering over it with the mouse
+* [Josua996/AutoTag](https://github.com/Josua996/AutoTag): A Thunderbird Add-on that automatically tag emails based on the sender address 🤖🏷
+* [tamcore/autoupdate-oh-my-zsh-plugins](https://github.com/tamcore/autoupdate-oh-my-zsh-plugins): Plugin for oh-my-zsh to automatically update custom-plugins
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of interesting topics
-* [newTendermint/awesome-bigdata](https://github.com/newTendermint/awesome-bigdata): A curated list of awesome big data frameworks, ressources and other awesomeness.
-* [HCLonely/awesome-bilibili-extra](https://github.com/HCLonely/awesome-bilibili-extra): 收集一些让我们在使用B站时更加方便的浏览器扩展/脚本/程序【周末更新】
-* [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering): A curated list of Chaos Engineering resources.
-* [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): This repo includes ChatGPT prompt curation to use ChatGPT better.
-* [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh): ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
-* [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci): List of Continuous Integration services
-* [ElaWorkshop/awesome-cn-cafe](https://github.com/ElaWorkshop/awesome-cn-cafe): A curated list of awesome coffee places for work in China.
-* [Blankj/awesome-comment](https://github.com/Blankj/awesome-comment): :boom: Funny comments
-* [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp): A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
-* [imarvinle/awesome-cs-books](https://github.com/imarvinle/awesome-cs-books): 🔥 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
-* [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto): A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
-* [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning): A list of learning materials to understand databases internals
-* [zhangysh1995/awesome-database-testing](https://github.com/zhangysh1995/awesome-database-testing): 数据库测试资料 This repo is a collection of resources on testing database systems
-* [numetriclabz/awesome-db](https://github.com/numetriclabz/awesome-db): A curated list of amazingly awesome database libraries, resources and shiny things by https://www.numetriclabz.com/
-* [huachaohuang/awesome-dbdev](https://github.com/huachaohuang/awesome-dbdev): Awesome materials about database development.
-* [gojek/awesome-distributed-systems](https://github.com/gojek/awesome-distributed-systems): Awesome list of distributed systems resources
-* [theanalyst/awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems): A curated list to learn about distributed systems
-* [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core): :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
-* [Kazhnuz/awesome-gnome](https://github.com/Kazhnuz/awesome-gnome): A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.
-* [avelino/awesome-go](https://github.com/avelino/awesome-go): A curated list of awesome Go frameworks, libraries and software
-* [youngwookim/awesome-hadoop](https://github.com/youngwookim/awesome-hadoop): A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources
-* [xiaoxiunique/awesome-IntelliJ-IDEA](https://github.com/xiaoxiunique/awesome-IntelliJ-IDEA): 收集一些 Intellij IDEA 的一些技巧
-* [HZFE/awesome-interview](https://github.com/HZFE/awesome-interview): 剑指前端 Offer
-* [dalinvip/Awesome-Law-NLP-Research-Work](https://github.com/dalinvip/Awesome-Law-NLP-Research-Work): Awesome Law NLP Research Work, Paper, Competition, Onlline System
-* [freereadorg/awesome-libgen](https://github.com/freereadorg/awesome-libgen): 😎 Awesome list of Library Genesis, the world's largest free library.
+* [sdras/awesome-actions](https://github.com/sdras/awesome-actions): A curated list of awesome actions to use on GitHub
+* [alfred-workflows/awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows): A curated list of awesome alfred workflows
+* [newTendermint/awesome-analytics](https://github.com/newTendermint/awesome-analytics): A curated list of analytics frameworks, software and other tools.
+* [one-aalam/awesome-astro](https://github.com/one-aalam/awesome-astro): Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.
+* [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github): A collection of awesome browser extensions for GitHub.
+* [awesome-css-group/awesome-css](https://github.com/awesome-css-group/awesome-css): :art: A curated contents of amazing CSS :)
+* [gztchan/awesome-design](https://github.com/gztchan/awesome-design): 🌟 Curated design resources from all over the world.
+* [klaufel/awesome-design-systems](https://github.com/klaufel/awesome-design-systems): 📒 A curated list of bookmarks, resources and articles about design systems focused on developers.
+* [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools): The best design tools and plugins for everything 👉
+* [prayash/awesome-gatsby](https://github.com/prayash/awesome-gatsby): ⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.
+* [ashfinal/awesome-hammerspoon](https://github.com/ashfinal/awesome-hammerspoon): awesome configuration for Hammerspoon.
+* [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant): A curated list of amazingly awesome Home Assistant resources.
+* [humanetech-community/awesome-humane-tech](https://github.com/humanetech-community/awesome-humane-tech): Promoting Solutions that Improve Wellbeing, Freedom and Society
+* [notlmn/awesome-icons](https://github.com/notlmn/awesome-icons): A curated list of awesome downloadable SVG/PNG/Font icon projects
+* [vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons): A curated list of awesome Web Font Icons
+* [Cyanhall/awesome-javascript](https://github.com/Cyanhall/awesome-javascript): Better Awesome JavaScript List with 🔥 Stars 🌐 Dependent Packages 📝 Last Commit
+* [kot-behemoth/awesome-joplin](https://github.com/kot-behemoth/awesome-joplin): 📒 A curated list of awesome Joplin themes and tools.
+* [HoMeCracKeR/awesome-mac](https://github.com/HoMeCracKeR/awesome-mac):  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 * [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac):  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 * [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS):   A curated list of awesome applications, softwares, tools and shiny things for macOS.
-* [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr): A curated list of nostr projects and resources  
+* [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos): A curated list of awesome software for Apple's macOS.
+* [yjose/awesome-new](https://github.com/yjose/awesome-new): A list of `.new` domains to perform online actions in one quick action.
+* [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint): :scream: A curated list of amazingly awesome OSINT
+* [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy): A curated list of awesome warez and piracy links
+* [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts): Collection of awesome podcasts
+* [apehex/awesome-poker](https://github.com/apehex/awesome-poker): :spades: :hearts: :clubs: :diamonds: A curated list of awesome poker resources & tools to improve your game.
 * [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy): Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
-* [enaqx/awesome-react](https://github.com/enaqx/awesome-react): A collection of awesome things regarding React ecosystem
-* [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components): Curated List of React Components & Libraries.
-* [resumejob/awesome-resume](https://github.com/resumejob/awesome-resume): Resume，Resume Templates，程序员简历例句，简历模版，
-* [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese): :page_facing_up: 适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 @hoochanlon 维护
-* [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing): A curated list of awesome tools and technology to help you out with ricing on linux
-* [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted): A list of Free Software network services and web applications which can be hosted on your own servers
-* [deapplization/awesome-switching](https://github.com/deapplization/awesome-switching): switching from the *pple ecosystem to Windows / Linux / Android or BSD
-* [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips): None
-* [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS): [maintainer wanted] 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.
-* [vala-lang/awesome-vala](https://github.com/vala-lang/awesome-vala): A curated list of Vala projects
-* [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode): 🎨 A curated list of delightful VS Code packages and resources.
-* [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue): 🎉 A curated list of awesome things related to Vue.js
-* [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp): 微信小程序开发资源汇总 :100:
-* [aben1188/awesome-wepy](https://github.com/aben1188/awesome-wepy): Awesome for wepy ! 微信小程序组件化开发框架wepy开发资源汇总
-* [sirredbeard/Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL): Awesome list dedicated to Windows Subsystem for Linux
-* [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish): A curation of prompts, plugins & other Fish treasures 🐚💎
-* [axios/axios](https://github.com/axios/axios): Promise based HTTP client for the browser and node.js
-* [tleunen/babel-plugin-module-resolver](https://github.com/tleunen/babel-plugin-module-resolver): Custom module resolver plugin for Babel
-* [dgraph-io/badger](https://github.com/dgraph-io/badger): Fast key-value DB in Go.
-* [thetirefire/badidea](https://github.com/thetirefire/badidea): None
-* [b3log/baidu-netdisk-downloaderx](https://github.com/b3log/baidu-netdisk-downloaderx): ⚡️ 一款图形界面的百度网盘不限速下载器，支持 Windows、Linux 和 Mac。
-* [hellocodeM/baidu-wenku](https://github.com/hellocodeM/baidu-wenku): fetch the document for free
-* [sabre-io/Baikal](https://github.com/sabre-io/Baikal): Baïkal is a Calendar+Contacts server
-* [debauchee/barrier](https://github.com/debauchee/barrier): Open-source KVM software
-* [aarowill/base16-alacritty](https://github.com/aarowill/base16-alacritty): Base16 for Alacritty
-* [aarowill/base16-gnome-terminal](https://github.com/aarowill/base16-gnome-terminal): Base16 for Gnome Terminal
-* [tinted-theming/base16-termite](https://github.com/tinted-theming/base16-termite): None
-* [uber/baseweb](https://github.com/uber/baseweb): A React Component library implementing the Base design language
-* [frgomes/bash-scripts](https://github.com/frgomes/bash-scripts): A collection of useful shell scripts, for the lazy and impatient.
+* [o19s/awesome-search-relevance](https://github.com/o19s/awesome-search-relevance): Tools and other things for people who work on search relevance & information retrieval
+* [LeCoupa/awesome-shopify](https://github.com/LeCoupa/awesome-shopify): 👩‍🎓👨‍🎓 Must-read articles, videos and books for store owners, app and theme developers.
+* [julionc/awesome-shopify](https://github.com/julionc/awesome-shopify): 📌✨A curated list of awesome Shopify resources, libraries and open source projects.
+* [abhijithvijayan/awesome-stars](https://github.com/abhijithvijayan/awesome-stars): A curated list of my GitHub stars by stargazed
+* [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars): My Awesome List
+* [vintagesucks/awesome-stars](https://github.com/vintagesucks/awesome-stars): :star: A curated list of my GitHub stars
+* [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts): 📖  A curated list of Awesome Userscripts.
+* [lkrjangid1/Awesome-Warez](https://github.com/lkrjangid1/Awesome-Warez): All your base are belong to us!
+* [nicolesaidy/awesome-web-design](https://github.com/nicolesaidy/awesome-web-design): 🎨 A curated list of awesome resources for digital designers.
+* [fregante/Awesome-WebExtensions](https://github.com/fregante/Awesome-WebExtensions): A curated list of awesome resources for WebExtensions development.
+* [miziomon/awesome-wordpress](https://github.com/miziomon/awesome-wordpress): A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. Inspired by awesome-php. 
+* [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins): A collection of ZSH frameworks, plugins, themes and tutorials.
+* [jarmo/backpocket](https://github.com/jarmo/backpocket): Backpocket is a command line utility for storing a reading list of articles from the Internet to your local disk for the future. It's an alternative to Pocket offering all the required features without handing over all your private reading materials to any 3rd party.
+* [joshuachough/backupOneTab](https://github.com/joshuachough/backupOneTab): Back up and restore your OneTab Chrome extension data
+* [jameshealyio/bang-bookmarks](https://github.com/jameshealyio/bang-bookmarks): Replicate DuckDuckGo !bang's in Firefox using Keymarks!
+* [nathanchapman/bash-functions](https://github.com/nathanchapman/bash-functions): 🔮 A collection of useful Bash/ZSH functions
+* [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator): Customize your Bash Prompt by setting the PS1 variable.
+* [unixorn/Bash-Snippets](https://github.com/unixorn/Bash-Snippets): A collection of small bash scripts for heavy terminal users
 * [sharkdp/bat](https://github.com/sharkdp/bat): A cat(1) clone with wings.
-* [adi1090x/battery-wallpaper](https://github.com/adi1090x/battery-wallpaper): Simple bash script to set wallpaper according to battery percentage with charging animations.
-* [bazelbuild/bazel](https://github.com/bazelbuild/bazel): a fast, scalable, multi-language and extensible build system
-* [etcd-io/bbolt](https://github.com/etcd-io/bbolt): An embedded key/value database for Go.
-* [google/bbr](https://github.com/google/bbr): None
-* [iovisor/bcc](https://github.com/iovisor/bcc): BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
-* [beaudar/beaudar](https://github.com/beaudar/beaudar): 基于 GitHub issue 的轻量评论插件，Utterances 的中文版本
-* [ThinkParQ/beegfs-csi-driver](https://github.com/ThinkParQ/beegfs-csi-driver): The BeeGFS Container Storage Interface (CSI) driver provides high performing and scalable storage for workloads running in Kubernetes.
-* [zhanghai/BeeShell](https://github.com/zhanghai/BeeShell): Java REPL on Android with BeanShell
-* [cmu-db/benchbase](https://github.com/cmu-db/benchbase): Multi-DBMS SQL Benchmarking Framework via JDBC
-* [google/benchmark](https://github.com/google/benchmark): A microbenchmark support library
-* [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet): Powerful .NET library for benchmarking
-* [pingcap/benchmarksql](https://github.com/pingcap/benchmarksql): Unofficial mirror of benchmarksql on github
-* [berty/berty](https://github.com/berty/berty): Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-* [badafans/better-cloudflare-ip](https://github.com/badafans/better-cloudflare-ip): 查找适合自己当前网络环境的优选cloudflare anycast IP
-* [bettercap/bettercap](https://github.com/bettercap/bettercap): The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
-* [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner): Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
-* [bytedance/bhook](https://github.com/bytedance/bhook): :fire: ByteHook is an Android PLT hook library which supports armeabi-v7a, arm64-v8a, x86 and x86_64.
-* [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor): Open source, compact, and material designed cursor set.
-* [plk/biber](https://github.com/plk/biber): Backend processor for BibLaTeX
-* [plk/biblatex](https://github.com/plk/biblatex): biblatex is a sophisticated bibliography system for LaTeX users. It has considerably more features than traditional bibtex and supports UTF-8
-* [yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming): 哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
-* [transitive-bullshit/bing-chat](https://github.com/transitive-bullshit/bing-chat): Node.js client for Bing's new AI-powered search. It's like ChatGPT on steroids 🔥
-* [anaclumos/bing-chat-for-all-browsers](https://github.com/anaclumos/bing-chat-for-all-browsers): Enable Bing ChatGPT on Chrome and Firefox
-* [claytongulick/bit-sync](https://github.com/claytongulick/bit-sync): Bit-sync is a utility for synchronizing arbitrary data using the rsync algorithm in pure js
-* [camptocamp/bivac](https://github.com/camptocamp/bivac): 🏕 📦 Backup Interface for Volumes Attached to Containers
-* [BlackArch/blackarch](https://github.com/BlackArch/blackarch): An ArchLinux based distribution for penetration testers and security researchers.
-* [StackExchange/blackbox](https://github.com/StackExchange/blackbox): Safely store secrets in Git/Mercurial/Subversion
-* [texworld/blacktex](https://github.com/texworld/blacktex): :black_heart: Cleans up your LaTeX files.
-* [blaze-init/blaze](https://github.com/blaze-init/blaze): Blazing-fast query execution engine speaks Apache Spark language and has Arrow-DataFusion at its core.
-* [prinsss/blessing-skin-server](https://github.com/prinsss/blessing-skin-server): [OUTDATED, see @bs-community] A web application brings your custom skins back in offline Minecraft servers. (第三方 Minecraft 皮肤站)
-* [yzx9/blog](https://github.com/yzx9/blog): Celeste's blog.
-* [ccat3z/blog.ccat3z.xyz](https://github.com/ccat3z/blog.ccat3z.xyz): ❤ ccat3z's blog
-* [jumper149/blugon](https://github.com/jumper149/blugon): simple and configurable Blue Light Filter for X
-* [ckissane/blur-me](https://github.com/ckissane/blur-me): Extension that adds a blur look to applications and to different parts of the GNOME Shell, including the top panel, dash and overview
-* [bchavez/Bogus](https://github.com/bchavez/Bogus): :card_index: A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
-* [boltdb/bolt](https://github.com/boltdb/bolt): An embedded key/value database for Go.
-* [rust-lang-cn/book-cn](https://github.com/rust-lang-cn/book-cn): Rust  程序设计语言 中文版——Chinese translation of The Rust Programming Language (Book)
-* [jadbox/BreezyTile](https://github.com/jadbox/BreezyTile): A clean tiling manager for gnome with drag-n-drop and gap support
+* [sabaatworld/batch-media-compressor](https://github.com/sabaatworld/batch-media-compressor): Compress your entire photo & video library and take it with you everywhere.
+* [beardedspice/beardedspice](https://github.com/beardedspice/beardedspice): Mac Media Keys for the Masses
+* [NicolaeNMV/BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay): One button to close any overlay on any website
+* [tomhaydn/BetArbit](https://github.com/tomhaydn/BetArbit): Sports betting arbitrage algorithm
+* [dashee87/betScrapeR](https://github.com/dashee87/betScrapeR): R package to scrape live sports betting odds
+* [aligo/better-google](https://github.com/aligo/better-google): Userscript to Better (or Older and Good) Google
+* [cnwangjie/better-onetab](https://github.com/cnwangjie/better-onetab): :bookmark_tabs: A better OneTab for Chrome  :memo: Temporarily removed from firefox :construction: V2 is WIP
+* [structunit/better-onetab](https://github.com/structunit/better-onetab): :bookmark_tabs: A better OneTab for Chrome (Temporarily removed from firefox & without maintain in a period & any cooperative purpose are welcome)
+* [wlor0623/better-onetab](https://github.com/wlor0623/better-onetab): :bookmark_tabs: A better OneTab for Chrome  :memo: Temporarily removed from firefox :construction: V2 is WIP
+* [cnwangjie/better-onetab-sync-server](https://github.com/cnwangjie/better-onetab-sync-server): This is the sync server for better-onetab. Please don't submit PR to master directly.
+* [AnthonyRobertson17/better-touch-tool](https://github.com/AnthonyRobertson17/better-touch-tool): All of my personal better-touch-tool config files
+* [songhao/BetterAndBetter](https://github.com/songhao/BetterAndBetter): BetterAndBetter 是一款包含很多功能的 macOS 软件。
+* [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord): Better Discord enhances Discord desktop app with new features.
+* [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay): Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, virtual screens, PIP and lots more!
+* [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox): Firefox speed, privacy, and security: a user.js template for configuration. Your favorite browser, but better.
+* [AlickH/BetterTouchBar](https://github.com/AlickH/BetterTouchBar): Use BetterTouchTool to make TouchBar better.
+* [mkozjak/bettertouchtool](https://github.com/mkozjak/bettertouchtool): BetterTouchTool configuration
+* [SichangHe/BetterTouchTool-SLite-Preset](https://github.com/SichangHe/BetterTouchTool-SLite-Preset): SLite is a preset of BetterTouchTool inspired by GoldenChaos and many other presets. It is a light preset that is also neat. Try it and you'll know.
+* [ttscoff/BetterTouchTool-Widgets](https://github.com/ttscoff/BetterTouchTool-Widgets): None
+* [opentizen/bettertouchtool_apple_script](https://github.com/opentizen/bettertouchtool_apple_script): BettertouchTool Used User for AppleScript
+* [folivoraAI/BetterTouchToolPlugins](https://github.com/folivoraAI/BetterTouchToolPlugins): Development of BetterTouchTool Plugins
+* [abaj8494/bettertouchtools](https://github.com/abaj8494/bettertouchtools): None
+* [seanpquig/betting-odds-analyzer](https://github.com/seanpquig/betting-odds-analyzer): Analyze sports betting based on historical statistics and current odds
+* [barrykn/big-sur-micropatcher](https://github.com/barrykn/big-sur-micropatcher): A primitive USB patcher for installing macOS Big Sur on unsupported Macs
+* [StarPlayrX/bigmac](https://github.com/StarPlayrX/bigmac): Big Mac, macOS 11 Big Sur and macOS Monterey disk installer and back up tool for Intel based Macs
+* [garywill/BigSearch](https://github.com/garywill/BigSearch): Browser extension. Definitly more than a GET/POST sender. Handily use search engines via a Flexible Tool! UI has Vimium-like feature 🌐🔍 (Pure-client. No 3rd-party server needed) 大术专搜 既专又广 手敲几下 纵横去往
+* [jnsdrtlf/bitwarden-menubar](https://github.com/jnsdrtlf/bitwarden-menubar): Bitwarden in the macOS menu bar
+* [black7375/BlaCk-Void-Zsh](https://github.com/black7375/BlaCk-Void-Zsh): 🔮 Awesome, Customable Zsh Starter Kit 🌠🌠
+* [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird): An OSINT tool to search for accounts by username in social networks.
+* [danielmiessler/blackhat-arsenal-tools](https://github.com/danielmiessler/blackhat-arsenal-tools): Official Black Hat Arsenal Security Tools Repository
+* [anudeepND/blacklist](https://github.com/anudeepND/blacklist): Curated and well-maintained hostfile to block ads, tracking, cryptomining, and more! Updated regularly. ⚡🔒
+* [EnergizedProtection/block](https://github.com/EnergizedProtection/block): Let's make an annoyance free, better open internet, altogether!
+* [RickStrahl/BlogPosts](https://github.com/RickStrahl/BlogPosts): None
+* [Filip-Sutkowy/blurclean-firefox-theme](https://github.com/Filip-Sutkowy/blurclean-firefox-theme): Clean, transparent firefox theme
+* [skylineone044/blurclean-firefox-theme](https://github.com/skylineone044/blurclean-firefox-theme): Clean, transparent firefox theme
+* [TheBi11iona1re/BlurFox-CSS-for-Mac](https://github.com/TheBi11iona1re/BlurFox-CSS-for-Mac): Update  to manilarome's Blur Fox for mac only
+* [dwarvesf/blurred](https://github.com/dwarvesf/blurred): A macOS utility that helps reduce distraction by dimming your inactive noise
+* [eromatiya/blurredfox](https://github.com/eromatiya/blurredfox): A sleek, modern and elegant Firefox CSS theme
+* [iam4x/bobarr](https://github.com/iam4x/bobarr): 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
+* [TarekJor/bookmark-archiver](https://github.com/TarekJor/bookmark-archiver): 🗄 Save an archived copy of websites from Pocket/Pinboard/Bookmarks/RSS. Outputs HTML, PDFs, and more...
+* [MrOtherGuy/bookmark-batch-updater](https://github.com/MrOtherGuy/bookmark-batch-updater): A webextension tool to update multiple bookmarks at once
+* [Rob--W/bookmark-container-tab](https://github.com/Rob--W/bookmark-container-tab): Firefox add-on to add "Open in Container Tab" menu item to bookmark menus
+* [aaFn/Bookmark-search-plus-2](https://github.com/aaFn/Bookmark-search-plus-2): Displays and filters bookmarks on search string, show parent folders.  This is a Web Extension add-on version of the old "Bookmark search plus" XUL extension published by Alice0775, not working anymore in latest Firefox, and which was very useful.
+* [Kiuryy/Bookmark_Sidebar](https://github.com/Kiuryy/Bookmark_Sidebar): Browser extension, which adds a toggleable sidebar with all your bookmarks on the left or right side of your screen.
+* [last-arg/bookmark_with_pocket](https://github.com/last-arg/bookmark_with_pocket): Browser extension that adds bookmark to Pocket if rules allow it
+* [vaeth/bookmarkdupes](https://github.com/vaeth/bookmarkdupes): A WebExtension which can display/remove duplicate bookmarks or empty folders
+* [dudor/BookmarkHub](https://github.com/dudor/BookmarkHub): BookmarkHub , sync bookmarks across different browsers
+* [mems/bookmarklets-context-menu](https://github.com/mems/bookmarklets-context-menu): WebExtension allow to execute bookmarklets as privileged scripts
+* [CodeverDotDev/bookmarks](https://github.com/CodeverDotDev/bookmarks): :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.dev 
+* [aerobless/bookmarks](https://github.com/aerobless/bookmarks): Personal browser launch page. Made with static-marks.
+* [dyu/bookmarks](https://github.com/dyu/bookmarks): a simple self-hosted bookmarking app that can import bookmarks from delicious and chrome
+* [gietema/bookmarks](https://github.com/gietema/bookmarks): Script that syncs pocket to my bookmarks page
+* [brian-girko/bookmarks-commander](https://github.com/brian-girko/bookmarks-commander): A two-panel bookmarks manager which is similar to the well-known Total Commander.
+* [scraggo/bookmarks-markdown-utils](https://github.com/scraggo/bookmarks-markdown-utils): Collection of command-line tools for Chrome, OneTab, Evernote, and FireFox bookmark management. The tools are mostly to convert proprietary formats to markdown and organizing and add tags.
+* [cadeyrn/bookmarks-organizer](https://github.com/cadeyrn/bookmarks-organizer): With the Bookmarks Organizer it's easy to put order in your bookmarks. The Bookmarks Organizer finds no longer working bookmarks, redirects, duplicates and more!
+* [mabdelaal86/bookmarks_gkeep](https://github.com/mabdelaal86/bookmarks_gkeep): Copy bookmarks from Google Keep into Pocket/Instapaper
+* [Maxvien/bootstrap-shopify-theme](https://github.com/Maxvien/bootstrap-shopify-theme): 🛍 A free Shopify Theme built with Bootstrap, BEM, Liquid, Sass, ESNext, Theme Tools, ... and Webpack.
+* [dreadnaut/bordercolors-d](https://github.com/dreadnaut/bordercolors-d): A Thunderbird add-on to color-code the compose window based on the selected identity.
+* [fasilofficial/box-shadow-generator](https://github.com/fasilofficial/box-shadow-generator): This is a simple JavaScript project. Using this webpage, you can generate stylish box shadows for your webpages.
+* [lazarnarcis/box-shadow-generator](https://github.com/lazarnarcis/box-shadow-generator): You can use this web application to more easily generate Box Shadow CSS!
+* [madeas/box-shadows.css](https://github.com/madeas/box-shadows.css):  :pisces: A cross-browser collection of CSS box-shadows
+* [iposho/boxshadowru](https://github.com/iposho/boxshadowru): A box-shadow CSS generator that helps you quickly generate box-shadow CSS declarations for your website. Preview the result and copy the generated code to your website. No coding required!
+* [adobe/brackets](https://github.com/adobe/brackets): An open source code editor for the web, written in JavaScript, HTML and CSS.
+* [brackets-cont/brackets](https://github.com/brackets-cont/brackets): An open source code editor for the web, written in JavaScript, HTML and CSS.
+* [a-bentofreire/bracketstoix](https://github.com/a-bentofreire/bracketstoix): Brackets Utility Belt
 * [Homebrew/brew](https://github.com/Homebrew/brew): 🍺 The missing package manager for macOS (or Linux)
-* [brick-design/brick-design](https://github.com/brick-design/brick-design): 低代码框架，支持流式布局与自由布局拖拽编排，可视化拖拽、随意嵌套组合、实时渲染、实时辅助线展示、自由布局支持辅助对齐、支持自动吸附、实时组件间距展示、实时拖拽排序、状态域管理，可视化属性配置、可视化样式配置、多设备适配展示，支持逻辑渲染、模板字符变量、表达式、自定义方法、自定义状态
-* [browserpass/browserpass-extension](https://github.com/browserpass/browserpass-extension): Browserpass web extension
-* [browserpass/browserpass-native](https://github.com/browserpass/browserpass-native): Browserpass native client app
-* [mendsley/bsdiff](https://github.com/mendsley/bsdiff): bsdiff and bspatch are libraries for building and applying patches to binary files.
-* [digint/btrbk](https://github.com/digint/btrbk): Tool for creating snapshots and remote backups of btrfs subvolumes
-* [maharmstone/btrfs](https://github.com/maharmstone/btrfs): WinBtrfs - an open-source btrfs driver for Windows
-* [containers/bubblewrap](https://github.com/containers/bubblewrap): Low-level unprivileged sandboxing tool used by Flatpak and similar projects
-* [bloom-lang/bud](https://github.com/bloom-lang/bud): Prototype Bud runtime (Bloom Under Development)
-* [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang): A golang ebook intro how to build a web with golang
-* [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x): Master programming by recreating your favorite technologies from scratch.
-* [build2/build2](https://github.com/build2/build2): build2 build system
-* [ngaut/builddatabase](https://github.com/ngaut/builddatabase): Build a distributed SQL database from the ground up
-* [apache/buildstream](https://github.com/apache/buildstream): BuildStream, the software integration tool
-* [menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator):  Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
-* [Bumblebee-Project/Bumblebee](https://github.com/Bumblebee-Project/Bumblebee): Bumblebee daemon and client rewritten in C
-* [cmu-db/bustub](https://github.com/cmu-db/bustub): The BusTub Relational Database Management System (Educational)
-* [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop): :key: Cross-Platform Passwords & Secrets Vault
-* [ByConity/ByConity](https://github.com/ByConity/ByConity): ByConity is an open source cloud data warehouse
-* [dustinkirkland/byobu](https://github.com/dustinkirkland/byobu): git mirror of upstream bzr at http://launchpad.net/byobu
-* [kdlucas/byte-unixbench](https://github.com/kdlucas/byte-unixbench): Automatically exported from code.google.com/p/byte-unixbench
-* [bytebase/bytebase](https://github.com/bytebase/bytebase): World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering team.
-* [ByteLegend/ByteLegend](https://github.com/ByteLegend/ByteLegend): Enjoy programming while playing a game.
-* [KyelYang/c-plus-Interview](https://github.com/KyelYang/c-plus-Interview): None
-* [plantuml-stdlib/C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML): C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures
-* [greenpau/caddy-auth-portal](https://github.com/greenpau/caddy-auth-portal): Authentication Plugin for Caddy v2 implementing Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML Authentication. MFA with App Authenticators and Yubico.
-* [abiosoft/caddy-docker](https://github.com/abiosoft/caddy-docker): Docker container for Caddy
-* [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy): Caddy as a reverse proxy for Docker
-* [caj2pdf/caj2pdf](https://github.com/caj2pdf/caj2pdf): Convert CAJ (China Academic Journals) files to PDF. 转换中国知网 CAJ 格式文献为 PDF。佛系转换，成功与否，皆是玄学。
-* [kimwalisch/calculator](https://github.com/kimwalisch/calculator): C++ operator precedence parser
-* [huanghaibin-dev/CalendarView](https://github.com/huanghaibin-dev/CalendarView): Android上一个优雅、万能自定义UI、仿iOS、支持垂直、水平方向切换、支持周视图、自定义周起始、性能高效的日历控件，支持热插拔实现的UI定制！支持标记、自定义颜色、农历、自定义月视图各种显示模式等。Canvas绘制，速度快、占用内存低，你真的想不到日历居然还可以如此优雅！An elegant, highly customized and high-performance Calendar Widget on Android.
-* [fugary/calibre-douban](https://github.com/fugary/calibre-douban): Calibre new douban metadata source plugin. Douban no longer provides book APIs to the public, so it can only use web crawling to obtain data. This is a calibre Douban plugin based on web crawling.
-* [NAOSI-DLUT/Campus2024](https://github.com/NAOSI-DLUT/Campus2024): 2024届互联网校招信息汇总
-* [forthespada/CampusShame](https://github.com/forthespada/CampusShame): 互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想尽绵薄之力！
-* [keeferrourke/capitaine-cursors](https://github.com/keeferrourke/capitaine-cursors): An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to pair well with my icon pack, La Capitaine.
-* [capnproto/capnproto](https://github.com/capnproto/capnproto): Cap'n Proto serialization/RPC system - core tools and C++ library
-* [carbon-app/carbon](https://github.com/carbon-app/carbon): :black_heart: Create and share beautiful images of your source code
-* [killercup/cargo-edit](https://github.com/killercup/cargo-edit): A utility for managing cargo dependencies from the command line.
-* [apache/cassandra](https://github.com/apache/cassandra): Mirror of Apache Cassandra
-* [woutervdijke/CatGPT](https://github.com/woutervdijke/CatGPT): What if ChatGPT were a cat?
-* [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin): 😸 Soothing pastel theme for the high-spirited!
-* [karlstav/cava](https://github.com/karlstav/cava): Cross-platform Audio Visualizer
-* [tyru/caw.vim](https://github.com/tyru/caw.vim): Vim comment plugin: supported operator/non-operator mappings, repeatable by dot-command, 300+ filetypes
-* [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines): ⏰ Collaboratively track deadlines of conferences recommended by CCF (Website, Python Cli, Wechat Applet) / If you find it useful, please star this project, thanks~
-* [WenyanLiu/CCFrank4dblp](https://github.com/WenyanLiu/CCFrank4dblp): Displays the China Computer Federation (CCF) recommended rank of international conferences and journals in the dblp, Google Scholar, Connected Papers and and Web of Science search results.
-* [staticlibs/ccronexpr](https://github.com/staticlibs/ccronexpr): Cron expression parsing in ANSI C
-* [celery/celery](https://github.com/celery/celery): Distributed Task Queue (development branch)
-* [open-source-translation/celery-cn](https://github.com/open-source-translation/celery-cn): 🚀Celery中文手册
-* [studentmain/censor](https://github.com/studentmain/censor): 最好的敏感词过滤库
-* [google/centipede](https://github.com/google/centipede): None
-* [ceph/ceph](https://github.com/ceph/ceph): Ceph is a distributed object, block, and file storage platform 
-* [caddyserver/certmagic](https://github.com/caddyserver/certmagic): Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
-* [ms-jpq/chadtree](https://github.com/ms-jpq/chadtree): File manager for Neovim. Better than NERDTree.
-* [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh): A Chaos Engineering Platform for Kubernetes.
-* [bitnami/charts](https://github.com/bitnami/charts): Bitnami Helm Charts
-* [HorrorPills/ChatGPT-Gnome-Desktop-Extension](https://github.com/HorrorPills/ChatGPT-Gnome-Desktop-Extension): ChatGPT Gnome Desktop Extension | Talk with ChatGPT from your menubar!
-* [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox): Integrating ChatGPT into your browser deeply, everything you need is here
-* [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper): Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文全文总结+专业翻译+润色+审稿+审稿回复
-* [chdb-io/chdb](https://github.com/chdb-io/chdb): chDB is an embedded OLAP SQL Engine powered by ClickHouse
-* [cheat/cheat](https://github.com/cheat/cheat): cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
-* [chubin/cheat.sh](https://github.com/chubin/cheat.sh): the only cheat sheet you need
-* [chef/chef](https://github.com/chef/chef): Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
-* [twpayne/chezmoi](https://github.com/twpayne/chezmoi): Manage your dotfiles across multiple diverse machines, securely.
-* [rui314/chibicc](https://github.com/rui314/chibicc): A small C compiler
-* [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender): 中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅
-* [beiliangshizi/China_House](https://github.com/beiliangshizi/China_House): 中国买房相关资料和项目整理，方便查看，持续更新中...
-* [17mon/china_ip_list](https://github.com/17mon/china_ip_list): None
-* [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation): 中国程序员容易发音错误的单词
-* [DayBreak-u/chineseocr_lite](https://github.com/DayBreak-u/chineseocr_lite): 超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M 
-* [paulmillr/chokidar](https://github.com/paulmillr/chokidar): Minimal and efficient cross-platform file watching library
-* [theryangeary/choose](https://github.com/theryangeary/choose): A human-friendly and fast alternative to cut and (sometimes) awk
-* [XiaoMi/chronos](https://github.com/XiaoMi/chronos): Network service to provide globally strictly monotone increasing timestamp
-* [Haleydu/Cimoc](https://github.com/Haleydu/Cimoc): 漫画阅读器
-* [feilongfl/Cimoc](https://github.com/feilongfl/Cimoc): Android 平台在线漫画阅读器
-* [citusdata/citus](https://github.com/citusdata/citus): Distributed PostgreSQL as an extension
-* [civitai/civitai](https://github.com/civitai/civitai): A repository of models, textual inversions, and more
-* [Dreamacro/clash](https://github.com/Dreamacro/clash): A rule-based tunnel in Go.
-* [johnagan/clean-webpack-plugin](https://github.com/johnagan/clean-webpack-plugin): A webpack plugin to remove your build folder(s) before building
-* [httpie/cli](https://github.com/httpie/cli): 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-* [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse): ClickHouse® is a free analytics DBMS for big data
-* [Kyligence/ClickHouse](https://github.com/Kyligence/ClickHouse): ClickHouse® is a free analytics DBMS for big data
-* [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator): Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse clusters running on Kubernetes
-* [ClosedXML/ClosedXML](https://github.com/ClosedXML/ClosedXML): ClosedXML is a .NET library for reading, manipulating and writing Excel 2007+ (.xlsx, .xlsm) files. It aims to provide an intuitive and user-friendly interface to dealing with the underlying OpenXML API.
-* [cloudberrydb/cloudberrydb](https://github.com/cloudberrydb/cloudberrydb): Cloudberry Database - Next generation unified database for Analytics and AI
-* [caddy-dns/cloudflare](https://github.com/caddy-dns/cloudflare): Caddy module: dns.providers.cloudflare
-* [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns): 🎉🌩️ Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP!
-* [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest): 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
-* [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve): 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
-* [TGSAN/CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition): CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
-* [jamboree/co2](https://github.com/jamboree/co2): A C++ await/yield emulation library for stackless coroutine
-* [spf13/cobra](https://github.com/spf13/cobra): A Commander for modern Go CLI interactions
-* [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim): Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
-* [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach): CockroachDB - the open source, cloud-native distributed SQL database.
-* [WebFreak001/code-debug](https://github.com/WebFreak001/code-debug): Native debugging for VSCode
-* [VaibhavAcharya/code-gpt](https://github.com/VaibhavAcharya/code-gpt): Make sense of any code, anytime. 🚀
-* [coder/code-server](https://github.com/coder/code-server): VS Code in the browser
-* [PGYER/codefever](https://github.com/PGYER/codefever): CodeFever 是完全免费开源的 Git 代码托管服务，支持一行命令安装到自己服务器！CodeFever Community Edition (A Self-hosted Git Services)!
-* [vadimcn/codelldb](https://github.com/vadimcn/codelldb): A native debugger extension for VSCode based on LLDB
-* [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy): 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
-* [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university): A complete computer science study plan to become a software engineer.
-* [gookit/color](https://github.com/gookit/color): 🎨 Terminal color rendering library, support 8/16 colors, 256 colors, RGB color rendering output, support Print/Sprintf methods, compatible with Windows. GO CLI 控制台颜色渲染工具库，支持16色，256色，RGB色彩渲染输出，使用类似于 Print/Sprintf，兼容并支持 Windows 环境的色彩渲染
-* [tuberry/color-picker](https://github.com/tuberry/color-picker): Simple color picker for GNOME Shell.
-* [Magisk-Modules-Repo/com.piyushgarg.rclone](https://github.com/Magisk-Modules-Repo/com.piyushgarg.rclone): None
-* [flathub/com.valvesoftware.Steam](https://github.com/flathub/com.valvesoftware.Steam): None
-* [shannpersand/comic-shanns](https://github.com/shannpersand/comic-shanns): a classy font
-* [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint): 📓 Lint commit messages
-* [Suzie97/Communique](https://github.com/Suzie97/Communique): Featureful RSS Reader for elementary OS
-* [hanickadot/compile-time-regular-expressions](https://github.com/hanickadot/compile-time-regular-expressions): Compile Time Regular Expression in C++
-* [conan-io/conan](https://github.com/conan-io/conan): Conan - The open-source C and C++ package manager
-* [concourse/concourse](https://github.com/concourse/concourse): Concourse is a container-based continuous thing-doer written in Go.
-* [concourse/concourse-chart](https://github.com/concourse/concourse-chart): Helm chart to install Concourse
-* [mdb/concourse-webhook-resource](https://github.com/mdb/concourse-webhook-resource): A basic Concourse resource to perform HTTP requests against a configured URL
-* [komora-io/concurrent-map](https://github.com/komora-io/concurrent-map): lock-free B+ tree
-* [conda/conda-lock](https://github.com/conda/conda-lock): Lightweight lockfile for conda environments
-* [brndnmtthws/conky](https://github.com/brndnmtthws/conky): Light-weight system monitor for X, Wayland, and other things, too
-* [redpanda-data/console](https://github.com/redpanda-data/console): Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing consumer groups, and exploring real-time data with time-travel debugging.
-* [hashicorp/consul](https://github.com/hashicorp/consul): Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-* [Shougo/context_filetype.vim](https://github.com/Shougo/context_filetype.vim): Context filetype library for Vim script
-* [projectcontour/contour](https://github.com/projectcontour/contour): Contour is a Kubernetes ingress controller using Envoy proxy.
-* [YunYouJun/cook](https://github.com/YunYouJun/cook): 🍲 好的，今天我们来做菜！OK, Let's Cook!
-* [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term): A good looking terminal emulator which mimics the old cathode display...
-* [idealvin/coost](https://github.com/idealvin/coost): A tiny boost library in C++11.
-* [seblucas/cops](https://github.com/seblucas/cops): Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, ...)
-* [vuejs/core](https://github.com/vuejs/core): 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-* [JohanVanslembrouck/corolib](https://github.com/JohanVanslembrouck/corolib): A C++ coroutine library for asynchronous distributed applications
-* [corrosion-rs/corrosion](https://github.com/corrosion-rs/corrosion): Marrying Rust and CMake - Easy Rust and C/C++ Integration!
-* [jart/cosmopolitan](https://github.com/jart/cosmopolitan): build-once run-anywhere c library
-* [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings): C++那些事
-* [cpm-cmake/CPM.cmake](https://github.com/cpm-cmake/CPM.cmake): 📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.
-* [tip-of-the-week/cpp](https://github.com/tip-of-the-week/cpp): C++ Tip Of The Week
-* [mortennobel/cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet): Modern C++ Cheatsheet
-* [klc407073648/cpp-notes](https://github.com/klc407073648/cpp-notes): C++ 基础, 算法, 数据库,MySQL, ElasticSearch, Redis, 编程四大件, 微服务 , 中间件, ZeroMQ, 部署工具, Docker, k8s, Istio, Linux, , 实践|项目,  开源项目, 个人项目, 读书笔记, 面试题, 优质文章, 博客推荐...
-* [CnTransGroup/Cpp17TheCompleteGuideChinese](https://github.com/CnTransGroup/Cpp17TheCompleteGuideChinese): 《C++ 17 The Complete Guide》- 翻译中
-* [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines): The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
-* [cginternals/cppfs](https://github.com/cginternals/cppfs): Cross-platform C++ file system library supporting multiple backends
-* [balloonwj/CppGuide](https://github.com/balloonwj/CppGuide): C/C++学习，后端开发进阶指南。
-* [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights): C++ Insights - See your source code with the eyes of a compiler
-* [wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial): 中文的C++ Template的教学指南。与知名书籍C++ Templates不同，该系列教程将C++ Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中)
-* [wanghenshui/cppweeklynews](https://github.com/wanghenshui/cppweeklynews): c++中文周刊
-* [ept/crdt-website](https://github.com/ept/crdt-website): Source of the crdt.tech website
-* [facebook/create-react-app](https://github.com/facebook/create-react-app): Set up a modern web app by running one command.
-* [corbindavenport/creative-cloud-linux](https://github.com/corbindavenport/creative-cloud-linux): PlayOnLinux install script for Adobe Creative Cloud
-* [checkpoint-restore/criu](https://github.com/checkpoint-restore/criu): Checkpoint/Restore tool
-* [RoaringBitmap/CRoaring](https://github.com/RoaringBitmap/CRoaring): Roaring bitmaps in C (and C++), with SIMD (AVX2, AVX-512 and NEON) optimizations: used by Apache Doris, ClickHouse, and StarRocks
+* [brothersinvines/brothersinvines.github.io](https://github.com/brothersinvines/brothersinvines.github.io): None
+* [hoyang/browse-later](https://github.com/hoyang/browse-later): Browse later, a WebExtensions add-on.
+* [EnderDev/browser-chrome-experiment](https://github.com/EnderDev/browser-chrome-experiment): None
+* [fregante/browser-extension-template](https://github.com/fregante/browser-extension-template): 📕 Barebones boilerplate with Parcel 2, options handler and auto-publishing
+* [adi6409/browser-ff](https://github.com/adi6409/browser-ff): None
+* [Luzifer/browser-privacy](https://github.com/Luzifer/browser-privacy): List of filter rules for uBlock Origin to enhance the browsing privacy and replace Ghostery
+* [Zegnat/browserext-window-merger](https://github.com/Zegnat/browserext-window-merger): Merge specified browser windows into each other. Or all of them into one. Simply right click to open Firefox’s context menu when multiple windows are open, or configure a keyboard shortcut. All wrapped up in one tiny free extension.
+* [Worie/btt](https://github.com/Worie/btt): Low level MacOS management in JavaScript via BetterTouchTool
+* [wonjoonSeol/BTT-Aqua-modification](https://github.com/wonjoonSeol/BTT-Aqua-modification): Better Touch Tool AquaTouch Preset Modification
+* [andrewchidden/btt-controllers](https://github.com/andrewchidden/btt-controllers): Small controller scripts and utilities designed to work with BetterTouchTool.
+* [theachoem/btt-mac](https://github.com/theachoem/btt-mac): Better Touch Tool Preset for Touchbar
+* [jlehrer1/BTT-Practical](https://github.com/jlehrer1/BTT-Practical): A BetterTouchTool preset focused on a clean, minimalistic design for those interested in hardware stats and essential developer tools. 
+* [PINPAL/btt-preset](https://github.com/PINPAL/btt-preset): BetterTouchTool Preset
+* [andrewchidden/btt-presets](https://github.com/andrewchidden/btt-presets): A robust BetterTouchTool preset for developer power users.
+* [ChrisPenner/btt-quicknav](https://github.com/ChrisPenner/btt-quicknav): HTML overlay for quickly navigating your computer
+* [arthurdecloedt/BTT-scripts](https://github.com/arthurdecloedt/BTT-scripts): scripts used in my BTT config, some of these are adapted from other ones on the folivora community
+* [mkbabb/btt-scripts](https://github.com/mkbabb/btt-scripts): A collection of utility scripts for Better Touch Tool.
+* [dynle/btt-simple-airpods-battery-widget](https://github.com/dynle/btt-simple-airpods-battery-widget): Simple AirPods battery btt widget for macOS Ventura
+* [vas3k/btt-touchbar-presets](https://github.com/vas3k/btt-touchbar-presets): BetterTouchTool Touch Bar Presets
+* [elv1n/btt-window-manager-preset](https://github.com/elv1n/btt-window-manager-preset): BetterTouchTool Window Manager Preset
+* [noonchen/BTT_AppleWirelessHeadphone](https://github.com/noonchen/BTT_AppleWirelessHeadphone): Toggle and display battery info of apple wireless headphones on the touch bar
+* [noonchen/BTT_NightShiftSlider](https://github.com/noonchen/BTT_NightShiftSlider): A BetterTouchTool widget to control Night Shift strength
+* [ganapativs/bttn.css](https://github.com/ganapativs/bttn.css): Awesome buttons for awesome projects!
+* [revanced-apks/build-apps](https://github.com/revanced-apks/build-apps): The ReVanced APKs
+* [jarun/buku](https://github.com/jarun/buku): :bookmark: Personal mini-web in text
+* [EuanRiggans/BulkURLOpener](https://github.com/EuanRiggans/BulkURLOpener): Bulk URL Opener is an application that provides the user with multiple utilities to help with managing and using large amounts of urls
+* [caiogondim/bullet-train.zsh](https://github.com/caiogondim/bullet-train.zsh): :bullettrain_side: An oh-my-zsh shell theme based on the Powerline Vim plugin
+* [huynhr36/bundle-builder](https://github.com/huynhr36/bundle-builder): Looking to use the bundle builder on your Shopify site? Here's a sample code to utilize the app if you are looking to break down product variants as individual products.
+* [dessant/buster](https://github.com/dessant/buster): Captcha solver extension for humans, available for Chrome, Edge and Firefox
+* [sham00n/buster](https://github.com/sham00n/buster): An advanced tool for email reconnaissance
+* [loup-brun/buttons](https://github.com/loup-brun/buttons): A collection of CSS buttons.
+* [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome): Bypass Paywalls web browser extension for Chrome and Firefox.
+* [iamadamdev/bypass-paywalls-firefox](https://github.com/iamadamdev/bypass-paywalls-firefox): Bypass Paywalls for Firefox
+* [alextidalrise/bysofie-shipping-message](https://github.com/alextidalrise/bysofie-shipping-message): None
+* [brunophilipe/Cakebrew](https://github.com/brunophilipe/Cakebrew): Manage your Homebrew formulas with style using Cakebrew.
+* [shemeshg/cakebrewjs](https://github.com/shemeshg/cakebrewjs): Homebrew GUI App written in electron
+* [mattlag/California-Gothic](https://github.com/mattlag/California-Gothic): A typeface for California vexillographers 
+* [Neil-Lal/California-Lotto-Scratchers-EV](https://github.com/Neil-Lal/California-Lotto-Scratchers-EV): This project is to pull data from the California lotto website into a local MSSQL server.  This data is used to calculate and report on the EV of each lotto ticket.  The goal is to make statistically "smart" scratcher purchases.
+* [Protovision/calottery-scratchers](https://github.com/Protovision/calottery-scratchers): Web scraper for california lottery scratchers
+* [babldev/camera-cli](https://github.com/babldev/camera-cli): Configure your webcam via the command line
+* [Itaybre/CameraController](https://github.com/Itaybre/CameraController): 📷 Control USB Cameras from an app
+* [sindresorhus/caprine](https://github.com/sindresorhus/caprine): Elegant Facebook Messenger desktop app
+* [Vonng/Capslock](https://github.com/Vonng/Capslock): Make Capslock Great Again!
+* [suliveevil/Capslock](https://github.com/suliveevil/Capslock): ultimate macOS keyboard re-mapping
+* [miozus/CapslockMagic](https://github.com/miozus/CapslockMagic): Make Capslock Great Three! 
+* [cardrank/cardrank](https://github.com/cardrank/cardrank): Go types, funcs, and utilities for working with cards, decks, and evaluating poker hands (Holdem, Omaha, Stud, more)
+* [jacklukem/CatalinaOTAswufix](https://github.com/jacklukem/CatalinaOTAswufix): None
+* [cerpow/catapult](https://github.com/cerpow/catapult): Access your workspace on the fly.
+* [quiteconfused/CatImageInfo](https://github.com/quiteconfused/CatImageInfo): Image Recognition through known Social Media also known as "Search by Image or Google Goggles". Tools to dynamically identify and rename images based on image content in a directory or in a tcpdump'ish fashion
+* [CaptainN/cbyge](https://github.com/CaptainN/cbyge): Reverse engineering Cync (formerly "C by GE") WiFi devices
+* [robaston9/cbyge](https://github.com/robaston9/cbyge): Reverse engineering Cync (formerly "C by GE") WiFi devices
+* [unixpickle/cbyge](https://github.com/unixpickle/cbyge): Reverse engineering Cync (formerly "C by GE") WiFi devices
+* [CaptainN/cbyge2mqtt](https://github.com/CaptainN/cbyge2mqtt): None
+* [chriswayg/CC-Offline-Package-Generator](https://github.com/chriswayg/CC-Offline-Package-Generator): Adobe CC 2018 to 2022 Direct Download and Offline Installer Package Generator 
+* [cc-archive/ccsearch-browser-extension](https://github.com/cc-archive/ccsearch-browser-extension): [PROJECT TRANSFERRED] Cross-Browser extension to search, filter and use images in the public domain and under Creative Commons licenses.
+* [eaaasun/CCStopper](https://github.com/eaaasun/CCStopper): Stops Adobe's pesky background apps and more 😉
+* [w0lfschild/cDock](https://github.com/w0lfschild/cDock): :lollipop: Basic dock customization for macOS
+* [jbtule/cdto](https://github.com/jbtule/cdto): Finder Toolbar app to open the current directory in the Terminal
+* [sw-uci/cdto](https://github.com/sw-uci/cdto): Mac script used to open a terminal at the current Finder folder
+* [Adobe-CEP/CEP-Resources](https://github.com/Adobe-CEP/CEP-Resources): Tools and documentation for building Creative Cloud app extensions with CEP
+* [Godiesc/Chameleons-Beauty](https://github.com/Godiesc/Chameleons-Beauty): Adapted "Beautiful" Themes
+* [jscher2000/change-maximized-to-resizable](https://github.com/jscher2000/change-maximized-to-resizable): Firefox Extension to Change Maximized New Window to Resizable 
+* [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity): ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
+* [actions/checkout](https://github.com/actions/checkout): Action for checking out a repo
+* [adamschwartz/chrome-desaturate-favicons](https://github.com/adamschwartz/chrome-desaturate-favicons): Desaturate the favicons of all inactive tabs.
+* [foray1010/chrome-manifest-loader](https://github.com/foray1010/chrome-manifest-loader): Chrome manifest loader for webpack
+* [willbchang/chrome-read-later](https://github.com/willbchang/chrome-read-later): A temporary bookmark focuses on reading later, rather than closing and removing, with several Vim keybindings!
+* [elgervb/chrome-readinglist2](https://github.com/elgervb/chrome-readinglist2): None
+* [Noitidart/Chrome-Store-Foxified](https://github.com/Noitidart/Chrome-Store-Foxified): Point and click to install extensions into your browser from the AMO, Chrome Web Store, Microsoft Store, or Opera Addons websites.
+* [matthewfallshaw/chrome-window-management-scripts](https://github.com/matthewfallshaw/chrome-window-management-scripts): Chrome window and tab management scripts
+* [priyankchheda/chrome_password_grabber](https://github.com/priyankchheda/chrome_password_grabber): Get unencrypted 'Saved Password' from Google Chrome
+* [jimmyxu/circle](https://github.com/jimmyxu/circle): Logi Circle video downloader
+* [fajarjulyana/circular-nav-html-css-only](https://github.com/fajarjulyana/circular-nav-html-css-only): This is simple circular menu html CSS js
+* [tomas-hartman/clean-the-mess](https://github.com/tomas-hartman/clean-the-mess): WebExtension to make your tabs clean
+* [cli/cli](https://github.com/cli/cli): GitHub’s official command line tool
+* [PKxk8J/click-tab-move](https://github.com/PKxk8J/click-tab-move): タブ右クリックからタブを別のウインドウに送る Firefox アドオン 
+* [DevNurAlam/ClickableEmailSignatureDesign-2](https://github.com/DevNurAlam/ClickableEmailSignatureDesign-2): None
+* [pietervanheijningen/clickbait-remover-for-youtube](https://github.com/pietervanheijningen/clickbait-remover-for-youtube): Replaces thumbnails and modifies titles of videos on youtube.com
+* [Wilbird/clickToPrivate](https://github.com/Wilbird/clickToPrivate): Firefox add-on to open links or current page in private mode
+* [bitwarden/clients](https://github.com/bitwarden/clients): Bitwarden client applications (web, browser extension, desktop, and cli)
+* [xiaohk/clip2imgur](https://github.com/xiaohk/clip2imgur): A simple macOS command line tool for uploading your screenshots from clipboard to Imgur
+* [clipboard2file/clipboard2file](https://github.com/clipboard2file/clipboard2file): WebExtension for using images on the clipboard as files
+* [aecreations/clippings](https://github.com/aecreations/clippings): Clippings: an extension for Mozilla Firefox
+* [aecreations/clippings-tb](https://github.com/aecreations/clippings-tb): Clippings for Thunderbird
+* [Clipy/Clipy](https://github.com/Clipy/Clipy): Clipboard extension app for macOS.
+* [ian4hu/Clipy](https://github.com/ian4hu/Clipy): Clipboard extension app for macOS.
+* [webextensions/close-tab-by-double-right-click](https://github.com/webextensions/close-tab-by-double-right-click): Source code for Chrome/Firefox extension "Close Tab by Double Right Click"
+* [Aadil101/cloud](https://github.com/Aadil101/cloud): A clean storage management interface for Google Drive, Dropbox, Box, and OneDrive accounts.
+* [PHLAK/CloudDrop](https://github.com/PHLAK/CloudDrop): Store and retrieve files in cloud storage providers (i.e. Dropbox, Google Drive, Microsoft OneDrive, Amazon Cloud Drive, etc.)
+* [Micky1979/Clover-Configurator-Pro](https://github.com/Micky1979/Clover-Configurator-Pro): A free Plist Editor with some optional facilities for Clover UEFI boot loader
+* [johncoryk/coastal-shopify-theme](https://github.com/johncoryk/coastal-shopify-theme): Shopify theme for Low Coast Coffee
+* [lauthieb/code-notes](https://github.com/lauthieb/code-notes): (No longer maintained) A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
+* [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2): CodeGeeX2: A More Powerful Multilingual Code Generation Model
+* [CodeverDotDev/codever](https://github.com/CodeverDotDev/codever): Bookmarks, Snippets and Notes Manager for Developers & Co (website)
+* [CollectionBuilder/collectionbuilder-gh](https://github.com/CollectionBuilder/collectionbuilder-gh): a Jekyll project to create a basic digital collection exhibit. See Readme below for instructions to get started!
+* [iShopifyExpert/color-swatches-as-sepreate-products](https://github.com/iShopifyExpert/color-swatches-as-sepreate-products): None
+* [NickBodliev/Color-variants-collection](https://github.com/NickBodliev/Color-variants-collection): A collection template which will show all the color variations of the product as an individual product on the collection page
+* [w0lfschild/colorfulSidebar](https://github.com/w0lfschild/colorfulSidebar): :open_file_folder: MacForge plugin to add color back to the sidebar icons in Finder on macOS
+* [athityakumar/colorls](https://github.com/athityakumar/colorls): A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:
+* [DigiDNA/ColorSet](https://github.com/DigiDNA/ColorSet): ColorSet is a macOS utility and framework allowing developers to manage custom interface colors with ease.
+* [OsborneLabs/Columbia](https://github.com/OsborneLabs/Columbia): Columbia by Osborne · A comprehensive black hole for ads and analytics
+* [micz/ColumnsWizard](https://github.com/micz/ColumnsWizard): This is a Thunderbird addon that adds some magic to the folder list columns. Check the addon website for more info...
+* [claustromaniac/Compare-UserJS](https://github.com/claustromaniac/Compare-UserJS): PowerShell script for comparing user.js (or prefs.js) files.
+* [timhettler/compass-photoshop-gradient-overlay](https://github.com/timhettler/compass-photoshop-gradient-overlay): A compass extension to translate between Photoshop gradient overlays and CSS linear-gradients
+* [erikkaashoek/Comskip](https://github.com/erikkaashoek/Comskip): A free commercial detector
+* [withfig/config](https://github.com/withfig/config): Fig's integrations with bash, zsh, fish, ssh, and tmux. Also contains Fig's installation and update scripts. Finally, this repo is the root of the .fig folder that is installed on your computer when you download Fig!
+* [argyleink/conic.css](https://github.com/argyleink/conic.css): nice'n simple conic gradients 🎨
+* [naveendnagendran/Contact-Search](https://github.com/naveendnagendran/Contact-Search): Search social profiles using email address
+* [AdguardTeam/ContentBlocker](https://github.com/AdguardTeam/ContentBlocker): Content blocking extension for Samsung Internet and Yandex Browser
+* [NumeriusNegidius/Context-Search](https://github.com/NumeriusNegidius/Context-Search): A Firefox WebExtension that displays a context menu, that searches for the selected text.
+* [davidmhammond/contextlets](https://github.com/davidmhammond/contextlets): A WebExtension for adding custom context menu items that execute JavaScript.
+* [benbasson/contextsearch](https://github.com/benbasson/contextsearch): Firefox Extension - Context Search transforms the "Web Search for..." context item into a menu containing your Firefox Search Providers. This is very convenient, since it allows you to decide which search engine you use. Firefox's default is to use the currently selected search provider only. 
+* [ssborbis/ContextSearch-Native-App](https://github.com/ssborbis/ContextSearch-Native-App): Native App for use with Context Search
+* [ssborbis/ContextSearch-web-ext](https://github.com/ssborbis/ContextSearch-web-ext): Search engine manager for modern browsers
+* [dokterdok/Continuity-Activation-Tool](https://github.com/dokterdok/Continuity-Activation-Tool): An all-in-one tool to activate and diagnose macOS 10.10-12 Continuity on compatible Mac configurations.
+* [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter): Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers
+* [Cookie-AutoDelete/Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete): Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
+* [Moustachauve/cookie-editor](https://github.com/Moustachauve/cookie-editor): A powerful browser extension to create, edit and delete cookies
+* [vinitshahdeo/Cookie-Manager](https://github.com/vinitshahdeo/Cookie-Manager): A chrome extension to manage browser cookies.
+* [ysard/cookie-quick-manager](https://github.com/ysard/cookie-quick-manager): An addon to manage (view, search, create, edit, remove, backup, restore) cookies on Firefox.
+* [hariprasd/cool-bookmarklets](https://github.com/hariprasd/cool-bookmarklets): Bookmarklets for Browsers, that are cool in some way for someone. Minimum Automation
+* [webkul/coolhue](https://github.com/webkul/coolhue): Coolest Gradient Hues and Swatches
+* [piroor/copy-selected-tabs-to-clipboard](https://github.com/piroor/copy-selected-tabs-to-clipboard): Provides ability to copy title and URL of selected tabs to the clipboard for Firefox 63 and later.
+* [ctrlxc/copyaddrs](https://github.com/ctrlxc/copyaddrs): thunderbird webextentions
+* [A9T9/Copyfish](https://github.com/A9T9/Copyfish): Copy, paste and translate text from images, videos and PDFs with this free Chrome extension
+* [msk4862/Copyright-free-image-search](https://github.com/msk4862/Copyright-free-image-search): Web app to search copyright free images from across the popular platforms and shows you the results in a single platform.
+* [k08045kk/CopyTabTitleUrl](https://github.com/k08045kk/CopyTabTitleUrl): None
+* [home-assistant/core](https://github.com/home-assistant/core): :house_with_garden: Open source home automation that puts local control and privacy first.
+* [Andereoo/Cortland](https://github.com/Andereoo/Cortland): A sleek, modern, macOS-inspired theme for Firefox
+* [leminlimez/Cowabunga](https://github.com/leminlimez/Cowabunga): iOS 14.0-15.7.1 & 16.0-16.1.2 MacDirtyCow ToolBox
+* [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg): A shell script to build fancy DMGs
+* [ololx/create-symlink](https://github.com/ololx/create-symlink): Create Symlink is a simple mac Automator workflow which provides a GUI for the symbolic links creation on macOS. There is an alternative https://github.com/ololx/quick-symlink
 * [schollz/croc](https://github.com/schollz/croc): Easily and securely send things from one computer to another :crocodile: :package:
-* [robfig/cron](https://github.com/robfig/cron): a cron library for go
-* [bradymholt/cron-expression-descriptor](https://github.com/bradymholt/cron-expression-descriptor): A .NET library that converts cron expressions into human readable descriptions.
-* [vmware-archive/cron-resource](https://github.com/vmware-archive/cron-resource): None
-* [bradymholt/cRonstrue](https://github.com/bradymholt/cRonstrue): JavaScript library that translates Cron expressions into human readable descriptions
-* [crosstool-ng/crosstool-ng](https://github.com/crosstool-ng/crosstool-ng): A versatile (cross-)toolchain generator.
-* [CrowCpp/Crow](https://github.com/CrowCpp/Crow): A Fast and Easy to use microframework for the web.
-* [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator): Multi-platform transparent client-side encryption of your files in the cloud
-* [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base): 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com  
-* [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes): :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
-* [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning): 计算机自学指南
-* [dotnet/csharplang](https://github.com/dotnet/csharplang): The official repo for the design of the C# programming language
-* [diseq/csi-rclone](https://github.com/diseq/csi-rclone): CSI driver for rclone
-* [wunderio/csi-rclone](https://github.com/wunderio/csi-rclone): CSI driver for rclone
-* [MicheleBertoli/css-in-js](https://github.com/MicheleBertoli/css-in-js): React: CSS in JS techniques comparison
-* [mattzeunert/CSS-Todo-App](https://github.com/mattzeunert/CSS-Todo-App): Basic todo app functionality without using JavaScript
-* [hcy226/CSSummerCamp2020](https://github.com/hcy226/CSSummerCamp2020): 关于2020年CS保研夏令营的汇总。欢迎大家分享夏令营信息，资瓷一下互联网精神吼不吼啊？
-* [RookieJunChen/CSSummerCamp2021](https://github.com/RookieJunChen/CSSummerCamp2021): 关于2021年CS保研夏令营通知公告的汇总。欢迎大家积极分享夏令营信息，资瓷一下互联网精神吼不吼啊？
-* [hcy226/CSYuTuiMian2020](https://github.com/hcy226/CSYuTuiMian2020): 关于2020年CS预推免的汇总。欢迎大家分享预推免信息，资瓷一下互联网精神吼不吼啊？
-* [CTeX-org/ctex-kit](https://github.com/CTeX-org/ctex-kit): Macro Packages and Scripts for Chinese TeX users
-* [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki): Come and join us, we need you!
-* [cuelang/cue](https://github.com/cuelang/cue): CUE has moved to https://github.com/cue-lang/cue
-* [geekplux/cv_resume](https://github.com/geekplux/cv_resume): A latex cv/resume template.
-* [louisdx/cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint): A header-only library for C++(0x) that allows automagic pretty-printing of any container.
-* [commitizen/cz-cli](https://github.com/commitizen/cz-cli): The commitizen command line utility. #BlackLivesMatter
-* [dojiong/daemon-manager](https://github.com/dojiong/daemon-manager): user tool for creating and managing daemons
-* [datawhalechina/daily-interview](https://github.com/datawhalechina/daily-interview): Datawhale成员整理的面经，内容包括机器学习，CV，NLP，推荐，开发等，欢迎大家star
-* [christo-pr/dangerously-set-html-content-v1](https://github.com/christo-pr/dangerously-set-html-content-v1): Render raw html on your own risk!
-* [DapperLib/Dapper](https://github.com/DapperLib/Dapper): Dapper - a simple object mapper for .Net
-* [darlinghq/darling](https://github.com/darlinghq/darling): Darwin/macOS emulation layer for Linux
-* [home-sweet-gnome/dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel): An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found in KDE Plasma and Windows 7+. A separate dock is no longer needed for easy access to running and favorited applications.
-* [nreco/data](https://github.com/nreco/data): Fast DB-independent DAL for .NET Core:  abstract queries, SQL commands builder, schema-less data access, POCO mapping (micro-ORM).
-* [CDDSCLab/Database-Optimization](https://github.com/CDDSCLab/Database-Optimization): :books: A collection of work related to Database Optimization.
-* [Aaaaaaron/database-papers](https://github.com/Aaaaaaron/database-papers): None
-* [datafuselabs/databend](https://github.com/datafuselabs/databend): A modern cloud data warehouse focusing on reducing cost and complexity for your massive-scale analytics needs. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.com 🧠 
-* [asg017/dataflow](https://github.com/asg017/dataflow): An experimental self-hosted Observable notebook editor, with support for FileAttachments, Secrets, custom standard libraries, and more!
-* [qgaye/DataStructures](https://github.com/qgaye/DataStructures): 数据结构 Java
-* [alibaba/DataX](https://github.com/alibaba/DataX): DataX是阿里云DataWorks数据集成的开源版本。
-* [HowardHinnant/date](https://github.com/HowardHinnant/date): A date and time library based on the C++11/14/17 <chrono> header
-* [date-fns/date-fns](https://github.com/date-fns/date-fns): ⏳ Modern JavaScript date utility library ⌛️
-* [iamkun/dayjs](https://github.com/iamkun/dayjs): ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
-* [tangwz/db-monthly](https://github.com/tangwz/db-monthly): 阿里云数据库内核月报分类整理（定时更新）。
-* [rxin/db-readings](https://github.com/rxin/db-readings): Readings in Databases
-* [dunwu/db-tutorial](https://github.com/dunwu/db-tutorial): 📚 db-tutorial 是一个数据库教程。
-* [cmu-db/dbdb.io](https://github.com/cmu-db/dbdb.io): The On-line Database of Databases
-* [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver): Free universal database tool and SQL client
-* [dbgate/dbgate](https://github.com/dbgate/dbgate): Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
-* [yingjunwu/DBMS-Indexology](https://github.com/yingjunwu/DBMS-Indexology): A Collection of Papers on Database Index Structures
-* [DBOS-project/dbos-project.github.io](https://github.com/DBOS-project/dbos-project.github.io): A Database-oriented Operating System
-* [Vonng/ddia](https://github.com/Vonng/ddia): 《Designing Data-Intensive Application》DDIA中文翻译
-* [shopspring/decimal](https://github.com/shopspring/decimal): Arbitrary-precision fixed-point decimal numbers in go
-* [39aldo39/DecSync](https://github.com/39aldo39/DecSync): Synchronize RSS, contacts, calendars, tasks and more without a server
-* [39aldo39/DecSyncCC](https://github.com/39aldo39/DecSyncCC): Android app to sync contacts, calendars and tasks without a server using DecSync
-* [mashirozx/deemo](https://github.com/mashirozx/deemo): Deemo（古树旋律）曲绘集复刻
-* [jactor-sue/Deepin-Apps-Installation](https://github.com/jactor-sue/Deepin-Apps-Installation): 本仓库介绍如何在基于Ubuntu的系统上安装Deepin移植的软件。This repo shows how to install apps packaged by Deepin.
-* [vufa/deepin-wine-qq-arch](https://github.com/vufa/deepin-wine-qq-arch): Tencent QQ on Deepin Wine5(com.qq.im.deepin) For Archlinux
-* [vufa/deepin-wine-wechat-arch](https://github.com/vufa/deepin-wine-wechat-arch): Tencent WeChat on Deepin Wine(com.qq.weixin.deepin) For Archlinux
-* [TomFreudenberg/dell-bios-fan-control](https://github.com/TomFreudenberg/dell-bios-fan-control): Simple tool to enable or disable the SMBIOS fan (auto) fan control on Dell 9560
-* [SummerEmber/DELL-XPS13-9360](https://github.com/SummerEmber/DELL-XPS13-9360): Hackintosh OpenCore EFI for DELL XPS13 9360
-* [dandavison/delta](https://github.com/dandavison/delta): A syntax-highlighting pager for git, diff, and grep output
-* [delta-io/delta](https://github.com/delta-io/delta): An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
-* [go-delve/delve](https://github.com/go-delve/delve): Delve is a debugger for the Go programming language.
-* [dendronhq/dendron](https://github.com/dendronhq/dendron): The personal knowledge management (PKM) tool that grows as you do!
-* [Shougo/denite.nvim](https://github.com/Shougo/denite.nvim): :dragon: Dark powered asynchronous unite all interfaces for Neovim/Vim8
-* [denoland/deno](https://github.com/denoland/deno): A modern runtime for JavaScript and TypeScript.
-* [guanguans/design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn): 设计模式超简单的解释。
-* [Schneegans/Desktop-Cube](https://github.com/Schneegans/Desktop-Cube): 🧊 Indulge in nostalgia with useless 3D effects.
-* [Phantas0s/devdash](https://github.com/Phantas0s/devdash): :bento: Highly Configurable Terminal Dashboard for Developers and Creators
-* [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-* [devspace-sh/devspace](https://github.com/devspace-sh/devspace): DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
-* [dexidp/dex](https://github.com/dexidp/dex): OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
-* [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph): The high-performance database for modern applications
-* [ArthurSonzogni/Diagon](https://github.com/ArthurSonzogni/Diagon): Interactive ASCII art diagram generators. :star2:
-* [directus/directus](https://github.com/directus/directus): The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
-* [heidihoward/distributed-consensus-reading-list](https://github.com/heidihoward/distributed-consensus-reading-list): A list of papers about distributed consensus.
-* [distribution/distribution](https://github.com/distribution/distribution): The toolkit to pack, ship, store, and deliver container content
-* [aphyr/distsys-class](https://github.com/aphyr/distsys-class): Class materials for a distributed systems lecture series
-* [mixu/distsysbook](https://github.com/mixu/distsysbook): The book Distributed systems: for fun and profit
-* [roryprimrose/Divergic.Logging.Xunit](https://github.com/roryprimrose/Divergic.Logging.Xunit): A Microsoft.Extensions.Logging provider for xUnit test output
-* [dell/dkms](https://github.com/dell/dkms): Dynamic Kernel Module Support
-* [jmpews/Dobby](https://github.com/jmpews/Dobby): a lightweight, multi-platform, multi-architecture hook framework.
-* [v2fly/docker](https://github.com/v2fly/docker): docker build repo for v2fly
-* [Docker-Hub-frolvlad/docker-alpine-glibc](https://github.com/Docker-Hub-frolvlad/docker-alpine-glibc): Carefully crafted Alpine Docker image with glibc (~12MB)
-* [trashpanda001/docker-alpine-sshd](https://github.com/trashpanda001/docker-alpine-sshd): A lightweight OpenSSH Docker Image built atop Alpine Linux.
-* [budtmo/docker-android](https://github.com/budtmo/docker-android): Android in docker solution with noVNC supported and video recording
-* [kylemanna/docker-aosp](https://github.com/kylemanna/docker-aosp): 🏗 Minimal Android AOSP build environment with handy automation wrapper scripts
-* [discordianfish/docker-backup](https://github.com/discordianfish/docker-backup): Tool for backing up docker volume / data containers
-* [ufoscout/docker-compose-wait](https://github.com/ufoscout/docker-compose-wait): A simple script to wait for other docker images to be started while using docker-compose (or Kubernetes or docker stack or whatever)
-* [yeetzone/docker-dontstarvetogether](https://github.com/yeetzone/docker-dontstarvetogether): Dockerfile for building a Don't Starve Together dedicated server image.
-* [Jamesits/docker-dst-server](https://github.com/Jamesits/docker-dst-server): Don't Starve Together dedicated server in Docker!
-* [wernight/docker-duplicity](https://github.com/wernight/docker-duplicity): Dockerize "duplicity" backup tool.
-* [marcopompili/docker-nginx-git](https://github.com/marcopompili/docker-nginx-git): Docker image for a Git HTTP server on Nginx.
-* [alfg/docker-nginx-rtmp](https://github.com/alfg/docker-nginx-rtmp): 🐋 A Dockerfile for nginx-rtmp-module + FFmpeg from source with basic settings for streaming HLS. Built on Alpine Linux.
-* [wernight/docker-ngrok](https://github.com/wernight/docker-ngrok): An Ngrok v2 container based on wizardapps/ngrok and fnichol/ngrok
-* [theasp/docker-novnc](https://github.com/theasp/docker-novnc): noVNC Display Container for Docker
-* [kizzx2/docker-openvpn-client-socks](https://github.com/kizzx2/docker-openvpn-client-socks): Expose an OpenVPN tunnel as a SOCKS proxy
+* [warren-bank/crx-Tubi-TV](https://github.com/warren-bank/crx-Tubi-TV): website userscript: redirect embedded videos from "tubitv.com" to an external player
+* [Rob--W/crxviewer](https://github.com/Rob--W/crxviewer): Add-on / web app to view the source code of Chrome / Firefox / Opera 15 extensions and zip files.
+* [cedricbeau/css-gradient-generator](https://github.com/cedricbeau/css-gradient-generator): Générateur de gradient css en ligne
+* [lough-city/css-smart](https://github.com/lough-city/css-smart): a smart css helpers.
+* [astrit/css.gg](https://github.com/astrit/css.gg): 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs
+* [estelle/CSS3Gradients](https://github.com/estelle/CSS3Gradients): Library of CSS3 Gradients
+* [Kungfoowiz/cssSuggestionsVSCode](https://github.com/Kungfoowiz/cssSuggestionsVSCode): Visual Studio Code Extension: CSS suggestions for Properties and Values.
+* [thatisuday/curved-menu](https://github.com/thatisuday/curved-menu): VanillaJS fully configurable curved menu (circular navigation)
+* [vitorgalvao/custom-alfred-iterm-scripts](https://github.com/vitorgalvao/custom-alfred-iterm-scripts): AppleScript for iTerm2 Alfred integration.
+* [samiyuru/custom-finder-right-click-menu](https://github.com/samiyuru/custom-finder-right-click-menu): This project allows macOS users to setup custom right click menu items for MacOS Finder directories.
+* [jaygandhie2msolutions/Custom-Options-For-Monogram---For-Shopify](https://github.com/jaygandhie2msolutions/Custom-Options-For-Monogram---For-Shopify): Monogram functionality using custom options
+* [gdepourtales/custom-tab-title-favicon](https://github.com/gdepourtales/custom-tab-title-favicon): Firefox web extension to change the title and favicon of any tab depending on regular expressions applied to the tab address URL or title
+* [Ahmed-Elswerky/custom-tampermonkey-scripts](https://github.com/Ahmed-Elswerky/custom-tampermonkey-scripts): this is a custom script repository,
+* [Infocatcher/Custom_Buttons](https://github.com/Infocatcher/Custom_Buttons): Buttons for Custom Buttons extension for Firefox (and other Gecko-based applications)
+* [MrOtherGuy/custom_captions_webExt](https://github.com/MrOtherGuy/custom_captions_webExt): None
+* [Aris-t2/CustomCSSforFx](https://github.com/Aris-t2/CustomCSSforFx): Custom CSS tweaks for Firefox
+* [Aris-t2/CustomCSSforTb](https://github.com/Aris-t2/CustomCSSforTb): Custom user styles for Thunderbird
+* [FrancesCoronel/customize-icons](https://github.com/FrancesCoronel/customize-icons): Customize your icons on macOS 🔧
+* [iocave/customize-ui](https://github.com/iocave/customize-ui): UI Customization plugin for vscode
+* [Aris-t2/CustomizeMyBird](https://github.com/Aris-t2/CustomizeMyBird): Customize Thunderbird 52-60.x (no support for Thunderbird 68+)
+* [Aris-t2/CustomJSforFx](https://github.com/Aris-t2/CustomJSforFx): custom scripts
+* [insidegui/CustomStatusBarWindow](https://github.com/insidegui/CustomStatusBarWindow): Demonstrates a custom NSWindowController that can be attached to a NSStatusItem on macOS.
+* [amitness/cutcode](https://github.com/amitness/cutcode): A browser extension that enables double click to copy code snippet from stack overflow.
+* [juanboro/cync2mqtt](https://github.com/juanboro/cync2mqtt): Bridge Cync bluetooth mesh to mqtt
+* [nikshriv/cync_lights](https://github.com/nikshriv/cync_lights): Home Assistant Integration for controlling Cync switches, plugs, and bulbs
+* [DanaMW/DanaMW.github.io](https://github.com/DanaMW/DanaMW.github.io): None
+* [mitchuman/danshari](https://github.com/mitchuman/danshari): A blank slate theme for Shopify 2.0
+* [dagware/DanThomas](https://github.com/dagware/DanThomas): Dan Thomas' stuff
+* [daprofiler/DaProfiler](https://github.com/daprofiler/DaProfiler): DaProfiler is an OSINT tool allowing you to collect certain information about yourself in order to rectify by rgpd requests the traces you may have left on the net. DaProfiler is indeed able to recover: Addresses, Social media accounts, e-mail addresses, mobile / landline number, jobs.
+* [m-khvoinitsky/dark-background-light-text-extension](https://github.com/m-khvoinitsky/dark-background-light-text-extension): Firefox addon that turns every page colors into "light text on dark background"
+* [FilkCH/dark-filk-theme](https://github.com/FilkCH/dark-filk-theme): Visual Studio Code theme inspired by Monokai.
+* [fastaddons/Darko](https://github.com/fastaddons/Darko): None
+* [darkreader/darkreader](https://github.com/darkreader/darkreader): Dark Reader Chrome and Firefox extension
+* [uso-archive/data](https://github.com/uso-archive/data): Full mirror of UserStyles.org
+* [TechnicalWebAnalytics/dataLayer-shopify](https://github.com/TechnicalWebAnalytics/dataLayer-shopify): A dataLayer integration specific to extracting information from Shopify.
+* [Shopify/dawn](https://github.com/Shopify/dawn): Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.
+* [realoatesman/Dawn](https://github.com/realoatesman/Dawn): Shopify Dawn Dev Theme
+* [shredthaGNAR/dawn](https://github.com/shredthaGNAR/dawn): Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.
+* [pedritobata/dawn-clone-shopify](https://github.com/pedritobata/dawn-clone-shopify): None
+* [dougpark/dayone](https://github.com/dougpark/dayone): Better Touch Tool create a DayOne journal entry
+* [zoonderkins/dbl-oisd-nl](https://github.com/zoonderkins/dbl-oisd-nl): abp.oisd.nl | Internet's #1 domain blocklist (Mirror)
+* [enokmadrid/deafink](https://github.com/enokmadrid/deafink): Custom Shopify Theme for Deafink
+* [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui): Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
+* [DebianArch64/DebProvision](https://github.com/DebianArch64/DebProvision): An alternative to Cydia Impactor and AltServer for ALL computers.
+* [aayush210789/Deception-Detection-on-Amazon-reviews-dataset](https://github.com/aayush210789/Deception-Detection-on-Amazon-reviews-dataset): A SVM model that classifies the reviews as real or fake. Used both the review text and the additional features contained in the data set to build a model that predicted with over 85% accuracy without using any deep learning techniques. 
+* [serengil/deepface](https://github.com/serengil/deepface): A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
+* [nbennett320/define-firefox](https://github.com/nbennett320/define-firefox): A quick dictionary and thesaurus.
+* [MohamedYoussouf/Design-Resources](https://github.com/MohamedYoussouf/Design-Resources): A curated list of design resources from design templates, stock photos, icons, colors, and much more.
+* [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers): Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+* [desktop/desktop](https://github.com/desktop/desktop): Focus on what matters instead of fighting with Git.
+* [Windscribe/Desktop-App](https://github.com/Windscribe/Desktop-App): Windscribe 2.0 desktop client for Windows, Mac and Linux
+* [chriskol/Desktop-Google-Keep-OSX](https://github.com/chriskol/Desktop-Google-Keep-OSX): A Super Simple Desktop Client for Mac OSX Built in Javascript and MacGap
+* [scriptingosx/desktoppr](https://github.com/scriptingosx/desktoppr): Simple command line tool to set the desktop picture on macOS
+* [TASEmulators/desmume](https://github.com/TASEmulators/desmume): DeSmuME is a Nintendo DS emulator
+* [shredthaGNAR/dev-new](https://github.com/shredthaGNAR/dev-new): None
+* [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup): macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.
+* [0xdevalias/devalias.net](https://github.com/0xdevalias/devalias.net): Source for devalias.net
+* [thundernest/developer-docs](https://github.com/thundernest/developer-docs): Developer documentation for Thunderbird contributors.
+* [matomo-org/device-detector](https://github.com/matomo-org/device-detector): The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model. 
+* [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll): (FREE SITE GENERATOR) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS :rocket: in minutes built for developers. (with CMS)
+* [BrettHuang2019/devportfolio](https://github.com/BrettHuang2019/devportfolio): A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
+* [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio): A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
+* [DevUtilsApp/DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app): All-in-one Toolbox for Developers. Native macOS app.
+* [Kavakuo/Dict.cc-Alfred-Workflow](https://github.com/Kavakuo/Dict.cc-Alfred-Workflow): None
+* [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy): Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
+* [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim): Dim, a media manager fueled by dark forces.
+* [nokeya/direct-links-out](https://github.com/nokeya/direct-links-out): Removes all "You are leaving our site" stuff from links
+* [zanetu/direct_google_images](https://github.com/zanetu/direct_google_images): Direct Google Images
+* [Homebrew/discussions](https://github.com/Homebrew/discussions): 🗣 Public open-ended discussions. Replacement for our Discourse.
+* [tapans/DIY-Surveillance-with-Smartphones](https://github.com/tapans/DIY-Surveillance-with-Smartphones): DIY hack for a complete CCTV solution using open source software and smartphones. 
+* [vexorian/dizquetv](https://github.com/vexorian/dizquetv): Create live TV channels from your own media. Access the streams using the simulated HDHomerun tuner or the generated M3U URl.
+* [fredjoseph/dns-blocker](https://github.com/fredjoseph/dns-blocker): DNS Blocker for Chrome and Firefox (Web Extension)
+* [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy): dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
+* [sindresorhus/do-not-disturb-cli](https://github.com/sindresorhus/do-not-disturb-cli): Control the macOS `Do Not Disturb` feature from the command-line
+* [PepsRyuu/dock-window-preview](https://github.com/PepsRyuu/dock-window-preview): Mac OSX app that displays window previews when hovering over app icon on the Dock. 
+* [steventheworker/DockAltTab](https://github.com/steventheworker/DockAltTab): Window preview app for MacOS (on the dock) using AltTab.
+* [steventheworker/DockAltTab-home](https://github.com/steventheworker/DockAltTab-home): website for DockAltTab
 * [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX): Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
-* [stilliard/docker-pure-ftpd](https://github.com/stilliard/docker-pure-ftpd): Docker Pure-ftpd Server
-* [top-bettercode/docker-qq](https://github.com/top-bettercode/docker-qq): 提供一种在linux下运行QQ的方式
-* [rpardini/docker-registry-proxy](https://github.com/rpardini/docker-registry-proxy): An HTTPS Proxy for Docker providing centralized configuration and caching of any registry (quay.io, DockerHub, k8s.gcr.io)
-* [kwk/docker-registry-setup](https://github.com/kwk/docker-registry-setup): A demonstration of how you can secure your registry v2 (with LDAP authentication and ACLs)
-* [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui): The simplest and most complete UI for your private registry
-* [kekru/docker-remote-api-tls](https://github.com/kekru/docker-remote-api-tls): Docker Image that forwards to the Docker API Socket and requires TLS Client authentication
-* [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium): Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
-* [sapk/docker-volume-rclone](https://github.com/sapk/docker-volume-rclone): Use Rclone as a backend for docker volume (also as a plugin). This permit to easely mount a lot of cloud provider (https://rclone.org/overview).
-* [dotnet/Docker.DotNet](https://github.com/dotnet/Docker.DotNet): :whale: .NET (C#) Client Library for Docker API
-* [cesanta/docker_auth](https://github.com/cesanta/docker_auth): Authentication server for Docker Registry 2
-* [docker/dockercraft](https://github.com/docker/dockercraft): Docker + Minecraft = Dockercraft
-* [docopt/docopt.go](https://github.com/docopt/docopt.go): A command-line arguments parser that will make you smile.
-* [tobya/DocTo](https://github.com/tobya/DocTo): Simple command line utility for converting .doc & .xls files to any supported format such as Text, RTF, CSV or PDF
-* [Torbet/Dot-It-Up](https://github.com/Torbet/Dot-It-Up): A collection of dotfile scripts, plugins, and clever hacks so that you can become the master of your own OS! 🚀
-* [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter): ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
-* [jglovier/dotfiles-logo](https://github.com/jglovier/dotfiles-logo): :art: I created a logo for your dotfiles. Well, for @pengwynn's [dotfiles](http://dotfiles.github.io/), but you can use it too.
-* [natemcmaster/dotnet-tools](https://github.com/natemcmaster/dotnet-tools): A list of tools to extend the .NET Core command line (dotnet)
+* [haugene/docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn): Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel
+* [mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge): WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
+* [jim60105/docker-youtube-dl](https://github.com/jim60105/docker-youtube-dl): Youtube錄影伺服器 (Docker Compose) https://blog.maki0419.com/2020/11/docker-youtube-dl-auto-recording-live-dl.html
+* [DeromirNeves/DockSeparator](https://github.com/DeromirNeves/DockSeparator): macOS utility to add multiple separators to Dock
+* [zzamboni/dot-hammerspoon](https://github.com/zzamboni/dot-hammerspoon): My personal Hammerspoon configuration - mirrored from GitLab
+* [anishathalye/dotbot](https://github.com/anishathalye/dotbot): A tool that bootstraps your dotfiles ⚡️
+* [svetlyak40wt/dotfiler](https://github.com/svetlyak40wt/dotfiler): Shell agnostic git based dotfiles package manager, written in Python.
+* [CodelyTV/dotfiles](https://github.com/CodelyTV/dotfiles): 🐢 💨 Speedup your MacOS setup with this fine tuning settings
+* [GiorgioBertolotti/dotfiles](https://github.com/GiorgioBertolotti/dotfiles): 💻 My config files for the shell (MacOS & WSL)
+* [ahmadawais/dotfiles](https://github.com/ahmadawais/dotfiles): A non-exhaustive collection of my dotfiles.
+* [atomantic/dotfiles](https://github.com/atomantic/dotfiles): 🖥️ Automated Configuration, Preferences and Software Installation for macOS
+* [cheshire137/dotfiles](https://github.com/cheshire137/dotfiles): All my handy configuration files, including for stuff like Skyrim. ⚔️
+* [codfish/dotfiles](https://github.com/codfish/dotfiles): My macOS dotfiles: Oh My Zsh, git, brew, node, mac settings, mac apps, and more.
+* [davidmytton/dotfiles](https://github.com/davidmytton/dotfiles): Personal dotfiles for macOS and Linux.
+* [deinsoftware/dotfiles](https://github.com/deinsoftware/dotfiles): dot Files: ZSH setup and productivity tools for development
+* [driesvints/dotfiles](https://github.com/driesvints/dotfiles): Get started with your own dotfiles.
+* [gokulkrishh/dotfiles](https://github.com/gokulkrishh/dotfiles): 🤌🏻 Setup your MacOS for web development in few minutes.
+* [karlhorky/dotfiles](https://github.com/karlhorky/dotfiles): macOS dotfiles
+* [kdeldycke/dotfiles](https://github.com/kdeldycke/dotfiles): 🍎 macOS dotfiles for Python developers.
+* [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles): :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
+* [mswell/dotfiles](https://github.com/mswell/dotfiles): My personal dotfiles
+* [na-ji/dotfiles](https://github.com/na-ji/dotfiles): None
+* [natelandau/dotfiles](https://github.com/natelandau/dotfiles): Home for my bootstrap script, dotfiles, and configuration files
+* [rinsuki/dotfiles](https://github.com/rinsuki/dotfiles): my dotfiles
+* [rkalis/dotfiles](https://github.com/rkalis/dotfiles): 💻 macOS System Configuration with Fish, Package Control, VS Code, Repo management, Hammerspoon
+* [servitola/dotfiles](https://github.com/servitola/dotfiles): servitola dotfiles repository
+* [stefanjudis/dotfiles](https://github.com/stefanjudis/dotfiles): The setup I run on every computer
+* [timmybytes/dotfiles](https://github.com/timmybytes/dotfiles): My personal (.)dotfiles and configurations for various programs and environments. 
+* [trybick/dotfiles](https://github.com/trybick/dotfiles): Config files and new Mac setup guide
+* [vufly/dotfiles](https://github.com/vufly/dotfiles): This is the place where I keep my configuration.
+* [garywill/doubleclick-new-tab](https://github.com/garywill/doubleclick-new-tab): Firefox open new tab by double clicking on tab bar , userchrome script. (Never need it since ff 68
+* [charlieMonroe/DownieCustomIntegrations](https://github.com/charlieMonroe/DownieCustomIntegrations): None
+* [charlieMonroe/DownieExtensions](https://github.com/charlieMonroe/DownieExtensions): Browser Extensions used in Downie (https://software.charliemonroe.net/downie/).
+* [stefnotch/downline](https://github.com/stefnotch/downline): Free cross-platform desktop application for downloading video and audio from YouTube and many other sites
+* [gluons/download-directory-helper](https://github.com/gluons/download-directory-helper): 📁 A Firefox add-on to use download-directory easily.
+* [download-directory/download-directory.github.io](https://github.com/download-directory/download-directory.github.io): Web App: Download just a sub directory from a GitHub repo.
+* [edwin170/downr1n](https://github.com/edwin170/downr1n): downgrade tethered checkm8 idevices ios 14, 15.
+* [downthemall/downthemall](https://github.com/downthemall/downthemall): The DownThemAll! WebExtension
 * [Mortennn/Dozer](https://github.com/Mortennn/Dozer): Hide menu bar icons on macOS
-* [getdozer/dozer](https://github.com/getdozer/dozer): Dozer is a real-time data platform for building, deploying and maintaining data products.
-* [canonical/dqlite](https://github.com/canonical/dqlite): Embeddable, replicated and fault tolerant SQL engine.
-* [mwh/dragon](https://github.com/mwh/dragon): Drag and drop source/target for X
-* [gwding/draw_convnet](https://github.com/gwding/draw_convnet): None
-* [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop): Official electron build of draw.io
-* [hardcore-sushi/DroidFS](https://github.com/hardcore-sushi/DroidFS): Encrypted overlay filesystems implementation for Android. Also available on gitea: https://forge.chapril.org/hardcoresushi/DroidFS
-* [ubuntu-touch-clover/Droidian4Clover](https://github.com/ubuntu-touch-clover/Droidian4Clover): unoffical release of droidian
-* [harness/drone-cli](https://github.com/harness/drone-cli): Command Line Tools for Drone CI 
-* [zh32/drtelemetry](https://github.com/zh32/drtelemetry): Show DiRT Rally Telemetry in a Browser
-* [apache/druid](https://github.com/apache/druid): Apache Druid: a high performance real-time analytics database.
-* [multiprocessio/dsq](https://github.com/multiprocessio/dsq): Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
-* [dtm-labs/dtm](https://github.com/dtm-labs/dtm): A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.
-* [Byron/dua-cli](https://github.com/Byron/dua-cli): View disk space usage and delete unwanted data, fast.
-* [duckdb/duckdb](https://github.com/duckdb/duckdb): DuckDB is an in-process SQL OLAP Database Management System
-* [muesli/duf](https://github.com/muesli/duf): Disk Usage/Free Utility - a better 'df' alternative
-* [sigoden/dufs](https://github.com/sigoden/dufs): A file server that supports static serving, uploading, searching, accessing control, webdav...
-* [Yelp/dumb-init](https://github.com/Yelp/dumb-init): A minimal init system for Linux containers
-* [WrBug/dumpDex](https://github.com/WrBug/dumpDex): 💯一款Android脱壳工具，需要xposed支持, 易开发已集成该项目。
-* [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy): A new generation cloud backup tool 
-* [henrysher/duplicity](https://github.com/henrysher/duplicity): mirror of duplicity: https://code.launchpad.net/duplicity
-* [martanne/dvtm](https://github.com/martanne/dvtm): dvtm brings the concept of tiling window management, popularized by X11-window managers like dwm to the console. As a console window manager it tries to make it easy to work with multiple console based programs.
-* [ewlsh/dynamic-panel-transparency](https://github.com/ewlsh/dynamic-panel-transparency): Adds Transparency To The Gnome Shell Panel
-* [dusansimic/dynamic-wallpaper](https://github.com/dusansimic/dynamic-wallpaper): Dynamic wallpaper maker for Gnome 42
-* [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom): earlyoom - Early OOM Daemon for Linux
-* [KtzeAbyss/Easy-Virtual-Display](https://github.com/KtzeAbyss/Easy-Virtual-Display): Effortlessly create virtual displays in Windows, capable of supporting various resolutions and refresh rates, suitable for remote control or graphics card spoofing.在win中轻松创建支持多种分辨率和刷新率的虚拟显示器，可用于远程控制或显卡欺骗。
-* [Ian2020/EasyScreenCast](https://github.com/Ian2020/EasyScreenCast): This extension simplifies the use of the video recording function integrated in gnome shell, allows quickly to change the various settings of the desktop recording.
-* [gojue/ecapture](https://github.com/gojue/ecapture): Capture SSL/TLS text content without a CA certificate using eBPF. This tool is compatible with Linux/Android x86_64/Aarch64.
-* [labstack/echo](https://github.com/labstack/echo): High performance, minimalist Go web framework
-* [ECNU-Forum/ECNU-Forum](https://github.com/ECNU-Forum/ECNU-Forum): ECNU Forum based on Flarum.
-* [QiushiSun/ECNU-Undergraduate-Thesis-Template-2022](https://github.com/QiushiSun/ECNU-Undergraduate-Thesis-Template-2022): ECNU Undergraduate Thesis Template (Class of 2022)
-* [ECNUCSE/ECNU_ITers](https://github.com/ECNUCSE/ECNU_ITers): ECNU CS & SE 信息收集; 华师大计软院友墙
-* [edgedb/edgedb](https://github.com/edgedb/edgedb): A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
-* [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel): Running V2ray inside edge/serverless runtime
-* [EdiWang/Edi.Captcha.AspNetCore](https://github.com/EdiWang/Edi.Captcha.AspNetCore): The Captcha module used in my blog
-* [ElderDrivers/EdXposed](https://github.com/ElderDrivers/EdXposed): Elder driver Xposed Framework.
-* [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese): 《Effective Modern C++》- 完成翻译
-* [Rocket1184/electron-netease-cloud-music](https://github.com/Rocket1184/electron-netease-cloud-music): UNOFFICIAL client for music.163.com. Powered by Electron and Vue
-* [element-plus/element-plus](https://github.com/element-plus/element-plus): 🎉 A Vue.js 3 UI Library made by Element team
-* [11ty/eleventy](https://github.com/11ty/eleventy): A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
-* [elves/elvish](https://github.com/elves/elvish): Elvish = Expressive Programming Language + Versatile Interactive Shell
-* [emacs-tw/emacs-101-beginner-survival-guide](https://github.com/emacs-tw/emacs-101-beginner-survival-guide): Emacs 101 新手求生指南 - 一本讓你學 Emacs 不再學得靠北靠母的美好的新手求生指南
-* [ktprime/emhash](https://github.com/ktprime/emhash): Fast and memory efficient c++ flat hash map/set
-* [emissary-ingress/emissary](https://github.com/emissary-ingress/emissary): open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
-* [ericandrewlewis/emoji-mosaic](https://github.com/ericandrewlewis/emoji-mosaic): None
-* [emotion-js/emotion](https://github.com/emotion-js/emotion): 👩‍🎤 CSS-in-JS library designed for high performance style composition
-* [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck): Emulator configurator for Steam Deck
-* [saarasio/enroute](https://github.com/saarasio/enroute): EnRoute Ingress API Gateway - Kubernetes-native, Ingress API Gateway Powered using Envoy
-* [cup-of-tea-dot-be/entity-framework-core-mock](https://github.com/cup-of-tea-dot-be/entity-framework-core-mock): Easy Mock wrapper for mocking EFCore5 DbContext and DbSet using Moq or NSubstitute
-* [cup-of-tea-dot-be/entity-framework-core3-mock](https://github.com/cup-of-tea-dot-be/entity-framework-core3-mock): Easy Mock wrapper for mocking EFCore3 DbContext and DbSet using Moq or NSubstitute
-* [huysentruitw/entity-framework-mock](https://github.com/huysentruitw/entity-framework-mock): Easy Mock wrapper for mocking EF6 DbContext and DbSet using Moq or NSubstitute
-* [zzzprojects/EntityFramework-Plus](https://github.com/zzzprojects/EntityFramework-Plus): Entity Framework Plus extends your DbContext with must-haves features: Include Filter, Auditing, Caching, Query Future, Batch Delete, Batch Update, and more
-* [Eastrall/EntityFrameworkCore.DataEncryption](https://github.com/Eastrall/EntityFrameworkCore.DataEncryption): A plugin for Microsoft.EntityFrameworkCore to add support of encrypted fields using built-in or custom encryption providers.
-* [opensource-f2f/episode](https://github.com/opensource-f2f/episode): 开源面对面，连接热爱开源的你！Episodes for the open-source face-to-face talk!
-* [evanw/esbuild](https://github.com/evanw/esbuild): An extremely fast bundler for the web
-* [future-architect/eslint-plugin-vue-scoped-css](https://github.com/future-architect/eslint-plugin-vue-scoped-css): ESLint plugin for Scoped CSS in Vue.js
-* [etcd-io/etcd](https://github.com/etcd-io/etcd): Distributed reliable key-value store for the most critical data of a distributed system
-* [etesync/etesync-dav](https://github.com/etesync/etesync-dav): This is a CalDAV and CardDAV adapter for EteSync
-* [ramottamado/eval-gjs](https://github.com/ramottamado/eval-gjs): Evaluate GJS script through DBus
-* [browserify/events](https://github.com/browserify/events): Node's event emitter for all engines.
-* [samyk/evercookie](https://github.com/samyk/evercookie): Produces persistent, respawning "super" cookies in a browser, abusing over a dozen techniques. Its goal is to identify users after they've removed standard cookies and other privacy data such as Flash cookies (LSOs), HTML5 storage, SilverLight storage, and others.
-* [Fausto-Korpsvart/Everforest-GTK-Theme](https://github.com/Fausto-Korpsvart/Everforest-GTK-Theme): Everforest colour palette for GTK
-* [emacs-evil/evil](https://github.com/emacs-evil/evil): The extensible vi layer for Emacs.
-* [39aldo39/Evolution-DecSync](https://github.com/39aldo39/Evolution-DecSync): Evolution plugin to sync contacts and calendars without a server using DecSync
-* [KarsMulder/evsieve](https://github.com/KarsMulder/evsieve): A utility for mapping events from Linux event devices.
-* [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw): Virtual whiteboard for sketching hand-drawn like diagrams
-* [xloger/ExLink](https://github.com/xloger/ExLink): 屏蔽国产流氓们内置浏览器的 Xposed 模块
+* [odeke-em/drive](https://github.com/odeke-em/drive): Google Drive client for the commandline
+* [diatoming/Drop2Download](https://github.com/diatoming/Drop2Download): macOS menu bar app for youtube-dl GUI
+* [coolaj86/dropshare](https://github.com/coolaj86/dropshare): A min.us / ge.tt file share clone.
+* [aptonic/dropzone4-actions](https://github.com/aptonic/dropzone4-actions): Add-on actions and API Docs for Dropzone 4
+* [aptonic/dropzone4-actions-zipped](https://github.com/aptonic/dropzone4-actions-zipped): Add-on actions for Dropzone 4
+* [sjackwu/DualFinder](https://github.com/sjackwu/DualFinder): Make Finder a two-pane file manager on Mac OS X
+* [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt): 🐤 DuckDuckGo add-on that brings the magic of ChatGPT to search results (powered by GPT-4!)
+* [notable/dumper](https://github.com/notable/dumper): Library for extracting attachments, notes and metadata out of formats used by popular note-taking apps.
+* [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru): Find duplicate files
+* [Peuj/duplicate-tabs-closer](https://github.com/Peuj/duplicate-tabs-closer): Duplicate Tabs Closer  - Detects and closes duplicate tabs for Chrome and Firefox.
+* [powerwolf543/DuplicateFinder](https://github.com/powerwolf543/DuplicateFinder): Duplicate Finder is a macOS application that is written by Swift. It's a useful tool that would help you find all duplicate files with the same names in the specific folder.
+* [adi1090x/dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper): A simple bash script to set wallpapers according to current time, using cron job scheduler.
+* [kush-agra/Dynamic_Walls](https://github.com/kush-agra/Dynamic_Walls): Replicating macOS Mojave's dynamic wallpaper feature
+* [plumk97/DynamicWallpaper](https://github.com/plumk97/DynamicWallpaper): Mac dynamic wallpaper program
+* [ThoughtfulDev/EagleEye](https://github.com/ThoughtfulDev/EagleEye): Stalk your Friends. Find their Instagram, FB and Twitter Profiles using Image Recognition and Reverse Image Search.
+* [117649/EasyDragToGoPlus-Redux](https://github.com/117649/EasyDragToGoPlus-Redux): None
+* [easylist/easylist](https://github.com/easylist/easylist): EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
+* [coder-chenzhi/EasyTabURL-ChromeExtension](https://github.com/coder-chenzhi/EasyTabURL-ChromeExtension): Help you operate tabs' url more conveniently
+* [bmFtZQ/edge-frfox](https://github.com/bmFtZQ/edge-frfox): A Firefox userChrome.css theme that aims to recreate the look and feel of the Chromium version of Microsoft Edge.
+* [maicol07/edge-frfox](https://github.com/maicol07/edge-frfox): A Firefox userChrome.css theme that aims to recreate the look and feel of the Chromium version of Microsoft Edge.
+* [23Bluemaster23/EdgeFox](https://github.com/23Bluemaster23/EdgeFox): Is a userchrome that imitates (or attempts to imitate) the style of Microsoft's Edge Chromiun browser. is a project in development./Es un userchrome que imita (o intenta imitar) el estilo del navegador Edge Chromiun de Microsoft. es un proyecto en desarrollo.
+* [cleidigh/EditEmailSubject-MX](https://github.com/cleidigh/EditEmailSubject-MX): Conversion exercise for Thunderbird MailExtensions
+* [codewizard13/ehw-app-scrape-onetab-links](https://github.com/codewizard13/ehw-app-scrape-onetab-links): Scrape OneTab links and produce HTML that can be saved for backup
+* [G3root/Eisen-Matrix](https://github.com/G3root/Eisen-Matrix): 🎯 Eisen Matrix is a prioritization app that uses Eisenhower matrix technique as workflow to prioritize a list of tasks & built with React Native for learning purposes.
+* [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder): A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
+* [vladimiry/ElectronMail](https://github.com/vladimiry/ElectronMail): Unofficial ProtonMail Desktop App
+* [ayushhroyy/elegantfox](https://github.com/ayushhroyy/elegantfox): firefox themed context and bookmark menus
+* [Zonnev/elementaryos-firefox-theme](https://github.com/Zonnev/elementaryos-firefox-theme): This theme for Firefox supports all the window buttons layouts from Tweaks and it blends into the elementary OS user interface.
+* [Zonnev/elementaryos5-firefox-theme](https://github.com/Zonnev/elementaryos5-firefox-theme): This theme for Firefox supports all the window buttons layouts from Tweaks and it blends into the elementary OS 5 (Hera) user interface.
+* [11ty/eleventy-base-blog](https://github.com/11ty/eleventy-base-blog): A starter repository for a blog web site using the Eleventy static site generator.
+* [glennjones/elsewhere-mapper](https://github.com/glennjones/elsewhere-mapper): Social media profile endpoint mapper for node.js
+* [regnull/email-autodiscover](https://github.com/regnull/email-autodiscover): Autodiscover email configuration for popular email clients
+* [g13nn/Email-Framework](https://github.com/g13nn/Email-Framework): Responsive HTML Email Framework
+* [MrNewaz/Email-Signature](https://github.com/MrNewaz/Email-Signature): A gmail signature I made
+* [ryanoasis/email-signature](https://github.com/ryanoasis/email-signature): My E-mail Signature
+* [solodev/email-signature](https://github.com/solodev/email-signature): Creating a custom signature is one of those details that can add professionalism to your emails and reinforce your brand. There are, however, complications that can arise when attempting to create a signature due to the intricacies of email clients. Some crafty HTML can help resolve these problems and create a functional email signature.
+* [taroontyagi/email-signature](https://github.com/taroontyagi/email-signature): Retire those uncool email signatures, use the template to customize and create your won cool email signature.
+* [Van-Code/email-signature-generator](https://github.com/Van-Code/email-signature-generator):  html email signature generator
+* [vinitshahdeo/Email-Signature-Template](https://github.com/vinitshahdeo/Email-Signature-Template): An email signature template made using HTML & CSS - let's make its easier for everyone!
+* [bluginbuhl/email-signatures](https://github.com/bluginbuhl/email-signatures): Custom HTML/CSS e-mail signatures for Gmail
+* [ColorlibHQ/email-templates](https://github.com/ColorlibHQ/email-templates): Free HTML email templates for Mailchimp and other emails services
+* [maldevel/EmailHarvester](https://github.com/maldevel/EmailHarvester): Email addresses harvester
+* [crowdproperty/EmailSignatureMachine](https://github.com/crowdproperty/EmailSignatureMachine): You here to make some email signatures
+* [Sav22999/emoji](https://github.com/Sav22999/emoji): "Emoji" is a Firefox add-on where you can find emojis and copy them with a single click.
+* [mganss/EmojiAddIn](https://github.com/mganss/EmojiAddIn): Emoji for Outlook and Thunderbird
+* [hrai/english-popup-thesaurus](https://github.com/hrai/english-popup-thesaurus): Thesaurus firefox add-on.
+* [babarot/enhancd](https://github.com/babarot/enhancd): :rocket: A next-generation cd command with your interactive filter
+* [andreyvit/env](https://github.com/andreyvit/env): None
+* [bitgapp/eqMac](https://github.com/bitgapp/eqMac): macOS  System-wide Audio Equalizer & Volume Mixer  🎧
+* [rlxone/Equinox](https://github.com/rlxone/Equinox): 🌇 🌃  Create dynamic wallpapers for macOS.
+* [prettier/eslint-config-prettier](https://github.com/prettier/eslint-config-prettier): Turns off all rules that are unnecessary or might conflict with Prettier.
+* [prettier/eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier): ESLint plugin for Prettier formatting
+* [amebalabs/Esse](https://github.com/amebalabs/Esse): Swiss army knife of text transformation for iOS and macOS
+* [essandess/etv-comskip](https://github.com/essandess/etv-comskip): Commercial Marking and Skipping for EyeTV and iTunes Exports
+* [gao-sun/eul](https://github.com/gao-sun/eul): 🖥️ macOS status monitoring app written in SwiftUI.
+* [SoldierInFaith14/excel_automation](https://github.com/SoldierInFaith14/excel_automation): Python script that modifies Shopify spreadsheet exports of order details.
+* [KhashayarKhm/export-tabs-urls](https://github.com/KhashayarKhm/export-tabs-urls): https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
+* [Zabakes/export-tabs-urls](https://github.com/Zabakes/export-tabs-urls): https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
+* [alct/export-tabs-urls](https://github.com/alct/export-tabs-urls): https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
+* [crimx/ext-saladict](https://github.com/crimx/ext-saladict): 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
+* [Tuhinshubhra/ExtAnalysis](https://github.com/Tuhinshubhra/ExtAnalysis): Browser Extension Analysis Framework - Scan, Analyze Chrome, firefox and Brave extensions for vulnerabilities and intels
+* [presuku/exteditor-mailext](https://github.com/presuku/exteditor-mailext): A Thunderbird add-on for editing text in your favourite external editor!
+* [mkaply/extended_color_management](https://github.com/mkaply/extended_color_management): None
+* [Pocket/extension-save-to-pocket](https://github.com/Pocket/extension-save-to-pocket): Save to Pocket is a browser extension that is used to save pages to a connected Pocket account
+* [dkthehuman/extension-starter-kit](https://github.com/dkthehuman/extension-starter-kit): Starter kit for building Chrome/Firefox extensions
+* [raycast/extensions](https://github.com/raycast/extensions): Everything you need to extend Raycast.
+* [andy-portmen/external-application-button](https://github.com/andy-portmen/external-application-button): Communicate with external applications of your OS through a toolbar button or context menu item.
+* [feller-prj/extractor-project](https://github.com/feller-prj/extractor-project): forked from iaextractor
+* [jotyGill/ezsh](https://github.com/jotyGill/ezsh): quickly install zsh, oh-my-zsh with power-level-9k zsh-completions zsh-autosuggestions zsh-syntax-highlighting history-substring-search
+* [Raathigesh/fabulous](https://github.com/Raathigesh/fabulous): 🎨 CSS properties sidebar for VS Code
+* [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition): The world's simplest facial recognition api for Python and the command line
+* [dmhacker/facebook-message-analysis](https://github.com/dmhacker/facebook-message-analysis): Visualizations of Facebook messenger history
+* [algolia/facebook-search](https://github.com/algolia/facebook-search): Facebook Feed Search powered by Algolia
+* [TheAdnan/facebook-video-download](https://github.com/TheAdnan/facebook-video-download): Facebook video downloader for Firefox
+* [bcat95/Facebook-Video-Downloader](https://github.com/bcat95/Facebook-Video-Downloader): Facebook Video Downloader
+* [sameera-madushan/Facebook-Video-Downloader](https://github.com/sameera-madushan/Facebook-Video-Downloader): Python script to download and save your favorite Facebook videos.
+* [vikas5914/Facebook-Video-Downloader](https://github.com/vikas5914/Facebook-Video-Downloader): Facebook Video Downloader in PHP 
 * [facebookresearch/faiss](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors.
-* [markusressel/fan2go](https://github.com/markusressel/fan2go): A simple daemon providing dynamic fan speed control based on temperature sensors.
-* [fastfloat/fast_float](https://github.com/fastfloat/fast_float): Fast and exact implementation of the C++ from_chars functions for float and double types: 4x to 10x faster than strtod, part of GCC 12 and WebKit/Safari
-* [VictoriaMetrics/fastcache](https://github.com/VictoriaMetrics/fastcache): Fast thread-safe inmemory cache for big number of entries in Go. Minimizes GC overhead
-* [happyfish100/fastdfs](https://github.com/happyfish100/fastdfs): FastDFS is an open source high performance distributed file system (DFS). It's major functions include: file storing, file syncing and file accessing, and design for high capacity and load balance. Wechat/Weixin public account (Chinese Language): fastdfs
-* [fcitx/fcitx5](https://github.com/fcitx/fcitx5): maybe a new fcitx.
-* [felixonmars/fcitx5-pinyin-zhwiki](https://github.com/felixonmars/fcitx5-pinyin-zhwiki): Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
-* [PierreZ/fdb-etcd](https://github.com/PierreZ/fdb-etcd):  ETCD layer on top of FoundationDB
-* [FoundationDB/fdb-kubernetes-operator](https://github.com/FoundationDB/fdb-kubernetes-operator): A kubernetes operator for FoundationDB
-* [FoundationDB/fdb-record-layer](https://github.com/FoundationDB/fdb-record-layer): A record-oriented store built on FoundationDB
-* [pH14/fdb-zk](https://github.com/pH14/fdb-zk): ZooKeeper server on top of FoundationDB
-* [feeluown/FeelUOwn](https://github.com/feeluown/FeelUOwn): trying to be a robust, user-friendly and hackable music player
-* [alnorris/file-dialog](https://github.com/alnorris/file-dialog): Trigger the upload file dialog directly from your code easily.
-* [UnnoTed/fileb0x](https://github.com/UnnoTed/fileb0x): a better customizable tool to embed files in go; also update embedded files remotely without restarting the server
-* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash): 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
-* [gulrak/filesystem](https://github.com/gulrak/filesystem): An implementation of C++17 std::filesystem for C++11 /C++14/C++17/C++20 on Windows, macOS, Linux and FreeBSD.
-* [axboe/fio](https://github.com/axboe/fio): Flexible I/O Tester
-* [rafaelmardojai/firefox-gnome-scrollbars](https://github.com/rafaelmardojai/firefox-gnome-scrollbars): Firefox script providing GNOME overlay scrollbars
+* [FakeFiller/fake-filler-extension](https://github.com/FakeFiller/fake-filler-extension): A browser extension for Chrome, Edge and Firefox that fills dummy text in all input fields in a page.
+* [dumbmatter/fakeIndexedDB](https://github.com/dumbmatter/fakeIndexedDB): A pure JS in-memory implementation of the IndexedDB API
+* [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward): Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
+* [CleanCocoa/FatSidebar](https://github.com/CleanCocoa/FatSidebar): Custom vertical button toolbar for macOS
+* [ownaginatious/fbchat-archive-parser](https://github.com/ownaginatious/fbchat-archive-parser): An application for parsing chat history from a Facebook data archive.
+* [sharkdp/fd](https://github.com/sharkdp/fd): A simple, fast and user-friendly alternative to 'find'
+* [feather-wallet/feather](https://github.com/feather-wallet/feather): A free and open-source Monero desktop wallet.
+* [crestonbunch/ff-ctrl-e](https://github.com/crestonbunch/ff-ctrl-e): Ctrl+E shortcut for searching open tabs in Firefox
+* [B00ze64/FF-Menu-Icon-Plus-CSS](https://github.com/B00ze64/FF-Menu-Icon-Plus-CSS): Add icons to Firefox menus using userChrome/userContent.css
+* [ewen-lbh/ffcss](https://github.com/ewen-lbh/ffcss): A CLI interface to apply and configure FirefoxCSS themes
+* [mcosta3tc/FFCSS](https://github.com/mcosta3tc/FFCSS): Custom FireFox CSS
+* [dylanaraps/fff](https://github.com/dylanaraps/fff): 📁 A simple file manager written in bash.
+* [bigxixi/ffmpeg-mp4-and-gif-mac-automator](https://github.com/bigxixi/ffmpeg-mp4-and-gif-mac-automator): None
+* [withfig/fig](https://github.com/withfig/fig): Public issue tracker for Fig.
+* [mklement0/fileicon](https://github.com/mklement0/fileicon): macOS CLI for managing custom icons for files and folders
+* [RealRaven2000/FiltaQuilla](https://github.com/RealRaven2000/FiltaQuilla): Adds many new mail filter actions to Thunderbird
+* [yokoffing/filterlists](https://github.com/yokoffing/filterlists): Collection of filters to fill in the gaps
+* [iShopifyExpert/find-my-size-shopify](https://github.com/iShopifyExpert/find-my-size-shopify): None
+* [liqing1993/Find-The-Person-You-Want-in-videos](https://github.com/liqing1993/Find-The-Person-You-Want-in-videos): This project is to build a image search system. 
+* [pointu-l/finder-basic-visor](https://github.com/pointu-l/finder-basic-visor): Basic AppleScript visor mode for the finder. Designed for better touch tool
+* [synappser/FinderFix](https://github.com/synappser/FinderFix): FinderFix lets you resize and reposition Finder windows to your liking.
+* [onmyway133/FinderGo](https://github.com/onmyway133/FinderGo): 🐢 Open terminal quickly from Finder
+* [tonsky/FiraCode](https://github.com/tonsky/FiraCode): Free monospaced font with programming ligatures
+* [Hussseinkizz/FiraCodeiScript](https://github.com/Hussseinkizz/FiraCodeiScript): Mashup Font of FiraCode and Script12
+* [kencrocken/FiraCodeiScript](https://github.com/kencrocken/FiraCodeiScript): Mashup Font of FiraCode and Script12
+* [bennypowers/fireblocks](https://github.com/bennypowers/fireblocks): Chonky Firefox tabs for square developers
+* [Thomashighbaugh/firefox](https://github.com/Thomashighbaugh/firefox): Torturing Firefox with userchrome.js and userchrome.css in response to Mozilla's successive degradation of the browser window. 
+* [bolucat/Firefox](https://github.com/bolucat/Firefox): The Source Code of Firefox on Desktop
+* [crssi/Firefox](https://github.com/crssi/Firefox): None
+* [nonoroazoro/firefox](https://github.com/nonoroazoro/firefox): Customized Extensions, Scripts, UserChromeJS and Rules of Firefox.
+* [pellaeon/firefox-91plus-photon-userchrome](https://github.com/pellaeon/firefox-91plus-photon-userchrome): userChrome.css to restore the classic Photon look on Firefox 91+
+* [ACEx86/Firefox-about-config-tweaks](https://github.com/ACEx86/Firefox-about-config-tweaks): Firefox about:config useful tweaks.
+* [GitZip/firefox-addons](https://github.com/GitZip/firefox-addons): Firefox addons for GitZip
+* [GrosBourrin/FIREFOX-BLUE-MOON](https://github.com/GrosBourrin/FIREFOX-BLUE-MOON): Firefox blueish & dark theme 
+* [gabeweb/Firefox-Browser-Proton-Custom](https://github.com/gabeweb/Firefox-Browser-Proton-Custom): A custom userChrome.css for Firefox 86+ (February 2021). For personal purpose only. 
+* [anewuser/firefox-clean-dark-theme](https://github.com/anewuser/firefox-clean-dark-theme): Firefox dark theme with a less cluttered UI
+* [vallovic/firefox-colorize-container-toolbar](https://github.com/vallovic/firefox-colorize-container-toolbar): Firefox extension to automatically colorize browser toolbar by matching the color of the active container tab
+* [Mrbigdog99/Firefox-compact](https://github.com/Mrbigdog99/Firefox-compact): Compact userChrome for Firefox Proton
+* [krathalan/firefox-complement](https://github.com/krathalan/firefox-complement): None
+* [nightnoryu/firefox-config](https://github.com/nightnoryu/firefox-config): My Firefox configuration
+* [HamletDuFromage/firefox-css](https://github.com/HamletDuFromage/firefox-css): None
+* [Shadow-of-Colossus/Firefox-CSS](https://github.com/Shadow-of-Colossus/Firefox-CSS): A mish mash of css files to change Firefox appearance, more of old style
+* [akisblack/firefox-css](https://github.com/akisblack/firefox-css): My custom CSS for Firefox 
+* [pdtxie/firefox-css](https://github.com/pdtxie/firefox-css): None
+* [seatedSinger/Firefox-CSS](https://github.com/seatedSinger/Firefox-CSS): None
+* [NiBa97/firefox-css-custom](https://github.com/NiBa97/firefox-css-custom): A modified version of Andreas Grafen's "ag-proton" design for firefox
+* [viesual/Firefox-CSS-for-MacOS](https://github.com/viesual/Firefox-CSS-for-MacOS): A custom Firefox CSS that works well with the current MacOS design
+* [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks): Collection of userstyles affecting the browser
+* [Soft-Bred/Firefox-Customisation](https://github.com/Soft-Bred/Firefox-Customisation): None
+* [whitelightning76/Firefox-dark-theme](https://github.com/whitelightning76/Firefox-dark-theme): Just another dark theme
+* [junguler/firefox-dark-userContent.css](https://github.com/junguler/firefox-dark-userContent.css): css to compliment firefox's colors option for dark mode on all websites 
+* [gsomoza/firefox-easy-container-shortcuts](https://github.com/gsomoza/firefox-easy-container-shortcuts): Easy, opinionated, keyboard shortcuts for Firefox 57+ containers.
 * [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme): A GNOME👣 theme for Firefox🔥
-* [mozilla/firefox-translations](https://github.com/mozilla/firefox-translations): Firefox Translations is a webextension that enables client side translations for web browsers.
-* [netblue30/firejail](https://github.com/netblue30/firejail): Linux namespaces and seccomp-bpf sandbox
-* [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher): A plugin manager for Fish
-* [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph): Stack trace visualizer
-* [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk): 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
-* [bilelmoussaoui/flatpak-vscode](https://github.com/bilelmoussaoui/flatpak-vscode): Integrate Flatpak with VSCode 
-* [fastrizwaan/flatpak-wine](https://github.com/fastrizwaan/flatpak-wine): wine using flatpak (build with runtime freedesktop sdk 22.08), provides wine to Centos like distros (https://flatpak.org/setup/)
-* [pypa/flit](https://github.com/pypa/flit): Simplified packaging of Python modules
-* [florisboard/florisboard](https://github.com/florisboard/florisboard): An open-source keyboard for Android which respects your privacy. Currently in early-beta.
-* [facebook/flow](https://github.com/facebook/flow): Adds static typing to JavaScript to improve developer productivity and code quality.
-* [Macil/flow-copy-source](https://github.com/Macil/flow-copy-source): Script to copy javascript files and append ".flow" to the filename
-* [gajus/flow-runtime](https://github.com/gajus/flow-runtime): A runtime type system for JavaScript with full Flow compatibility.
-* [vinceliuice/Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme): Fluent design gtk theme for linux desktops
-* [vinceliuice/Fluent-icon-theme](https://github.com/vinceliuice/Fluent-icon-theme): Fluent icon theme for linux desktops
-* [fluent/fluentd](https://github.com/fluent/fluentd): Fluentd: Unified Logging Layer (project under CNCF)
-* [fluentscheduler/FluentScheduler](https://github.com/fluentscheduler/FluentScheduler): Automated job scheduler with fluent interface for the .NET platform.
+* [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx): Firefox Theme CSS to Opera GX Lovers
+* [SophieFitz/Firefox-History-Combiner](https://github.com/SophieFitz/Firefox-History-Combiner): 🚀 A blazing fast and efficient tool with GUI to combine multiple Firefox history databases together!
+* [pratyushtewari/firefox-like-chrome](https://github.com/pratyushtewari/firefox-like-chrome): This is the userChrome.css that can be used to theme Firfox Quantum 59.0 to look like chrome
+* [eko5/Firefox-Mac-os-X-](https://github.com/eko5/Firefox-Mac-os-X-): Light theme on Firefox 
+* [zvuc/firefox-macos-native-tabbar](https://github.com/zvuc/firefox-macos-native-tabbar): macOS Native-looking Translucent Tabbar for Firefox
+* [jeremyperkin/Firefox-macOS-setup](https://github.com/jeremyperkin/Firefox-macOS-setup): userChrome.css and userContent.css files.
+* [nchlscs/firefox-macos-style](https://github.com/nchlscs/firefox-macos-style): Firefox CSS theme inspired by Safari
+* [datttran/Firefox-mod](https://github.com/datttran/Firefox-mod): None
+* [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur): Firefox Theme - For dark theme lovers / More compact / Modular / Blur
+* [MatthewCash/firefox-mods](https://github.com/MatthewCash/firefox-mods): Firefox CSS and JS Mods
+* [gmardom/firefox-mods](https://github.com/gmardom/firefox-mods): None
+* [SebastianSimon/firefox-omni-tweaks](https://github.com/SebastianSimon/firefox-omni-tweaks): A script that disables the clickSelectsAll behavior of Firefox, and more.
+* [Godiesc/firefox-one](https://github.com/Godiesc/firefox-one): Firefox Theme for Opera One skin Lovers 
+* [nathandaven/firefox-paradise-theme](https://github.com/nathandaven/firefox-paradise-theme): My custom Firefox userChrome profile, setup with right handed vertical tabs, compact layout, and MacOS/Paradise theming. Also works on Windows!
+* [junocomp/firefox-phosh-theme](https://github.com/junocomp/firefox-phosh-theme): None
+* [nt0g/firefox-profile-stuff](https://github.com/nt0g/firefox-profile-stuff): As advertised on TV !
+* [LRDN/firefox-proton-custom](https://github.com/LRDN/firefox-proton-custom): Firefox default theme customization that replaces the floating tabs with a more conventional, cleaner interface.
+* [leadweedy/Firefox-Proton-Square](https://github.com/leadweedy/Firefox-Proton-Square): Makes Firefox Proton UI square again
+* [wrestlerdude/Firefox-Proton-Square](https://github.com/wrestlerdude/Firefox-Proton-Square): Makes Firefox Proton UI look and feel like Quantum
+* [xpmn/firefox-reading-list](https://github.com/xpmn/firefox-reading-list): A minimal Firefox extension for saving pages to read later.
+* [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar): Refine the Firefox (100–118) find bar by repositioning it, adjusting spacing & styling internal elements.
+* [mobiusxp/firefox-remap-private-browsing](https://github.com/mobiusxp/firefox-remap-private-browsing): UserChrome JS script to remap Firefox's Private Browsing to match everything else
+* [BGMP/firefox-revert-proton](https://github.com/BGMP/firefox-revert-proton): Revert Firefox Proton to Photon & Photon Compact
+* [denizjcan/Firefox-Safari-15-Theme](https://github.com/denizjcan/Firefox-Safari-15-Theme): A Firefox theme that emulates the Safari 15 interface and new tab page
+* [panjilp-lab/firefox-safari-noFix](https://github.com/panjilp-lab/firefox-safari-noFix): learning to make safari style for firefox
+* [ideaweb/firefox-safari-style](https://github.com/ideaweb/firefox-safari-style): A macOS compliant theme for Firefox
+* [panjilp-lab/firefox-safari-style](https://github.com/panjilp-lab/firefox-safari-style): put to default:profiles root dir
+* [tsanaung/firefox-safari-style](https://github.com/tsanaung/firefox-safari-style): None
+* [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts): Custom tweaks and preferences for Firefox
+* [xiaoxiaoflood/firefox-scripts](https://github.com/xiaoxiaoflood/firefox-scripts): userChromeJS / autoconfig.js and extensions
+* [onozaty/firefox-shortcutkey2url](https://github.com/onozaty/firefox-shortcutkey2url): ShortcutKey2URL - Firefox Extension
+* [YousufSSyed/Firefox-Skin](https://github.com/YousufSSyed/Firefox-Skin): A skin for Firefox using custom CSS
+* [zvuc/firefox-sliding-bookmarks-bar](https://github.com/zvuc/firefox-sliding-bookmarks-bar): Sliding bookmarks bar userChrome.css tweak for Firefox (71.0+) on macOS
+* [chronakis/firefox-sticky-window-containers](https://github.com/chronakis/firefox-sticky-window-containers): Firefox extention to make the current container "sticky" when opening a new tab
+* [SpitFire-666/Firefox-Stuff](https://github.com/SpitFire-666/Firefox-Stuff): Firefox info, addons, extensions, themes, customisation and stuff
+* [EliverLara/firefox-sweet-theme](https://github.com/EliverLara/firefox-sweet-theme): :candy: A dark and modern theme for firefox with vibrant colors
+* [BloodyHell619/Firefox-Theme-DarkMatter](https://github.com/BloodyHell619/Firefox-Theme-DarkMatter): None
+* [dazecoop/firefox-theme-macos-vibrant](https://github.com/dazecoop/firefox-theme-macos-vibrant): None
+* [LDK-iii/firefox-transparent-theme-mac](https://github.com/LDK-iii/firefox-transparent-theme-mac): One-line theme
+* [RobinBoers/firefox-tweaks](https://github.com/RobinBoers/firefox-tweaks): :fox_face: My current userChrome.css config for Firefox. Photon like design for Firefox.
+* [fuyu0425/firefox-tweaks](https://github.com/fuyu0425/firefox-tweaks): My FireFox Tweaks
+* [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix): 🦊 I respect proton UI and aim to improve it.
+* [denis-g/firefox-user.js](https://github.com/denis-g/firefox-user.js): 🦊 Firefox user.js – based on arkenfox/user.js with additional UI fixes.
+* [icpantsparti/firefox-user.js-tool](https://github.com/icpantsparti/firefox-user.js-tool): Interactive view, compare, and more for Firefox user.js (eg arkenfox/user.js) + about:config functions
+* [icpantsparti2/firefox-user.js-tool](https://github.com/icpantsparti2/firefox-user.js-tool): Interactive view, compare, and more for Firefox user.js (eg arkenfox/user.js) + about:config functions
+* [Guerra24/Firefox-UWP-Style](https://github.com/Guerra24/Firefox-UWP-Style): Sun Valley + MDL2 Theme for Firefox
+* [ranmaru22/firefox-vertical-tabs](https://github.com/ranmaru22/firefox-vertical-tabs): Vertical tabs for Firefox, inspired by Edge.
+* [sagars007/Firefox-vertical-tabs-customUI](https://github.com/sagars007/Firefox-vertical-tabs-customUI): Custom userChrome and userContent.css for Firefox. Including vertical tabs(tree_style_tabs), full dark mode, thin title-bar text in nav-bar and much more.
+* [CaptainEureka/firefox-vibrancy](https://github.com/CaptainEureka/firefox-vibrancy): None
+* [hongde88/firefox-workspace-manager](https://github.com/hongde88/firefox-workspace-manager): A Firefox extension that groups tabs into workspaces through the hide and show tab APIs.
+* [Rasmagoric/Firefox2022](https://github.com/Rasmagoric/Firefox2022): A new look for your Firefox browser.
+* [tagler/Firefox_Bookmark_Toolbar_Dark_Theme](https://github.com/tagler/Firefox_Bookmark_Toolbar_Dark_Theme): Custom CSS file for Firefox bookmark toolbar dark theme, v92+ (mac)
+* [denesberta/firefox_compact_style](https://github.com/denesberta/firefox_compact_style): Make Firefox compact!
+* [Yash220402/firefox_css_ui](https://github.com/Yash220402/firefox_css_ui): None
+* [unode/firefox_decrypt](https://github.com/unode/firefox_decrypt): Firefox Decrypt is a tool to extract passwords from Mozilla (Firefox™, Waterfox™, Thunderbird®, SeaMonkey®) profiles
+* [DrDesten/Firefox_reStock](https://github.com/DrDesten/Firefox_reStock): reStock theme for Mozilla Firefox. Gives Firefox an overhauled look and feel while preserving the structure und color palette of the default look
+* [Smile4ever/firefoxaddons](https://github.com/Smile4ever/firefoxaddons): Extend the functionality of Firefox with cool addons
+* [sdavidg/firefoxChromeScripts](https://github.com/sdavidg/firefoxChromeScripts): None
+* [guidoevers/firefoxcss](https://github.com/guidoevers/firefoxcss): transparancy
+* [Pepitortue/FirefoxCSS-Safari-theme](https://github.com/Pepitortue/FirefoxCSS-Safari-theme): A Safari like them for Firefox 100+
+* [benzBrake/FirefoxCustomize](https://github.com/benzBrake/FirefoxCustomize): Ryan 收集的 Firefox 个性化相关资源
+* [stobor827/firefoxPrefs](https://github.com/stobor827/firefoxPrefs): profile options that make firefox work the way I want.
+* [Tenmag/FirefoxPrivacyConfig](https://github.com/Tenmag/FirefoxPrivacyConfig): Firefox privacy configuration (help + user.js)
+* [drannex42/FirefoxSidebar](https://github.com/drannex42/FirefoxSidebar): Vertical tab design for Firefox with dynamic indentation:: Sideberry and TreeStyleTabs (Legacy) themes available! 
+* [garywill/FirefoxTaskMonitor](https://github.com/garywill/FirefoxTaskMonitor): Show CPU & memory bar, per tab and all tasks. Firefox userChrome script. 🛠️📊 (runs on ff 115)
+* [xKrusty/FirefoxTheme](https://github.com/xKrusty/FirefoxTheme): None
+* [gomita/firegestures](https://github.com/gomita/firegestures): FireGestures, a Firefox extension.
+* [josepedromonteiro/fireze](https://github.com/josepedromonteiro/fireze): Custome safari theme for Firefox
+* [Mortennn/FiScript](https://github.com/Mortennn/FiScript): Execute custom scripts from the MacOS context menu (CTRL+click) in Finder.
+* [daniruiz/flat-remix-css](https://github.com/daniruiz/flat-remix-css): A lightweight CSS library that provides a set of predesigned elements useful for rapid web development. It follows a modern flat design using a colorful palette with some shadows, highlights, and gradients for some depth.
+* [d3ward/floatly](https://github.com/d3ward/floatly): An extension that adds a floating button for browser quick actions 
+* [floccusaddon/floccus](https://github.com/floccusaddon/floccus): :cloud: Sync your bookmarks privately across browsers and devices
+* [julianandrews/flopferret](https://github.com/julianandrews/flopferret): Texas Hold'em board texture analyzer.
+* [d2phap/fluent-reveal-effect](https://github.com/d2phap/fluent-reveal-effect): Fluent Reveal Effect JavaScript library for web
+* [dannycandle/FluidFox](https://github.com/dannycandle/FluidFox): A custom Firefox userChrome for mac OS.
+* [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet): File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
 * [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox): An opinionated set of configurations for firefox.
-* [fmtlib/fmt](https://github.com/fmtlib/fmt): A modern formatting library
-* [foambubble/foam](https://github.com/foambubble/foam): A personal knowledge management and sharing system for VSCode
-* [Fody/Fody](https://github.com/Fody/Fody): Extensible tool for weaving .net assemblies
-* [johnfactotum/foliate](https://github.com/johnfactotum/foliate): Read e-books in style
-* [facebook/folly](https://github.com/facebook/folly): An open-source C++ library developed and used at Facebook.
-* [foreversd/forever](https://github.com/foreversd/forever): A simple CLI tool for ensuring that a given script runs continuously (i.e. forever)
-* [forge-ext/forge](https://github.com/forge-ext/forge): Forge - Tiling and Window Manager for Gnome-Shell
-* [jaredpalmer/formik](https://github.com/jaredpalmer/formik): Build forms in React, without the tears 😭 
-* [forza-painter/forza-painter](https://github.com/forza-painter/forza-painter): Import images into Forza
-* [ory/fosite](https://github.com/ory/fosite): Extensible security first OAuth 2.0 and OpenID Connect SDK for Go.
-* [apple/foundationdb](https://github.com/apple/foundationdb): FoundationDB - the open source, distributed, transactional key-value store
-* [wader/fq](https://github.com/wader/fq): jq for binary formats - tool, language and decoders for working with binary and text formats
-* [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): :books: Freely available programming books
-* [freeotp/freeotp-android](https://github.com/freeotp/freeotp-android): None
-* [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS): A free, self-hostable news aggregator…
-* [frida/frida](https://github.com/frida/frida): Clone this repo to build Frida
-* [fatedier/frp](https://github.com/fatedier/frp): A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-* [bit-kitchen/frpc](https://github.com/bit-kitchen/frpc): Ansible Role for installing and configuring frp client.
-* [jhspetersson/fselect](https://github.com/jhspetersson/fselect): Find files with SQL-like queries
-* [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify): Cross-platform file system notifications for Go.
-* [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm): 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why. 
-* [nolanlawson/fuite](https://github.com/nolanlawson/fuite): A tool for finding memory leaks in web apps
+* [avindra/fndr](https://github.com/avindra/fndr): An Internet helper to wrangle multiple search providers, extract social media ids, perform reverse image search and more.
+* [VigoKrumins/folder-icons](https://github.com/VigoKrumins/folder-icons): Custom folder icons for macOS & Windows
+* [lgarron/folderify](https://github.com/lgarron/folderify): :file_folder: Generate pixel-perfect macOS folder icons in the native style.
+* [terkelg/foldersstructure](https://github.com/terkelg/foldersstructure): macOS Automator workflow to scaffold my project directory structure.
+* [UrielAbergel/Follow_The_Image--ComputerVision](https://github.com/UrielAbergel/Follow_The_Image--ComputerVision): Search system, the system receives as input a picture of a person, and finds all his pictures in the destination folder or on the computer, the system will emit all the pictures in which the person appeared
+* [beichensky/Font](https://github.com/beichensky/Font): FiraCode 和 Operator Mono 字体
+* [Snilda/Font-Library](https://github.com/Snilda/Font-Library): Check Readme
+* [g-cqd/Fonts](https://github.com/g-cqd/Fonts): A curation of fonts from all over the world.
+* [ohmybahgosh/FONTS_DOT_COM_RIPPER](https://github.com/ohmybahgosh/FONTS_DOT_COM_RIPPER): Script to extract entire font families from Fonts.com, rips them as woff2 and final output includes woff2 and ttf files
+* [fontsource/fontsource](https://github.com/fontsource/fontsource): Self-host Open Source fonts in neatly bundled NPM packages.
+* [briankendall/forceFullDesktopBar](https://github.com/briankendall/forceFullDesktopBar): Utility for macOS that modifies the Dock process so that the desktop bar in Mission Control is always full size and showing previews
+* [AveYo/fox](https://github.com/AveYo/fox): Firefox stuff
+* [Neikon/Fox11](https://github.com/Neikon/Fox11): None
+* [bnpoirier/foxify](https://github.com/bnpoirier/foxify): Converts Chrome extensions to Firefox
+* [marklieberman/foxygestures](https://github.com/marklieberman/foxygestures): Mouse gestures for Firefox
+* [prabunagrajan/free-design-resources](https://github.com/prabunagrajan/free-design-resources): A collection of websites for free UI design materials for Sketch, Adobe XD, Figma, and other design tools.
+* [LightAPIs/free-export-bookmarks](https://github.com/LightAPIs/free-export-bookmarks): Freely bookmark export tool. 自由地书签导出工具。
+* [jeromelachaud/freelancer-theme](https://github.com/jeromelachaud/freelancer-theme): Jekyll theme based on Freelancer Start Bootstrap theme
+* [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube): An Open Source YouTube app for privacy
+* [Mandrenkov/FreshView](https://github.com/Mandrenkov/FreshView): Browser extension that hides watched YouTube™ videos.
+* [tortious/FrozenFox](https://github.com/tortious/FrozenFox): A personal hodgepodge of css and js hacks to firefox that I personally enjoy. Strong emphasis on a blend of minimalism and functionality.
+* [naiemofficial/FUIX](https://github.com/naiemofficial/FUIX): A browser extension for updating social media UI (eg: Facebook, Messenger, Instagram). Available for Chrome, Firefox, MS Edge, Opera
+* [mikemadden42/fuji](https://github.com/mikemadden42/fuji): AppleScript collection
+* [robrop/FullScreen-FirefoxMac](https://github.com/robrop/FullScreen-FirefoxMac): Firefox / Mac real full screen and hotkey
+* [CoocooFroggy/FutureRestore-GUI](https://github.com/CoocooFroggy/FutureRestore-GUI): A modern GUI for FutureRestore, with added features to make the process easier.
+* [MrOtherGuy/fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig): Load custom javascript in browser context
+* [dannycolin/fx-compact-mode](https://github.com/dannycolin/fx-compact-mode): A Compact Mode for Firefox Proton
+* [MrOtherGuy/fx-nightly-changelog](https://github.com/MrOtherGuy/fx-nightly-changelog): Generated list of daily bug fixes
+* [hensm/fx_cast](https://github.com/hensm/fx_cast): Chromecast Web Sender SDK implementation for Firefox
+* [MrOtherGuy/FxChromeViewer](https://github.com/MrOtherGuy/FxChromeViewer): None
+* [johannchangpro/fz.sh](https://github.com/johannchangpro/fz.sh): Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
 * [junegunn/fzf](https://github.com/junegunn/fzf): :cherry_blossom: A command-line fuzzy finder
-* [antvis/G2Plot](https://github.com/antvis/G2Plot): :dango:  An interactive and responsive charting library
-* [QianMo/Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes): :anchor:  我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding.
-* [FeralInteractive/gamemode](https://github.com/FeralInteractive/gamemode): Optimise Linux system performance on demand
-* [oap-project/gazelle_plugin](https://github.com/oap-project/gazelle_plugin): Native SQL Engine plugin for Spark SQL with vectorized SIMD optimizations.
-* [rohanrhu/gdb-frontend](https://github.com/rohanrhu/gdb-frontend): ☕ GDBFrontend is an easy, flexible and extensible gui debugger. Try it on https://debugme.dev
-* [gdm-settings/gdm-settings](https://github.com/gdm-settings/gdm-settings): A settings app for GNOME's Login Manager, GDM
-* [Kkevsterrr/geneva](https://github.com/Kkevsterrr/geneva): automated censorship evasion for the client-side and server-side 
-* [arkane-systems/genie](https://github.com/arkane-systems/genie): A quick way into a systemd "bottle" for WSL
-* [voderl/genshin-gacha-analyzer](https://github.com/voderl/genshin-gacha-analyzer): genshin wish history analyzer
-* [sunfkny/genshin-gacha-export](https://github.com/sunfkny/genshin-gacha-export): 原神抽卡记录导出
-* [wormtql/genshin_artifact](https://github.com/wormtql/genshin_artifact): 莫娜占卜铺 | 原神 | 圣遗物搭配 | 圣遗物潜力。多方向圣遗物自动搭配，多方向圣遗物潜力与评分, Genshin Impact artifacts assessment, artifacts auto combination, artifacts statistics, artifacts potential, and more.
-* [7eu7d7/genshin_auto_fish](https://github.com/7eu7d7/genshin_auto_fish): 基于深度强化学习的原神自动钓鱼AI
-* [ankitstarski/GeoclueShare](https://github.com/ankitstarski/GeoclueShare): GeoclueShare is an Android application that lets you share your Android GPS location with a GNOME Desktop located on the same WiFi network. You can disable or enable location sharing service in GeoclueShare as per your needs.
-* [LaTeX-Package-Repositories/geometry](https://github.com/LaTeX-Package-Repositories/geometry): Updating Hideo Umeki's geometry package for LaTeX page dimensions
-* [DavideBri/Gesko](https://github.com/DavideBri/Gesko): Gesko is a simple and minimalistic jekyll blogging theme.
-* [nakst/gf](https://github.com/nakst/gf): A GDB frontend for Linux.
-* [tcnksm/ghr](https://github.com/tcnksm/ghr): Upload multiple artifacts to GitHub Release in parallel 
-* [manisandro/gImageReader](https://github.com/manisandro/gImageReader): A Gtk/Qt front-end to tesseract-ocr.
-* [onsi/ginkgo](https://github.com/onsi/ginkgo): A Modern Testing Framework for Go
-* [giscus/giscus](https://github.com/giscus/giscus): A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
+* [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab): Replace zsh's default completion selection menu with fzf!
+* [perXautomatik/GAS-OneTabExportOrganizer](https://github.com/perXautomatik/GAS-OneTabExportOrganizer): OneTab -> googleSheets -> Clustering datasheet
+* [2ndalpha/gasmask](https://github.com/2ndalpha/gasmask): Hosts file manager for OS X
+* [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby): The best React-based framework with performance, scalability and security built in.
+* [wonism/gatsby-advanced-blog](https://github.com/wonism/gatsby-advanced-blog): Gatsby starter for advanced blog
+* [Vagr9K/gatsby-advanced-starter](https://github.com/Vagr9K/gatsby-advanced-starter): A high performance skeleton starter for GatsbyJS with an advanced feature set.
+* [Vagr9K/gatsby-material-starter](https://github.com/Vagr9K/gatsby-material-starter): A high performance blog starter with Material design in mind for GatsbyJS.
+* [gatsbyjs/gatsby-starter-blog](https://github.com/gatsbyjs/gatsby-starter-blog): Gatsby starter for creating a blog
+* [alxshelepenok/gatsby-starter-lumen](https://github.com/alxshelepenok/gatsby-starter-lumen): A constantly evolving and thoughtful architecture for creating static blogs with Gatsby.
+* [LekoArts/gatsby-starter-portfolio-cara](https://github.com/LekoArts/gatsby-starter-portfolio-cara): Playful and Colorful One-Page portfolio featuring Parallax effects and animations. Especially designers and/or photographers will love this theme! Built with MDX and Theme UI.
+* [ncyhere/gatsby-starter-shopify](https://github.com/ncyhere/gatsby-starter-shopify): A Gatsby starter using the latest Shopify plugin showcasing a store with product overview, individual product pages, and a cart
+* [LekoArts/gatsby-themes](https://github.com/LekoArts/gatsby-themes): Get high-quality and customizable Gatsby themes to quickly bootstrap your website! Choose from many professionally created and impressive designs with a wide variety of features and customization options.
+* [ftassy/GCalTab](https://github.com/ftassy/GCalTab): GCalTab is a Thunderbird add-on that opens Google Calendar website in a Thunderbird tab. It facilitates multiple accounts management. and features a beautiful dark mode thanks to the DarkReader algorithm.
+* [dantebarba/gdrive-migrator](https://github.com/dantebarba/gdrive-migrator): Google Drive Migrator helper. Migrates from one gdrive account to another
+* [ShanukJ/gDrive-Multiple-File-Upload](https://github.com/ShanukJ/gDrive-Multiple-File-Upload): This is a simple script to upload Multiple files into google drive using google drive API and Nodejs.
+* [rebhu-open-source-foundation/gecko-b2g](https://github.com/rebhu-open-source-foundation/gecko-b2g): This is a mirror of https://gitlab.com/rebhu/rosf/thenexus-codes/gecko-b2g
+* [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev): Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
+* [webextension-toolbox/generator-web-extension](https://github.com/webextension-toolbox/generator-web-extension): Advanced WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
+* [AlfarexGuy2019/GentleFox](https://github.com/AlfarexGuy2019/GentleFox): A Firefox theme, which features gentle curves, transparency and a minimal interface.
+* [danielmiessler/GeoHarvest](https://github.com/danielmiessler/GeoHarvest): A simple script for translating IP addresses to GeoLocations
+* [danielmiessler/geoip](https://github.com/danielmiessler/geoip): A Ruby script that takes in IPs and returns Country, State, and City
+* [marchyman/GeoTag](https://github.com/marchyman/GeoTag): Image geo location editing for macOS Ventura (13) and later.  Instructions and a .dmg of the current version are on the application home page.
+* [Robbendebiene/Gesturefy](https://github.com/Robbendebiene/Gesturefy): Navigate, operate, and browse faster with mouse gestures! A customizable Firefox mouse gesture add-on with a variety of different commands.
+* [Kevin-De-Koninck/Get-It](https://github.com/Kevin-De-Koninck/Get-It): A macOS GUI for youtube-dl
+* [finia2NA/getter](https://github.com/finia2NA/getter): A multi-workflow YouTube downloader
+* [shredthaGNAR/gh-bookmarks](https://github.com/shredthaGNAR/gh-bookmarks): None
+* [RaKeerS/Gif-Finder](https://github.com/RaKeerS/Gif-Finder): This is a web app created to be utilized in order to fetch the Gif Images from the Giphy Images Repository. It offer different categories and also a custom search tool in order to find what you exactly need! 
+* [defunkt/gist](https://github.com/defunkt/gist): Potentially the best command line gister.
+* [weakish/gister](https://github.com/weakish/gister): command line tool to sync github gists
+* [Gisto/Gisto](https://github.com/Gisto/Gisto): Gisto is a Cross-platform snippets management desktop application that allows you and/or your team share code snippets fast and easily.  Based on GitHub Gists Infrastructure which means you can use all your existing snippets by connecting your GitHub account!  Gisto started as an attempt to fulfill the lack of a syntax highlighted and cloud synchronized code snippet solution.  You may thing of Gisto as Evernote for code.
+* [lostintangent/gistpad](https://github.com/lostintangent/gistpad): VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
+* [mufeedvh/gisture](https://github.com/mufeedvh/gisture): A minimal and flexible blog generator based on GitHub Gist.
 * [git/git](https://github.com/git/git): Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
-* [google/git-appraise](https://github.com/google/git-appraise): Distributed code review system for Git repos
-* [Kentzo/git-archive-all](https://github.com/Kentzo/git-archive-all): A python script wrapper for git-archive that archives a git superproject and its submodules, if it has any. Takes into account .gitattributes
-* [AGWA/git-crypt](https://github.com/AGWA/git-crypt): Transparent file encryption in git
-* [newren/git-filter-repo](https://github.com/newren/git-filter-repo): Quickly rewrite git repository history (filter-branch replacement)
-* [spwhitton/git-remote-gcrypt](https://github.com/spwhitton/git-remote-gcrypt): PGP-encrypted git remotes
-* [concourse/git-resource](https://github.com/concourse/git-resource): tracks commits in a branch of a Git repository
-* [sobolevn/git-secret](https://github.com/sobolevn/git-secret): :busts_in_silhouette: A bash-tool to store your private data inside a git repository.
-* [banga/git-split-diffs](https://github.com/banga/git-split-diffs): GitHub style split diffs in your terminal
-* [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips): :trollface:Git的奇技淫巧
-* [gitalk/gitalk](https://github.com/gitalk/gitalk): Gitalk is a modern comment component based on Github Issue and Preact.
-* [go-gitea/gitea](https://github.com/go-gitea/gitea): Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-* [presslabs/gitfs](https://github.com/presslabs/gitfs): Version controlled file system
-* [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts): :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
-* [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css): The minimal amount of CSS to replicate the GitHub Markdown style
-* [ad-m/github-push-action](https://github.com/ad-m/github-push-action): GitHub actions to push back to repository eg. updated code
-* [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats): :zap: Dynamically generated stats for your github readmes
-* [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats): 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
-* [benoitgrelard/github-stars-tagger](https://github.com/benoitgrelard/github-stars-tagger): A Google Chrome extension that lets you add tags to your starred repositories directly on GitHub
-* [conwnet/github1s](https://github.com/conwnet/github1s): One second to read GitHub code with VS Code.
-* [devlooped/GitInfo](https://github.com/devlooped/GitInfo): Git and SemVer Info from MSBuild, C# and VB
+* [pomber/git-history](https://github.com/pomber/git-history): Quickly browse the history of a file from any git repository
+* [IndexStorm/git-rec-ext](https://github.com/IndexStorm/git-rec-ext): Frontend code for GitHub Recommendation Extension
+* [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako): 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
+* [DonJayamanne/gitHistoryVSCode](https://github.com/DonJayamanne/gitHistoryVSCode): Git History for Visual Studio Code
+* [renatorib/github-blog](https://github.com/renatorib/github-blog): :octopus: Turn your github issues into a CMS for your blog.
+* [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark): :octocat: Dark GitHub style
+* [StylishThemes/GitHub-Dark-Script](https://github.com/StylishThemes/GitHub-Dark-Script): Archived - Please use https://github.com/StylishThemes/GitHub-Dark directly
+* [alexmdodge/github-diff-explorer](https://github.com/alexmdodge/github-diff-explorer): The GitHub Diff Explorer is a Chrome/Firefox extension that generates a seamless file explorer with a minimalist focus.
+* [homerchen19/github-file-icons](https://github.com/homerchen19/github-file-icons): 🌈 🗂 A browser extension which gives different filetypes different icons to GitHub, GitLab, gitea and gogs.
+* [othyn/github-folder-icon-macOS](https://github.com/othyn/github-folder-icon-macOS): GitHub folder icon for use in macOS. Made so that it fits nicely alongside all the others inside your home directory. Mac OS X 10.5 (Leopard) through to macOS 13 (Ventura).
+* [Claudiohbsantos/github-material-icons-extension](https://github.com/Claudiohbsantos/github-material-icons-extension): None
+* [quantleaf/github-natural-advanced-search](https://github.com/quantleaf/github-natural-advanced-search): None
+* [skills/github-pages](https://github.com/skills/github-pages): Create a site or blog from your GitHub repositories with GitHub Pages.
+* [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator): 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
+* [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator): 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
+* [Shywim/github-repo-size](https://github.com/Shywim/github-repo-size): A Firefox addon showing the size of a Github repository.
+* [BaseMax/GitHub-Repository-Export-List](https://github.com/BaseMax/GitHub-Repository-Export-List): Python: A tiny script to get list of all repository of a GitHub user and generate HTML output with style.
+* [sevenc-nanashi/github-snippets](https://github.com/sevenc-nanashi/github-snippets): Adds a section to copy snippet in GitHub repository page.
+* [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts): Userscripts to add functionality to GitHub
+* [zvizvi/GitHub-Web-IDE](https://github.com/zvizvi/GitHub-Web-IDE): ⚡ Open GitHub repositories in online web IDE
+* [ckeditor/github-writer](https://github.com/ckeditor/github-writer): GitHub Writer - WYSIWYG Rich-Text Editor for GitHub, powered by CKEditor.
+* [benbalter/github_records_archiver](https://github.com/benbalter/github_records_archiver): Backs up a GitHub organization's repositories and all their associated information for archival purposes.
+* [github/gitignore](https://github.com/github/gitignore): A collection of useful .gitignore templates
 * [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal): Mobile first Note Taking integrated with Git
-* [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks): Protect and discover secrets using Gitleaks 🔑
-* [harness/gitness](https://github.com/harness/gitness): Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
-* [sitaramc/gitolite](https://github.com/sitaramc/gitolite): Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.
-* [muesli/gitomatic](https://github.com/muesli/gitomatic): A tool to monitor git repositories and automatically pull & push changes
-* [Byron/gitoxide](https://github.com/Byron/gitoxide): An idiomatic, lean, fast & safe pure Rust implementation of Git
-* [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars): Github Starred Repositories Manager
-* [extrawurst/gitui](https://github.com/extrawurst/gitui): Blazing 💥 fast terminal-ui for git written in rust 🦀
-* [optimisme/gjs-examples](https://github.com/optimisme/gjs-examples): GJS examples showing how to build Gtk javascript applications
-* [Vishram1123/gjs-osk](https://github.com/Vishram1123/gjs-osk): A (marginally) better on screen keyboard for GNOME 43+
-* [wheybags/glibc_version_header](https://github.com/wheybags/glibc_version_header): Build portable Linux binaries without using an ancient distro
-* [Masterminds/glide](https://github.com/Masterminds/glide): Package Management for Golang
-* [solo-io/gloo](https://github.com/solo-io/gloo): The Feature-rich, Kubernetes-native, Next-Generation API Gateway Built on Envoy
-* [angt/glorytun](https://github.com/angt/glorytun): Multipath UDP tunnel
-* [gluster/glusterfs](https://github.com/gluster/glusterfs): Gluster Filesystem : Build your distributed storage in minutes
-* [oap-project/gluten](https://github.com/oap-project/gluten): Gluten: Plugin to Double SparkSQL's Performance
-* [me-shaon/GLWTPL](https://github.com/me-shaon/GLWTPL): "Good Luck With That" Public License
-* [SUPERCILEX/gnome-clipboard-history](https://github.com/SUPERCILEX/gnome-clipboard-history): Gnome Clipboard History is a Gnome extension that saves what you've copied into an easily accessible, searchable history panel.
-* [jeffshee/gnome-ext-hanabi](https://github.com/jeffshee/gnome-ext-hanabi): Live Wallpaper for GNOME
-* [harshadgavali/gnome-gesture-improvements](https://github.com/harshadgavali/gnome-gesture-improvements): Touchpad gesture improvements for GNOME on Wayland/X11 
-* [win0err/gnome-runcat](https://github.com/win0err/gnome-runcat): 😼 The cat tells you the CPU usage by running speed
-* [eonpatapon/gnome-shell-extension-caffeine](https://github.com/eonpatapon/gnome-shell-extension-caffeine): Disable screensaver and auto suspend
-* [Tudmotu/gnome-shell-extension-clipboard-indicator](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator): The most popular clipboard manager for GNOME, with over 1M downloads
-* [GSConnect/gnome-shell-extension-gsconnect](https://github.com/GSConnect/gnome-shell-extension-gsconnect): KDE Connect implementation for GNOME
-* [michael-rapp/gnome-shell-extension-hide-app-icon](https://github.com/michael-rapp/gnome-shell-extension-hide-app-icon): A GNOME shell extension, which allows to hide the icon and/or title of the focused application in the top panel
-* [AlynxZhou/gnome-shell-extension-inotch](https://github.com/AlynxZhou/gnome-shell-extension-inotch): Add a useless notch to your screen.
-* [wengxt/gnome-shell-extension-kimpanel](https://github.com/wengxt/gnome-shell-extension-kimpanel): KDE kimpanel protocol for gnome shell
-* [repsac-by/gnome-shell-extension-quake-mode](https://github.com/repsac-by/gnome-shell-extension-quake-mode): It's a GNOME Shell extension adds support quake-mode for any application
-* [julio641742/gnome-shell-extension-reference](https://github.com/julio641742/gnome-shell-extension-reference): None
-* [jaystrictor/gnome-shell-extension-syncthing](https://github.com/jaystrictor/gnome-shell-extension-syncthing): None
-* [zhangkaizhao/gnome-shell-extension-tray-icons](https://github.com/zhangkaizhao/gnome-shell-extension-tray-icons): GNOME shell extension - Tray icons
-* [N-Yuki/gnome-shell-extension-workspace-isolated-dash](https://github.com/N-Yuki/gnome-shell-extension-workspace-isolated-dash): Isolate workspaces in Gnome Shell
-* [JoseExposito/gnome-shell-extension-x11gestures](https://github.com/JoseExposito/gnome-shell-extension-x11gestures): Enable GNOME Shell multi-touch gestures on X11 with this extension
-* [bodedejavu/gnome-shell-extensions](https://github.com/bodedejavu/gnome-shell-extensions): None
-* [mipmip/gnome-shell-extensions-useless-gaps](https://github.com/mipmip/gnome-shell-extensions-useless-gaps): For aesthetic purposes adds useless gaps around tiled and maximized windows
-* [oae/gnome-shell-pano](https://github.com/oae/gnome-shell-pano): Next-gen Clipboard Manager for Gnome Shell
-* [sevenuz/gnome-translate-indicator](https://github.com/sevenuz/gnome-translate-indicator): None
-* [harshadgavali/gnome-x11-gesture-daemon](https://github.com/harshadgavali/gnome-x11-gesture-daemon): None
-* [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go): Algorithms and Data Structures implemented in Go for beginners, following best practices.
-* [LinkLeong/go-aliyundrive-webdav](https://github.com/LinkLeong/go-aliyundrive-webdav): 阿里云盘(https://www.aliyundrive.com/) 的webdav协议开源实现
-* [alexflint/go-arg](https://github.com/alexflint/go-arg): Struct-based argument parsing in Go
-* [Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp): cqhttp的golang实现，轻量、原生跨平台.
-* [Kagami/go-face](https://github.com/Kagami/go-face): :mag: Face recognition with Go
-* [square/go-jose](https://github.com/square/go-jose): An implementation of JOSE standards (JWE, JWS, JWT) in Go
-* [sourcegraph/go-langserver](https://github.com/sourcegraph/go-langserver): Go language server to add Go support to editors and other tools that use the Language Server Protocol (LSP)
-* [tmrts/go-patterns](https://github.com/tmrts/go-patterns): Curated list of Go design patterns, recipes and idioms
-* [c-bata/go-prompt](https://github.com/c-bata/go-prompt): Building powerful interactive prompts in Go, inspired by python-prompt-toolkit.
-* [emicklei/go-restful](https://github.com/emicklei/go-restful): package for building REST-style Web Services using Go
-* [datawhalechina/go-talent](https://github.com/datawhalechina/go-talent): Go天才小队
-* [eycorsican/go-tun2socks](https://github.com/eycorsican/go-tun2socks): A tun2socks implementation written in Go.
-* [xxf098/go-tun2socks-build](https://github.com/xxf098/go-tun2socks-build): tun2socks with v2ray & xray support for Android
-* [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang): A cross-platform TUI database management tool written in Rust
-* [gocd/gocd](https://github.com/gocd/gocd): Main repository for GoCD - Continuous Delivery server
-* [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron): A Golang Job Scheduling Package.
-* [rfjakob/gocryptfs](https://github.com/rfjakob/gocryptfs): Encrypted overlay filesystem written in Go
-* [jroimartin/gocui](https://github.com/jroimartin/gocui): Minimalist Go package aimed at creating Console User Interfaces.
-* [johannesboyne/gofakes3](https://github.com/johannesboyne/gofakes3): A simple fake AWS S3 object storage (used for local test-runs against AWS S3 APIs)
-* [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh): Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
-* [goccmack/gogll](https://github.com/goccmack/gogll): Generates generalised LL (GLL) and reduced size LR(1) parsers with matching lexers
-* [gogradle/gogradle](https://github.com/gogradle/gogradle): A Gradle Plugin Providing Full Support for Go
-* [gogs/gogs](https://github.com/gogs/gogs): Gogs is a painless self-hosted Git service
-* [eolinker/goku_lite](https://github.com/eolinker/goku_lite): A Powerful HTTP API Gateway in pure golang！Goku API Gateway （中文名：悟空 API 网关）是一个基于 Golang开发的微服务网关，能够实现高性能 HTTP API 转发、服务编排、多租户管理、API 访问权限控制等目的，拥有强大的自定义插件系统可以自行扩展，并且提供友好的图形化配置界面，能够快速帮助企业进行 API 服务治理、提高 API 服务的稳定性和安全性。
-* [xitu/gold-miner](https://github.com/xitu/gold-miner): 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
-* [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist): 我终于能用谷歌搜中文了……
-* [matheuss/google-translate-api](https://github.com/matheuss/google-translate-api): A free and unlimited API for Google Translate :dollar::no_entry_sign:
-* [ful1e5/Google_Cursor](https://github.com/ful1e5/Google_Cursor): An opensource cursor theme inspired by Google.
-* [google/googletest](https://github.com/google/googletest): GoogleTest - Google Testing and Mocking Framework
-* [goplus/gop](https://github.com/goplus/gop): The Go+ programming language is designed for engineering, STEM education, and data science.
-* [gopasspw/gopass](https://github.com/gopasspw/gopass): The slightly more awesome standard unix password manager for teams
-* [mattn/goreman](https://github.com/mattn/goreman): foreman clone written in go language
-* [go-gorm/gorm](https://github.com/go-gorm/gorm): The fantastic ORM library for Golang, aims to be developer friendly
-* [ginuerzh/gost](https://github.com/ginuerzh/gost): GO Simple Tunnel - a simple tunnel written in golang
-* [greenplum-db/gpdb](https://github.com/greenplum-db/gpdb): Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI.
-* [oracle/graal](https://github.com/oracle/graal): GraalVM: Run Programs Faster Anywhere :rocket:
-* [oracle/graaljs](https://github.com/oracle/graaljs): A ECMAScript 2022 compliant JavaScript implementation built on GraalVM. With polyglot language interoperability support. Running Node.js applications!
-* [graphql/graphiql](https://github.com/graphql/graphiql): GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
-* [vinceliuice/Graphite-gtk-theme](https://github.com/vinceliuice/Graphite-gtk-theme): Graphite gtk theme
-* [chkimes/graphql-net](https://github.com/chkimes/graphql-net): Convert GraphQL to IQueryable
-* [graphql/graphql-playground](https://github.com/graphql/graphql-playground): 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
-* [jaydenseric/graphql-react](https://github.com/jaydenseric/graphql-react): A GraphQL client for React using modern context and hooks APIs that is lightweight (< 4 kB) but powerful; the first Relay and Apollo alternative with server side rendering.
-* [jasonkuhrt/graphql-request](https://github.com/jasonkuhrt/graphql-request): Minimal GraphQL client supporting Node and browsers for scripts or simple apps
-* [erebe/greenclip](https://github.com/erebe/greenclip): Simple clipboard manager to be integrated with rofi - Static binary available
-* [pemistahl/grex](https://github.com/pemistahl/grex): A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
-* [getgridea/gridea](https://github.com/getgridea/gridea): ✍️ A static blog writing client (一个静态博客写作客户端)
-* [bcicen/grmon](https://github.com/bcicen/grmon): Command line monitoring for goroutines
-* [jcouyang/grokking-monad](https://github.com/jcouyang/grokking-monad): 购买 :point_right: https://gum.co/grokking-monad  在线阅读 :point_right:
-* [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl): Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
-* [greensock/GSAP](https://github.com/greensock/GSAP): GreenSock's GSAP JavaScript animation library (including Draggable).
-* [kgshank/gse-refresh-wifi](https://github.com/kgshank/gse-refresh-wifi): Gnome Shell Extension - Refresh Wifi
-* [kgshank/gse-sound-output-device-chooser](https://github.com/kgshank/gse-sound-output-device-chooser): Gnome Shell Extension to show a simple chooser to select Input & Output device based on gnome control center
-* [microsoft/GSL](https://github.com/microsoft/GSL): Guidelines Support Library
-* [Guake/guake](https://github.com/Guake/guake): Drop-down terminal for GNOME
-* [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy): A full fledged GUI integration for the award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
-* [moovweb/gvm](https://github.com/moovweb/gvm): Go Version Manager
-* [lrsjng/h5ai](https://github.com/lrsjng/h5ai): HTTP web server index for Apache httpd, lighttpd and nginx.
-* [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh): 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
+* [gorse-io/gitrec](https://github.com/gorse-io/gitrec): A recommender system for GitHub repositories based on Gorse
+* [to-ie/gitswitch](https://github.com/to-ie/gitswitch): This script helps with users who have multiple GitHub profiles and require to switch between them on a regular basis.  
+* [gitx/gitx](https://github.com/gitx/gitx): The best fork of the best lightweight, visual git client for macOS.
+* [kiwiz/gkeepapi](https://github.com/kiwiz/gkeepapi): An unofficial client for the Google Keep API.
+* [chamburr/glance](https://github.com/chamburr/glance): 🔎 All-in-one Quick Look plugin
+* [mjshofy/glass-morphism-ui-card-design](https://github.com/mjshofy/glass-morphism-ui-card-design): Learn to create a glass morphism UI card using HTML and CSS easily
+* [4xx404/GlassFrog](https://github.com/4xx404/GlassFrog): Keyword Search & Information Gathering Tool
+* [ravindranag/glassmorphism-in-firefox](https://github.com/ravindranag/glassmorphism-in-firefox): Create cards with acrylic effect in Firefox
+* [5starkarma/global-poker-addons](https://github.com/5starkarma/global-poker-addons): Quick Seat/Automated Tiling/Hotkey Tool
+* [mr-feek/global-poker-hand-history-converter](https://github.com/mr-feek/global-poker-hand-history-converter): :spades: :clubs: Convert Global Poker hand histories to PokerStars format :hearts: :diamonds:
+* [mr-feek/global-poker-hand-history-converter-chrome-extension](https://github.com/mr-feek/global-poker-hand-history-converter-chrome-extension): Chrome Extension for fetching Global Poker hand histories and converting them to poker stars format.
+* [jabiddle/GlobalPokerExt](https://github.com/jabiddle/GlobalPokerExt): A Chrome extension that adds automation and statistic collection to GlobalPoker.
+* [yinthewind/GlobalPokerHandTracker](https://github.com/yinthewind/GlobalPokerHandTracker): None
+* [tomatopickle/Glox](https://github.com/tomatopickle/Glox): A glassmorphistic Firefox skin, also has round elements
+* [langren1353/GM_script](https://github.com/langren1353/GM_script): 我就是来分享脚本玩玩的
+* [Ipetar69/Gmail-creator](https://github.com/Ipetar69/Gmail-creator): It will generate random credentials for a new Gmail account. It autostarts Firefox and it is autotyping, you don't have to do anything other than run the script.
+* [timche/gmail-desktop](https://github.com/timche/gmail-desktop): :postbox: Nifty Gmail desktop app for macOS, Linux & Windows
+* [skarif2/gmail-signature](https://github.com/skarif2/gmail-signature): :rabbit: Most elegant looking Gmail Signature in the world :metal:
+* [tumpio/gmscripts](https://github.com/tumpio/gmscripts): tumpio's usercripts
+* [L11R/go-autoconfig](https://github.com/L11R/go-autoconfig): IMAP/SMTP autodiscover feature for Thunderbird, Apple Mail and Microsoft Outlook
+* [Phantas0s/gocket](https://github.com/Phantas0s/gocket): 💼 CLI / TUI for Pocket 
+* [yqrashawn/GokuRakuJoudo](https://github.com/yqrashawn/GokuRakuJoudo): config karabiner with ease
+* [GoldenChaos/GoldenChaos-BTT](https://github.com/GoldenChaos/GoldenChaos-BTT): The complete Touch Bar UI replacement for BetterTouchTool
+* [min-uuu/GoldenRabbit-BTT](https://github.com/min-uuu/GoldenRabbit-BTT): MacBook Pro touchbar custom. Perfectly Optimized BTT(Better Touch Tool) Preset.
+* [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds): None
+* [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey): Turn (almost) any Python command line program into a full GUI application with one line
+* [zanonmark/Google-4-TbSync](https://github.com/zanonmark/Google-4-TbSync): This provider add-on adds Google synchronization capabilities to TbSync. Only contacts and contact groups are currently managed, using Google's People API.
+* [vinaywadhwa/Google-Account-Switcher---Alfred](https://github.com/vinaywadhwa/Google-Account-Switcher---Alfred): An Alfred workflow to Switch Google/GSuite accounts on Google websites (Gmail, Drive, Calendar) with keyboard shortcuts.
+* [GratefulDave/google-analytics-dynamic-remarketing-code-for-shopify](https://github.com/GratefulDave/google-analytics-dynamic-remarketing-code-for-shopify): Google Analytics Dynamic Remarketing Code for Shopify
+* [mikeroyal/Google-Cloud-Guide](https://github.com/mikeroyal/Google-Cloud-Guide): Google Cloud Platform (GCP) Guide. Learn all about Google Cloud Tools, Services, and Certifications.
+* [blyad2137/google-dark-theme](https://github.com/blyad2137/google-dark-theme): The Ultimate Dark Theme for Google.
+* [elibroftw/google-dark-theme](https://github.com/elibroftw/google-dark-theme): A dark theme for Google based on YouTube's dark theme
+* [donspablo/Google-Drive-Direct](https://github.com/donspablo/Google-Drive-Direct): The Google Drive Direct Bookmarklet is a bookmark that allows you to input a download URL and have it added directly to your Google Drive almost instantly, without using your bandwidth. Its really easy, drag and drop the bookmark onto your address bar, click on the bookmark enter the details, and done. It fast, easy to use and completely free.
+* [Sparab16/Google-Drive-Upload](https://github.com/Sparab16/Google-Drive-Upload): Google drive upload is useful to help the user upload any files/folders directly on thier respective Google Drive account without leaving their system.
+* [willo32/google-drive-upload-action](https://github.com/willo32/google-drive-upload-action): Github action to upload a file to Google Drive using a service account
+* [alfredapp/google-drive-workflow](https://github.com/alfredapp/google-drive-workflow): Alfred Workflow for Google Drive
+* [kimlimjustin/google-keep-clone](https://github.com/kimlimjustin/google-keep-clone): Clone of Google Keep built using Django and Javascript
+* [vHanda/google-keep-exporter](https://github.com/vHanda/google-keep-exporter): Export google keep notes to markdown
+* [cheap-glitch/google-keep-to-clipboard](https://github.com/cheap-glitch/google-keep-to-clipboard): 🗒️ A tiny browser extension to copy the contents of Google Keep notes to the clipboard in various formats.
+* [kelyvin/Google-Messages-For-Desktop](https://github.com/kelyvin/Google-Messages-For-Desktop): A "native-like" OS X, Windows, & Linux desktop app for Google Messages
+* [mrishab/google-photos-delete-tool](https://github.com/mrishab/google-photos-delete-tool): Tool for deleting all photos from the Google Photos
+* [jmlntw/google-search-sidebar](https://github.com/jmlntw/google-search-sidebar): A user script and user style to move Google search tools to sidebar.
+* [gglukmann/google-sheets-mapper](https://github.com/gglukmann/google-sheets-mapper): 📝  A library for getting data from Google Sheets API v4
+* [scrapewalrus/Google-Shopping-Scraper](https://github.com/scrapewalrus/Google-Shopping-Scraper): This is a python Google Shopping scraper that can scrape all the products by searching for a keyword.
+* [Ibit-to/google-unlocked](https://github.com/Ibit-to/google-unlocked): Google Unlocked browser extension uncensor google search results
+* [milosbunijevac/GoogleDownloader](https://github.com/milosbunijevac/GoogleDownloader): Python: Opens a google search to get the first 10 4k images of the person you enter. Downloads images to new folder named after search.
+* [fanfare/googleimagesrestored](https://github.com/fanfare/googleimagesrestored): This extension attempts to make Google Images look and feel like it did before they changed everything on August 6th, 2019.
+* [anselm94/googlekeepclone](https://github.com/anselm94/googlekeepclone): A clone of Google Keep with its original Material Design aesthetics
+* [spmbt/googleSearchExtraButtons](https://github.com/spmbt/googleSearchExtraButtons): Google Search Extra Buttons
+* [sunlightworks/gosun_dev](https://github.com/sunlightworks/gosun_dev): Built for GoSun (gosun.co). Made with ♥ by Latimer Design. 
+* [privacy-tech-lab/gpc-optmeowt](https://github.com/privacy-tech-lab/gpc-optmeowt): Browser extension for opting out from web tracking via GPC
+* [gphoto/gphoto2](https://github.com/gphoto/gphoto2): The gphoto2 commandline tool for accessing and controlling digital cameras.
+* [yinthewind/GPHud](https://github.com/yinthewind/GPHud): None
+* [vipintom/gpm2spotify](https://github.com/vipintom/gpm2spotify): Google Play Music to Spotify Library Exporter
+* [zenangst/Gray](https://github.com/zenangst/Gray):  :first_quarter_moon: Tailor your macOS Mojave experience
+* [vitalif/grive2](https://github.com/vitalif/grive2): Google Drive client with support for new Drive REST API and partial sync
+* [tardisx/gropple](https://github.com/tardisx/gropple): Server and bookmarklet to download files via youtube-dl directly from your browser. Cross platform single binary installation, web browser configurable.
+* [samfromaway/Gulp-Boilerplate01](https://github.com/samfromaway/Gulp-Boilerplate01): Boilerplate for a Gulp-Workflow for a Youtube video. If you are lazy like me and are always on the watch out of how you can optimize your workflow especially in regards to deploying a HTML CSS Javascript website this boilerplate is for you. 
+* [jasewarner/gulp-shopify](https://github.com/jasewarner/gulp-shopify): Blank slate Shopify theme for Developers, packaged with Gulp.js for processing SCSS, JavaScript (ES6), images and fonts. Made to support Online Store 2.0 features and Shopify CLI.
 * [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh): Hackintosh long-term maintenance model EFI and installation tutorial
-* [ecmadao/hacknical](https://github.com/ecmadao/hacknical): Hacknical, hacker & technical. A website for GitHub user to make a better resume.
-* [apache/hadoop](https://github.com/apache/hadoop): Apache Hadoop
+* [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon): Staggeringly powerful macOS desktop automation with Lua
+* [KURANADO2/hammerspoon-kuranado](https://github.com/KURANADO2/hammerspoon-kuranado): Hammerspoon config（Support custom shortcut keys, emoji search, application shortcut switching, real-time network speed, key echo, etc.）
+* [peterklijn/hammerspoon-shiftit](https://github.com/peterklijn/hammerspoon-shiftit): A ShiftIt like Hammerspoon window management configuration
 * [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake): HandBrake's main development repository 
-* [shannonmoeller/handlebars-layouts](https://github.com/shannonmoeller/handlebars-layouts): Handlebars helpers which implement layout blocks similar to Jinja, Nunjucks (Swig), Pug (Jade), and Twig.
-* [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js): Minimal templating on steroids.
-* [HangfireIO/Hangfire](https://github.com/HangfireIO/Hangfire): An easy way to perform background job processing in .NET and .NET Core applications. No Windows Service or separate process required
-* [goharbor/harbor](https://github.com/goharbor/harbor): An open source trusted cloud native registry project that stores, signs, and scans content.
-* [haskell/haskell-ide-engine](https://github.com/haskell/haskell-ide-engine): The engine for haskell ide-integration. Not an IDE
-* [haskell/haskell-language-server](https://github.com/haskell/haskell-language-server): Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
-* [neovimhaskell/haskell-vim](https://github.com/neovimhaskell/haskell-vim): Custom Haskell Vimscripts
-* [apache/hawq](https://github.com/apache/hawq): Apache HAWQ
-* [jwuensche/heic-to-dynamic-gnome-wallpaper](https://github.com/jwuensche/heic-to-dynamic-gnome-wallpaper): A small cli application to convert MacOS's heic dynamic wallpaper images to dynamic wallpapers usable in the GNOME desktop environment.
-* [leachim6/hello-world](https://github.com/leachim6/hello-world): Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
-* [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub): :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
-* [vincentbernat/hellogopher](https://github.com/vincentbernat/hellogopher): Makefile to build a Go project
-* [aoaojiang/HelloWorld](https://github.com/aoaojiang/HelloWorld): 测试Android Studio的VCS
-* [k3s-io/helm-controller](https://github.com/k3s-io/helm-controller): None
-* [zbezj/HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator): None
-* [sharkdp/hexyl](https://github.com/sharkdp/hexyl): A command-line hex viewer
-* [jeffshee/hidamari](https://github.com/jeffshee/hidamari): Video wallpaper for Linux. Written in Python. 🐍
-* [tadly/hideIt.sh](https://github.com/tadly/hideIt.sh): Automagically hide/show a window by its name when the cursor is within a defined region or you mouse over it.
-* [google/highway](https://github.com/google/highway): Performance-portable, length-agnostic SIMD with runtime dispatch
-* [simonmichael/hledger](https://github.com/simonmichael/hledger): Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
-* [huanghongxun/HMCL](https://github.com/huanghongxun/HMCL): A Minecraft Launcher which is multi-functional, cross-platform and popular
-* [hnrss/hnrss](https://github.com/hnrss/hnrss): Custom, realtime RSS feeds for Hacker News
-* [nix-community/home-manager](https://github.com/nix-community/home-manager): Manage a user environment using Nix  [maintainer=@rycee] 
+* [jgressmann/harbour-vodman](https://github.com/jgressmann/harbour-vodman): Vodman lets you download videos (VODs) from the internet to your SailfishOS device
+* [claytonjn/hass-circadian_lighting](https://github.com/claytonjn/hass-circadian_lighting): Circadian Lighting custom component for Home Assistant
+* [yangqian/hass-gelight](https://github.com/yangqian/hass-gelight): Home assistant custom component to control C by GE smart light bulb locally via Bluetooth
+* [nikshriv/hassio-addons](https://github.com/nikshriv/hassio-addons): None
+* [FrenchGithubUser/Hatt](https://github.com/FrenchGithubUser/Hatt): DDL/Streaming meta search engine
+* [bilde2910/Hauk](https://github.com/bilde2910/Hauk): Open-source realtime location sharing
+* [guardianproject/haven](https://github.com/guardianproject/haven): Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors
+* [haveno-dex/haveno](https://github.com/haveno-dex/haveno): Decentralized P2P exchange built on Monero and Tor
+* [Benjamin-Dobell/Heimdall](https://github.com/Benjamin-Dobell/Heimdall): Heimdall is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung Galaxy devices.
+* [blanklob/helium](https://github.com/blanklob/helium): Helium is a modern Shopify development workflow ⚙️, with Online Store 2.0 features. Built with performance ⚡️ and best practices in mind.. 
+* [demtario/hes-gallery](https://github.com/demtario/hes-gallery): Light, dependency free, responsive gallery script
+* [dwarvesf/hidden](https://github.com/dwarvesf/hidden): An ultra-light MacOS utility that helps hide menu bar icons
+* [hensm/hide_private_mode](https://github.com/hensm/hide_private_mode): None
+* [amarsyla/hidutil-key-remapping-generator](https://github.com/amarsyla/hidutil-key-remapping-generator): Simple tool to generate HIDUTIL key remapping configurations for MacOS
+* [Ulf3000/highlight-tabs](https://github.com/Ulf3000/highlight-tabs): firefox addon to highlight tabs with colors for easy and fast recognition and fluid workflow
+* [agneevX/home-assistant](https://github.com/agneevX/home-assistant): Home Assistant lovelace layout and config
+* [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar): Displaying Home Assistant sensors in the Macbook Pro's touch bar using BTT 🤖💻
+* [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io): :blue_book: Home Assistant User documentation
+* [Dimentium/homebrew-autoraise](https://github.com/Dimentium/homebrew-autoraise): Formula for https://github.com/sbmpost/AutoRaise
 * [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask): 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
-* [Homebrew/homebrew-livecheck](https://github.com/Homebrew/homebrew-livecheck): 💀 Homebrew/homebrew-livecheck (deprecated)
-* [Homebrew/homebrew-services](https://github.com/Homebrew/homebrew-services): 🚀 Manage background services using the daemon manager launchctl on macOS or systemctl on Linux.
-* [andsens/homeshick](https://github.com/andsens/homeshick): git dotfiles synchronizer written in bash
-* [technicalpickles/homesick](https://github.com/technicalpickles/homesick): Your home directory is your castle. Don't leave your dotfiles behind.
-* [KDAB/hotspot](https://github.com/KDAB/hotspot): The Linux perf GUI for performance analysis.
-* [niudai/How-to-be-a-good-programmer](https://github.com/niudai/How-to-be-a-good-programmer): I'm here to tell you some amazing stuff which teacher would never tell you.
-* [jmblog/how-to-optimize-momentjs-with-webpack](https://github.com/jmblog/how-to-optimize-momentjs-with-webpack): Explaining how to optimize the large bundle size of moment.js with webpack
-* [boltgolt/howdy](https://github.com/boltgolt/howdy): 🛡️ Windows Hello™ style facial authentication for Linux
-* [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money): 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
-* [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook): 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
-* [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger): 程序员延寿指南 | A programmer's guide to live longer
-* [xiangmingzhe0928/hpv4g](https://github.com/xiangmingzhe0928/hpv4g): hpv seckill 约苗 九价 疫苗秒杀 :girl: :syringe:
-* [draivin/hsnips](https://github.com/draivin/hsnips): HyperSnips: a powerful snippet engine for VS Code, inspired by vim's UltiSnips
-* [aknuds1/html-to-react](https://github.com/aknuds1/html-to-react): A lightweight library that converts raw HTML to a React DOM structure.
-* [mmiller42/html-webpack-externals-plugin](https://github.com/mmiller42/html-webpack-externals-plugin): Webpack plugin that works alongside html-webpack-plugin to use pre-packaged vendor bundles.
-* [http-party/http-server](https://github.com/http-party/http-server): a simple zero-configuration command-line http server
+* [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts): 🖋 Casks of Ｆ🅾𝓝𝐓𝚂
+* [buo/homebrew-cask-upgrade](https://github.com/buo/homebrew-cask-upgrade): A command line tool for upgrading every outdated app installed by Homebrew Cask
+* [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core): 🍻 Default formulae for the missing package manager for macOS (or Linux)
+* [algertc/homebrew-kleopatra4mac](https://github.com/algertc/homebrew-kleopatra4mac): Kleopatra4Mac is an all-in-one prebuilt port of KDE's GPG utility for use on MacOS. 
+* [kyurishin/homebrew-kleopatra4mac](https://github.com/kyurishin/homebrew-kleopatra4mac): Kleopatra4Mac is an all-in-one prebuilt port of KDE's GPG utility for use on MacOS. 
+* [Shopify/homebrew-shopify](https://github.com/Shopify/homebrew-shopify): None
+* [TheKevJames/homebrew-youtube-viewer](https://github.com/TheKevJames/homebrew-youtube-viewer): youtube-viewer Formula for Homebrew
+* [klanchman/homebridge-logi-circle-controls](https://github.com/klanchman/homebridge-logi-circle-controls): Homebridge plugin for extended Logitech Circle camera controls
+* [danielmiessler/HoneyCredIPTracker](https://github.com/danielmiessler/HoneyCredIPTracker): Quick script to gather stats on incoming credentials and IPs for a honey listener.
+* [horahoradev/horahora](https://github.com/horahoradev/horahora): Multi-user video download manager supporting hundreds of sites
+* [Aaron-P/HostnameTitleBar](https://github.com/Aaron-P/HostnameTitleBar): Adds the hostname of windows' active tab to the windows' title, e.g. for KeePass(X/XC).
+* [StevenBlack/hosts](https://github.com/StevenBlack/hosts): 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
+* [specialunderwear/Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane): a Cocoa GUI for /etc/hosts
+* [ZzzM/HostsX](https://github.com/ZzzM/HostsX): A lightweight macOS app for updating local hosts
+* [soffes/HotKey](https://github.com/soffes/HotKey): Simple global shortcuts in macOS
+* [muhamaddarulhadi/Hotspot](https://github.com/muhamaddarulhadi/Hotspot):  :warning: For Educational Purposes Only :exclamation: Change hop limit on windows to bypass the hotspot from mobile provider to use other source of mobile data 
+* [IanLunn/Hover](https://github.com/IanLunn/Hover): A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
+* [iShopifyExpert/How-To-Show-Percentage-Discount-Saved-on-Shopify](https://github.com/iShopifyExpert/How-To-Show-Percentage-Discount-Saved-on-Shopify): How To Show Percentage Discount Saved on Shopify
+* [MarufAlAslam/html-email-signature](https://github.com/MarufAlAslam/html-email-signature): This is a simple demo email signature, if you like my work and want to design your own email signature by me, you can buy my html-clickable-email-signature service on Fiverr. Link is in the below 👇
+* [notable/html2markdown](https://github.com/notable/html2markdown): A small function for converting HTML to Markdown.
+* [Alir3z4/html2text](https://github.com/Alir3z4/html2text): Convert HTML to Markdown-formatted text.
+* [benknight/hue-alfred-workflow](https://github.com/benknight/hue-alfred-workflow): An Alfred workflow for controlling Philips Hue lights.
+* [huginn/huginn](https://github.com/huginn/huginn): Create agents that monitor and act on your behalf.  Your agents are standing by!
 * [gohugoio/hugo](https://github.com/gohugoio/hugo): The world’s fastest framework for building websites.
-* [cpp-pm/hunter](https://github.com/cpp-pm/hunter): CMake driven cross-platform package manager for C/C++.
-* [typicode/husky](https://github.com/typicode/husky): Git hooks made easy 🐶 woof!
-* [zhblue/hustoj](https://github.com/zhblue/hustoj): Popular Open Source Online Judge based on PHP/C++/MySQL/Linux  for ACM/ICPC and NOIP training, with easy installation. 开源OJ系统
-* [hydradatabase/hydra](https://github.com/hydradatabase/hydra): Hydra: Column-oriented Postgres. Add scalable analytics to your project in minutes.
-* [ory/hydra](https://github.com/ory/hydra): OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid.
-* [apernet/hysteria](https://github.com/apernet/hysteria): Hysteria is a powerful, lightning fast and censorship resistant proxy.
-* [overmighty/i-use-arch-btw](https://github.com/overmighty/i-use-arch-btw): "I use Arch btw" but it's a Turing-complete programming language.
-* [tuberry/ibus-tweaker](https://github.com/tuberry/ibus-tweaker): Tweaker of IBus for orientation, theme, font, input mode and clipboard history.
-* [icelake-io/icelake](https://github.com/icelake-io/icelake): Pure Rust Iceberg Implementation
-* [jantimon/iconfont-webpack-plugin](https://github.com/jantimon/iconfont-webpack-plugin): Simple icon font handling for webpack
-* [ics-py/ics-py](https://github.com/ics-py/ics-py): Pythonic and easy iCalendar library (rfc5545)
-* [chokcoco/iCSS](https://github.com/chokcoco/iCSS): 不止于 CSS
-* [ge9/IddSampleDriver](https://github.com/ge9/IddSampleDriver): Add virtual monitors to your windows 10 device! Works with Oculus software, obs, and any desktop sharing software
-* [RobThree/IdGen](https://github.com/RobThree/IdGen): Twitter Snowflake-alike ID generator for .Net
-* [trazyn/ieaseMusic](https://github.com/trazyn/ieaseMusic): 网易云音乐第三方
-* [iglance/iGlance](https://github.com/iglance/iGlance): Free system monitor for OSX and macOS. See all system information at a glance in the menu bar. 
-* [luk1337/ih8sn](https://github.com/luk1337/ih8sn): None
-* [desandro/imagesloaded](https://github.com/desandro/imagesloaded): :camera: JavaScript is all like "You images done yet or what?"
-* [hertogp/imagine](https://github.com/hertogp/imagine): A pandoc-filter for images
-* [imba/imba](https://github.com/imba/imba): 🐤 The friendly full-stack language
-* [ocornut/imgui](https://github.com/ocornut/imgui): Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
-* [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js): Immutable persistent data collections for Javascript which increase efficiency and simplicity.
-* [lewis6991/impatient.nvim](https://github.com/lewis6991/impatient.nvim): Improve startup time for Neovim
-* [include-what-you-use/include-what-you-use](https://github.com/include-what-you-use/include-what-you-use): A tool for use with clang to analyze #includes in C and C++ source files
-* [apache/incubator-opendal](https://github.com/apache/incubator-opendal): Apache OpenDAL: access data freely.
-* [apache/incubator-pegasus](https://github.com/apache/incubator-pegasus): Apache Pegasus - A horizontally scalable, strongly consistent and high-performance key-value store
-* [b4j4/indicator-kdeconnect](https://github.com/b4j4/indicator-kdeconnect): AppIndicator for KDE Connect
-* [xorbitsai/inference](https://github.com/xorbitsai/inference): Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any open-source language models, speech recognition models, and multimodal models, whether in the cloud, on-premises, or even on your laptop.
-* [input-leap/input-leap](https://github.com/input-leap/input-leap): Open-source KVM software
-* [Kong/insomnia](https://github.com/Kong/insomnia): The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
-* [inspircd/inspircd](https://github.com/inspircd/inspircd): A modular C++ IRC server (ircd).
-* [TieBaMma/InstallTutorial](https://github.com/TieBaMma/InstallTutorial): None
-* [huihut/interview](https://github.com/huihut/interview): 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation, etc.
-* [0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference): 2023年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
-* [will-ww/IntroDaSE](https://github.com/will-ww/IntroDaSE): 《数据科学与工程导论》教材配套资源
-* [smxi/inxi](https://github.com/smxi/inxi): inxi is a full featured CLI system information tool. It is available in most Linux distribution repositories, and does its best to support the BSDs. 
-* [esnet/iperf](https://github.com/esnet/iperf): iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
-* [fredimachado/IRCClient](https://github.com/fredimachado/IRCClient): Simple cross-platform console IRC Client written in C++
-* [nefe/iron-redux](https://github.com/nefe/iron-redux): Painless typesafe Redux code generator
-* [metafizzy/isotope](https://github.com/metafizzy/isotope): :revolving_hearts: Filter & sort magical layouts
-* [OpenIntelWireless/itlwm](https://github.com/OpenIntelWireless/itlwm): Intel Wi-Fi Drivers for macOS
-* [ivmech/ivPID](https://github.com/ivmech/ivPID): Python PID Controller
-* [JabRef/jabref](https://github.com/JabRef/jabref): Graphical Java application for managing BibTeX and biblatex (.bib) databases
-* [l0o0/jasminum](https://github.com/l0o0/jasminum): A Zotero add-on to retrive CNKI meta data. 一个简单的Zotero 插件，用于识别中文元数据
-* [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns): Design patterns implemented in Java
-* [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide): 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
-* [devoxx/JavaRoadmap](https://github.com/devoxx/JavaRoadmap): The 2023 Java Developers Roadmap 
-* [crossoverJie/JCSprout](https://github.com/crossoverJie/JCSprout): 👨‍🎓 Java Core Sprout : basic, concurrent, algorithm 
-* [georgemandis/jekyll-rss-feeds](https://github.com/georgemandis/jekyll-rss-feeds): Templates for rendering RSS feeds for your Jekyll blog
-* [kitian616/jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme): 💎 🐳 A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.
-* [jekyll/jemoji](https://github.com/jekyll/jemoji): GitHub-flavored emoji plugin for Jekyll
-* [jepsen-io/jepsen](https://github.com/jepsen-io/jepsen): A framework for distributed systems verification, with fault injection
+* [theocjr/hugo-academic-bookmarks](https://github.com/theocjr/hugo-academic-bookmarks): Bookmarks content section for the Academic theme (Hugo framework).
+* [craftsmandigital/hugo-get-pocket](https://github.com/craftsmandigital/hugo-get-pocket): This is a Hugo project that view bookmars from my get-pocket app. Using get-pocket api to generate json to use in website.
+* [spaghettiwews/hugonews](https://github.com/spaghettiwews/hugonews): hugo theme (based on https://news.ycombinator.com) for https://bookmarks.wews.co.zw
+* [vector-im/hydrogen-web](https://github.com/vector-im/hydrogen-web): Lightweight matrix client with legacy and mobile browser support
+* [dnnsmnstrr/HydroTouch](https://github.com/dnnsmnstrr/HydroTouch): A collection of presets for BetterTouchTool
+* [penance316/hyper-dark-vibrancy](https://github.com/penance316/hyper-dark-vibrancy): A demo theme for hyperterm to demonstrate the vibrancy effect on macOS
+* [zt64/Hyperion](https://github.com/zt64/Hyperion): An alternative YouTube front-end
+* [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies): Debloated fork of the extension "I don't care about cookies"
+* [potsky/iajai-email-signature](https://github.com/potsky/iajai-email-signature): None
+* [deseven/iCanHazShortcut](https://github.com/deseven/iCanHazShortcut): simple shortcut manager for macOS
+* [nicolodiamante/icloud-nosync](https://github.com/nicolodiamante/icloud-nosync): Take control of your iCloud Drive files with iCloud NoSync - the ultimate utility for effortless sync and management! Get the edge you need to stay organized and up-to-date.
+* [farnots/iCloudDownloader](https://github.com/farnots/iCloudDownloader): CLI for downloading iCloud file
+* [elrumo/icon-brew](https://github.com/elrumo/icon-brew): A free and open source icon pack. With hundreds of icons and new ones being added weekly.
+* [jenstornell/icon-flood](https://github.com/jenstornell/icon-flood): Hand picked SVG icon packs with at least 200 icons
+* [onmyway133/IconGenerator](https://github.com/onmyway133/IconGenerator): 🍱 A macOS app to generate app icons
+* [iconify/iconify](https://github.com/iconify/iconify): Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (100+ icon sets, 100,000+ icons). SVG framework, React, Vue and Svelte components!
+* [raphaelhanneken/iconizer](https://github.com/raphaelhanneken/iconizer): Create Xcode asset catalogs swift and painless. Generate images for macOS and iOS app icons, launch images and image sets.
+* [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir): An open source icons library with 1300+ icons, supporting React, React Native, Flutter, CSS, Figma, and Framer.
+* [kreativekorp/iconposeur](https://github.com/kreativekorp/iconposeur): Open-source recreation of the Icon Composer application. Create icons for Mac OS X without Xcode. Also creates Windows ico files.
+* [FirefoxUX/icons](https://github.com/FirefoxUX/icons): SVG icons used in Firefox. View all icons here:
+* [uuware/icons-font-desktop](https://github.com/uuware/icons-font-desktop): Desktop version of free-icons-customization, a collection of over 33,000 high-quality free svg icons and tools for generating customized icon font. All icons are completely free for personal or business requirements.
+* [tale/iconset](https://github.com/tale/iconset): A nifty command-line tool to customize macOS icons
+* [sainnhe/icursive-nerd-font](https://github.com/sainnhe/icursive-nerd-font): Nerd Fonts with Cursive Italic Styles -- Read-only Mirror of https://git.sainnhe.dev/sainnhe/icursive-nerd-font
+* [Sumeet-R/ID-Lookup](https://github.com/Sumeet-R/ID-Lookup): A search tool that can find exposed email addresses and mobile numbers on Internet.
+* [speedball2001/identitychooser-mx](https://github.com/speedball2001/identitychooser-mx): A thunderbird mailextension for explicitely choosing the correct sender identity before opening an email editor.
+* [CarterLi/iina](https://github.com/CarterLi/iina): The modern video player for macOS with additional features and bug fixes.
+* [iina/iina](https://github.com/iina/iina): The modern video player for macOS.
+* [alexander-ladygin/illustrator-scripts](https://github.com/alexander-ladygin/illustrator-scripts): Adobe Illustrator scripts
+* [rhsimplex/image-match](https://github.com/rhsimplex/image-match): 🎇 Quickly search over billions of images
+* [eight04/image-picka](https://github.com/eight04/image-picka): A Firefox/Chrome extension helping you download images.
+* [Brawl345/Image-Reverse-Search-WebExtension](https://github.com/Brawl345/Image-Reverse-Search-WebExtension): WebExtension: Adds an option to the context menu to search with an image on various services.
+* [MarkAntipin/image-search-engine](https://github.com/MarkAntipin/image-search-engine): Web app to search similar images
+* [IbrahimMourad/image-search-webapp](https://github.com/IbrahimMourad/image-search-webapp): simple app to search for images by  keyword using unsplash API  
+* [ashwinishet/Image-Web-Scraper](https://github.com/ashwinishet/Image-Web-Scraper): This application is used for scraping images from google image search
+* [idealo/imagededup](https://github.com/idealo/imagededup): 😎 Finding duplicate images made easy!
+* [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim): GUI image optimizer for Mac
+* [Danamir/imap-attachment-extractor](https://github.com/Danamir/imap-attachment-extractor): IMAP attachment exporter, with optional Thunderbird detach mode
+* [valinet/IMAPNotes](https://github.com/valinet/IMAPNotes): This is a simple Thunderbird extension (compatible with Thunderbird 78+ as of January 2021) that allows editing notes created, edited and synced from the iPhone Notes app.
+* [Aholicknight/IMDb-Scout](https://github.com/Aholicknight/IMDb-Scout): Add links from IMDb pages to torrent sites -- easy downloading from IMDb
+* [Purfview/IMDb-Scout-Mod](https://github.com/Purfview/IMDb-Scout-Mod): Auto search for movie/series on torrent, usenet, ddl, subtitles, streaming, predb and other sites. Adds links to IMDb pages from hundreds various sites. Adds movies/series to Radarr/Sonarr. Adds external ratings from Metacritic, Rotten Tomatoes, Letterboxd, Douban, Allocine. Media Server indicators for Plex, Jellyfin, Emby. Dark theme/style for Reference View. Adds/Removes to/from Trakt's watchlist. Removes ads
+* [miguelmartin75/imgur-automator](https://github.com/miguelmartin75/imgur-automator): automator files to upload images and screenshots to imgur.
+* [tangphillip/Imgur-Uploader](https://github.com/tangphillip/Imgur-Uploader): A script that uploads an image to imgur and copies the image URL to the clipboard.
+* [tremby/imgur.sh](https://github.com/tremby/imgur.sh): Bart's Imgur uploader bash script
+* [JayBrown/imgurAU](https://github.com/JayBrown/imgurAU): macOS one-stop shop solution for anonymous uploads to imgur with support for local files, files opened in image editors, pasteboard contents, new screenshots & web images
+* [ram-on/imgurbash2](https://github.com/ram-on/imgurbash2): A bash script that uploads images & videos to IMGUR.  It can also delete previously uploaded images/videos.
+* [spidergears/import_chrome_bookmarks_to_pocket](https://github.com/spidergears/import_chrome_bookmarks_to_pocket): Simple chrome extension to import all your chrome bookmarks to Pocket.com account
+* [skratchdot/infinite-gradients](https://github.com/skratchdot/infinite-gradients): An HTML experiment for generating randomly created CSS3 gradients (both linear and radial)
+* [noahbuscher/inspire](https://github.com/noahbuscher/inspire): Collection of frontend dev and web design links :bulb:
+* [igdownloader/InstagramDownloader](https://github.com/igdownloader/InstagramDownloader): Firefox and Chrome Extention which creates an download button for instagram images and videos and videos
+* [BetterDiscord/Installer](https://github.com/BetterDiscord/Installer): A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.
+* [instantusername/instant-username-search](https://github.com/instantusername/instant-username-search): ⚡ Instantly search for the availability of your username on more than 100 social media sites.
+* [syedibrahim/IntruderDetectionCamera](https://github.com/syedibrahim/IntruderDetectionCamera): A Raspberry Pi based security camera to detect unknown person and raise alarm!
+* [iv-org/invidious](https://github.com/iv-org/invidious): Invidious is an alternative front-end to YouTube
+* [devcxm/iOS-Images-Extractor](https://github.com/devcxm/iOS-Images-Extractor): A Mac app to decode and extract images from iOS apps, support png/jpg/ipa/Assets.car files.
+* [ShaleenM/IP-Camera](https://github.com/ShaleenM/IP-Camera): Change your android phone to surveillance camera
+* [axi0mX/ipwndfu](https://github.com/axi0mX/ipwndfu): open-source jailbreaking tool for many iOS devices
+* [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes): Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty
+* [sindresorhus/iterm2-snazzy](https://github.com/sindresorhus/iterm2-snazzy): Elegant iTerm2 theme with bright colors
+* [Jackett/Jackett](https://github.com/Jackett/Jackett): API Support for your favorite torrent trackers
+* [quedayone/jamf-pro-scripts](https://github.com/quedayone/jamf-pro-scripts): Scripts that I use in my JSS.
+* [kumarram1011/Jan22_Q3](https://github.com/kumarram1011/Jan22_Q3): The candidate should ensure the availability of Git, Python and Django on their system as part of the setup exercise.. Preferred IDE is PyCharm to import the project directly. Postman tool to test the REST APIs and git.  Problem Breakdown  To start the development a skeleton repo for the project is provided at the github link – https://github.com/kumarram1011/Jan22_Q2   (master branch)  Then repo can be cloned into their local system through HTTPs or SSH. After cloning the project at your location, follow the below points:  Create Virtual env (ubuntu) 1. sudo apt install python3-venv 2. python3 -m venv relevel_env 3. cd relevel_env/ 4. source bin/activate Now quit this env location and jump to your working location/ Parent directory  Install all dependencies using ‘pip install -r requirements.txt’ Now run your initial migrations with the command as: 1. python manage.py makemigrations 2. python manage.py migrate  Note :-  A. Initially there is no any model in your projects so the 1st command will give you the response has "NO changes" but the 2nd command will configure you all initial settings like DB and all. B. At every stage while developing/implementing the features please use both of the above commands to reflect your changes in the running/development server.  Run ‘python manage.py runserver’ to start the development server. The hosted app can be checked on http://localhost:8000 on the browser.  Submission Instructions  Code Submission: Compress the code on the local system in the form of a *.zip file. Upload the code on your personal google drive in a folder titled - “Name_BD_ Code Base” Don’t forget to change the permissions of the folder to ‘Anyone with the link can edit’.  Loom video submission: Create an account on Loom. Go through the quick tutorial on how to record loom videos. Create a Loom video (while screen sharing) covering the following points: Show the functionality of the app you have created i.e demo of the working APIs through a command line. (1 min) Run through the key parts of your code explaining the core logic and how you organized the code. (2 min) Explain your problem-solving approach (what logic you have used and why). (2 min) Please keep your explanation to under 5 mins only. Avoid too much jargon and explain your app in a simple and clear manner.
+* [th-schmidt/janus-for-alfred](https://github.com/th-schmidt/janus-for-alfred): Create random usernames in Alfred
+* [jeeliz/jeelizFaceFilter](https://github.com/jeeliz/jeelizFaceFilter): Javascript/WebGL lightweight face tracking library designed for augmented reality webcam filters. Features : multiple faces detection, rotation, mouth opening. Various integration examples are provided (Three.js, Babylon.js, FaceSwap, Canvas2D, CSS3D...). 
+* [sighingnow/jekyll-gitbook](https://github.com/sighingnow/jekyll-gitbook): Build Jekyll site with GitBook style!
+* [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy): A minimal, responsive and feature-rich Jekyll theme for technical writing.
 * [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono): JetBrains Mono – the free and open-source typeface for developers
-* [jfinal/jfinal](https://github.com/jfinal/jfinal): JAVA WEB + ORM Framework
-* [fxsjy/jieba](https://github.com/fxsjy/jieba): 结巴中文分词
-* [gregrahn/join-order-benchmark](https://github.com/gregrahn/join-order-benchmark): Join Order Benchmark (JOB)
-* [customd/jquery-visible](https://github.com/customd/jquery-visible): A jquery plugin which allows us to quickly check if an element  is within the browsers visual viewport regardless of the window scroll position
-* [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl): Collect your thoughts and notes without leaving the command line.
-* [EtherDream/js-port-knocking](https://github.com/EtherDream/js-port-knocking): Web 端口敲门的奇思妙想
-* [jwadhams/json-logic-js](https://github.com/jwadhams/json-logic-js): Build complex rules, serialize them as JSON, and execute them in JavaScript
-* [zth/json-to-flowtype-generator](https://github.com/zth/json-to-flowtype-generator): Generate Flow types from JSON or static JS objects/arrays.
-* [juicedata/juicefs](https://github.com/juicedata/juicefs): JuiceFS is a distributed POSIX file system built on top of Redis and S3.
-* [juicedata/juicefs-csi-driver](https://github.com/juicedata/juicefs-csi-driver): JuiceFS CSI Driver
-* [doocs/jvm](https://github.com/doocs/jvm): 🤗 JVM 底层原理最全知识总结
-* [jergusg/k380-function-keys-conf](https://github.com/jergusg/k380-function-keys-conf): Make function keys default on Logitech k380 bluetooth keyboard
-* [k3d-io/k3d](https://github.com/k3d-io/k3d): Little helper to run CNCF's k3s in Docker
-* [k3s-io/k3s](https://github.com/k3s-io/k3s): Lightweight Kubernetes
-* [xiaods/k8e](https://github.com/xiaods/k8e): K8E - Kubernetes Easy Engine
-* [k8up-io/k8up](https://github.com/k8up-io/k8up): Kubernetes and OpenShift Backup Operator
-* [derailed/k9s](https://github.com/derailed/k9s): 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-* [lework/kainstall](https://github.com/lework/kainstall): Use shell scripts to install kubernetes(k8s) high availability clusters and addon components based on kubeadmin with one click.使用shell脚本基于kubeadmin一键安装kubernetes 高可用集群和addon组件。
-* [carvel-dev/kapp](https://github.com/carvel-dev/kapp): kapp is a simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label
-* [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX): Fast math typesetting for the web.
-* [Tencent/kbone](https://github.com/Tencent/kbone): 一个致力于微信小程序和 Web 端同构的解决方案
-* [kcp-dev/kcp](https://github.com/kcp-dev/kcp): Kubernetes-like control planes for form-factors and use-cases beyond Kubernetes and container workloads.
-* [skywind3000/kcp](https://github.com/skywind3000/kcp): :zap: KCP - A Fast and Reliable ARQ Protocol
-* [Inokinoki/kde-blog](https://github.com/Inokinoki/kde-blog): None
-* [KDE/kdeconnect-android](https://github.com/KDE/kdeconnect-android): Native Android port of the KDE Connect Qt app
-* [KDE/kdeconnect-kde](https://github.com/KDE/kdeconnect-kde): Multi-platform app that allows your devices to communicate
-* [olivierlacan/keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog): If you build software, keep a changelog.
-* [0voice/kernel_new_features](https://github.com/0voice/kernel_new_features): 一个深挖 Linux 内核的新功能特性，以 io_uring, cgroup, ebpf, llvm 为代表，包含开源项目，代码案例，文章，视频，架构脑图等
-* [fgheng/keysound](https://github.com/fgheng/keysound): keysound is keyboard sound software for Linux
-* [pimutils/khal](https://github.com/pimutils/khal): :calendar: CLI calendar application
-* [eycorsican/kitsunebi-android](https://github.com/eycorsican/kitsunebi-android):  A fully-featured V2Ray client for Android.
-* [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty): Cross-platform, fast, feature-rich, GPU based terminal
-* [shengcaishizhan/kkndme_tianya](https://github.com/shengcaishizhan/kkndme_tianya): 天涯 kkndme 神贴聊房价
-* [cbeust/klaxon](https://github.com/cbeust/klaxon): A JSON parser for Kotlin
-* [kubernetes/kompose](https://github.com/kubernetes/kompose): Convert Compose to Kubernetes
-* [SeaDve/Kooha](https://github.com/SeaDve/Kooha): Elegantly record your screen
-* [fhackenberger/ktikz](https://github.com/fhackenberger/ktikz): KtikZ provides a nice user interface for making pictures using TikZ.
-* [simplyzee/kube-rclone](https://github.com/simplyzee/kube-rclone): kube-rclone is a rclone mount solution for Kubernetes
-* [kubenav/kubenav](https://github.com/kubenav/kubenav): kubenav is the navigator for your Kubernetes clusters right in your pocket.
-* [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes): Production-Grade Container Scheduling and Management
-* [feiskyer/kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook): Kubernetes Handbook （Kubernetes指南）   https://kubernetes.feisky.xyz
-* [Kong/kubernetes-ingress-controller](https://github.com/Kong/kubernetes-ingress-controller): :gorilla: Kong for Kubernetes: The official Ingress Controller for Kubernetes.
-* [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark): The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Inspired by Wireshark, purposely built for Kubernetes
-* [zthxxx/kugimiya-rainbow-fart](https://github.com/zthxxx/kugimiya-rainbow-fart): 傲 娇 钉 宫，鞭 写 鞭 骂  -  钉宫理惠 vscode-rainbow-fart 扩展语音包
-* [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize): Customization of kubernetes YAML configurations
-* [tsujan/Kvantum](https://github.com/tsujan/Kvantum): A Linux SVG-based theme engine for Qt and KDE
-* [treeverse/lakeFS](https://github.com/treeverse/lakeFS): lakeFS - Data version control for your data lake | Git for data
-* [txyyss/Lambda-Calculus](https://github.com/txyyss/Lambda-Calculus): An introduction to lambda calculus in Chinese, including an interpreter in Haskell.
-* [vuejs/language-tools](https://github.com/vuejs/language-tools): ⚡ High-performance Vue language tooling based-on Volar.js
-* [autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim): Language Server Protocol (LSP) support for vim and neovim.
-* [vuedx/languagetools](https://github.com/vuedx/languagetools): A collection of tools for better IDE experience.
-* [brucemiller/LaTeXML](https://github.com/brucemiller/LaTeXML): LaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator.
-* [alastairtree/LazyCache](https://github.com/alastairtree/LazyCache): An easy to use thread safe in-memory caching service with a simple developer friendly API for c#
-* [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker): The lazier way to manage everything docker
+* [JitouchApp/Jitouch](https://github.com/JitouchApp/Jitouch): A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad
+* [sukolsak/jitouch](https://github.com/sukolsak/jitouch): A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad
+* [JitouchApp/Jitouch-project](https://github.com/JitouchApp/Jitouch-project): A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad
+* [catppuccin/joplin](https://github.com/catppuccin/joplin): 📔️ Soothing pastel theme for Joplin
+* [laurent22/joplin](https://github.com/laurent22/joplin): Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+* [laurent22/joplin-android](https://github.com/laurent22/joplin-android): Android releases for Joplin
+* [tessus/joplin-custom-css](https://github.com/tessus/joplin-custom-css): 📝 My custom styles for Joplin, the open source note taking app
+* [Liscum/Joplin-Dark-Theme](https://github.com/Liscum/Joplin-Dark-Theme): A beautiful Joplin dark theme
+* [gonzalovsilva/joplin-dark-theme](https://github.com/gonzalovsilva/joplin-dark-theme): None
+* [EliasVincent/joplin-email-note](https://github.com/EliasVincent/joplin-email-note): A plugin for Joplin which sends your note to your email client
+* [aman-d-1-n-only/joplin-exports-to-ssg](https://github.com/aman-d-1-n-only/joplin-exports-to-ssg): Joplin plugin to exports notes to ssg project. 
+* [benji300/joplin-favorites](https://github.com/benji300/joplin-favorites): Save any notebook, note, to-do, tag, or search as favorite in an extra panel view for quick access.
+* [LongBay/Joplin-Light-Theme](https://github.com/LongBay/Joplin-Light-Theme): A light theme for Joplin
+* [andrejilderda/joplin-macos-native-theme](https://github.com/andrejilderda/joplin-macos-native-theme): Native looking macOS theme for note taking app Joplin
+* [benji300/joplin-milford-ui](https://github.com/benji300/joplin-milford-ui): Dark theme for Joplin's desktop application.
+* [amandamcg/joplin-new-theme-sandbox](https://github.com/amandamcg/joplin-new-theme-sandbox): Testing CSS ideas for the new theme
+* [mattsbennett/joplin-Nord2](https://github.com/mattsbennett/joplin-Nord2): Joplin Nord Sub-theme
+* [benji300/joplin-note-tabs](https://github.com/benji300/joplin-note-tabs): Allows to open several notes at once in tabs and pin them.
+* [WinkoErades/Joplin-note-taking-templates](https://github.com/WinkoErades/Joplin-note-taking-templates): Joplin note taking templates
+* [benji300/joplin-persistent-layout](https://github.com/benji300/joplin-persistent-layout): Save editor layout (editor/split view/viewer/rich text) for each note separately.
+* [JackGruber/joplin-plugin-backup](https://github.com/JackGruber/joplin-plugin-backup): A plugin to extend Joplin with a manual and automatic backup function.
+* [JackGruber/joplin-plugin-hotfolder](https://github.com/JackGruber/joplin-plugin-hotfolder): A plugin to Monitor a locale folder and import the files as a new note.
+* [hieuthi/joplin-plugin-metis](https://github.com/hieuthi/joplin-plugin-metis): A Simple Task Manager Plugin for Joplin based on Todo.txt Specification
+* [roman-r-m/joplin-plugin-table-formatter](https://github.com/roman-r-m/joplin-plugin-table-formatter): Markdown table format plugin for Joplin
+* [JackGruber/joplin-plugin-tagging](https://github.com/JackGruber/joplin-plugin-tagging): Plugin to extend the Joplin tagging menu with a copy all tags and tagging dialog with more control.
+* [CalebJohn/joplin-rich-markdown](https://github.com/CalebJohn/joplin-rich-markdown): Helping you ditch the markdown viewer for good.
+* [forcewake/joplin-tags-generator](https://github.com/forcewake/joplin-tags-generator): Plugin for Joplin which can be used to extract keywords from note and assign them as a note's tags
+* [AngelCrawford/joplin-theme](https://github.com/AngelCrawford/joplin-theme): My private style for Joplin. It's build on top of the integrated "Dark" Theme included in Joplin. Inklusive a special Bullet Journal css style.
+* [hrqmonteiro/joplin-theme](https://github.com/hrqmonteiro/joplin-theme): My Joplin theme files, including userchrome.css and userstyles.css, as well as some markdown templates for my notes.
+* [kveberg/joplin-theme](https://github.com/kveberg/joplin-theme): A few visual tweaks of stysebae's "joplin-vsc-material-theme"
+* [robotcorner/joplin-theme-dark-gruvbox](https://github.com/robotcorner/joplin-theme-dark-gruvbox): Inspired by "Mayukai Mirage Gruvbox Darktooth Theme" on VSCode
+* [JackGruber/Joplin-Tools](https://github.com/JackGruber/Joplin-Tools): Various Python tools for Joplin (Hotfolder, PDF Previews, ToDo List) and AutoIt (JoplinWinBackup) for Backups under Windows. 
+* [rxliuli/joplin-utils](https://github.com/rxliuli/joplin-utils): Joplin-based peripheral community tool
+* [jerrylususu/joplin-vacuum](https://github.com/jerrylususu/joplin-vacuum): Removes attachments (resources) that are not referred in Joplin. 
+* [mahor1221/joplin-vsc-material-theme](https://github.com/mahor1221/joplin-vsc-material-theme): VSCode Community Material Theme for Joplin
+* [Sinacs/Joplin.Plugin.ReMoods.Theme](https://github.com/Sinacs/Joplin.Plugin.ReMoods.Theme): [NO LONGER MAINTAINED]
+* [geoai777/joplin_styles](https://github.com/geoai777/joplin_styles): CSS tweaks for joplin app
+* [cweirup/JoplinSafariWebClipper](https://github.com/cweirup/JoplinSafariWebClipper): Safari App Extension for Joplin Web Clipper
+* [uroybd/JoplinScratchPad](https://github.com/uroybd/JoplinScratchPad): A Scratchpad for Joplin and MacOS and Linux
+* [marph91/joppy](https://github.com/marph91/joppy): Python interface for the Joplin data API
+* [gribnoysup/jpng.svg](https://github.com/gribnoysup/jpng.svg): Transparent PNG with JPEG Compression
+* [LaneCommunityCollege/jquery-signature](https://github.com/LaneCommunityCollege/jquery-signature): a jQuery based email signature generator
+* [MrOtherGuy/js-modules](https://github.com/MrOtherGuy/js-modules): None
+* [criblio/js2bin](https://github.com/criblio/js2bin): NodeJS application to native executable
+* [kucherenko/jscpd](https://github.com/kucherenko/jscpd): Copy/paste detector for programming source code.
+* [jsdom/jsdom](https://github.com/jsdom/jsdom): A JavaScript implementation of various web standards, for use with Node.js
+* [1nfiniteloop/json-bookmarks](https://github.com/1nfiniteloop/json-bookmarks): Browser extension for Mozilla Firefox and Chrome for importing and exporting bookmarks with a json file
+* [lauriro/json-lite](https://github.com/lauriro/json-lite): Fast non-blocking JSON viewer for Chrome and Firefox
+* [Automattic/juice](https://github.com/Automattic/juice): Juice inlines CSS stylesheets into your HTML source.
+* [snark/jumpcut](https://github.com/snark/jumpcut): Minimalist clipboard management for macOS
+* [RealRaven2000/JunQuilla](https://github.com/RealRaven2000/JunQuilla): Adopted Thunderbird Add-on from Kent James - adds column with percent likelihood that a message is spam
+* [ZachSaucier/Just-Read](https://github.com/ZachSaucier/Just-Read): A customizable read mode web extension.
+* [EragonJ/Kaku](https://github.com/EragonJ/Kaku): 🎧 Kaku is a highly integrated music player supports different online platform like YouTube, SoundCloud, Vimeo and more. Available on Mac, Windows and Linux.
+* [wulkano/Kap](https://github.com/wulkano/Kap): An open-source screen recorder built with web technology
+* [tekezo/Karabiner](https://github.com/tekezo/Karabiner): Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
+* [genesy/karabiner-complex-rules-generator](https://github.com/genesy/karabiner-complex-rules-generator): Simple web app to help generate Karabiner Elements Complex Rules
+* [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements): Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
+* [rux616/karabiner-windows-mode](https://github.com/rux616/karabiner-windows-mode): Karabiner-Elements complex ruleset to make using macOS friendlier by enabling common keyboard functionality used in Linux and Windows.
+* [pqrs-org/KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications): Karabiner-Elements complex_modifications rules
+* [andrepolischuk/keep](https://github.com/andrepolischuk/keep): Desktop app for Google Keep packaged with Electron
+* [tmcinerney/keep](https://github.com/tmcinerney/keep): Run Google Keep in the menu bar
+* [lukassr/keep-desktop](https://github.com/lukassr/keep-desktop): Google Keep Dark: Desktop application for Windows, Mac and Linux with Dark Theme.
+* [ndbeals/keep-exporter](https://github.com/ndbeals/keep-exporter): A command line utility to export Google Keep notes to markdown.
+* [djsudduth/keep-it-markdown](https://github.com/djsudduth/keep-it-markdown): Convert Google Keep notes dynamically to markdown for Obsidian, Logseq, Joplin and Notion using the unofficial Keep API. Also, import simple markdown notes back into Google Keep.
+* [GameXG/keep2joplin](https://github.com/GameXG/keep2joplin): 将 google keep 转换为 joplin 文件。Convert google keep to joplin file.
+* [PhilippC/keepass2android](https://github.com/PhilippC/keepass2android): Password manager app for Android
+* [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc): KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
+* [keepassxreboot/keepassxc-browser](https://github.com/keepassxreboot/keepassxc-browser): KeePassXC Browser Extension
+* [uselibrary/KeepMyGoogleVoice](https://github.com/uselibrary/KeepMyGoogleVoice): Send SMS regularly through Python to keep Google Voice active
+* [dan-and/KeepToText](https://github.com/dan-and/KeepToText): Convert a Google Takeout zip file containing Google Keep notes to a directory of text files, suitable for import into systems such as Evernote
+* [TheAmalLalgi/KenKai-Theme](https://github.com/TheAmalLalgi/KenKai-Theme): KenKai Theme for Visual Studio Code
+* [jasonrudolph/keyboard](https://github.com/jasonrudolph/keyboard): ⌨ Toward a more useful keyboard
+* [BlackwinMin/keyboard-maestro-gallery](https://github.com/BlackwinMin/keyboard-maestro-gallery): Original macOS Keyboard Maestro actions by Minja.
+* [mirka/keyboard-maestro-plugin-actions](https://github.com/mirka/keyboard-maestro-plugin-actions): Plugin actions for Keyboard Maestro
+* [lloydi/Keyboard-Maestro-Web-Dev-Macros](https://github.com/lloydi/Keyboard-Maestro-Web-Dev-Macros): A collection of Keyboard Maestro text expansion macros
+* [craser/KeyboardMaestroMacros](https://github.com/craser/KeyboardMaestroMacros): Public Keyboard Maestro Macros
+* [sindresorhus/KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts): ⌨️ Add user-customizable global keyboard shortcuts (hotkeys) to your macOS app in minutes
+* [t-mart/kill-sticky](https://github.com/t-mart/kill-sticky): Bookmarklet to remove sticky elements and restore scrolling to web pages!
+* [kenneth558/KingdomComeIMeanItAndIMeanNowSurveillance](https://github.com/kenneth558/KingdomComeIMeanItAndIMeanNowSurveillance): A web page (NOTE: Only Firefox & Pale Moon browsers give approved rendering) and some server-side web server scripting in a mini web server called bashttpd.  Even looks good on Android devices as far as I've seen, though working the sliders is more difficult when your finger touch point is larger than them.  With this tricked out version of bashttpd, you won't need a high-powered web server like Apache nor nginx (I didn't feel like learning nginx, and certainly don't care for learning Apache).  IN PROGRESS but does work way, way better than nothing.  Chrome renders differently, but in a pinch it will function halfway.
+* [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher): A lightweight, pure-Swift library for downloading and caching images from the web.
+* [onekiloparsec/KPCTabsControl](https://github.com/onekiloparsec/KPCTabsControl): A macOS control for tabs with enhanced capabilities, and styles: Safari, Chrome and custom ones.
+* [kondatheme/ks-bootshop](https://github.com/kondatheme/ks-bootshop): Our Free Shopify Theme focused on simplicity, speed, and user experience. Download it today and finish your Shopify store within days, not months. Powered by Bootstrap v5 framework and 15+ years of coding experience.
+* [lando/lando](https://github.com/lando/lando): A development tool for all your projects that is fast, easy, powerful and liberating
+* [LANDrop/LANDrop](https://github.com/LANDrop/LANDrop): Drop any files to any devices on your LAN.
+* [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool): Style and Grammar Checker for 25+ Languages
+* [stuyam/laravel-phone-validator](https://github.com/stuyam/laravel-phone-validator): A phone validator for Laravel using the free Twilio phone lookup service.
+* [alfredapp/launch-url-in-3-browsers-workflow](https://github.com/alfredapp/launch-url-in-3-browsers-workflow): Launch a URL in 3 different browsers at once to speed up website testing
+* [spotlightishere/launchcontrol](https://github.com/spotlightishere/launchcontrol): A GUI for launchd, similar to launchctl. Or... something.
+* [AbinavJ-FamilyZone/launchd-package-creator](https://github.com/AbinavJ-FamilyZone/launchd-package-creator): A utility that allows you to easily create a .pkg containing a LaunchDaemon or LaunchAgent, and a target script of your choosing.
+* [ryangball/launchd-package-creator](https://github.com/ryangball/launchd-package-creator): A utility that allows you to easily create a .pkg containing a LaunchDaemon or LaunchAgent, and a target script of your choosing.
+* [Jeidoban/Launchpad-Customizer](https://github.com/Jeidoban/Launchpad-Customizer): A small macOS app that lets you customize the number of rows and columns in launchpad
+* [Molay/LaunchPadder](https://github.com/Molay/LaunchPadder): LaunchPadder is a free macOS LaunchPad tool that organizes and sorts apps and folders on LaunchPad according to certain rules.
+* [ray-lothian/Layout-Resizer](https://github.com/ray-lothian/Layout-Resizer): A simple powerful extension to adjust layout size of the current browser window
 * [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit): simple terminal UI for git commands
-* [ncopa/lddtree](https://github.com/ncopa/lddtree): Fork of pax-utils' lddtree.sh
-* [nok/leap-motion-processing](https://github.com/nok/leap-motion-processing): Contributed library to use the Leap Motion in Processing.
-* [soupi/learn-haskell-blog-generator](https://github.com/soupi/learn-haskell-blog-generator): Learn Haskell by building a blog generator - an introductory book about Haskell.
-* [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim): Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
-* [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching): An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
-* [frimin/learning-kcp-protocol](https://github.com/frimin/learning-kcp-protocol): KCP协议基本数据结构和算法图文介绍
-* [egh/ledger-autosync](https://github.com/egh/ledger-autosync): Synchronize your ledger-cli files with your bank.
-* [soulmachine/leetcode](https://github.com/soulmachine/leetcode): LeetCode题解，151道题完整版。广告：推荐刷题网站 https://www.lintcode.com/?utm_source=soulmachine
-* [skygragon/leetcode-cli](https://github.com/skygragon/leetcode-cli): A cli tool to enjoy leetcode!
-* [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop): 汇总各大互联网公司容易考察的高频leetcode题🔥
-* [lensapp/lens](https://github.com/lensapp/lens): Lens - The way the world runs Kubernetes
-* [lerna/lerna](https://github.com/lerna/lerna): :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
-* [gwsw/less](https://github.com/gwsw/less): Less - text pager
-* [lesspass/lesspass](https://github.com/lesspass/lesspass): :key: stateless open source password manager
-* [google/leveldb](https://github.com/google/leveldb): LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
-* [foonathan/lexy](https://github.com/foonathan/lexy): C++ parsing DSL
-* [openSUSE/lftp-concourse-resource](https://github.com/openSUSE/lftp-concourse-resource):  A Concourse CI resource type to access resources via ftp, http, sftp, and fish
-* [odziom91/libadwaita-theme-changer](https://github.com/odziom91/libadwaita-theme-changer): Theme changer for Libadwaita
-* [koutheir/libcxx-pretty-printers](https://github.com/koutheir/libcxx-pretty-printers): GDB Pretty Printers for libc++ of Clang/LLVM
-* [zsxsoft/libfprint-fprintd](https://github.com/zsxsoft/libfprint-fprintd): Modified pam_fprintd to make fingerprint and password work together
-* [yyzybb537/libgo](https://github.com/yyzybb537/libgo): Go-style concurrency in C++11
-* [pganalyze/libpg_query](https://github.com/pganalyze/libpg_query): C library for accessing the PostgreSQL parser outside of the server environment
-* [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat): Enhanced ChatGPT Clone: Features OpenAI, Bing, Anthropic, OpenRouter, PaLM 2, AI model switching, message search, langchain, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development
-* [ubuntu/libreoffice-style-yaru-fullcolor](https://github.com/ubuntu/libreoffice-style-yaru-fullcolor): A fullcolor icon pack for Libreoffice of the awesome Yaru theme
-* [libvips/libvips](https://github.com/libvips/libvips): A fast image processing library with low memory needs.
-* [mciupak/libvirt-evdev](https://github.com/mciupak/libvirt-evdev): Libvirt evdev input service
-* [coreos/license-bill-of-materials](https://github.com/coreos/license-bill-of-materials): Fork of https://github.com/pmezard/licenses
-* [liriliri/licia](https://github.com/liriliri/licia): Useful utility collection with zero dependencies
-* [tuberry/light-dict](https://github.com/tuberry/light-dict): Lightweight extension for on-the-fly manipulation to primary selections, especially optimized for Dictionary lookups.
-* [the-cavalry/light-locker](https://github.com/the-cavalry/light-locker): A simple session-locker for lightdm
-* [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim): A light and configurable statusline/tabline plugin for Vim
-* [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss): An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
-* [lightspark/lightspark](https://github.com/lightspark/lightspark): An open source flash player implementation
-* [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim): 🌌 Next-generation motion plugin using incremental input processing, allowing for unparalleled speed with minimal interruptions (predecessor of leap.nvim)
-* [archlinuxcn/lilac](https://github.com/archlinuxcn/lilac): Lilac is the build bot for archlinuxcn
-* [lima-vm/lima](https://github.com/lima-vm/lima): Linux virtual machines
-* [callstack/linaria](https://github.com/callstack/linaria): Zero-runtime CSS in JS library
-* [ronv/lines](https://github.com/ronv/lines): Minimalist and simple theme for Hugo
-* [bjcull/LinqExpander](https://github.com/bjcull/LinqExpander): A way of expanding extension methods in your LINQ expressions so that it can be interperated by a third party who doesn't understand your extensions.
-* [AsahiLinux/linux](https://github.com/AsahiLinux/linux): Linux kernel source tree
-* [EmixamPP/linux-enable-ir-emitter](https://github.com/EmixamPP/linux-enable-ir-emitter): Provides support for infrared cameras that are not directly enabled out-of-the box.
-* [linux-surface/linux-surface](https://github.com/linux-surface/linux-surface): Linux Kernel for Surface Devices
-* [0voice/linux_kernel_wiki](https://github.com/0voice/linux_kernel_wiki): linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频
-* [phuhl/linux_notification_center](https://github.com/phuhl/linux_notification_center): A notification daemon/center for linux
-* [neurosnap/lists.sh](https://github.com/neurosnap/lists.sh): a microblog for lists
-* [fanmingming/live](https://github.com/fanmingming/live): ✯ 一个国内可直连的直播源分享项目 ✯  🔕 永久免费 直连访问 完整开源 不含广告 完善的台标 直播源支持IPv4/IPv6双栈访问 🔕
-* [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget): 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
-* [rocksdanister/lively](https://github.com/rocksdanister/lively): Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
-* [sysprog21/lkmpg](https://github.com/sysprog21/lkmpg): The Linux Kernel Module Programming Guide (updated for 5.0+ kernels)
-* [y1yang0/llmd](https://github.com/y1yang0/llmd): 如果将markdown视作一门编程语言可以做哪些有趣的事情呢?
-* [llvm/llvm-project](https://github.com/llvm/llvm-project): The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
-* [rancher/local-path-provisioner](https://github.com/rancher/local-path-provisioner): Dynamically provisioning persistent local storage with Kubernetes
-* [replicatedhq/local-volume-provider](https://github.com/replicatedhq/local-volume-provider): A Velero plugin for backup/restore directly to Kubernetes volumes.
-* [xupefei/Locale-Emulator](https://github.com/xupefei/Locale-Emulator): Yet Another System Region and Language Simulator
-* [lodash/lodash](https://github.com/lodash/lodash): A modern JavaScript utility library delivering modularity, performance, & extras.
-* [square/logcat](https://github.com/square/logcat): I CAN HAZ LOGZ?
-* [darshanparajuli/LogcatReader](https://github.com/darshanparajuli/LogcatReader): A simple app for viewing logs on an android device.
-* [EvgSkv/logica](https://github.com/EvgSkv/logica): Logica is a logic programming language that compiles to SQL. It runs on Google BigQuery, PostgreSQL and SQLite.
-* [sirupsen/logrus](https://github.com/sirupsen/logrus): Structured, pluggable logging for Go.
-* [gnif/LookingGlass](https://github.com/gnif/LookingGlass): An extremely low latency KVMFR (KVM FrameRelay) implementation for guests with VGA PCI Passthrough.
-* [mbrlabs/Lorien](https://github.com/mbrlabs/Lorien): Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.
-* [CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn): A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε
-* [LSPosed/LSPosed.github.io](https://github.com/LSPosed/LSPosed.github.io): None
-* [lsyncd/lsyncd](https://github.com/lsyncd/lsyncd): Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
-* [remjey/luaotp](https://github.com/remjey/luaotp): A simple implementation of OATH-HOTP and OATH-TOTP written for Lua
-* [yued-fe/lulu](https://github.com/yued-fe/lulu): 跨端跨框架的原生 UI 组件库，即插即用
-* [lure-sh/lure](https://github.com/lure-sh/lure): The community repository missing from your Linux distro
-* [lutris/lutris](https://github.com/lutris/lutris): Lutris desktop client in Python / PyGObject
-* [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai): An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。  
+* [gildas-lormeau/LazyLoadify](https://github.com/gildas-lormeau/LazyLoadify): Web Extension to force the lazy loading of non-displayed resources (i.e. image, frame, video and audio contents)
+* [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton): 💻     Democratizing Snippet Management (macOS/Win/Linux)
+* [te6-in/lepton-custom](https://github.com/te6-in/lepton-custom): 🦊 A macOS style theme for Firefox—forked from Lepton(Firefox-UI-Fix)
+* [AlexisDrain/Less-Addictive-YouTube](https://github.com/AlexisDrain/Less-Addictive-YouTube): Cross-browser plugin to remove addictive features on YT like thumbnails, comments, & previews
+* [letsblockit/letsblockit](https://github.com/letsblockit/letsblockit): Remove low-quality content and useless nags, focus on what matters. A community-maintained uBlock Origin filter set.
+* [poochinski9/libgen-calibre-store-plugin](https://github.com/poochinski9/libgen-calibre-store-plugin): Calibre plugin for Library Genesis
+* [gphoto/libgphoto2](https://github.com/gphoto/libgphoto2): The libgphoto2 camera access and control library.
+* [libreddit/libreddit](https://github.com/libreddit/libreddit): Private front-end for Reddit
+* [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube): An alternative frontend for YouTube, for Android.
+* [hnhx/librex](https://github.com/hnhx/librex): Framework and javascript free privacy respecting meta search engine
+* [Shopify/lighthouse-ci-action](https://github.com/Shopify/lighthouse-ci-action): None
+* [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse): The mouse and trackpad utility for Mac.
+* [ddawson/Link-Tools](https://github.com/ddawson/Link-Tools): Configurable copy and visit operations for links in Firefox
+* [apiraino/link_cleaner](https://github.com/apiraino/link_cleaner): A Firefox extension to clean urls from tracking and advertisement parameters
+* [wyattharrell/linkbook](https://github.com/wyattharrell/linkbook): Linkbook is a powerful link-saving web app that can store your favorite links, keep you organized, and much more. 
+* [eight04/linkify-plus-plus](https://github.com/eight04/linkify-plus-plus): A userscript/extension which can linkify almost everything. Based on Linkify Plus.
+* [eight04/linkify-plus-plus-core](https://github.com/eight04/linkify-plus-plus-core): A JavaScript library for linkification stuff. Used by linkify-plus-plus.
+* [tetsuharuohzeki/linkplaces](https://github.com/tetsuharuohzeki/linkplaces): This is a add-on for Mozilla Firefox. This provides Sidebar to display "Unsorted Bookmarks" folder in Places, as "Temporary Links".
+* [velvia/links](https://github.com/velvia/links): Just a bunch of useful links
+* [cloux/LinkSanitizer](https://github.com/cloux/LinkSanitizer): Browser userscript to clean up hyperlink redirections and link shims
+* [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden): A self-hosted, open-source collaborative bookmark manager to collect, organize and archive webpages.
+* [Shopify/liquid](https://github.com/Shopify/liquid): Liquid markup language. Safe, customer facing template language for flexible web apps. 
+* [EvgeniyMukhamedjanov/liquid-ajax-cart](https://github.com/EvgeniyMukhamedjanov/liquid-ajax-cart): Build a Shopify Ajax-cart without JavaScript coding
+* [harttle/liquidjs](https://github.com/harttle/liquidjs): A simple, expressive, safe and Shopify compatible template engine in pure JavaScript.
+* [fregante/list-github-dir-content](https://github.com/fregante/list-github-dir-content): List all the files in a GitHub repo’s directory
+* [webextensions/live-css-editor](https://github.com/webextensions/live-css-editor): Source code for Chrome/Edge/Firefox/Opera extension Magic CSS (Live editor for CSS, Less & Sass)
+* [nt1m/livemarks](https://github.com/nt1m/livemarks): Extension that restores RSS Feed Livemarks in Firefox. 
+* [lliurex/lliurex-gdrive](https://github.com/lliurex/lliurex-gdrive): App to manage google drive accounts
+* [igorlogius/load-background-tabs-on-select](https://github.com/igorlogius/load-background-tabs-on-select): Prevents tabs which are opend in the background from loading until they have been manually activated
+* [cleidigh/Localfolder-TB](https://github.com/cleidigh/Localfolder-TB): Thunderbird Add-On to add additional local folders to accounts
+* [TCB13/LoFloccus](https://github.com/TCB13/LoFloccus): Sync Floccus' browser bookmarks to a local folder / any cloud.
+* [gkoehler/LogiCircleDownloader](https://github.com/gkoehler/LogiCircleDownloader): Automatically download all your videos from your Logi Circle camera
+* [kaktuspalme/LogiCircleDownloader](https://github.com/kaktuspalme/LogiCircleDownloader): Automatically download all your videos from your Logi Circle camera
+* [VMpc/Login-Stealer](https://github.com/VMpc/Login-Stealer): what the name says (made for "educational" purposes)
+* [TB-throwback/LookOut-fix-version](https://github.com/TB-throwback/LookOut-fix-version): Fork of LookOut (fix version)
+* [musically-ut/lovely-forks](https://github.com/musically-ut/lovely-forks): 💚 🍴 Show notable forks of GitHub repositories under their names.
+* [objective-see/LuLu](https://github.com/objective-see/LuLu): LuLu is the free macOS firewall
+* [robin/LYTabView](https://github.com/robin/LYTabView): A customized Mac OS X Tab View with modern tab bar style
+* [rgcr/m-cli](https://github.com/rgcr/m-cli):  Swiss Army Knife for macOS 
+* [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup): Configuration files to setup macos(Intel 2020)
+* [JFtechOfficial/mac-automation-scripts](https://github.com/JFtechOfficial/mac-automation-scripts): BTT presets, macros & scripts I use to make my life sometimes easier
+* [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI):  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
+* [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook): Mac setup and configuration via Ansible.
+* [michaelschwobe/mac-dev-setup](https://github.com/michaelschwobe/mac-dev-setup): A macOS setup guide specific to front-end development.
+* [eth-p/mac-icons](https://github.com/eth-p/mac-icons): An assortment of custom MacOS folder icons, editable without Adobe products.
+* [zhuochun/mac-keyboard](https://github.com/zhuochun/mac-keyboard): 🎹 Keyboard Enhancements for Mac
+* [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix): Mac Mouse Fix - A simple way to make your mouse better.
+* [maximbilan/Mac-OS-X-App-Menu-Bar-Popup](https://github.com/maximbilan/Mac-OS-X-App-Menu-Bar-Popup): Mac OS X Application like a menu bar popup message
+* [anonymousaga/mac-passwords-app](https://github.com/anonymousaga/mac-passwords-app): An app that allows you to view keychain passwords with one click.
+* [haokaiyang/Mac-QuickLook](https://github.com/haokaiyang/Mac-QuickLook): QuickLook plugins and packages
+* [madlymad/mac-scrcpy-app](https://github.com/madlymad/mac-scrcpy-app): Automator scripts that allow to start scrcpy tool on mac
+* [bkuhlmann/mac_os-config](https://github.com/bkuhlmann/mac_os-config): Shell scripts for customized macOS machine setup and configuration.
+* [p0deje/Maccy](https://github.com/p0deje/Maccy): Lightweight clipboard manager for macOS
+* [jonbeebe/MacDynamicWallpaper](https://github.com/jonbeebe/MacDynamicWallpaper): Mojave-style dynamic wallpapers for macOS.
 * [MacEnhance/MacForge](https://github.com/MacEnhance/MacForge): 📦 Plugin, App, and Theme store which includes plugin injection for macOS
-* [yuanxiaosc/Machine-Learning-Book](https://github.com/yuanxiaosc/Machine-Learning-Book): 《机器学习宝典》包含：谷歌机器学习速成课程（招式）+机器学习术语表（口诀）+机器学习规则（心得）+机器学习中的常识性问题 （内功）。该资源适用于机器学习、深度学习研究人员和爱好者参考！
-* [pbharrin/machinelearninginaction](https://github.com/pbharrin/machinelearninginaction): Source Code for the book: Machine Learning in Action published by Manning
-* [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM): Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
-* [geerlingguy/macos-virtualbox-vm](https://github.com/geerlingguy/macos-virtualbox-vm): Instructions and script to help you create a VirtualBox VM running macOS.
-* [foxcpp/maddy](https://github.com/foxcpp/maddy): ✉️ Composable all-in-one mail server.
-* [jepsen-io/maelstrom](https://github.com/jepsen-io/maelstrom): A workbench for writing toy implementations of distributed systems.
-* [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole): get things from one computer to another, safely
-* [ViRb3/magisk-frida](https://github.com/ViRb3/magisk-frida): 🔐 Run frida-server on boot with Magisk, always up-to-date
-* [Rikj000/Magisk-Manager-for-Recovery-Mode](https://github.com/Rikj000/Magisk-Manager-for-Recovery-Mode): Updated version of VR25's Magisk Manager for Recovery mode. Works with Magisk v19.0 - v25.X! With this you can be at ease while trying out Android Magisk Modules. Since if you end up with a bootloop, you can just disable the module from recovery! Saved me many times! This app is used in a recovery terminal (e.g. TWRP), not in Magisk itself.
-* [LSPosed/MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA): Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)
-* [buildfoundation/mainframer](https://github.com/buildfoundation/mainframer): Tool for remote builds. Sync project to remote machine, execute command, sync back.
-* [MajsoulPlus/majsoul-plus](https://github.com/MajsoulPlus/majsoul-plus): 雀魂Plus——雀魂麻将Majsoul专用浏览器，提供了一些专有特性
-* [megastep/makeself](https://github.com/megastep/makeself): A self-extracting archiving tool for Unix systems, in 100% shell script.
-* [mamba-org/mamba](https://github.com/mamba-org/mamba): The Fast Cross-Platform Package Manager
-* [3b1b/manim](https://github.com/3b1b/manim): Animation engine for explanatory math videos
-* [saeziae/manjaro2archlinux](https://github.com/saeziae/manjaro2archlinux): Convert your manjaro to archlinux
-* [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch): Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
-* [martinus/map_benchmark](https://github.com/martinus/map_benchmark): Comprehensive benchmarks of C++ maps
-* [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure): Go library for decoding generic map values into native Go structures and vice versa.
-* [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it): Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
-* [goessner/markdown-it-texmath](https://github.com/goessner/markdown-it-texmath): Support TeX math equations with your Markdown documents.
+* [maccman/macgap-rb](https://github.com/maccman/macgap-rb): Generator for MacGap
+* [darkbrow/macgap2_google_keep](https://github.com/darkbrow/macgap2_google_keep): None
+* [MacGesture/MacGesture](https://github.com/MacGesture/MacGesture): Global mouse gestures for macOS
+* [Bunn/macGist](https://github.com/Bunn/macGist): Simple app to send pasteboard items to GitHub's Gist
+* [lra/mackup](https://github.com/lra/mackup): Keep your application settings in sync (OS X/Linux)
+* [hazcod/maclaunch](https://github.com/hazcod/maclaunch): Manage your macOS startup items.
+* [schappim/macOCR](https://github.com/schappim/macOCR): Get any text on your screen into your clipboard.
+* [temochka/macos-automation](https://github.com/temochka/macos-automation): A collection of my macOS automation scripts (Alfred Workflows, AppleScript, and JXA)
+* [dosdude1/macos-catalina-patcher](https://github.com/dosdude1/macos-catalina-patcher): macOS Catalina Patcher (http://dosdude1.com/catalina)
+* [kevinSuttle/macOS-Defaults](https://github.com/kevinSuttle/macOS-Defaults): A centralized place for the awesome work started by @mathiasbynens on .macos
+* [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults): Incomplete list of macOS `defaults` commands with demos ✨
+* [CyanFi/macos-dynamic-wallpaper](https://github.com/CyanFi/macos-dynamic-wallpaper): A simple dynamic wallpaper script on macOS
+* [mBilG/macOS-Dynamic-Wallpaper](https://github.com/mBilG/macOS-Dynamic-Wallpaper): Vector Graphic for dynamic wallpaper
+* [krestaino/macos-folder-icons](https://github.com/krestaino/macos-folder-icons): 📁 Generate custom folder icons using images or SF Symbols.
+* [wynioux/macOS-GateKeeper-Helper](https://github.com/wynioux/macOS-GateKeeper-Helper): Simple macOS GateKeeper script.
+* [yuanqing/macos-keyboard-shortcuts](https://github.com/yuanqing/macos-keyboard-shortcuts): :keyboard: A CLI to set application-specific keyboard shortcuts for macOS
+* [MaorS/macOS-PasswordManager](https://github.com/MaorS/macOS-PasswordManager): 🔑👨‍💻macOS Password Manager
+* [bbusschots/macos-quickaction-text](https://github.com/bbusschots/macos-quickaction-text): A collection of Mac OS Quick Actions (Services) for manipulating text.
+* [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide): Guide to securing and improving privacy on macOS
+* [heartshapedbox/macOS-shortcuts](https://github.com/heartshapedbox/macOS-shortcuts): Custom macOS Shortcuts and Quick Actions.
+* [maustinstar/MacOS-Skin](https://github.com/maustinstar/MacOS-Skin): Custom icon sets for MacOS Apps
+* [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox): Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windows, Linux, and macOS
+* [sindresorhus/macos-wallpaper](https://github.com/sindresorhus/macos-wallpaper): Manage the desktop wallpaper on macOS
+* [elrumo/macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements): Replacement icons for popular apps in the style of macOS Big Sur
+* [Tnings/MacosVibrant](https://github.com/Tnings/MacosVibrant): None
+* [MacPass/MacPass](https://github.com/MacPass/MacPass): A native macOS KeePass client 
+* [lodestone/macpaste](https://github.com/lodestone/macpaste): Global middle-mouse-click copy/paste for Mac OSX (C).
+* [w0lfschild/macplugins](https://github.com/w0lfschild/macplugins): :green_book: Community repo for MacForge
+* [macports/macports-base](https://github.com/macports/macports-base): The MacPorts command-line client
+* [sevagas/macro_pack](https://github.com/sevagas/macro_pack): macro_pack is a tool by @EmericNasi used to automatize obfuscation and generation of Office documents, VB scripts, shortcuts, and other formats for pentest, demo, and social engineering assessments. The goal of macro_pack is to simplify exploitation, antimalware bypass, and automatize the process from malicious macro and script generation to final document generation. It also provides a lot of helpful features useful for redteam or security research. 
+* [fharper/macsetup](https://github.com/fharper/macsetup): Scripts to setup my mac
+* [Pilaton/MacSync](https://github.com/Pilaton/MacSync): Easy sync for macOS. Dotfiles, folders, configurations, etc.
+* [macvim-dev/macvim](https://github.com/macvim-dev/macvim): Vim - the text editor - for macOS
+* [section83/MacYTDL](https://github.com/section83/MacYTDL): A macOS GUI front-end for the youtube-dl video downloader
+* [samschott/maestral](https://github.com/samschott/maestral): Open-source Dropbox client for macOS and Linux
+* [alfredapp/magic-8-ball-workflow](https://github.com/alfredapp/magic-8-ball-workflow): A simple workflow that makes use of the Random utility to answer your questions like a classic magic 8-ball
+* [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk): The Magic Mask for Android
+* [Magisk-Modules-Repo/MagiskHidePropsConf](https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf): This tool is now dead...
+* [Clipy/Magnet](https://github.com/Clipy/Magnet): Customize global hotkeys in macOS.
+* [soxoj/maigret](https://github.com/soxoj/maigret): 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
+* [peci1/mailing-list-filter](https://github.com/peci1/mailing-list-filter): Thunderbird mail filter search term using mailing lists (and not whole addressbooks).
+* [mangtronix/MangTouchBar](https://github.com/mangtronix/MangTouchBar): Minimalist Touch Bar setup
+* [neilsardesai/Manila](https://github.com/neilsardesai/Manila): A Finder extension for changing folder colors
+* [AbhishekKalavadiya/maper](https://github.com/AbhishekKalavadiya/maper): A location-based website using React as Frontend and NodeJs, ExpressJS as backend, and MongoDB as Database. On this website, I had use MapBox for the world map and React-Mapbox-gl for configuration. We can select the place where we had visited and added the photo URL, so the entry will be seen on the map and in the visited place area. We can delete or modify the changes in the Entry we had created. It is a responsive website with live location of a point on the map. The Backend is deployed on Heroku and the frontend is deployed on Netlify.
+* [trambarhq/mark-gor](https://github.com/trambarhq/mark-gor): A markdown parser for React/Preact
+* [adam-p/markdown-here](https://github.com/adam-p/markdown-here): Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
+* [sunshinev/markdown-image-upload-github](https://github.com/sunshinev/markdown-image-upload-github): 将图片通过Alfred-workflow上传到github，并且返回markdown格式的图片语法
+* [simov/markdown-viewer](https://github.com/simov/markdown-viewer): Markdown Viewer / Browser Extension
+* [deathau/markdownload](https://github.com/deathau/markdownload): A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 * [marktext/marktext](https://github.com/marktext/marktext): 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-* [desandro/masonry](https://github.com/desandro/masonry): :love_hotel: Cascading grid layout plugin
-* [mastodon/mastodon](https://github.com/mastodon/mastodon): Your self-hosted, globally interconnected microblogging community
-* [nana-4/materia-theme](https://github.com/nana-4/materia-theme): A Material Design theme for GNOME/GTK based desktop environments
+* [soxoj/marple](https://github.com/soxoj/marple): 📖 Collect links to profiles by username through search engines and analyze with various plugins
+* [arp242/MartinFox](https://github.com/arp242/MartinFox): Really simple userChrome.css for Firefox 89 to make the active tab stand out more
+* [mas-cli/mas](https://github.com/mas-cli/mas): :package: Mac App Store command line interface
+* [massCodeIO/massCode](https://github.com/massCodeIO/massCode): A free and open source code snippets manager for developers
 * [material-components/material-components-web](https://github.com/material-components/material-components-web): Modular and customizable Material Design UI components for the web
-* [material-shell/material-shell](https://github.com/material-shell/material-shell): A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
-* [material-foundation/material-theme-builder](https://github.com/material-foundation/material-theme-builder): Visualize dynamic color and create a custom Material Theme
-* [mui/material-ui](https://github.com/mui/material-ui): MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
-* [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles): Material Design file manager for Android
-* [muckSponge/MaterialFox](https://github.com/muckSponge/MaterialFox): A Material Design-inspired userChrome.css theme for Firefox
-* [Dogfalo/materialize](https://github.com/Dogfalo/materialize): Materialize, a CSS Framework based on Material Design
-* [42wim/matterbridge](https://github.com/42wim/matterbridge): bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
-* [Nitrux/maui-shell](https://github.com/Nitrux/maui-shell): Maui Shell is a convergent shell for desktops, tablets, and phones.
-* [mdbootstrap/mdb-vue-ui-kit](https://github.com/mdbootstrap/mdb-vue-ui-kit): Vue 3 & Bootstrap 5 & Material Design 2.0 UI KIT
-* [rust-lang/mdBook](https://github.com/rust-lang/mdBook): Create book from markdown files. Like Gitbook but implemented in Rust
-* [meganz/MEGAcmd](https://github.com/meganz/MEGAcmd): Command Line Interactive and Scriptable Application to access MEGA
-* [matteoserva/MegaFuse](https://github.com/matteoserva/MegaFuse): MEGA client for linux, based on FUSE
-* [mellow-io/mellow](https://github.com/mellow-io/mellow): Mellow is a rule-based global transparent proxy client for Windows, macOS and Linux. Also a Proxifier alternative.
-* [novoid/Memacs](https://github.com/novoid/Memacs): What did I do on February 14th 2007? Visualize your (digital) life in Org-mode
-* [mercurius-js/mercurius](https://github.com/mercurius-js/mercurius): Implement GraphQL servers and gateways with Fastify
-* [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid): Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-* [mesonbuild/meson](https://github.com/mesonbuild/meson): The Meson Build System
-* [metallb/metallb](https://github.com/metallb/metallb): A network load-balancer implementation for Kubernetes using standard routing protocols
-* [lowlighter/metrics](https://github.com/lowlighter/metrics): 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-* [Geofferey/mgkdhelper](https://github.com/Geofferey/mgkdhelper): A simple module to keep MAGISK daemon running
-* [neuland/micro-frontends](https://github.com/neuland/micro-frontends): extending the microservice paradigms to web development
-* [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts): A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
-* [MiKTeX/miktex](https://github.com/MiKTeX/miktex): the MiKTeX source code
-* [milvus-io/milvus](https://github.com/milvus-io/milvus): A cloud-native vector database, storage for next generation AI applications
-* [tinajs/mina-webpack](https://github.com/tinajs/mina-webpack): :bento: Mina single-file-component meets Webpack
-* [krhougs/mina-webpack-plugin](https://github.com/krhougs/mina-webpack-plugin): Webpack plugin for processing MINA apps (WeChat MiniPrograms).
-* [ssshooter/mind-elixir-core](https://github.com/ssshooter/mind-elixir-core): ⚗ Mind-elixir is a framework agnostic mind map core.
-* [webpack-contrib/mini-css-extract-plugin](https://github.com/webpack-contrib/mini-css-extract-plugin): Lightweight CSS extraction plugin
-* [realywithoutname/mini-program-webpack-loader](https://github.com/realywithoutname/mini-program-webpack-loader): 基于 webpack  的小程序构建工具
-* [mininet/mininet](https://github.com/mininet/mininet): Emulator for rapid prototyping of Software Defined Networks
-* [minio/minio](https://github.com/minio/minio): High Performance Object Storage for AI
-* [S-1-T/miniob](https://github.com/S-1-T/miniob): OceanBase 数据库大赛初赛赛题
-* [MiPushFramework/MiPushFramework](https://github.com/MiPushFramework/MiPushFramework): [Archived, FORK: https://github.com/NihilityT/MiPushFramework] Let supported push service run system-ly on every Android devices
-* [mamoe/mirai](https://github.com/mamoe/mirai): 高效率 QQ 机器人支持库
-* [stephenh/mirror](https://github.com/stephenh/mirror): A tool for real-time, two-way sync for remote (e.g. desktop/laptop) development
-* [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy): An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
-* [BDZNH/MIUI-Theme-Download-Link-Generator](https://github.com/BDZNH/MIUI-Theme-Download-Link-Generator): A tiny tool for generating MIUI direct link.
-* [MinaMichita/MiuiEULocalizationToolsBox](https://github.com/MinaMichita/MiuiEULocalizationToolsBox): Miui EU 本地化项目工具箱app
-* [fankes/MIUINativeNotifyIcon](https://github.com/fankes/MIUINativeNotifyIcon): Fix the native notification bar icon function abandoned by the MIUI development team.
-* [vcheckzen/MIUIThemeDownloader](https://github.com/vcheckzen/MIUIThemeDownloader): [ MIUI 主题下载器 ] Recover the Download Button on Details Page at http://zhuti.xiaomi.com
-* [LumingSun/ML4DB-paper-list](https://github.com/LumingSun/ML4DB-paper-list): Papers for database systems powered by artificial intelligence (machine learning for database)
-* [zehome/MLVPN](https://github.com/zehome/MLVPN): Multi-link VPN (ADSL/SDSL/xDSL/Network aggregation / bonding)
-* [Magisk-Modules-Repo/mm](https://github.com/Magisk-Modules-Repo/mm): mm
-* [mochajs/mocha](https://github.com/mochajs/mocha): ☕️ simple, flexible, fun javascript test framework for node.js & the browser
-* [babysor/MockingBird](https://github.com/babysor/MockingBird): 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
-* [mockito/mockito](https://github.com/mockito/mockito): Most popular Mocking framework for unit tests written in Java
-* [mockito/mockito-kotlin](https://github.com/mockito/mockito-kotlin): Using Mockito with Kotlin
-* [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix): A collection of modern/faster/saner alternatives to common unix commands.
-* [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js): Modern.js is a web engineering system, including a web framework, a npm package solution and a build tool.
-* [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter): 🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more.
-* [xdanaux/moderncv](https://github.com/xdanaux/moderncv): A modern curriculum vitae class for LaTeX
-* [taowen/modularization-examples](https://github.com/taowen/modularization-examples): 代码防腐实用技术
-* [ilearnio/module-alias](https://github.com/ilearnio/module-alias): Register aliases of directories and custom module paths in Node
-* [hexsum/Mojo-Webqq](https://github.com/hexsum/Mojo-Webqq): 【重要通知：WebQQ将在2019年1月1日停止服务，此项目目前已停止维护，感谢大家四年来的一路陪伴】使用Perl语言（不会没关系）编写的smartqq/webqq客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用
-* [hexsum/Mojo-Weixin](https://github.com/hexsum/Mojo-Weixin): 使用Perl语言（不会没关系）编写的个人账号微信/weixin/wechat客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用
-* [rui314/mold](https://github.com/rui314/mold): Mold: A Modern Linker 🦠
-* [ansible/molecule](https://github.com/ansible/molecule): Molecule aids in the development and testing of Ansible content: collections, playbooks and roles
-* [moment/moment](https://github.com/moment/moment): Parse, validate, manipulate, and display dates in javascript.
-* [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor): A browser based code editor
-* [gedzeppelin/monitor-window-switcher](https://github.com/gedzeppelin/monitor-window-switcher): GNOME shell extension to improve dual (or more) monitor experience
-* [monyhar/monyhar](https://github.com/monyhar/monyhar): 梦弘浏览器 - 完全自主研发，打破国外垄断，比 Chrome 快 600%。
-* [devlooped/moq](https://github.com/devlooped/moq): The most popular and friendly mocking framework for .NET
-* [square/moshi](https://github.com/square/moshi): A modern JSON library for Kotlin and Java.
+* [fmeyertoens/MaterialFox](https://github.com/fmeyertoens/MaterialFox): A Material Design-inspired userChrome.css theme for Firefox
+* [te6-in/MaterialFox-BigSur](https://github.com/te6-in/MaterialFox-BigSur): 🦊 A cleaner, more refined userChrome.css theme for Firefox—forked from MaterialFox
+* [typeling1578/MaterialFox-Plus](https://github.com/typeling1578/MaterialFox-Plus): A Material Design-inspired userChrome.css theme for Firefox. This repository is a Fork of muckSponge/MaterialFox.
+* [square/maximum-awesome](https://github.com/square/maximum-awesome): Config files for vim and tmux.
+* [qsniyg/maxurl](https://github.com/qsniyg/maxurl): Finds larger/original versions of images and videos
+* [tanrax/maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking): Local ad blocker. Like Pi-hole but local and using your operating system.
+* [ryosama/mbox_spliter](https://github.com/ryosama/mbox_spliter): Split large mbox files (from hunderbird) into smaller one, class by year of the message
+* [olivierodo/MBP-BTT-spotify-touchbar](https://github.com/olivierodo/MBP-BTT-spotify-touchbar):  Spotify touchbar widget for Macbook touchbar
+* [lightward/mechanic-tasks](https://github.com/lightward/mechanic-tasks): Public task repository for Mechanic (https://mechanic.dev)
+* [mhogomchungu/media-downloader](https://github.com/mhogomchungu/media-downloader): Media Downloader is a Qt/C++ front end to youtube-dl
+* [tillig/mediacenter](https://github.com/tillig/mediacenter): Documentation/info on my media center setup.
+* [sbarex/MediaInfo](https://github.com/sbarex/MediaInfo): MacOS Finder Extension to show information about media files (images, video and audio), PDF and Office files on the contextual menu. 
+* [google/mediapipe](https://github.com/google/mediapipe): Cross-platform, customizable ML solutions for live and streaming media.
+* [manojVivek/medium-unlimited](https://github.com/manojVivek/medium-unlimited): A browser extension to read medium.com articles for free without membership.
+* [und3fined/medium-unlocker](https://github.com/und3fined/medium-unlocker): Read Medium content without limit!
+* [yousseb/meld](https://github.com/yousseb/meld): Meld for macOS
+* [WorldBrain/Memex](https://github.com/WorldBrain/Memex): Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
+* [austintraver/merge](https://github.com/austintraver/merge): Addon to replicate the Safari 'Merge All Windows' menu command
+* [wsmadsen/Merge-NHL-Odds](https://github.com/wsmadsen/Merge-NHL-Odds): Import NHL data from NHL website and merge odds
+* [jonathanKingston/merge-windows](https://github.com/jonathanKingston/merge-windows): A Firefox extension for merging windows
+* [nickysemenza/message-analyzer](https://github.com/nickysemenza/message-analyzer): 💬 📊 Facebook Messenger history scraper + analyzer
+* [cleidigh/Message-archive-options-TB](https://github.com/cleidigh/Message-archive-options-TB): Thunderbird Add-On Adds the ability to customize the date format of the archive folders created by TB Archive Messages
+* [glaurent/MessagesHistoryBrowser](https://github.com/glaurent/MessagesHistoryBrowser): a macOS/OSX app to comfortably browse and search through your Messages.app history.
+* [duolingo/metasearch](https://github.com/duolingo/metasearch): Search aggregator for Slack, Google Docs, GitHub, and more :mag:
+* [alexta69/metube](https://github.com/alexta69/metube): youtube-dl web UI
+* [nanocortex/metube-firefox-addon](https://github.com/nanocortex/metube-firefox-addon): Firefox addon for queueing videos to MeTube instance.
+* [cl3m/MiddleClick](https://github.com/cl3m/MiddleClick): Emulate a middleclick with triple tap on MacBook trackpad and Magic Mouse.
+* [artginzburg/MiddleClick-Sonoma](https://github.com/artginzburg/MiddleClick-Sonoma):  "Wheel click" with three-finger click/tap for Trackpad and Magic Mouse.
+* [Midnight-Lizard/Midnight-Lizard](https://github.com/Midnight-Lizard/Midnight-Lizard): Сustom color schemes for all websites
+* [mut-ex/minimal-functional-fox](https://github.com/mut-ex/minimal-functional-fox): A minimal, yet functional Firefox userChrome configuration.
+* [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes): :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
+* [tortious/MintyFox](https://github.com/tortious/MintyFox): Customization of Firefox Quantum using userChrome, userContent, and various other files involving the userChrome.js hack that allows for uc.js docs to be incorporated. 
+* [miromannino/miro-windows-manager](https://github.com/miromannino/miro-windows-manager): Intuitive and clever mechanism for moving windows using only arrows, even resizing windows by thirds or quarters! For OSX
+* [liamengland1/miscfilters](https://github.com/liamengland1/miscfilters): None
+* [mjmlio/mjml](https://github.com/mjmlio/mjml): MJML: the only framework that makes responsive-email easy
+* [mjmlio/mjml-app](https://github.com/mjmlio/mjml-app): :email: The desktop app for MJML
+* [mmistakes/mm-github-pages-starter](https://github.com/mmistakes/mm-github-pages-starter): Minimal Mistakes GitHub Pages site starter.
+* [thebaer/MMRA](https://github.com/thebaer/MMRA): Make Medium Readable Again — a browser extension
+* [ScanuNicco/Modern-ThunderBird](https://github.com/ScanuNicco/Modern-ThunderBird): A userChrome.css theme to make thunderbird resemble Firefox 89+
+* [keith/ModMove](https://github.com/keith/ModMove): Move/Resize windows using modifiers and the mouse
+* [basharovV/Modos-BTT](https://github.com/basharovV/Modos-BTT): Modos is a BetterTouchTool preset for managing workspaces + windows. 
+* [monero-project/monero](https://github.com/monero-project/monero): Monero: the secure, private, untraceable cryptocurrency
+* [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl): 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
+* [witalihirsch/Mono-firefox-theme](https://github.com/witalihirsch/Mono-firefox-theme): Mono Firefox Theme for Linux
+* [thesephist/monocle](https://github.com/thesephist/monocle): Universal personal search engine, powered by a full text search algorithm written in pure Ink, indexing Linus's blogs and private note archives, contacts, tweets, and over a decade of journals.
+* [conema/monterail-dark](https://github.com/conema/monterail-dark): Monterail Dark, a Thunderbird theme inspired by the mockup of Monterail 
+* [conema/monterail-fulldark](https://github.com/conema/monterail-fulldark): Monterail Full Dark, a Thunderbird theme inspired by the mockup of Monterail 
+* [eduardhojbota/moonlight-userChrome](https://github.com/eduardhojbota/moonlight-userChrome): A dark userstyle for Firefox inspired by moonlight-vscode-theme and github-moonlight
+* [peci1/more-snooze](https://github.com/peci1/more-snooze): More Snooze addon for Thunderbird
+* [Caldis/Mos](https://github.com/Caldis/Mos): 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
+* [thePaulV/Most-Recent-Tab](https://github.com/thePaulV/Most-Recent-Tab): Firefox addon that adds a keyboard shortcut to switch back to your most recently selected tab. Useful to alternate between two tabs and to easily go back to your last tab if you switch to another briefly.
+* [motioneye-project/motioneyeos](https://github.com/motioneye-project/motioneyeos): A Video Surveillance OS For Single-board Computers
 * [agalwood/Motrix](https://github.com/agalwood/Motrix): A full-featured download manager.
-* [alexzielenski/Mousecape](https://github.com/alexzielenski/Mousecape): Cursor Manager for OSX
-* [vbauerster/mpb](https://github.com/vbauerster/mpb): multi progress bar for Go cli applications
+* [joshuacant/move_to_private](https://github.com/joshuacant/move_to_private): Firefox webextension to add an 'open in private' menu item to tabs.
+* [rshev/MoveTabToNextWindow](https://github.com/rshev/MoveTabToNextWindow): Move tab to next window browser context menu/button extension
+* [tmcknight/Movie-and-TV-Show-Search-Alfred-Workflow](https://github.com/tmcknight/Movie-and-TV-Show-Search-Alfred-Workflow): An Alfred workflow to search for a movie (or TV show) and get a few ratings
+* [TwisterMc/moz-mac](https://github.com/TwisterMc/moz-mac): Translucent Mac Firefox Theme
+* [4ch1m/mozext](https://github.com/4ch1m/mozext): Extensions / Add-Ons for Mozilla Firefox and Mozilla Thunderbird
+* [serj-kzv/mozlz4-edit](https://github.com/serj-kzv/mozlz4-edit): None
+* [balvin-perrie/mp3-converter](https://github.com/balvin-perrie/mp3-converter): a pure JS mp3 encoder for Chrome and Firefox browser
+* [mpdf/mpdf](https://github.com/mpdf/mpdf): PHP library generating PDF files from UTF-8 encoded HTML
 * [mpv-player/mpv](https://github.com/mpv-player/mpv): 🎥 Command line video player
-* [Meituan-Dianping/mpvue](https://github.com/Meituan-Dianping/mpvue): 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
-* [deadpixi/mtm](https://github.com/deadpixi/mtm): Perhaps the smallest useful terminal multiplexer in the world.
+* [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes): :mag: A Complete Osint Tool
+* [bappygazi/MR.kirof-email-signature](https://github.com/bappygazi/MR.kirof-email-signature): None
 * [Toxblh/MTMR](https://github.com/Toxblh/MTMR): 🌟 [My TouchBar My rules]. The Touch Bar Customisation App for your MacBook Pro
-* [spin83/multi-monitors-add-on](https://github.com/spin83/multi-monitors-add-on): None
-* [canonical/multipass](https://github.com/canonical/multipass): Multipass orchestrates virtual Ubuntu instances
-* [ImVexed/muon](https://github.com/ImVexed/muon): GPU based Electron on a diet
-* [museui/muse-ui](https://github.com/museui/muse-ui): Material Design UI library for Vuejs 2.0
-* [yilozt/mutter-rounded](https://github.com/yilozt/mutter-rounded): A window manager for GNOME, with rounded corners patch
-* [gorilla/mux](https://github.com/gorilla/mux): Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
-* [losfair/mvsqlite](https://github.com/losfair/mvsqlite): Distributed, MVCC SQLite that runs on FoundationDB.
-* [dbcli/mycli](https://github.com/dbcli/mycli): A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
-* [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql): Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
-* [mysql-net/MySqlConnector](https://github.com/mysql-net/MySqlConnector): MySQL Connector for .NET
+* [Toxblh/MTMR-presets](https://github.com/Toxblh/MTMR-presets): 💈 [My TouchBar My rules] Share your preset!
+* [ohmybahgosh/MTV-YTDLP](https://github.com/ohmybahgosh/MTV-YTDLP): Simple script using YT-DLP do download an episode from MTV.com, and then merge the resulting multiple output MP4 files using ffmpeg.  MTV episodes are split in to multiple MP4 files, so resulting output for a single episode can be between 3-11+ MP4 files.  This script is a band-aid for that.
+* [mozilla/multi-account-containers](https://github.com/mozilla/multi-account-containers): Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
+* [Javojav/Multi-engine-search](https://github.com/Javojav/Multi-engine-search): This Firefox extension allows you to use multiple of your installed search engines at once.
+* [wantora/multiple-paste-and-go-button](https://github.com/wantora/multiple-paste-and-go-button): This add-on provides a button to open multiple URLs from clipboard.
+* [rxhanson/Multitouch-Community](https://github.com/rxhanson/Multitouch-Community): Issue and feature request tracking for the Multitouch app
+* [shredthaGNAR/my-awesome-starred](https://github.com/shredthaGNAR/my-awesome-starred): None
+* [shredthaGNAR/my-awesome-stars](https://github.com/shredthaGNAR/my-awesome-stars): my list of github stars fork
+* [abdel7ak96/my-email-signature](https://github.com/abdel7ak96/my-email-signature): Email signature
+* [martinkorelic/my-joplin-theme](https://github.com/martinkorelic/my-joplin-theme): My Joplin App userstyle and userchrome theme style.
+* [tansawit/my-mac-setup](https://github.com/tansawit/my-mac-setup): List of applications and tools that optimize my macOS experience. Inspired by https://github.com/nikitavoloboev/my-mac-os
+* [leohu1/My-UserChrome](https://github.com/leohu1/My-UserChrome): My UserChrome Css and Script
+* [iam-py-test/my_filters_001](https://github.com/iam-py-test/my_filters_001): My filter lists - feel free to add these lists to uBlock Origin
+* [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail): UI Email Signature Generator - Make easy to create your email signature
+* [shredthaGNAR/mytheme](https://github.com/shredthaGNAR/mytheme): firefox userchrome css theme
 * [tj/n](https://github.com/tj/n): Node version management
-* [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui): A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
-* [woai3c/nand2tetris](https://github.com/woai3c/nand2tetris): 计算机系统要素-从零开始构建现代计算机
-* [willdoescode/nat](https://github.com/willdoescode/nat): `ls` alternative with useful info and a splash of color 🎨
-* [nativefier/nativefier](https://github.com/nativefier/nativefier): Make any web page a desktop application
-* [denisidoro/navi](https://github.com/denisidoro/navi): An interactive cheatsheet tool for the command-line
-* [nondanee/ncmdump](https://github.com/nondanee/ncmdump): python版本网易云音乐ncm文件格式转换
-* [NeoApplications/Neo-Backup](https://github.com/NeoApplications/Neo-Backup): backup manager for android
+* [garywill/native-extern-dl](https://github.com/garywill/native-extern-dl): Use external downloader directly from Firefox's native download asking dialog (Use on your own risk !!) (runs on ff115)
+* [Federico-Ciuffardi/nay-dotfiles](https://github.com/Federico-Ciuffardi/nay-dotfiles): None
+* [kyleskom/NBA-Machine-Learning-Sports-Betting](https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting): NBA sports betting using machine learning
+* [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch): 🖼️  A command-line system information tool written in bash 3.2+
 * [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts): Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-* [preservim/nerdcommenter](https://github.com/preservim/nerdcommenter): Vim plugin for intensely nerdy commenting powers
-* [preservim/nerdtree](https://github.com/preservim/nerdtree): A tree explorer plugin for vim.
-* [Xuyuanp/nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin): A plugin of NERDTree showing git status
-* [BohuTANG/nessDB](https://github.com/BohuTANG/nessDB): A very fast transactional key-value, embedded database storage engine in Fractal-Tree.  Teaching/Research purposes only.
-* [brewlin/net-protocol](https://github.com/brewlin/net-protocol): golang模拟内核协议栈 实现链路层、网络层、传输层、应用层 用户态协议栈 ,基于虚拟网卡TUN/TAP
-* [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz): Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
-* [PonasKovas/netctl-tray](https://github.com/PonasKovas/netctl-tray): A lightweight netctl tray app with notifications
-* [netdata/netdata](https://github.com/netdata/netdata): Monitor your servers, containers, and applications, in high-resolution and in real-time!
-* [gmg137/netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk): Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器
-* [andrewlock/NetEscapades.Configuration](https://github.com/andrewlock/NetEscapades.Configuration): Additional configuration providers to use with ASP.NET Core
-* [lutzroeder/netron](https://github.com/lutzroeder/netron): Visualizer for neural network, deep learning and machine learning models
-* [mnielsen/neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning): Code samples for my book "Neural Networks and Deep Learning"
-* [upupming/new-grad-positions](https://github.com/upupming/new-grad-positions): 本项目旨在收集 2023 届互联网公司校招和实习的最新官方招聘信息，帮助在校生消除信息不对称带来的劣势，欢迎贡献 👏🏻。
-* [cbrnix/Newaita](https://github.com/cbrnix/Newaita): Linux icon theme
-* [37Rb/nextcloud-hledger](https://github.com/37Rb/nextcloud-hledger): Plain Text Accounting on Nextcloud
-* [ipr-cnrs/nftables](https://github.com/ipr-cnrs/nftables): Ansible role to manage Nftables rules and packages.
-* [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy): Automated nginx proxy for Docker containers using docker-gen
-* [chr4/nginx.vim](https://github.com/chr4/nginx.vim): Improved nginx vim plugin (incl. syntax highlighting)
-* [ngs-lang/ngs](https://github.com/ngs-lang/ngs): Next Generation Shell (NGS)
-* [antfu/ni](https://github.com/antfu/ni): 💡 Use the right package manager
-* [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin): nix modules for darwin
-* [NLog/NLog](https://github.com/NLog/NLog): NLog - Advanced and Structured Logging for Various .NET Platforms
-* [NLog/NLog.Extensions.Logging](https://github.com/NLog/NLog.Extensions.Logging): NLog as Logging Provider for Microsoft Extension Logging
-* [alexlenail/NN-SVG](https://github.com/alexlenail/NN-SVG): Publication-ready NN-architecture schematics. 
-* [nndl/nndl.github.io](https://github.com/nndl/nndl.github.io): 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning 
-* [fthx/no-overview](https://github.com/fthx/no-overview): None
-* [linux-noah/noah](https://github.com/linux-noah/noah): Bash on Ubuntu on macOS
-* [nocodb/nocodb](https://github.com/nocodb/nocodb): 🔥 🔥 🔥 Open Source Airtable Alternative
-* [waylaidwanderer/node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api): A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.
-* [danmactough/node-feedparser](https://github.com/danmactough/node-feedparser): Robust RSS, Atom, and RDF feed parsing in Node.js
-* [JaneaSystems/nodejs-mobile](https://github.com/JaneaSystems/nodejs-mobile): Full-fledged Node.js on Android and iOS
-* [nodejs-mobile/nodejs-mobile](https://github.com/nodejs-mobile/nodejs-mobile): Full-fledged Node.js on Android and iOS
-* [cmu-db/noisepage](https://github.com/cmu-db/noisepage): Self-Driving Database Management System from Carnegie Mellon University
-* [hashicorp/nomad](https://github.com/hashicorp/nomad): Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-* [nonebot/nonebot2](https://github.com/nonebot/nonebot2): 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
-* [Magisk-Modules-Repo/noneDisplayCutout](https://github.com/Magisk-Modules-Repo/noneDisplayCutout): None
-* [MlgmXyysd/NoneDisplayCutout](https://github.com/MlgmXyysd/NoneDisplayCutout): Kill the display cutout
-* [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr): a truly censorship-resistant alternative to Twitter that has a chance of working
-* [qgaye/note](https://github.com/qgaye/note): just note
-* [lainsce/notejot](https://github.com/lainsce/notejot): Stupidly-simple notes app.
-* [nextcloud/notes-android](https://github.com/nextcloud/notes-android): ✎ Android client for Nextcloud Notes app.
-* [iamhosseindhv/notistack](https://github.com/iamhosseindhv/notistack): Highly customizable notification snackbars (toasts) that can be stacked on top of each other
-* [nissl-lab/npoi](https://github.com/nissl-lab/npoi): a .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.
-* [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear): A single-header ANSI C immediate mode cross-platform GUI library
-* [mozilla/nunjucks](https://github.com/mozilla/nunjucks): A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
-* [lilydjwg/nvchecker](https://github.com/lilydjwg/nvchecker): New version checker for software releases
-* [keylase/nvidia-patch](https://github.com/keylase/nvidia-patch):  This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs.
-* [Witko/nvidia-xrun](https://github.com/Witko/nvidia-xrun): Utility to run separate X with discrete nvidia graphics with full performance
-* [hkupty/nvimux](https://github.com/hkupty/nvimux): Neovim as a TMUX replacement
+* [aminomancer/Netflix-Marathon-Pausable](https://github.com/aminomancer/Netflix-Marathon-Pausable): Automatically skip recaps, intros, credits, and ads, and click "next episode" prompts on Netflix, Amazon Prime Video, Hulu, HBO Max, Starz, Disney+, and Hotstar
+* [Dreamlinerm/Netflix-Prime-Auto-Skip](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip): Automatically skip Ads, Intros, Recaps, Credits, etc. on Netflix, Prime video and Disney+ & Hotstar.
+* [objective-see/Netiquette](https://github.com/objective-see/Netiquette): Network Monitor
+* [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire): RSS reader for macOS and iOS.
+* [PhilippMatthes/neural-greenscreen](https://github.com/PhilippMatthes/neural-greenscreen): Real time background replacement on a mac os driven webcam using the DeepLabV3 neural network for image segmentation and the native CoreMediaIO DAL framework of Mac OS.
+* [WesleyBranton/New-Browser-Style](https://github.com/WesleyBranton/New-Browser-Style): A replacement for Firefox's builtin browser style CSS
+* [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe): A libre lightweight streaming front-end for Android.
+* [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe): A fork of NewPipe with SponsorBlock functionality.
+* [garywill/newtab-btn-menu](https://github.com/garywill/newtab-btn-menu): FIrefox open URL in clipboard by right-clicking new-tab-button then use context menu. Create new tab button's context menu with a menu item to open clipboard URL in new tab. 📋🖱️🔗
+* [garywill/newTabClipboardUrl](https://github.com/garywill/newTabClipboardUrl): Quickly create new tab opening URL from clipboard. Firefox addon 📋🖱️🔗
+* [thewhiteh4t/nexfil](https://github.com/thewhiteh4t/nexfil): OSINT tool for finding profiles by username
+* [Karchensky/nhl_api_modeling](https://github.com/Karchensky/nhl_api_modeling): NHL API scraper ++ stats database ++ predictive modeling ++ odds calculator
+* [nghtfall/nightfall-vsc](https://github.com/nghtfall/nightfall-vsc): a blue-ish gray with a purple accent color palette for Visual Studio Code.
+* [calibr/node-bookmarks-parser](https://github.com/calibr/node-bookmarks-parser): Parses Firefox/Chrome HTML bookmarks files
+* [alex-phillips/node-clouddrive](https://github.com/alex-phillips/node-clouddrive): Node SDK and CLI for Amazon's Cloud Drive
+* [Bellisario/node-snapdrop](https://github.com/Bellisario/node-snapdrop): Node.js version of the original Snapdrop
+* [nodegui/nodegui](https://github.com/nodegui/nodegui): A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
+* [speedball2001/nompsort-mx](https://github.com/speedball2001/nompsort-mx): A mailextension for Thunderbird that prevents accidental message sorting.
+* [dynobo/normcap](https://github.com/dynobo/normcap): OCR powered screen-capture tool to capture information instead of images
+* [opto/nostalgy-xpi](https://github.com/opto/nostalgy-xpi): nostalgy addon updated for Thunderbird 68 and now Thunderbird 78 - 91. Original code  by Alain Frisch.
+* [notable/notable](https://github.com/notable/notable): The Markdown-based note-taking app that doesn't suck.
+* [notable/notable-customizations](https://github.com/notable/notable-customizations): A repository containing a collection of interesting community-created customizations for Notable.
+* [notable/notable-insiders](https://github.com/notable/notable-insiders): A repository containing experimental releases of Notable.
+* [amelandri/NotableUtilities](https://github.com/amelandri/NotableUtilities): A collection of utility scripts for Notable https://notable.app/
+* [nuttyartist/notes](https://github.com/nuttyartist/notes): Fast and beautiful note-taking app written in C++. Write down your thoughts.
+* [adamyi/notes_to_keep](https://github.com/adamyi/notes_to_keep): Export all your Apple iCloud Notes to your Google Keep.
+* [vitorgalvao/notificator](https://github.com/vitorgalvao/notificator): Trigger macOS notifications from Alfred, using the Workflow icon
+* [MDP43140/NoTrash-PureClean-YT](https://github.com/MDP43140/NoTrash-PureClean-YT): Makes YouTube Less trashy by removing distracting features, and trash videos
+* [npmhub/npmhub](https://github.com/npmhub/npmhub): 🔎 A browser extension to explore npm dependencies on GitHub repos
+* [MrOtherGuy/ntp_titler](https://github.com/MrOtherGuy/ntp_titler): Simple browser extension adding a window prefix to new tabs
+* [nukeop/nuclear](https://github.com/nukeop/nuclear): Streaming music player that finds free music for you
+* [apilayer/numverify-API](https://github.com/apilayer/numverify-API): Free global phone number validation & lookup JSON API
+* [edgars21/nuxtjs-shopify-flex-theme-section-with-vue](https://github.com/edgars21/nuxtjs-shopify-flex-theme-section-with-vue): None
 * [nvm-sh/nvm](https://github.com/nvm-sh/nvm): Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-* [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows): A node.js version management utility for Windows. Ironically written in Go.
-* [Syllo/nvtop](https://github.com/Syllo/nvtop): GPUs process monitoring for AMD, Intel and NVIDIA 
-* [obs-ai/obs-backgroundremoval](https://github.com/obs-ai/obs-backgroundremoval): An OBS plugin for removing background in portrait images (video), making it easy to replace the background when recording or streaming.
-* [fzwoch/obs-gnome-screencast](https://github.com/fzwoch/obs-gnome-screencast): GNOME Screen Cast OBS Studio plugin
-* [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase): OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.
-* [concourse/oci-build-task](https://github.com/concourse/oci-build-task): a Concourse task for building OCI images
-* [ocibuilder/ocibuilder](https://github.com/ocibuilder/ocibuilder): A tool to build OCI compliant images
-* [cernekee/ocproxy](https://github.com/cernekee/ocproxy): OpenConnect proxy
-* [vmware-archive/octant](https://github.com/vmware-archive/octant): Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
-* [octokit/octokit.js](https://github.com/octokit/octokit.js): The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
-* [livechat/octopus](https://github.com/livechat/octopus): 🐙  Octopus - Internal wiki with diagrams for software and product teams
-* [mcuadros/ofelia](https://github.com/mcuadros/ofelia): A docker job scheduler (aka. crontab for docker)
-* [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish): The Fish Shell Framework
+* [trafilea/nx-shopify](https://github.com/trafilea/nx-shopify): Nx plugin for developing performance-first Shopify themes 🚀
+* [dawiidio/o-menu](https://github.com/dawiidio/o-menu): Simple circular svg menu 
+* [njnmco/odinochka](https://github.com/njnmco/odinochka): featherweight tab manager
+* [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh): The most customisable and low-latency cross platform/shell prompt renderer
+* [katrinleinweber/oh-my-zsh-youtube-dl-aliases](https://github.com/katrinleinweber/oh-my-zsh-youtube-dl-aliases): Custom plugin for Oh My Zsh with youtube-dl aliases
+* [3ter/Ohmine-Dark-Theme-For-Joplin](https://github.com/3ter/Ohmine-Dark-Theme-For-Joplin): This is a custom CSS theme for the opensource note-taking app Joplin.
 * [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-* [asdcorp/ohook](https://github.com/asdcorp/ohook): An universal Office "activation" hook with main focus of enabling full functionality of subscription editions
-* [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki): :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
-* [DDoSolitary/OkcAgent](https://github.com/DDoSolitary/OkcAgent): A utility that makes OpenKeychain available in your Termux shell
-* [kangkaisen/olap-performance](https://github.com/kangkaisen/olap-performance): OLAP Database Performance Tuning Guide
-* [oltpbenchmark/oltpbench](https://github.com/oltpbenchmark/oltpbench): Database Benchmarking Framework
+* [cbuijs/oisd](https://github.com/cbuijs/oisd): Optimized version of OISD BlockLists
+* [tom-james-watson/old-reddit-redirect](https://github.com/tom-james-watson/old-reddit-redirect): Ensure Reddit always loads the old design
+* [quanm/Omaha-Poker](https://github.com/quanm/Omaha-Poker): None
 * [alyssaxuu/omni](https://github.com/alyssaxuu/omni): The all-in-one tool to supercharge your productivity ⌨️
-* [OmniSharp/omnisharp-roslyn](https://github.com/OmniSharp/omnisharp-roslyn): OmniSharp server (HTTP, STDIO) based on Roslyn workspaces
-* [notAperson535/OneClick-macOS-Simple-KVM](https://github.com/notAperson535/OneClick-macOS-Simple-KVM): Tools to set up a easy, quick macOS VM in QEMU, accelerated by KVM. Works on Linux AND Windows.
-* [abraunegg/onedrive](https://github.com/abraunegg/onedrive): OneDrive Client for Linux
-* [QingdaoU/OnlineJudge](https://github.com/QingdaoU/OnlineJudge): open source online judge based on Vue, Django and Docker. | 青岛大学开源 Online Judge | QQ群 496710125 | admin@qduoj.com
-* [X-lab2017/open-digger](https://github.com/X-lab2017/open-digger): Open source analysis tools
-* [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules): NVIDIA Linux open GPU kernel module source
-* [open-keychain/open-keychain](https://github.com/open-keychain/open-keychain): OpenKeychain is an OpenPGP implementation for Android.
+* [InQuest/omnibus](https://github.com/InQuest/omnibus): The OSINT Omnibus (beta release)
+* [omnixent/omnixent](https://github.com/omnixent/omnixent): 👀 A simple API that allows you to understand what people search on search engines, social networks, etc.
+* [iansinnott/one-dark-tab](https://github.com/iansinnott/one-dark-tab): Like OneTab, but darker.
+* [benfaerber/one-monokai-firefox-devtools](https://github.com/benfaerber/one-monokai-firefox-devtools): A theme for Firefox Devtools
+* [simurai/one-vibrancy](https://github.com/simurai/one-vibrancy): Vibrancy effect for Atom One themes
+* [busyxiang/OneTab-Backup-Automation](https://github.com/busyxiang/OneTab-Backup-Automation): Automated Python Script to backup your OneTab data
+* [ikki4/OneTab-Backup-Automation](https://github.com/ikki4/OneTab-Backup-Automation): Automated Python Script to backup your OneTab data
+* [dpschen/onetab-export-script](https://github.com/dpschen/onetab-export-script): A simple browser script that helps exporting saved OneTab meta data 
+* [jianyuan/onetab-export-to-json](https://github.com/jianyuan/onetab-export-to-json): 🔖 Export URLs directly from OneTab's LevelDB database to JSON
+* [ylon/onetab-merge](https://github.com/ylon/onetab-merge): Merge util for OneTab browser extension
+* [pullup/OneTab-Night-Mode](https://github.com/pullup/OneTab-Night-Mode): Little theme for the onetab page to make it less eye raping.
+* [Nuzza/OneTab-Reborn](https://github.com/Nuzza/OneTab-Reborn): OneTab Reborn is a remake of the original OneTab extension to have a more modern appearance.
+* [runoshun/onetab-sync](https://github.com/runoshun/onetab-sync): Command line utility for sync and backup OneTab Chrome extension data.
+* [RONNCC/onetab-syncer](https://github.com/RONNCC/onetab-syncer): None
+* [Packetslave/onetab-to-bookmarks](https://github.com/Packetslave/onetab-to-bookmarks): Convert a OneTab bookmark export to the standard HTML bookmark export format
+* [one-tab-group/onetab.group](https://github.com/one-tab-group/onetab.group): The website home for https://onetab.group
+* [MAKIO135/OneTab2Pocket](https://github.com/MAKIO135/OneTab2Pocket): Bookmarklet sending OneTab links to Pocket 
+* [endcloud/onetab_restore_tauri](https://github.com/endcloud/onetab_restore_tauri): An App for backing up and better displaying Onetab data Powered by Tauri.
+* [Enan01/OneTabClear](https://github.com/Enan01/OneTabClear): Quickly clear OneTab tag group.
+* [sueszli/oneTabScraper](https://github.com/sueszli/oneTabScraper): oneTab bookmark collection → plaintext
+* [yegor-pelykh/OnHand](https://github.com/yegor-pelykh/OnHand): An open source browser extension to save your favorite bookmarks on a "new tab" page.
+* [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch): ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
+* [lmichelin/open-github-links-in-ide](https://github.com/lmichelin/open-github-links-in-ide): Browser extension allowing to open files in your IDE directly from GitHub, available for Chrome and Firefox.
+* [TheNightmanCodeth/open-in-code](https://github.com/TheNightmanCodeth/open-in-code): Browser extension that adds "Open in Visual Studio Code" button to GitHub repos
+* [kukawski/Open-in-selected-Incognito-window](https://github.com/kukawski/Open-in-selected-Incognito-window): Firefox extension that allows to open link in selected incognito window from context menu
+* [armanozak/open-in-vscode](https://github.com/armanozak/open-in-vscode): Mac OS workflow that adds a quick action to Finder for opening files and folders in VS Code
+* [rkanter/Open-iTerm-or-Terminal-Here...](https://github.com/rkanter/Open-iTerm-or-Terminal-Here...): Generates an Applescript app that you can put in your Finder toolbar which will open an iTerm or Terminal tab at the current directory.
+* [kyuucr/open-link-in-other-window](https://github.com/kyuucr/open-link-in-other-window): Firefox extension for opening links in other window.
+* [htrinter/Open-Multiple-URLs](https://github.com/htrinter/Open-Multiple-URLs): Browser extension for opening lists of URLs built on top of WebExtension with cross-browser support
+* [cpeterso/open-page-in-private-window](https://github.com/cpeterso/open-page-in-private-window): 👻 Firefox extension to open a copy of the current page in a new Private Window
+* [open-pocket/open-pocket](https://github.com/open-pocket/open-pocket): Building a 'clean room' open-source implementation of Pocket
 * [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps): 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-* [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator): OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
-* [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript): Generate TypeScript types from OpenAPI 3 specs
-* [himself65/OpenArkCompiler](https://github.com/himself65/OpenArkCompiler): the source code of OpenArkCompiler（Mirror Repo）
-* [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC): Conversion between Traditional and Simplified Chinese
-* [afloren/openconnect-socks-proxy](https://github.com/afloren/openconnect-socks-proxy): A service to provide access to a Cisvo AnyConnect VPN via a SOCKS proxy
-* [dortania/OpenCore-Install-Guide](https://github.com/dortania/OpenCore-Install-Guide): Repo for the OpenCore Install Guide
-* [Ysurac/openmptcprouter](https://github.com/Ysurac/openmptcprouter): OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt
-* [Dimsmary/OpenSTM](https://github.com/Dimsmary/OpenSTM): A Scanning Tunneling Microscope Project
-* [apache/orc](https://github.com/apache/orc): Apache ORC - the smallest, fastest columnar storage for Hadoop workloads
-* [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme): Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.
-* [oreboot/oreboot](https://github.com/oreboot/oreboot): oreboot is a fork of coreboot, with C removed, written in Rust.
-* [alphapapa/org-ql](https://github.com/alphapapa/org-ql): A searching tool for Org-mode, including custom query languages, commands, saved searches and agenda-like views, etc.
-* [200ok-ch/organice](https://github.com/200ok-ch/organice): An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
-* [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode): Orgmode clone written in Lua for Neovim 0.9+.
-* [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android): Outliner for taking notes and managing to-do lists
-* [nanmu42/orly](https://github.com/nanmu42/orly): :football: Generate your own O'RLY animal book cover to troll your colleagues | 生成你自己的O'RLY动物书封面，让你的同事惊掉下巴
-* [chyyuu/os_kernel_lab](https://github.com/chyyuu/os_kernel_lab): OS kernel labs based on Rust/C Lang & RISC-V 64/X86-32
-* [djyde/ossart](https://github.com/djyde/ossart): Print your GitHub activity as an artwork
-* [X-lab2017/OSSDevGov2021](https://github.com/X-lab2017/OSSDevGov2021): Open Source Software Development and Community Governance (开源软件开发与社区治理)
-* [ostreedev/ostree](https://github.com/ostreedev/ostree): Operating system and container binary deployment and upgrades
-* [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM): Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey + Ventura support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
-* [restic/others](https://github.com/restic/others): Exhaustive list of backup solutions for Linux
-* [cmu-db/ottertune](https://github.com/cmu-db/ottertune): The automatic DBMS configuration tool
-* [ned14/outcome](https://github.com/ned14/outcome): Provides very lightweight outcome<T> and result<T> (non-Boost edition)
-* [adah1972/output_container](https://github.com/adah1972/output_container): Automatic output function for STL containers
-* [bencbartlett/Overmind](https://github.com/bencbartlett/Overmind): AI for Screeps, a multiplayer programming strategy game
-* [rami3l/pacaptr](https://github.com/rami3l/pacaptr): Pacman-like syntax wrapper for many package managers.
-* [gusztavvargadr/packer](https://github.com/gusztavvargadr/packer): Packer samples
-* [gobuffalo/packr](https://github.com/gobuffalo/packr): The simple and easy way to embed static files into Go binaries.
-* [MadeBaruna/paimon-moe](https://github.com/MadeBaruna/paimon-moe): Your best Genshin Impact companion! Help you plan what to farm with ascension calculator and database. Also track your progress with todo and wish counter.
-* [peterq/pan-light](https://github.com/peterq/pan-light): 百度网盘不限速客户端, golang + qt5, 跨平台图形界面
-* [tomduck/pandoc-eqnos](https://github.com/tomduck/pandoc-eqnos): A pandoc filter for numbering equations and equation references.
-* [Rupan/paperbak](https://github.com/Rupan/paperbak): Back up your files on ordinary paper in the form of oversized bitmaps
-* [dyweb/papers-notebook](https://github.com/dyweb/papers-notebook): :page_facing_up: :cn: :page_with_curl: 论文阅读笔记（分布式系统、虚拟化、机器学习）Papers Notebook (Distributed System, Virtualization, Machine Learning)
-* [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love): Papers from the computer science community to read and discuss.
-* [paperwm/PaperWM](https://github.com/paperwm/PaperWM): Tiled scrollable window management for Gnome Shell
-* [openpaperwork/paperwork](https://github.com/openpaperwork/paperwork): Personal document manager (Linux/Windows) -- Moved to Gnome's Gitlab
+* [honsiorovskyi/open-url-in-container](https://github.com/honsiorovskyi/open-url-in-container): Firefox extension to open external links in a specific container
+* [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop): An open Apple AirDrop implementation written in Python
+* [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu): 🕹 Retro video game emulation for macOS
+* [Sankra/OpenFolderInVSCode](https://github.com/Sankra/OpenFolderInVSCode): With this macOS service, you can quickly open any given folder as a project in Visual Studio Code from the Finders context menu.
+* [evanp/openfollow](https://github.com/evanp/openfollow): Search server to find people on the federated social web
+* [OpenHoldem/openholdembot](https://github.com/OpenHoldem/openholdembot): OpenHoldem Poker Bot (free, open-source poker-bot for Texas Hold'em and Omaha)
+* [sozercan/OpenInCode](https://github.com/sozercan/OpenInCode): :open_file_folder: macOS Finder toolbar app to open current folder in Visual Studio Code
+* [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal): ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
+* [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp): OpenMTP  - Advanced Android File Transfer Application for macOS
+* [lukakerr/OpenQuickly](https://github.com/lukakerr/OpenQuickly): A custom 'open quickly' window that imitates macOS' Spotlight
+* [es-kumagai/OpenTerminal](https://github.com/es-kumagai/OpenTerminal): This is a app for macOS that to open a new Finder window and change the current directory to the folder this app launched.
+* [darktrojan/openwith](https://github.com/darktrojan/openwith): Open With add-on for Firefox
+* [ajaybhatia/Operator-Mono](https://github.com/ajaybhatia/Operator-Mono): Operator Mono Font
+* [keyding/Operator-Mono](https://github.com/keyding/Operator-Mono): A nice code font
+* [kiliman/operator-mono-lig](https://github.com/kiliman/operator-mono-lig): Add ligatures to Operator Mono similar to Fira Code
+* [kmillionary/order-printer-templates](https://github.com/kmillionary/order-printer-templates): Customize free Shopify Order Printer templates.
+* [loveshopify/orium](https://github.com/loveshopify/orium): None
+* [shariati/OS-Folder-Icons](https://github.com/shariati/OS-Folder-Icons): A collection of custom folder icons for (Mac, Linux and Windows)
+* [shredthaGNAR/OS-Folder-Icons](https://github.com/shredthaGNAR/OS-Folder-Icons): A collection of custom folder icons for (Mac, Linux and Windows)
+* [opengaming/osgameclones](https://github.com/opengaming/osgameclones): Open Source Clones of Popular Games
+* [soxoj/osint-namecheckers-list](https://github.com/soxoj/osint-namecheckers-list): A list of tools to search accounts by username
+* [rly0nheart/osinteye](https://github.com/rly0nheart/osinteye): Username enumeration & reconnaisance suite
+* [awareseven/OSINTsources](https://github.com/awareseven/OSINTsources): This is a repo containing several osint sources
+* [caballerofelipe/osx-automator-services](https://github.com/caballerofelipe/osx-automator-services): Some services meant to make life a little easier
+* [olafhartong/osx-defaults](https://github.com/olafhartong/osx-defaults): All my default config stuff for mac
+* [msikma/osx-folder-icons](https://github.com/msikma/osx-folder-icons): Colorful folder icons for macOS to help you organize your projects
+* [tiiiecherle/osx_install_config](https://github.com/tiiiecherle/osx_install_config): macOS Scripting for Configuration, Backup and Restore
+* [bgebhardt/osx_scripts_folder](https://github.com/bgebhardt/osx_scripts_folder): My repository of miscellaneous AppleScripts I've written for OS X
+* [sveinbjornt/osxiconutils](https://github.com/sveinbjornt/osxiconutils): A suite of command line utilities for working with Mac icons
+* [vasi/osxutils](https://github.com/vasi/osxutils): Mac-specific command line utilities (UPDATES)
+* [CptFoobar/Owl](https://github.com/CptFoobar/Owl): A Mozilla Firefox add-on to make online reading comfortable.
+* [AaronSoria/PAnalizer](https://github.com/AaronSoria/PAnalizer): PAnalizer is a forensic tool, you can search pornographic images in a specific directory, this is util in Pedestrian Detection. Also you can search a specific person in image set, is necesesary give to the aplication a few pictures of the person of interest
+* [projectdelphai/panorama-tab-groups](https://github.com/projectdelphai/panorama-tab-groups):  An add-on for Firefox that implements the old Tab Groups/Panorama functionality
+* [photodiode/panorama-view](https://github.com/photodiode/panorama-view): Add-on for Firefox letting you organize tabs and tab groups visually
+* [keiichi4e/paper-app](https://github.com/keiichi4e/paper-app): Unofficial Paper app for Mac
+* [shredthaGNAR/paper-app](https://github.com/shredthaGNAR/paper-app): Unofficial Paper app for Mac
+* [vict0rsch/PaperMemory](https://github.com/vict0rsch/PaperMemory): Your browser's reference manager: automatic paper detection (Arxiv, OpenReview & more), publication venue matching and code repository discovery! Also enhances ArXiv: BibTex citation, Markdown link, direct download and more!
 * [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme): Papirus icon theme for Linux
-* [papis/papis](https://github.com/papis/papis): Powerful and highly extensible command-line based document and bibliography manager.
-* [papis/papis-zotero](https://github.com/papis/papis-zotero): Zotero compatibility layer for papis 
-* [paramiko/paramiko](https://github.com/paramiko/paramiko): The leading native Python SSHv2 protocol library.
-* [nomi-san/parsec-vdd](https://github.com/nomi-san/parsec-vdd): ✨ Virtual super display, upto 4K 2160p@240hz 😎
-* [alecthomas/participle](https://github.com/alecthomas/participle): A parser library for Go
-* [Morganamilo/paru](https://github.com/Morganamilo/paru): Feature packed AUR helper
-* [liuchuo/PAT](https://github.com/liuchuo/PAT): 🍭 浙江大学PAT题解(C/C++/Java/Python) - 努力成为萌萌的程序媛～
-* [NixOS/patchelf](https://github.com/NixOS/patchelf): A small utility to modify the dynamic linker and RPATH of ELF executables
-* [zalando/patroni](https://github.com/zalando/patroni): A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
-* [dreamhead/patterns-of-distributed-systems](https://github.com/dreamhead/patterns-of-distributed-systems): 《Patterns of Distributed Systems》中文版
-* [ailidani/paxi](https://github.com/ailidani/paxi): Paxos protocol framework
-* [egzosn/pay-java-parent](https://github.com/egzosn/pay-java-parent): 第三方支付对接全能支付Java开发工具包.优雅的轻量级支付模块集成支付对接支付整合（微信,支付宝,银联,友店,富友,跨境支付paypal,payoneer(P卡派安盈)易极付）app,扫码,网页刷脸付刷卡付条码付转账服务商模式,微信分账,微信合单支付、支持多种支付类型多支付账户，支付与业务完全剥离，简单几行代码即可实现支付，简单快速完成支付模块的开发，可轻松嵌入到任何系统里 目前仅是一个开发工具包（即SDK），只提供简单Web实现，建议使用maven或gradle引用本项目即可使用本SDK提供的各种支付相关的功能
-* [essensoft/paylink](https://github.com/essensoft/paylink): 一套基于 .NET Core 开发的支付SDK集，它极大简化了API调用及通知的处理流程。
-* [itdevbooks/pdf](https://github.com/itdevbooks/pdf): 编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类
-* [mozilla/pdf.js](https://github.com/mozilla/pdf.js): PDF Reader in JavaScript
-* [zzzeyez/pecan](https://github.com/zzzeyez/pecan): menubar for macOS
-* [phw/peek](https://github.com/phw/peek): Simple animated GIF screen recorder with an easy to use interface
-* [cmu-db/peloton](https://github.com/cmu-db/peloton): The Self-Driving Database Management System
-* [percona/PerconaFT](https://github.com/percona/PerconaFT): PerconaFT is a high-performance, transactional key-value store
-* [perlancar/perl-Org-Parser](https://github.com/perlancar/perl-Org-Parser): None
-* [aiberia/persistent-evdev](https://github.com/aiberia/persistent-evdev): None
-* [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system): Your web application for managing personal data. <personal.management.system.pms@gmail.com>
-* [vuejs/petite-vue](https://github.com/vuejs/petite-vue): 6kb subset of Vue optimized for progressive enhancement
-* [petoolse/petools](https://github.com/petoolse/petools): PE Tools - Portable executable (PE) manipulation toolkit
-* [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem): An in memory postgres DB instance for your unit tests
-* [dbcli/pgcli](https://github.com/dbcli/pgcli): Postgres CLI with autocompletion and syntax highlighting
-* [pgvector/pgvector](https://github.com/pgvector/pgvector): Open-source vector similarity search for Postgres
-* [phoronix-test-suite/phoronix-test-suite](https://github.com/phoronix-test-suite/phoronix-test-suite): The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software.
-* [photondb/photondb](https://github.com/photondb/photondb): A high-performance storage engine for modern hardware and platforms.
-* [ibhagwan/picom](https://github.com/ibhagwan/picom): A lightweight compositor for X11 (previously a compton fork)
-* [yshui/picom](https://github.com/yshui/picom): A lightweight compositor for X11
-* [GoogleChromeLabs/picture-in-picture-chrome-extension](https://github.com/GoogleChromeLabs/picture-in-picture-chrome-extension): None
-* [geekfactory/PID](https://github.com/geekfactory/PID): PID Control Library written in C language
-* [bpatrik/pigallery2](https://github.com/bpatrik/pigallery2): A fast directory-first photo gallery website, with rich UI,  optimized for running on low resource servers (especially on raspberry pi)
-* [python-pillow/Pillow](https://github.com/python-pillow/Pillow): Python Imaging Library (Fork)
-* [GPGTools/pinentry-mac](https://github.com/GPGTools/pinentry-mac): pinentry for GPG on Mac
-* [PipeWire/pipewire](https://github.com/PipeWire/pipewire): Mirror of the PipeWire repository (see https://gitlab.freedesktop.org/pipewire/pipewire/)
-* [pypa/pipx](https://github.com/pypa/pipx): Install and Run Python Applications in Isolated Environments
-* [tonybeltramelli/pix2code](https://github.com/tonybeltramelli/pix2code): pix2code: Generating Code from a Graphical User Interface Screenshot
-* [pixel-saver/pixel-saver](https://github.com/pixel-saver/pixel-saver): Pixel Saver is designed to save pixel by fusing activity bar and title bar in a natural way.
-* [Freed-Wu/pkgbuild-language-server](https://github.com/Freed-Wu/pkgbuild-language-server): PKGBUILD language server
-* [plaintextaccounting/plaintextaccounting](https://github.com/plaintextaccounting/plaintextaccounting): The plaintextaccounting.org website, a portal to Ledger, hledger, beancount and co. Also the PTA wiki.
-* [plantuml/plantuml](https://github.com/plantuml/plantuml): Generate diagrams from textual description
-* [sindresorhus/Plash](https://github.com/sindresorhus/Plash): 💦 Make any website your Mac desktop wallpaper
-* [plasma-disassembler/plasma](https://github.com/plasma-disassembler/plasma): Plasma is an interactive disassembler for x86/ARM/MIPS. It can generates indented pseudo-code with colored syntax.
-* [microsoft/playwright](https://github.com/microsoft/playwright): Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
-* [rime/plum](https://github.com/rime/plum): 東風破 /plum/: Rime configuration manager and input schema repository
-* [sansquoi/PlushCV](https://github.com/sansquoi/PlushCV): A One Page Two Column Resume Latex Template
-* [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes): A huge collection (80+) of plymouth themes ported from android bootanimations
-* [pnpm/pnpm](https://github.com/pnpm/pnpm): Fast, disk space efficient package manager
+* [Paragon-Software-Group/paragon_firewall_ce](https://github.com/Paragon-Software-Group/paragon_firewall_ce): Paragon Firewall for Mac
+* [sindresorhus/Pasteboard-Viewer](https://github.com/sindresorhus/Pasteboard-Viewer): 📋 Inspect the system pasteboards on macOS
+* [yozdas/PdfCombiner](https://github.com/yozdas/PdfCombiner): This is Automator app built in Mac
+* [benwiggy/PDFsuite](https://github.com/benwiggy/PDFsuite): Python scripts, Automator Services and Quartz Filters for MacOS (OS X) that create, manipulate, and query PDF files
+* [getpelican/pelican](https://github.com/getpelican/pelican): Static site generator that supports Markdown and reST syntax. Powered by Python.
+* [dgurkaynak/Penc](https://github.com/dgurkaynak/Penc): Trackpad-oriented window manager for macOS
+* [shash007/People-Search-on-Social-Networks-using-Face-Recognition](https://github.com/shash007/People-Search-on-Social-Networks-using-Face-Recognition): Searching people on social networking sites using Face Recognition
+* [preetmodh/PeopleConnect](https://github.com/preetmodh/PeopleConnect): A Social Media Web application made using the Django rest framework (for API endpoints) and reactjs where users can chat in real-time(using channels and signals), post their updates, like, comment and view other users’ posts & profiles, search users & follow-unfollow them and get notified about activities on their profile.
+* [ChanChunCheong/PeopleSearch](https://github.com/ChanChunCheong/PeopleSearch): DSO Summer Internship-People Search Aggregator web application which use data analytics and artificial intelligence libraries, to simultaneously search social media profiles from various platforms, processes, and then rank the search results based on name, location, keywords and image matching
+* [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis): Persepolis Download Manager is a GUI for aria2.
+* [github/personal-website](https://github.com/github/personal-website): Code that'll help you kickstart a personal website that showcases your work as a software developer.
+* [thlorenz/phe](https://github.com/thlorenz/phe): Poker hand evaluator
+* [fabiospampinato/phoenix](https://github.com/fabiospampinato/phoenix): My Phoenix setup. Powerful, easy to customize, tuned for web development, adds a space switcher.
+* [kasper/phoenix](https://github.com/kasper/phoenix): A lightweight macOS window and app manager scriptable with JavaScript
+* [phcode-dev/phoenix](https://github.com/phcode-dev/phoenix): Phoenix is a modern open-source IDE for the web, built for the browser. 
+* [garrow/phoenix-configurations](https://github.com/garrow/phoenix-configurations): My custom configurations for the Phoenix macOS window Manager, ( https://github.com/kasper/phoenix )
+* [FranklinDM/Phosphor](https://github.com/FranklinDM/Phosphor): Relive the monochrome screens of yesterday.
+* [DhruvRoy247/Photo-Trans](https://github.com/DhruvRoy247/Photo-Trans): Image Search Web Application
+* [wilfredwee/photon-australis](https://github.com/wilfredwee/photon-australis): Bringing sexy curves back to Firefox Photon.
+* [eszdman/PhotonCamera](https://github.com/eszdman/PhotonCamera): Android Camera that uses Enhanced image processing
+* [photoprism/photoprism](https://github.com/photoprism/photoprism): AI-Powered Photos App for the Decentralized Web 🌈💎✨
+* [peter-sk/photosdup](https://github.com/peter-sk/photosdup): Mac Photos Duplicate Finder
+* [antipalindrome/Photoshop-Export-Layers-to-Files-Fast](https://github.com/antipalindrome/Photoshop-Export-Layers-to-Files-Fast): This script allows you to export your layers as individual files at a speed much faster than the built-in script from Adobe.
+* [dermesser/photosync](https://github.com/dermesser/photosync): Now that Google deprecated the Photos<->Drive synchronization, I need another way to back up my photos locally. This program downloads all photos from your Google Photos account and organizes them locally. It is not very user friendly yet, but definitely usable
+* [pooja-v-dev/php-drive-s3](https://github.com/pooja-v-dev/php-drive-s3): Read a Google Drive account, list files in a folder and move selected file to S3.
+* [YukisCoffee/phroton](https://github.com/YukisCoffee/phroton): Firefox Proton userChrome.css for an accurate Photon theme.
+* [bltavares/pickpocket](https://github.com/bltavares/pickpocket): Pocket CLI management tools
+* [RooneyMcNibNug/pihole-stuff](https://github.com/RooneyMcNibNug/pihole-stuff): blocklists, scripts, etc.
+* [jyssh/pin-unpin-tab](https://github.com/jyssh/pin-unpin-tab): Firefox add-on to pin or unpin current tab in more efficient ways.
+* [pinterest/PINCache](https://github.com/pinterest/PINCache): Fast, non-deadlocking parallel object cache for iOS, tvOS and OS X
+* [gocom/pinceau](https://github.com/gocom/pinceau): Personal Firefox userChrome and preference customizations
+* [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic): Visual page builder and web design tool for any website or web app tech stack
+* [aaronhff8/plastic-joplin-theme](https://github.com/aaronhff8/plastic-joplin-theme): Theme for Joplin that utilises the standard dark theme and essentially a restyling of Ohmine-Dark-Theme-For-Joplin. 
+* [sveinbjornt/Platypus](https://github.com/sveinbjornt/Platypus): Create native Mac applications from command line scripts.
+* [benr0th/PlaylistSearch](https://github.com/benr0th/PlaylistSearch): Search your Youtube™ playlists
+* [nicinabox/plistbuddy](https://github.com/nicinabox/plistbuddy): A handy tool to manipulate plist files. Useful for iOS development.
+* [joplin/plugin-templates](https://github.com/joplin/plugin-templates): Create templates in Joplin and use them to create new notes and todos.
+* [Dis90/plugin.video.discoveryplus](https://github.com/Dis90/plugin.video.discoveryplus): discovery+ add-on for Kodi
+* [joplin/plugins](https://github.com/joplin/plugins): Joplin official plugin repository. For issues, please use https://github.com/laurent22/joplin/issues
+* [withfig/plugins](https://github.com/withfig/plugins): Plugin store for zsh, bash & fish.
 * [pock/pock](https://github.com/pock/pock): Widgets manager for MacBook Touch Bar
-* [pocoproject/poco](https://github.com/pocoproject/poco): The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
+* [knowfox/pocket](https://github.com/knowfox/pocket): Knowfox: Retrieve bookmarks from getpocket.com
+* [tapanpandita/pocket](https://github.com/tapanpandita/pocket): A python wrapper for the pocket api.
+* [ildella/pocket-cli](https://github.com/ildella/pocket-cli): Interactive terminal app for Pocket - read it later / bookmark application by @Mozilla - https://getpocket.com/
+* [kevinpollet/pocket-deduper](https://github.com/kevinpollet/pocket-deduper): Remove duplicates from your Pocket list.
+* [k5md/Pocket-Editor-webextension](https://github.com/k5md/Pocket-Editor-webextension): A sidebar text-editing addon for firefox
+* [JeanDavidDaviet/Pocket-Export](https://github.com/JeanDavidDaviet/Pocket-Export): None
+* [mmagnus/Pocket-Plus-Calibre-Plugin](https://github.com/mmagnus/Pocket-Plus-Calibre-Plugin): 📚 Modified version of the Calibre plugin for Pocket. Now, you get your articles organized by your Pocket tags, and more!
+* [andyw8/pocket-ruby](https://github.com/andyw8/pocket-ruby): Ruby wrapper for the Pocket REST and Search APIs
+* [ShockwaveNN/pocket-sinatra-interface](https://github.com/ShockwaveNN/pocket-sinatra-interface): Sinatra-based web interface for pocket api
+* [sanghviharshit/pocket-tagger](https://github.com/sanghviharshit/pocket-tagger): 📖👓🏷Tag your getpocket.com articles automatically using natural language processing
+* [gullitmiranda/pocket-to-raindrop](https://github.com/gullitmiranda/pocket-to-raindrop): Script to export bookmarks from https://getpocket.com to https://raindrop.io.
+* [dogsheep/pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite): Create a SQLite database containing data from your Pocket account
+* [tadeussenf/pocket-wiki](https://github.com/tadeussenf/pocket-wiki): Alternative User Interface for getpocket.com
+* [knilling/pocket2csv](https://github.com/knilling/pocket2csv): None
+* [lobre/pocket2notion](https://github.com/lobre/pocket2notion): Tool for migrating Pocket items to Notion
+* [billpalombi/pocket_parse](https://github.com/billpalombi/pocket_parse): Script to parse the html export from Pocket and write out a csv
+* [nlbao/pocket_stats](https://github.com/nlbao/pocket_stats): A tool to analyze your Pocket reading list.
+* [JuanJakobo/Pocketbook-Read-offline](https://github.com/JuanJakobo/Pocketbook-Read-offline): A basic client for Pocketbook to read and modify Pocket items
+* [gglukmann/pocketizer](https://github.com/gglukmann/pocketizer): Unofficial Pocket new tab extension for Chrome, Firefox, and Edge
+* [ruipgil/pocketmark](https://github.com/ruipgil/pocketmark): From pocket to chrome bookmarks
+* [hughrun/pocketsnack](https://github.com/hughrun/pocketsnack): KonMari your Pocket tsundoku from the command line
+* [mmagnus/PocketX-Calibre-Plugin](https://github.com/mmagnus/PocketX-Calibre-Plugin): PocketX-Calibre-Plugin is an experimental version of Pocket-Plus-Calibre-Plugin (send articles from Pocket to your e-reader)
+* [karlicoss/pockexport](https://github.com/karlicoss/pockexport): Export/access your Pocket data, including highlights!
+* [achembarpu/pockyt](https://github.com/achembarpu/pockyt): Automate & manage your Pocket.com collection.
 * [containers/podman](https://github.com/containers/podman): Podman: A tool for managing OCI containers and pods.
-* [python-poetry/poetry](https://github.com/python-poetry/poetry): Python packaging and dependency management made easy
-* [ApsaraDB/PolarDB-for-PostgreSQL](https://github.com/ApsaraDB/PolarDB-for-PostgreSQL): A cloud-native database based on PostgreSQL developed by Alibaba Cloud.
-* [polardb/polardbx-sql](https://github.com/polardb/polardbx-sql): PolarDB-X is a cloud native distributed SQL Database designed for high concurrency, massive storage, complex querying scenarios.
-* [polybar/polybar](https://github.com/polybar/polybar): A fast and easy-to-use status bar
-* [MadLittleMods/postcss-css-variables](https://github.com/MadLittleMods/postcss-css-variables): PostCSS plugin to transform CSS Custom Properties(CSS variables) syntax into a static representation
-* [postcss/postcss-custom-properties](https://github.com/postcss/postcss-custom-properties): Use Custom Properties in CSS
-* [webpack-contrib/postcss-loader](https://github.com/webpack-contrib/postcss-loader): PostCSS loader for webpack
-* [postgres/postgres](https://github.com/postgres/postgres): Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch
-* [google/pprof](https://github.com/google/pprof): pprof is a tool for visualization and analysis of profiling data
-* [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit): A framework for managing and maintaining multi-language pre-commit hooks.
-* [preactjs/preact](https://github.com/preactjs/preact): ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
-* [preactjs/preact-cli](https://github.com/preactjs/preact-cli): 😺 Your next Preact PWA starts in 30 seconds.
-* [prettier/prettier](https://github.com/prettier/prettier): Prettier is an opinionated code formatter.
-* [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto): The configuration framework for Zsh
-* [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy): Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy 🍑🍆
-* [anirudhajith/process-wallpaper](https://github.com/anirudhajith/process-wallpaper): Shell and python scripts that set the desktop wallpaper to a word cloud of the most resource-hungry processes
-* [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist): :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
-* [csguide-dabai/Programmer-look-at-China](https://github.com/csguide-dabai/Programmer-look-at-China): 介绍中国各二线以上城市的互联网环境以及生活成本
-* [tolerious/Programming_learning_resource](https://github.com/tolerious/Programming_learning_resource): 学习计算机科学的一些pdf资源
-* [golang-standards/project-layout](https://github.com/golang-standards/project-layout): Standard Go Project Layout
-* [prometheus/prometheus](https://github.com/prometheus/prometheus): The Prometheus monitoring system and time series database.
-* [vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus): A docker-compose stack for Prometheus monitoring
-* [xhawk18/promise-cpp](https://github.com/xhawk18/promise-cpp): C++ promise/A+ library in Javascript style.
-* [proot-me/proot](https://github.com/proot-me/proot): chroot, mount --bind, and binfmt_misc without privilege/setup for Linux
-* [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton): Compatibility tool for Steam Play based on Wine and additional components
-* [Matoking/protontricks](https://github.com/Matoking/protontricks): A wrapper that does winetricks things for Proton enabled games, requires Winetricks.
-* [csujedihy/proximac](https://github.com/csujedihy/proximac): An open-source alternative to proxifier
-* [proxyee-down-org/proxyee-down](https://github.com/proxyee-down-org/proxyee-down): http下载工具，基于http代理，支持多连接分块下载
-* [MScholtes/PS2EXE](https://github.com/MScholtes/PS2EXE): Module to compile powershell scripts to executables
-* [davidquinn/psi-header](https://github.com/davidquinn/psi-header): Configurable file header and changes tracking extension for VSCode
-* [PowerShell/PSReadLine](https://github.com/PowerShell/PSReadLine): A bash inspired readline implementation for PowerShell
-* [creack/pty](https://github.com/creack/pty): PTY interface for Go
-* [flaneur2020/pua-lang](https://github.com/flaneur2020/pua-lang): a dialect of The Monkey Programming Language
-* [dront78/PulseDroid](https://github.com/dront78/PulseDroid): Android network audio player
-* [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book): 《机器学习》（西瓜书）公式详解
-* [puppetlabs/puppet](https://github.com/puppetlabs/puppet): Server automation framework and application
-* [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer): Node.js API for Chrome 
-* [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible): 📖 A collection of pure bash alternatives to external processes.
-* [PureDarwin/PureDarwin](https://github.com/PureDarwin/PureDarwin): Darwin is the Open Source core of macOS, and PureDarwin is a community project to extend Darwin into a complete, usable operating system.
-* [pyenv/pyenv](https://github.com/pyenv/pyenv): Simple Python version management
-* [pygments/pygments](https://github.com/pygments/pygments): Pygments is a generic syntax highlighter written in Python
-* [tonybaloney/Pyjion](https://github.com/tonybaloney/Pyjion): Pyjion - A JIT for Python based upon CoreCLR
-* [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc): Thin wrapper for "pandoc" (MIT)
-* [anntzer/pypi2pkgbuild](https://github.com/anntzer/pypi2pkgbuild): A PyPI to PKGBUILD converter.
-* [microsoft/pyright](https://github.com/microsoft/pyright): Static Type Checker for Python
-* [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra): Testinfra test your infrastructures
-* [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python): All Algorithms implemented in Python
-* [sciunto-org/python-bibtexparser](https://github.com/sciunto-org/python-bibtexparser): Bibtex parser for Python 3
-* [borntyping/python-colorlog](https://github.com/borntyping/python-colorlog): A colored formatter for the python logging module
-* [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv): Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
-* [whitequark/python-itanium_demangler](https://github.com/whitequark/python-itanium_demangler): Pure Python Itanium C++ ABI demangler
-* [rytilahti/python-miio](https://github.com/rytilahti/python-miio): Python library & console tool for controlling Xiaomi smart appliances
-* [laixintao/python-parallel-programming-cookbook-cn](https://github.com/laixintao/python-parallel-programming-cookbook-cn): 📖《Python Parallel Programming Cookbook》中文版
-* [mozillazg/python-pinyin](https://github.com/mozillazg/python-pinyin): 汉字转拼音(pypinyin)
-* [bartdegoede/python-searchengine](https://github.com/bartdegoede/python-searchengine): None
-* [jcjohnson/pytorch-examples](https://github.com/jcjohnson/pytorch-examples): Simple examples to introduce PyTorch
-* [yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial): PyTorch Tutorial for Deep Learning Researchers
-* [bee-san/pyWhat](https://github.com/bee-san/pyWhat): 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
-* [qgaye/qgaye](https://github.com/qgaye/qgaye): None
-* [umijs/qiankun](https://github.com/umijs/qiankun): 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
-* [vinceliuice/Qogir-icon-theme](https://github.com/vinceliuice/Qogir-icon-theme): A colorful design icon theme for linux desktops
-* [Yiyiyimu/QQ-History-Backup](https://github.com/Yiyiyimu/QQ-History-Backup): QQ聊天记录备份导出，支持无密钥导出，图片导出。无需编译有GUI界面。Backup Chating History of Instant Messaging QQ.
-* [ljharb/qs](https://github.com/ljharb/qs): A querystring parser with nesting support
-* [quartznet/quartznet](https://github.com/quartznet/quartznet): Quartz Enterprise Scheduler .NET
-* [bellard/quickjs](https://github.com/bellard/quickjs): Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.
-* [gfredericks/quinedb](https://github.com/gfredericks/quinedb): QuineDB is a quine that is also a key-value store.
-* [quip/quip-api](https://github.com/quip/quip-api): Quip Automation REST API for editing documents, folders, and users
-* [coxley/quip2md](https://github.com/coxley/quip2md): Library and CLI to convert Quip HTML to Markdown
-* [Kozea/Radicale](https://github.com/Kozea/Radicale): A simple CalDAV (calendar) and CardDAV (contact) server.
-* [hashicorp/raft](https://github.com/hashicorp/raft): Golang implementation of the Raft consensus protocol
-* [JDRaftKeeper/RaftKeeper](https://github.com/JDRaftKeeper/RaftKeeper): RaftKeeper is a high-performance distributed consensus service.
-* [ongardie/raftscope](https://github.com/ongardie/raftscope): super hacky visualization of Raft
-* [Nanguage/Rainbow-Fart-MBG](https://github.com/Nanguage/Rainbow-Fart-MBG): 程序员要讲码德，耗子尾汁，好好反思！
-* [ramda/ramda](https://github.com/ramda/ramda): :ram: Practical functional Javascript
-* [arcmags/ramroot](https://github.com/arcmags/ramroot): Load root file system to ram during boot.
-* [Tencent/rapidjson](https://github.com/Tencent/rapidjson): A fast JSON parser/generator for C++ with both SAX/DOM style API
-* [ray-project/ray](https://github.com/ray-project/ray): Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
+* [mxpv/podsync](https://github.com/mxpv/podsync): Turn YouTube or Vimeo channels, users, or playlists into podcast feeds
+* [fqx/podsync-with-yt-dlp](https://github.com/fqx/podsync-with-yt-dlp): Turn YouTube or Vimeo channels, users, or playlists into podcast feeds
+* [typkrft/Poison-Firefox-Theme](https://github.com/typkrft/Poison-Firefox-Theme): A Firefox theme with Pywal and macOS in mind. 
+* [Nerdmaster/poker](https://github.com/Nerdmaster/poker): Extremely fast poker hand evaluator: supports 5-7 cards as well as Omaha evaluations
+* [PokerDashboard/poker](https://github.com/PokerDashboard/poker): None
+* [alexyz/poker](https://github.com/alexyz/poker): A poker hand equity calculator, PokerStars and Full Tilt hand parser and history browser, and table HUD for Hold'em, Omaha, Draw, Stud and Badugi, written using Java 1.7 and Swing
+* [dickreuter/Poker](https://github.com/dickreuter/Poker): Fully functional Pokerbot that works on PartyPoker, PokerStars and GGPoker, scraping tables with Open-CV (adaptable via gui) or neural network and making decisions based on a genetic algorithm and montecarlo simulation for poker equity calculation. Binaries can be downloaded with this link:
+* [shredthaGNAR/poker](https://github.com/shredthaGNAR/poker): A poker hand equity calculator, PokerStars and Full Tilt hand parser and history browser, and table HUD for Hold'em, Omaha, Draw, Stud and Badugi, written using Java 1.7 and Swing
+* [evolutionsoftswiss/poker-calculator-webapp](https://github.com/evolutionsoftswiss/poker-calculator-webapp): Poker Calculator JSF Webapp for Omaha, Omaha Hi/Lo and Hold'em simulations 
+* [michaelcukier/Poker-Hand-Tracker](https://github.com/michaelcukier/Poker-Hand-Tracker): open-source Poker hand tracker
+* [shredthaGNAR/poker-handhist](https://github.com/shredthaGNAR/poker-handhist): Hand distributions for Holdem, Omaha and Omaha HiLo/8
+* [siavashg87/poker-odds-calc](https://github.com/siavashg87/poker-odds-calc): Fastest and most accurate node module for calculating odds of poker games Texas Hold'em, Texas Shortdeck/Sixplus and Omaha.
+* [emileindik/poker-odds-machine](https://github.com/emileindik/poker-odds-machine): None
+* [surbhitrao/poker-odds-omaha5](https://github.com/surbhitrao/poker-odds-omaha5): Fastest and most accurate node module for calculating odds of poker games Texas Hold'em, and Omaha 5 card.
+* [sdeep27/poker-simulator](https://github.com/sdeep27/poker-simulator): simulates starting hands and flop, turn, river for tournies and cash games in omaha and hold'em poker
+* [400yk/PokerBotMac](https://github.com/400yk/PokerBotMac): Mac version of pokerbot project by Dick Neutral
+* [HenryRLee/PokerHandEvaluator](https://github.com/HenryRLee/PokerHandEvaluator): Poker-Hand-Evaluator: An efficient poker hand evaluation algorithm and its implementation, supporting 7-card poker and Omaha poker evaluation
+* [forestturner/PokerHandRangeCalc](https://github.com/forestturner/PokerHandRangeCalc): Poker Hand Range Calculator
+* [uoftcprg/pokerkit](https://github.com/uoftcprg/pokerkit): An open-source Python library for poker simulations and hand evaluations
+* [johnsoong216/PokerOddsCalc](https://github.com/johnsoong216/PokerOddsCalc): A simple tool to calculate poker hand odds (Omaha/Hold'em)
+* [EricSteinberger/PokerRL](https://github.com/EricSteinberger/PokerRL): Framework for Multi-Agent Deep Reinforcement Learning in Poker
+* [diditforlulz273/PokerRL-Omaha](https://github.com/diditforlulz273/PokerRL-Omaha): Omaha Poker functionality+some features for PokerRL Reinforcement Learning card framwork
+* [goldfire/pokersolver](https://github.com/goldfire/pokersolver): Javascript poker hand solver.
+* [andrewprock/pokerstove](https://github.com/andrewprock/pokerstove): poker evaluation and enumeration software
+* [iSapozhnik/Popover](https://github.com/iSapozhnik/Popover): Custom macOS Popover 💬
+* [eight04/popup-tab](https://github.com/eight04/popup-tab): A Firefox addon, easily convert a tab into a popup and vice versa.
+* [Porco-Rosso/PorcoSpoon](https://github.com/Porco-Rosso/PorcoSpoon): My Versatile Hammerspoon Config
+* [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio): My self coded personal website build with React.js
+* [husseyexplores/poshify-utilities](https://github.com/husseyexplores/poshify-utilities): Some posh utilities for Shopify developers and merchants packaged as a browser extension 🎉
+* [fboulnois/positron-ui-firefox](https://github.com/fboulnois/positron-ui-firefox): A simple userChrome for Firefox that restores connected tabs, visual dividers, and the focused tab highlight.
+* [Century300/powerlevel10k](https://github.com/Century300/powerlevel10k): fast install powerlevel10k theme
+* [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k): A Zsh theme
+* [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k): Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
+* [ryanoasis/powerline-extra-symbols](https://github.com/ryanoasis/powerline-extra-symbols): :arrow_forward: Extra glyphs for your powerline separators
+* [DanaMW/PowerShell-TuneUp](https://github.com/DanaMW/PowerShell-TuneUp): PowerShell scripts and snips for the learning curve.
+* [parkermuir/preflop-poker](https://github.com/parkermuir/preflop-poker): Python scripts to navigate Texas Hold 'Em and Pot Limit Omaha preflop decision trees ♠️♣️
+* [MozillaSecurity/prefpicker](https://github.com/MozillaSecurity/prefpicker): Manage & generate prefs.js files
+* [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode): Visual Studio Code extension for Prettier
+* [n89nanda/pretty-pocket](https://github.com/n89nanda/pretty-pocket): Convert Pocket Export file from HTML to Json to reveal tags and other metadata
+* [alkatrazstudio/prev-colors](https://github.com/alkatrazstudio/prev-colors): Thunderbird add-on for choosing one of the previously selected colors
+* [brcontainer/prevent-duplicate-tabs](https://github.com/brcontainer/prevent-duplicate-tabs): Simple add-on/extension for prevent duplicate tabs
+* [praveenravi77/prime-video-adblock](https://github.com/praveenravi77/prime-video-adblock): A simple extension to block amazon prime video ads in shows that are "Free but have ads"
+* [jhonatasrm/print-preview](https://github.com/jhonatasrm/print-preview): This add-on works by showing a preview before printing. That can be done by clicking the button on the toolbar or shortcut keys.
+* [mechagomizilla/Prism-FirefoxPhotonRecolored](https://github.com/mechagomizilla/Prism-FirefoxPhotonRecolored): Prism - Firefox Photon Recolored
+* [Infocatcher/Private_Tab](https://github.com/Infocatcher/Private_Tab): Adds private tabs, restartless extension for Firefox (20.0+) and SeaMonkey (2.17+)
+* [xmansyx/Pro-Fox](https://github.com/xmansyx/Pro-Fox): A custome CSS Theme for firefox
+* [jairo-aguirre/product-comparison](https://github.com/jairo-aguirre/product-comparison): App enabling users in a simple and centralized way to compare product features or capabilities across multiple similar products.
+* [Shopify/product-reviews-sample-app](https://github.com/Shopify/product-reviews-sample-app): A sample Shopify application that creates and stores product reviews for a store, written in Node.js
+* [progit/progit2](https://github.com/progit/progit2): Pro Git 2nd Edition
+* [ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts): This is a collection of programming fonts, just share this with the programmers. Now there are 108 kinds of fantastic fonts!
+* [corpnewt/ProperTree](https://github.com/corpnewt/ProperTree): Cross platform GUI plist editor written in python.
+* [ProtonMail/proton-mail](https://github.com/ProtonMail/proton-mail): React web application to manage ProtonMail 
+* [sagars007/Proton-UI-connected-rounded-tabs](https://github.com/sagars007/Proton-UI-connected-rounded-tabs): Firefox Proton UI minimal changes with nav-bar-connected rounded tabs, reduced compact mode, nightly color gradient accents etc..
+* [steccas/ProtonClient](https://github.com/steccas/ProtonClient): An unofficial desktop client for ProtonMail done with electron nativefier
+* [Dan-Q/ProtonMail-Encryption-Indicators-for-Thunderbird](https://github.com/Dan-Q/ProtonMail-Encryption-Indicators-for-Thunderbird): Thunderbird plugin to show E2E-encryption status for ProtonMail Bridge emails.
+* [marpies/protonmail-macos](https://github.com/marpies/protonmail-macos): Experimental email client for the ProtonMail service written in Swift.
+* [bpwned/protovibrant](https://github.com/bpwned/protovibrant): None
+* [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr): None
+* [psd-tools/psd-tools](https://github.com/psd-tools/psd-tools): Python package for reading Adobe Photoshop PSD files
+* [psequel/psequel](https://github.com/psequel/psequel): Free PostgreSQL GUI tool for macOS.
+* [ongots/pseudo-fullscreen-firefox](https://github.com/ongots/pseudo-fullscreen-firefox): Hides and improves Firefox and YouTube UI, giving maximum space for content and aiding concentration
+* [dognotdog/ptpwebcam](https://github.com/dognotdog/ptpwebcam): Mac DSLR webcam plugin for using DSLRs for video conferencing and streaming.
+* [public-apis/public-apis](https://github.com/public-apis/public-apis): A collective list of free APIs
+* [WaldiPL/purplePrivateWindows](https://github.com/WaldiPL/purplePrivateWindows):  Extension for Firefox
+* [filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox): A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
+* [kevinschaich/py-imessage-shortcuts](https://github.com/kevinschaich/py-imessage-shortcuts): 💬 Send iMessages using Python through the Shortcuts app.
+* [glowinthedark/pylaunchd](https://github.com/glowinthedark/pylaunchd): MacOS launchd/launchctl GUI
+* [e-alizadeh/PyPocket](https://github.com/e-alizadeh/PyPocket): A Python Wrapper (Unofficial) for GetPocket (https://getpocket.com)
+* [newville/pyshortcuts](https://github.com/newville/pyshortcuts): create desktop shortcuts to python scripts on Windows, Mac, or Linux
+* [google/python-laurel](https://github.com/google/python-laurel): Python control of C by GE Bluetooth lightbulbs
+* [evanjd/python-logi-circle](https://github.com/evanjd/python-logi-circle): Python 3.6+ API for Logi Circle cameras
+* [Frewacom/pywalfox](https://github.com/Frewacom/pywalfox): Dynamic theming of Firefox (and Thunderbird) using your Pywal colors 
+* [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent): qBittorrent BitTorrent client
+* [dustindmiller/QLab-Touchbar](https://github.com/dustindmiller/QLab-Touchbar): Touch Bar BTT config for QLab.
+* [Nyx0uf/qlImageSize](https://github.com/Nyx0uf/qlImageSize): QuickLook and Spotlight plugins to display the dimensions, size and DPI of an image in the title bar instead of the filename. Also preview some unsupported formats like WebP & bpg.
+* [sbarex/QLMarkdown](https://github.com/sbarex/QLMarkdown): macOS Quick Look extension for Markdown files.
+* [Marginal/QLVideo](https://github.com/Marginal/QLVideo): This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files.
+* [srirangav/qlZipInfo](https://github.com/srirangav/qlZipInfo): MacOSX QuickLook Generator for zip, jar, tar, tar.gz (.tgz), tar.bz2 (.tbz2/.tbz), tar.Z, xar (.xar, .pkg), debian (.deb), RedHat Package Manager (.rpm), 7zip (.7z), xz, Microsoft cabinet (.cab), gzip (.gz), lha, BinHex 4.0 (.hqx), ePub (.epub), and Stuffit (.sit) archives, and ISO9660 images
+* [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes): QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
+* [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy): Android real-time display control software
+* [Izheil/Quantum-Nox-Firefox-Dark-Full-Theme](https://github.com/Izheil/Quantum-Nox-Firefox-Dark-Full-Theme): A customizable full dark theme for Firefox. You can also add extra functions using the CSS and JS files here apart from the theme.
+* [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins): List of useful Quick Look plugins for developers
+* [evanca/quick-portfolio](https://github.com/evanca/quick-portfolio): Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+* [RealRaven2000/quickFilters](https://github.com/RealRaven2000/quickFilters): Thunderbird Add-on: quickFilters 
+* [RealRaven2000/QuickFolders](https://github.com/RealRaven2000/QuickFolders): Thunderbird Add-on: QuickFolders
+* [quicksilver/Quicksilver](https://github.com/quicksilver/Quicksilver): Quicksilver Project Source
+* [jobisoft/quicktext](https://github.com/jobisoft/quicktext): An extension for Thunderbird that lets you create templates that can be easily inserted into your own emails.
+* [k-amryn/quietfox](https://github.com/k-amryn/quietfox): Very Clean Firefox userChrome Mod
+* [Shad0wSeven/Quietfox-Proton](https://github.com/Shad0wSeven/Quietfox-Proton): Quietfox release for Proton, upgrades and improvments from myself, and from the Lepton project
+* [TheGITofTeo997/quietfoxReborn](https://github.com/TheGITofTeo997/quietfoxReborn): Trying to resurrect a very Clean Firefox userChrome Mod
+* [1280px/rainfox](https://github.com/1280px/rainfox): Photon UI, re-imagined.
+* [HoldemPokerTools/RangeAssistant](https://github.com/HoldemPokerTools/RangeAssistant): Texas Hold'em Opening Range Assistant web and desktop application for OS X and Windows (beta)
+* [LoneWanderer-GH/RaspiVWS](https://github.com/LoneWanderer-GH/RaspiVWS): Raspberry Pi Webcam Streaming with Logitech C920 and VLC
+* [DEgITx/rats-search](https://github.com/DEgITx/rats-search): BitTorrent P2P multi-platform search engine for Desktop and Web servers with integrated torrent client.
+* [isheeze/rawalpindis](https://github.com/isheeze/rawalpindis): Shopify os 2.0 first theme of mine
+* [rbenv/rbenv](https://github.com/rbenv/rbenv): Manage your app's Ruby environment
 * [rclone/rclone](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
-* [x0b/rcx](https://github.com/x0b/rcx): Rclone for Android
-* [stascorp/rdpwrap](https://github.com/stascorp/rdpwrap): RDP Wrapper Library
+* [iampueroo/rComments](https://github.com/iampueroo/rComments): Chrome and Firefox extension for quickly exploring Reddit comments and replies without having to click through to the post!
+* [SamR1/rdltr](https://github.com/SamR1/rdltr): a simple read-it later app
+* [SamR1/rdltr-addon](https://github.com/SamR1/rdltr-addon): Firefox add-on for rdltr (read-it-later app)
 * [facebook/react](https://github.com/facebook/react): The library for web and native user interfaces.
-* [timarney/react-app-rewired](https://github.com/timarney/react-app-rewired): Override create-react-app webpack configs without ejecting
-* [jquense/react-big-calendar](https://github.com/jquense/react-big-calendar): gcal/outlook like calendar component
-* [Flipboard/react-canvas](https://github.com/Flipboard/react-canvas): High performance <canvas> rendering for React components
-* [flippingbitss/react-daterange-picker](https://github.com/flippingbitss/react-daterange-picker): A react date range picker to using @material-ui. Live Demo: https://flippingbitss.github.io/react-daterange-picker/
-* [7kms/react-illustration-series](https://github.com/7kms/react-illustration-series): 图解react源码, 用大量配图的方式, 致力于将react原理表述清楚.
-* [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form): A React component for building Web forms from JSON Schema.
-* [souporserious/react-measure](https://github.com/souporserious/react-measure): 📏 Compute measurements of a React component.
-* [microsoft/react-native-windows](https://github.com/microsoft/react-native-windows): A framework for building native Windows apps with React.
-* [capaj/react-promise](https://github.com/capaj/react-promise): a react.js hook for general promise in typescript
-* [streamich/react-use](https://github.com/streamich/react-use): React Hooks — 👍
-* [bsonntag/react-use-promise](https://github.com/bsonntag/react-use-promise): React hook for handling promises.
-* [bvaughn/react-window](https://github.com/bvaughn/react-window): React components for efficiently rendering large lists and tabular data
-* [dotnet/reactive](https://github.com/dotnet/reactive): The Reactive Extensions for .NET
-* [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN): Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
-* [kirsch33/realip](https://github.com/kirsch33/realip): realip module for Caddy v2
-* [redis/redis](https://github.com/redis/redis): Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
-* [reduxjs/redux](https://github.com/reduxjs/redux): Predictable state container for JavaScript apps
-* [JumboInteractiveLimited/redux-cache](https://github.com/JumboInteractiveLimited/redux-cache): Client side TTL caching strategy for redux applications
+* [XcrossD/read-later-bookmarks](https://github.com/XcrossD/read-later-bookmarks): A chrome extension that add a read later view for chrome bookmarks
+* [rNeomy/reader-view](https://github.com/rNeomy/reader-view): Access Firefox's built in reader view from right click context menu
+* [alexpdraper/reading-list](https://github.com/alexpdraper/reading-list): A Chrome/Firefox extension for saving pages to read later.
+* [codebox/reading-list-mover](https://github.com/codebox/reading-list-mover): A Python utility for moving bookmarks/reading lists between services
+* [napsternxg/ReadLater](https://github.com/napsternxg/ReadLater): This is a google chrome extension for saving links for later reading.
+* [sakuyaa/readLater](https://github.com/sakuyaa/readLater): A Read-it-later extension for Firefox using WebExtension APIs
+* [timleland/ReadLaterCE](https://github.com/timleland/ReadLaterCE): Read Later Chrome Extension
+* [aecreations/readnext](https://github.com/aecreations/readnext): Read Next: an extension for Mozilla Firefox
+* [bantunagarjuna/Real-time-data-storing-in-google-drive](https://github.com/bantunagarjuna/Real-time-data-storing-in-google-drive): Storing the real time data to the personal google drive account.
+* [bhavsec/reconspider](https://github.com/bhavsec/reconspider): 🔎 Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organizations.
+* [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle): Move and resize windows on macOS with keyboard shortcuts and snap areas
+* [rxhanson/RectanglePro-Community](https://github.com/rxhanson/RectanglePro-Community): Bug reports and discussion for the Rectangle Pro app
+* [haoict/reddit-no-ads](https://github.com/haoict/reddit-no-ads): Tweak to remove "Promoted" post on Reddit app for iOS!
+* [vihanggodbole/reddit-pocket-sync](https://github.com/vihanggodbole/reddit-pocket-sync): None
+* [marioortizmanero/reddit-search-on-google](https://github.com/marioortizmanero/reddit-search-on-google): Button on Google to search only for Reddit posts
+* [tadwohlrapp/reddit-search-on-google](https://github.com/tadwohlrapp/reddit-search-on-google): A browser extension which adds a "Reddit" button to the Google search for only showing search results from reddit.
+* [refined-bitbucket/refined-bitbucket](https://github.com/refined-bitbucket/refined-bitbucket): Chrome and Firefox extension that improves Bitbucket's user experience
 * [refined-github/refined-github](https://github.com/refined-github/refined-github): :octocat: Browser extension that simplifies the GitHub interface and adds useful features
-* [m8/refined.blog](https://github.com/m8/refined.blog): curated list of personal blogs
-* [andrey-pohilko/registry-cli](https://github.com/andrey-pohilko/registry-cli): Scripts for easy manipulation of docker-registry from command line (and from scripts)
-* [concourse/registry-image-resource](https://github.com/concourse/registry-image-resource): a resource for images in a Docker registry
-* [RelaxedJS/ReLaXed](https://github.com/RelaxedJS/ReLaXed): Create PDF documents using web technologies
-* [remaxjs/remax](https://github.com/remaxjs/remax): 使用真正的 React 构建跨平台小程序
-* [LinuxSuRen/remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china): 支持远程办公的中国公司
-* [remotion-dev/remotion](https://github.com/remotion-dev/remotion): 🎥      Make videos programmatically with React
-* [replit-archive/repl.it](https://github.com/replit-archive/repl.it): https://repl.it/feedback Online REPL for 15+ languages.
-* [nelhage/reptyr](https://github.com/nelhage/reptyr): Reparent a running program to a new terminal
-* [psf/requests-html](https://github.com/psf/requests-html): Pythonic HTML Parsing for Humans™
-* [restic/restic](https://github.com/restic/restic): Fast, secure, efficient backup program
-* [resume/resume.github.com](https://github.com/resume/resume.github.com): Resumes generated using the GitHub informations
-* [square/retrofit](https://github.com/square/retrofit): A type-safe HTTP client for Android and the JVM
-* [colin-kyang/reverse-interview-zh](https://github.com/colin-kyang/reverse-interview-zh): 技术面试最后反问面试官的话
-* [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh): 技术面试最后反问面试官的话
-* [revolist/revogrid](https://github.com/revolist/revogrid): Powerful virtual data grid smartsheet with advanced customization. Best features from excel plus incredible  performance 🔋
-* [ansuz/RIIR](https://github.com/ansuz/RIIR): why not Rewrite It In Rust
-* [rime/rime-emoji](https://github.com/rime/rime-emoji): Emoji / 繪文字輸入方案
-* [tumuyan/rime-melt](https://github.com/tumuyan/rime-melt): 融合拼音（rime_melt）是一个拼音-英文混合输入的Rime输入法的输入方案，基于【袖珍簡化字拼音】【Easy English】。
-* [RikkaApps/Riru](https://github.com/RikkaApps/Riru): Inject into zygote process
-* [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave): The streaming database: SQL stream processing with Postgres-like experience 🪄. 10X more cost-efficient than Apache Flink 🚀.
-* [riverwm/river](https://github.com/riverwm/river): A dynamic tiling Wayland compositor
-* [roc-streaming/roc-toolkit](https://github.com/roc-streaming/roc-toolkit): Real-time audio streaming over the network.
-* [facebook/rocksdb](https://github.com/facebook/rocksdb): A library that provides an embeddable, persistent key-value store for fast storage.
-* [adi1090x/rofi](https://github.com/adi1090x/rofi): A huge collection of Rofi based custom Applets, Launchers & Powermenus.
-* [davatorium/rofi](https://github.com/davatorium/rofi): Rofi: A window switcher, application launcher and dmenu replacement
-* [Algram/rofi-gopass](https://github.com/Algram/rofi-gopass): 🔒 Simple gopass manager for rofi
-* [rollup/rollup](https://github.com/rollup/rollup): Next-generation ES module bundler
-* [cvzi/rollup-userscript-template](https://github.com/cvzi/rollup-userscript-template): Bundle javascript, typescript, react and JSX/TSX script files into a single userscript file with rollup
-* [roncoo/roncoo-pay](https://github.com/roncoo/roncoo-pay): 龙果支付系统（roncoo-pay）是国内首款开源的互联网支付系统，拥有独立的账户体系、用户体系、支付接入体系、支付交易体系、对账清结算体系。目标是打造一款集成主流支付方式且轻量易用的支付收款系统，满足互联网业务系统打通支付通道实现支付收款和业务资金管理等功能。
-* [sigeryang/ropez](https://github.com/sigeryang/ropez): RopeZ
-* [maHidaka/ros_face](https://github.com/maHidaka/ros_face): None
-* [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge): A pure Ruby code highlighter that is compatible with Pygments
-* [yilozt/rounded-window-corners](https://github.com/yilozt/rounded-window-corners): A gnome-shell extensions that try to add rounded corners for all windows
-* [rqlite/rqlite](https://github.com/rqlite/rqlite): The lightweight, distributed relational database built on SQLite
-* [damoeb/rss-proxy](https://github.com/damoeb/rss-proxy): RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.
-* [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub): 🍰 Everything is RSSible
-* [DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar): 🍰 Browser extension that simplifies finding and subscribing RSS and RSSHub
-* [WayneD/rsync](https://github.com/WayneD/rsync): An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
-* [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle): A Flash Player emulator written in Rust
-* [LearningOS/rust-based-os-comp2023](https://github.com/LearningOS/rust-based-os-comp2023): 2023秋冬季开源操作系统训练营
-* [rustlang-cn/rust-weekly](https://github.com/rustlang-cn/rust-weekly): Rust语言周刊，每周五发布，精选过去一周的技术文章、业界新闻、开源项目和 Rust 语言动态
-* [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk): An open-source remote desktop, and alternative to TeamViewer.
-* [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo): Reactive Extensions for the Go language.
-* [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava): RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
-* [LeetCode-OpenSource/rxjs-hooks](https://github.com/LeetCode-OpenSource/rxjs-hooks): React hooks for RxJS
-* [ReactiveX/RxKotlin](https://github.com/ReactiveX/RxKotlin): RxJava bindings for Kotlin
-* [amanusk/s-tui](https://github.com/amanusk/s-tui): Terminal-based CPU stress and monitoring utility
-* [gaul/s3proxy](https://github.com/gaul/s3proxy): Access other storage backends via the S3 API
-* [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay): s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
-* [Qihoo360/safe-rules](https://github.com/Qihoo360/safe-rules): 详细的C/C++编程规范指南，由360质量工程部编著，适用于桌面、服务端及嵌入式软件系统。
-* [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix): Google SafetyNet attestation workarounds for Magisk
-* [SagerNet/SagerNet](https://github.com/SagerNet/SagerNet): The universal proxy toolchain for Android
-* [itorr/sakana](https://github.com/itorr/sakana): 🐟「Sakana!」石蒜模拟器
-* [saltstack/salt](https://github.com/saltstack/salt): Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here: 
-* [google/sanitizers](https://github.com/google/sanitizers): AddressSanitizer, ThreadSanitizer, MemorySanitizer
+* [plibither8/refined-hacker-news](https://github.com/plibither8/refined-hacker-news): ✨ Hacker News, but refined — Interface tweaks and features to make the HN experience better
+* [shroudedcode/refined-prime-video](https://github.com/shroudedcode/refined-prime-video): 🍿 ​ A browser extension that adds small tweaks and useful new features to Amazon Prime Video
+* [DedSecInside/ReFleX](https://github.com/DedSecInside/ReFleX): ReFleX - Deep Image Recognition Bot
+* [mozilla/releases-comm-central](https://github.com/mozilla/releases-comm-central): EXPERIMENTAL - copy of comm-central for forking on github
+* [samueldobbie/remarkable-extension](https://github.com/samueldobbie/remarkable-extension): Keep your bookmarks clean & up-to-date 🔄
+* [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon): Open source neutral style icon system
+* [qzz0518/remove-HyperSwitch-expired-dialog](https://github.com/qzz0518/remove-HyperSwitch-expired-dialog): remove HyperSwitch error expired dialog
+* [Cat7373/remove-web-limits](https://github.com/Cat7373/remove-web-limits): 通杀大部分网站，可以解除禁止复制、剪切、选择文本、右键菜单的限制。
+* [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions): A browser extension that removes YouTube suggestions, comments, shorts, and more
+* [xia4zhi3yun2/remove_commercial](https://github.com/xia4zhi3yun2/remove_commercial): remove commercial and detect logo in video
+* [eyalroz/removedupes](https://github.com/eyalroz/removedupes): Remove Duplicate Messages
+* [dexiota/replacefirefoxicon](https://github.com/dexiota/replacefirefoxicon): A collection of CSS tweaks to only change Firefox's icon throughout the UI.
+* [jeevatkm/ReplyWithHeaderMozilla](https://github.com/jeevatkm/ReplyWithHeaderMozilla): Outlook style headers and few goodies for Thunderbird
+* [srvaroa/repocket](https://github.com/srvaroa/repocket): Manage a local copy of articles saved in Pocket
+* [danmindru/responsive-html-email-signature](https://github.com/danmindru/responsive-html-email-signature): ✨ Template generator for (responsive) emails & email signatures 
+* [leemunroe/responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template): A free simple responsive HTML email template
+* [hanacchi/RestoreFirefoxJS](https://github.com/hanacchi/RestoreFirefoxJS): userChromeJS scripts to restore Firefox features that have been removed or changed
+* [briangershon/retrieve-pocket-bookmarks](https://github.com/briangershon/retrieve-pocket-bookmarks): Retrieves your bookmarks and meta data from Pocket API (via https://getpocket.com/developer/docs/v3/retrieve)
+* [cormiertyshawn895/Retroactive](https://github.com/cormiertyshawn895/Retroactive): Run Aperture, iPhoto, and iTunes on macOS Ventura, macOS Monterey, macOS Big Sur, and macOS Catalina. Xcode 11.7 on macOS Mojave. Final Cut Pro 7, Logic Pro 9, and iWork ’09 on macOS Mojave or macOS High Sierra.
+* [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root): Automatic Repository build Revanced and Revanced Extended non-root version
+* [n0k0m3/revanced-build-template](https://github.com/n0k0m3/revanced-build-template): Github Template for building Revanced
+* [reisxd/revanced-builder](https://github.com/reisxd/revanced-builder): A NodeJS ReVanced builder
+* [XDream8/revanced-creator](https://github.com/XDream8/revanced-creator): Create Revanced apps easily ☠️
+* [ReVanced/revanced-documentation](https://github.com/ReVanced/revanced-documentation): 🗄 Documentation and guides for ReVanced
+* [inotia00/revanced-documentation](https://github.com/inotia00/revanced-documentation): 🗄 Documentation and guides for ReVanced Extended
+* [NoName-exe/revanced-extended](https://github.com/NoName-exe/revanced-extended): ReVanced eXtended YT and YT-M for both root and non-root users.
+* [ReVanced/revanced-integrations](https://github.com/ReVanced/revanced-integrations): 🔩 ReVanced Integrations containing classes to be merged by ReVanced Patcher
+* [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module): Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
+* [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager): 💊 Application to use ReVanced on Android 
+* [inotia00/revanced-manager](https://github.com/inotia00/revanced-manager): 💊 Application to use ReVanced on Android 
+* [luxysiv/revanced-nonroot](https://github.com/luxysiv/revanced-nonroot): Auto check and patch YouTube Revanced 
+* [ReVanced/revanced-patcher](https://github.com/ReVanced/revanced-patcher): 💉 ReVanced Patcher used to patch Android applications
+* [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches): 🧩 Patches for ReVanced
+* [inotia00/revanced-patches](https://github.com/inotia00/revanced-patches): 🧩 Patches for ReVanced
+* [inotia00/ReVanced_Extended](https://github.com/inotia00/ReVanced_Extended): ReVanced Extended Issues/Request repo
+* [SinTan1729/ReVancedBuilder](https://github.com/SinTan1729/ReVancedBuilder): A tool to automatically build latest releases of ReVanced apps
+* [decipher3114/Revancify](https://github.com/decipher3114/Revancify): The only revancify
+* [kastentop2005/Revancify-X](https://github.com/kastentop2005/Revancify-X): Revancify X manager
+* [YT-Advanced/ReX-patches](https://github.com/YT-Advanced/ReX-patches): 🧩 Patches for ReVanced
+* [timonus/Rhea](https://github.com/timonus/Rhea): A Mac status bar app for quickly sharing files and links.
+* [garywill/right-click-tab-close](https://github.com/garywill/right-click-tab-close): Firefox close tab by right clicking on tab button ,userchrome script (runs on ff115) 🖱️
+* [Infocatcher/Right_Links](https://github.com/Infocatcher/Right_Links): Open links in new tabs using right-click or "long" left-click, extension for Firefox and SeaMonkey
+* [Infocatcher/Right_Links_WE](https://github.com/Infocatcher/Right_Links_WE): WebExtensions port of Right Links extension for Firefox
+* [datamllab/rlcard](https://github.com/datamllab/rlcard): Reinforcement Learning / AI Bots in Card (Poker) Games - Blackjack, Leduc, Texas, DouDizhu, Mahjong, UNO.
+* [ohmybahgosh/RockYou2021.txt](https://github.com/ohmybahgosh/RockYou2021.txt): RockYou2021.txt is a MASSIVE WORDLIST compiled of various other wordlists.  RockYou2021.txt DOES NOT CONTAIN USER:PASS logins!  
+* [mike-kfed/roundcube-thunderbird_labels](https://github.com/mike-kfed/roundcube-thunderbird_labels): Thunderbird Labels Plugin for Roundcube Webmail
+* [moisseev/rspamd-spamness](https://github.com/moisseev/rspamd-spamness): Thunderbird add-on for visualizing rspamd spam scores.
+* [huhu/rust-search-extension](https://github.com/huhu/rust-search-extension): 🦀 The ultimate search extension for Rust
+* [rvm/rvm](https://github.com/rvm/rvm): Ruby enVironment Manager (RVM)
+* [thepante/SAL-Firefox](https://github.com/thepante/SAL-Firefox): Sidebar Always Loaded for Firefox
+* [thundernest/sample-extensions](https://github.com/thundernest/sample-extensions): Example extensions for Thunderbird WebExtensions APIs
+* [CruelKernel/samsung-exynos9820](https://github.com/CruelKernel/samsung-exynos9820): Unified kernel tree for S10 and Note10 devices
 * [sass/sass](https://github.com/sass/sass): Sass makes CSS fun!
-* [sbt/sbt-assembly](https://github.com/sbt/sbt-assembly): Deploy über-JARs. Restart processes. (port of codahale/assembly-sbt)
-* [scala/scala](https://github.com/scala/scala): Scala 2 compiler and standard library. Bugs at https://github.com/scala/bug; Scala 3 at https://github.com/lampepfl/dotty
-* [dbader/schedule](https://github.com/dbader/schedule): Python job scheduling for humans.
-* [prprprus/scheduler](https://github.com/prprprus/scheduler): Go Job Scheduler for Humans.
-* [SCons/scons](https://github.com/SCons/scons): SCons - a software construction tool
-* [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop): A command-line installer for Windows.
-* [weaveworks/scope](https://github.com/weaveworks/scope): Monitoring, visualisation & management for Docker & Kubernetes
+* [Erisa/save-all-tab-urls](https://github.com/Erisa/save-all-tab-urls): Save all the open tabs as a list of URLs to go back to!
+* [allen505/save-for-later](https://github.com/allen505/save-for-later): A web extension for Chrome/Firefox which saves the tabs in current window for later use.
+* [salvoventura/save-my-tabs](https://github.com/salvoventura/save-my-tabs): Open source browser extension/addon to save all open tabs to a folder in the Bookmarks Toolbar
+* [theopenroad/save-open-tabs-extension](https://github.com/theopenroad/save-open-tabs-extension): Firefox extension to save all open tabs within the extension
+* [piroor/save-selected-tabs-to-files](https://github.com/piroor/save-selected-tabs-to-files): Provides ability to save selected tabs to local files for Firefox 63 and later.
+* [Karna98/Save-Tabs](https://github.com/Karna98/Save-Tabs): Export and Import Tabs with Cross-Browser support.
+* [hiroshil/save-tabs](https://github.com/hiroshil/save-tabs): Firefox Add-on to Save, copy and reload later Tab URLs along with titles. WebExtension-format Addon.
+* [mnba/save-tabs](https://github.com/mnba/save-tabs): Firefox Add-on to Save, copy and reload later Tab URLs along with titles. WebExtension-format Addon. Install it from here: https://addons.mozilla.org/en-US/firefox/addon/save-tab-urls/
+* [nbeaver/save-tabs-as-html](https://github.com/nbeaver/save-tabs-as-html): Webextension to save the title and URLs of open tabs as an HTML file.
+* [Lewiscowles1986/save-tabs-as-markdown-ff-chrome-poc](https://github.com/Lewiscowles1986/save-tabs-as-markdown-ff-chrome-poc): Browser addon for FireFox & Chrome to save active tabs as Markdown
+* [VerifiedJoseph/Save-to-the-Wayback-Machine](https://github.com/VerifiedJoseph/Save-to-the-Wayback-Machine): Browser extension for quickly saving web pages to the Internet Archive's Wayback Machine.
+* [117649/SavedPasswordEditorRedux](https://github.com/117649/SavedPasswordEditorRedux): Not Gecko, application to allow creating and editing saved passwords 
+* [mdreier/savetabs](https://github.com/mdreier/savetabs): Save current tabs extension for Firefox
+* [pvpscript/savetabs](https://github.com/pvpscript/savetabs): A web browser extension that allows the user to save every tab's url to a file
+* [snlned/sci-hub-scholar](https://github.com/snlned/sci-hub-scholar): Add a Sci-Hub link in Google Scholar results.
+* [gildas-lormeau/Scrapbook-for-SingleFile](https://github.com/gildas-lormeau/Scrapbook-for-SingleFile): PageArchiver (previously called "Scrapbook for SingleFile") is a Chrome extension that helps to archive pages for offline reading
+* [shoekla/ScrapeC](https://github.com/shoekla/ScrapeC): ScrapeC is a “mock” search engine, in the fact that it does a lot of what Bing, YouTube, and DuckDuckGo does, but instead of searching its own database it crawls and scrape these search engines and other websites. Along with return links, images, and videos of searches it also return PDFs, Social Media information (Facebook, Twitter, Google+), and Contact Information related to the links that it returns. On top of that ScrapeC also has the same features on a smaller scale for web addresses used as an input. Link: http://scrapec.pythonanywhere.com/
+* [Phisteven/scraping-bets](https://github.com/Phisteven/scraping-bets): Experiments with web srcaping from sports betting websites
 * [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy): Display and control your Android device
-* [duncanthrax/scream](https://github.com/duncanthrax/scream): Virtual network sound card for Microsoft Windows
-* [KittyKatt/screenFetch](https://github.com/KittyKatt/screenFetch): Fetches system/theme information in terminal for Linux desktop screenshots.
-* [screeps/screeps](https://github.com/screeps/screeps): A standalone server for programming game Screeps
-* [screepers/screeps-multimeter](https://github.com/screepers/screeps-multimeter): The most useful tool on your screeps workbench.
-* [screepers/screeps-typescript-starter](https://github.com/screepers/screeps-typescript-starter): Starter kit for TypeScript-based Screeps AI codes.
-* [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet): WebUI extension for ControlNet
-* [antirez/sds](https://github.com/antirez/sds): Simple Dynamic Strings library for C
-* [seata/seata](https://github.com/seata/seata): :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
-* [Tencent/secguide](https://github.com/Tencent/secguide): 面向开发人员梳理的代码安全指南
-* [seedvault-app/seedvault](https://github.com/seedvault-app/seedvault): A backup application for the Android Open Source Project.
-* [seeingtheory/Seeing-Theory](https://github.com/seeingtheory/Seeing-Theory): A visual introduction to probability and statistics.
-* [epasveer/seer](https://github.com/epasveer/seer): Seer - a gui frontend to gdb
-* [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium): A browser automation framework and ecosystem.
-* [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design): 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 2800+ Design Tokens and powerful DSM tools, easy to build your own design system. Make Semi Design to Any Design
-* [timvisee/send](https://github.com/timvisee/send): :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
-* [Alecaddd/sequeler](https://github.com/Alecaddd/sequeler): SQL Client built in Vala
-* [vercel/serve](https://github.com/vercel/serve): Static file serving and directory listing
-* [etesync/server](https://github.com/etesync/server): The Etebase server (so you can run your own)
-* [alibaba/serverless-vscode](https://github.com/alibaba/serverless-vscode): Aliyun Function Compute extension. Lets you develop your serverless application of Aliyun within VSCode.
-* [horshack-dpreview/setPL](https://github.com/horshack-dpreview/setPL): Set PL1 and PL2 power limits for modern Intel processors running on Linux
-* [cvfosammmm/Setzer](https://github.com/cvfosammmm/Setzer): LaTeX editor written in Python with Gtk
-* [atmoz/sftp](https://github.com/atmoz/sftp): Securely share your files
-* [ShameCom/ShameCom](https://github.com/ShameCom/ShameCom): 收集校招污点公司或组织，帮助学弟学妹避雷。互联网不曾遗忘！
-* [shanghai2022/shanghai2022](https://github.com/shanghai2022/shanghai2022): 上海2022抗疫互助
-* [ayuer/shanghai_house_knowledge](https://github.com/ayuer/shanghai_house_knowledge): 2020年11月在上海买房经历总结出来的买房购房做的一些功课分享给大家，技术人帮助技术人，希望对大家有所帮助。
-* [apache/shardingsphere](https://github.com/apache/shardingsphere): Distributed SQL transaction & query engine for data sharding, scaling, encryption, and more - on any database.
+* [hotchemi/Scre](https://github.com/hotchemi/Scre): A lightweight screen recorder macOS application written in SwiftUI.
+* [steventheworker/screenhook](https://github.com/steventheworker/screenhook): Background app to make up for BetterTouchTool's limitations. (eg: Run applescript on click (w/o modifier keys) or when connecting a display)
+* [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity): The most powerful screen recorder & annotation tool for Chrome 🎥
+* [duyquoc/ScreenToLayers](https://github.com/duyquoc/ScreenToLayers): macOS app to capture your screen as a layered PSD file
+* [raycast/script-commands](https://github.com/raycast/script-commands): Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
+* [tombowditch/scripts](https://github.com/tombowditch/scripts): General Scripts
+* [d3ward/scriptz](https://github.com/d3ward/scriptz): An awesome collection of userscripts
+* [dfiiroz/scss-to-css](https://github.com/dfiiroz/scss-to-css): Now, This is Shopify Online Store 2.0. The importance of CSS is undeniable and Shopify Deprecated the SCSS support. I have converted the gift-card.sccs & theme.scss files to gift-card.css and theme.css files.
+* [neilalexander/seaglass](https://github.com/neilalexander/seaglass): A truly native Matrix client for macOS - written in Swift/Cocoa, with E2E encryption support
+* [rominirani/Search-A-Profile](https://github.com/rominirani/Search-A-Profile): A Google Talk Bot that gives you details about a person from various Social Networks given an email address. Powered by Get Contact API
+* [Fannon/search-bookmarks-history-and-tabs](https://github.com/Fannon/search-bookmarks-history-and-tabs): Browser extension to search and navigate browser tabs, local bookmarks and history.
+* [dessant/search-by-image](https://github.com/dessant/search-by-image): Browser extension for reverse image search, available for Chrome, Edge and Safari
+* [YoshifumiFuyuno/Search-from-Popup-or-ContextMenu](https://github.com/YoshifumiFuyuno/Search-from-Popup-or-ContextMenu): WebExtension
+* [electron0zero/search-google-in-private](https://github.com/electron0zero/search-google-in-private): Adds a Search Google in Private for in your context menu
+* [tusharahmmed/search-image](https://github.com/tusharahmmed/search-image): This is a Image Search Web Application in PHP.
+* [qbittorrent/search-plugins](https://github.com/qbittorrent/search-plugins): Search plugins for the search feature
+* [meanii/Search4](https://github.com/meanii/Search4): Search people on the Internet.
+* [diegov/searchbox](https://github.com/diegov/searchbox): Personal crawling and indexing
+* [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper): Yet another awesome web extension for switching search engines, can also search anything (selection text / image / link / find in page) on any engine with a simple right click or a variety of menus and shortcuts. Build with React & Material-UI. (WIP). 搜索酱/搜尋醬/検索ちゃん
+* [EmySaulIntec/SearchPeople](https://github.com/EmySaulIntec/SearchPeople): Search images in your phone based in three photo of a person
+* [searx/searx](https://github.com/searx/searx): Privacy-respecting metasearch engine
+* [searxng/searxng](https://github.com/searxng/searxng): SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
+* [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists): SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
+* [mirceapiturca/Sections](https://github.com/mirceapiturca/Sections): Shopify sections for everyone. Tooltips, FAQ, Quiz, and App Performance
+* [larsow/SecurityCamera](https://github.com/larsow/SecurityCamera): Android Security Camera App
+* [rak3n/SecuritySttream](https://github.com/rak3n/SecuritySttream): an Alfred Camera like solution for motion detection and streaming based on react-native
+* [seekr-osint/seekr](https://github.com/seekr-osint/seekr): A multi-purpose OSINT toolkit with a neat web-interface.
+* [Pitmairen/selection-search](https://github.com/Pitmairen/selection-search): Search extension for the chrome web browser
+* [bitwarden/self-host](https://github.com/bitwarden/self-host): Bitwarden's self-hosted release repository
+* [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide): Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
+* [LeeluPradhan/Service-accounts-seperator-AutoRclone](https://github.com/LeeluPradhan/Service-accounts-seperator-AutoRclone): To split google service accounts after 10 accounts, to add in google group easily and use autorclone!
+* [aderyabin/ServPane](https://github.com/aderyabin/ServPane): A launchd menu bar app for Mac
+* [navorite/sessionic](https://github.com/navorite/sessionic): A browser extension to save, manage and restore tabs and sessions.
+* [ReDEnergy/SessionSync](https://github.com/ReDEnergy/SessionSync): SessionSync
+* [overdodactyl/ShadowBird](https://github.com/overdodactyl/ShadowBird): A universal dark theme for Thunderbird
+* [arguablykomodo/shadowfox-updater](https://github.com/arguablykomodo/shadowfox-updater): An auto-updater for ShadowFox
+* [jcz530/shadows](https://github.com/jcz530/shadows): A CSS Box-Shadow generator.It allows multiple shadow layers and preview customization.
+* [shahasad78/shahdevthemecourse2-0](https://github.com/shahasad78/shahdevthemecourse2-0): None
+* [navchandar/Share-Less](https://github.com/navchandar/Share-Less): Share Less - URL tracking remover
 * [szimek/sharedrop](https://github.com/szimek/sharedrop): Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
-* [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs): 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
-* [pop-os/shell](https://github.com/pop-os/shell): Pop!_OS Shell
-* [flant/shell-operator](https://github.com/flant/shell-operator): Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster
-* [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt): A command-line productivity tool powered by GPT-3 and GPT-4, will help you accomplish your tasks faster and more efficiently.
+* [jimmod/ShareToComputer](https://github.com/jimmod/ShareToComputer): None
+* [marcosdiez/shareviahttp](https://github.com/marcosdiez/shareviahttp): Share Via Http - Android
 * [koalaman/shellcheck](https://github.com/koalaman/shellcheck): ShellCheck, a static analysis tool for shell scripts
-* [timbertson/shellshape](https://github.com/timbertson/shellshape): tiling window manager extension for gnome-shell
-* [badges/shields](https://github.com/badges/shields): Concise, consistent, and legible badges in SVG and raster format
-* [AlynxZhou/showmethekey](https://github.com/AlynxZhou/showmethekey): Show keys you typed on screen.
-* [shelljs/shx](https://github.com/shelljs/shx): Portable Shell Commands for Node
-* [kubernetes-sigs/sig-storage-local-static-provisioner](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner): Static provisioner of local volumes
-* [simdjson/simdjson](https://github.com/simdjson/simdjson): Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, WatermelonDB, Apache Doris, StarRocks
-* [SimpleMobileTools/Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery): A premium app for managing and editing your photos, videos, GIFs without ads
-* [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons): SVG icons for popular brands
+* [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock): 🔎 Hunt down social media accounts by username across social networks
+* [FH-Potsdam/shifted-maps](https://github.com/FH-Potsdam/shifted-maps): Shifted Maps visualizes personal movement data as a network of map extracts showing visited places.
+* [fikovnik/ShiftIt](https://github.com/fikovnik/ShiftIt): Managing windows size and position in OSX
+* [go-shiori/shiori](https://github.com/go-shiori/shiori): Simple bookmark manager built with Go
+* [go-shiori/shiori-web-ext](https://github.com/go-shiori/shiori-web-ext): Web extension for using Shiori in Firefox and Chrome
+* [TheUmslopogaas/shipping_bar-shopify](https://github.com/TheUmslopogaas/shipping_bar-shopify): Created a custom shipping bar / moneyspent bar for shopify store. (Turbo Theme)
+* [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku): Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
+* [GregoryFore/shopfy-theme-dev](https://github.com/GregoryFore/shopfy-theme-dev): Shopify Theme Development
+* [vuestorefront/shopify](https://github.com/vuestorefront/shopify): Vue Storefront 2 integration for Shopify
+* [phillipkingston/Shopify---Change-Image-On-Hover](https://github.com/phillipkingston/Shopify---Change-Image-On-Hover): A few simple lines of code to swap product images on hover across collection pages and feature product sections on homepage and product pages in Shopify. Many projects in the Shopify App Store are a) expensive or b) do not work with the default Shopify Theme in 2020 (Debut) or c) do not work at all.
+* [JoshTag/shopify-2.0-dev-course](https://github.com/JoshTag/shopify-2.0-dev-course): None
+* [jeremybwilson/shopify-bebe](https://github.com/jeremybwilson/shopify-bebe): None
+* [Shopify/shopify-cli](https://github.com/Shopify/shopify-cli): Shopify CLI helps you build against the Shopify platform faster.
+* [freakdesign/Shopify-code-snippets](https://github.com/freakdesign/Shopify-code-snippets): Shopify code examples and tips
+* [maazRepo/shopify-code-snippets](https://github.com/maazRepo/shopify-code-snippets): collection of useful code snippets
+* [vikrantnegi/shopify-code-snippets](https://github.com/vikrantnegi/shopify-code-snippets): A compilation of code snippets for Shopify developers.
+* [Shopify/shopify-css-import](https://github.com/Shopify/shopify-css-import): Add CSS import functionality to Shopify theme development with Grunt.js or Gulp.js
+* [Maxvien/shopify-data-faker](https://github.com/Maxvien/shopify-data-faker): 🛍 A Shopify development tool for generating dummy store data.
+* [illarionvk/shopify-email-templates](https://github.com/illarionvk/shopify-email-templates): A collection of Shopify e-mail templates. Uses Gulp.js, Sass and Zurb Ink framework, inlines CSS
+* [leemunroe/shopify-email-templates](https://github.com/leemunroe/shopify-email-templates): Shopify HTML email notification templates for quick reference
+* [edgars21/shopify-flex-theme-section-with-vue](https://github.com/edgars21/shopify-flex-theme-section-with-vue): None
+* [uicrooks/shopify-foundation-theme](https://github.com/uicrooks/shopify-foundation-theme): Modern Shopify theme using Shopify Theme Lab, Liquid, Vue and Tailwind CSS 🎨
+* [DozenPixels/shopify-free-shipping-bar](https://github.com/DozenPixels/shopify-free-shipping-bar): Add a custom Free Shipping bar to Cart in Shopify
+* [jonzhak/shopify-get-products](https://github.com/jonzhak/shopify-get-products): None
+* [iShopifyExpert/shopify-google-location-map-with-api](https://github.com/iShopifyExpert/shopify-google-location-map-with-api): None
+* [clarityglobal/shopify-gtm-ga](https://github.com/clarityglobal/shopify-gtm-ga): Enhances Google Analytics and integrates Google Tag Manager for Shopify.
+* [halfhelix/shopify-guide](https://github.com/halfhelix/shopify-guide): A mostly reasonable approach to Shopify theme development
+* [NathanPJF/shopify-json-responses](https://github.com/NathanPJF/shopify-json-responses): How to create your own custom JSON responses
+* [faridrony55/Shopify-Liquid-Coding-Template](https://github.com/faridrony55/Shopify-Liquid-Coding-Template): None
+* [uicrooks/shopify-mail-notifications](https://github.com/uicrooks/shopify-mail-notifications): Blazing-fast Shopify mail notifications templating environment with Liquid, MJML and Twig
+* [cassidoo/shopify-next-netlify](https://github.com/cassidoo/shopify-next-netlify): A Shopify Next.js demo
+* [kayspiegel/shopify-notification-templates-l10n](https://github.com/kayspiegel/shopify-notification-templates-l10n): Sometimes you need the Shopify Notification Templates in a different language than english. Starting this repo to collect some other languages. Starting with german. Want to contribute?
+* [kailasachse/Shopify-notifications](https://github.com/kailasachse/Shopify-notifications): Shopify's Default Notifications
+* [kevinrefvik/shopify-notifications](https://github.com/kevinrefvik/shopify-notifications): A collection of translated e-mail notification templates for Shopify
+* [akospaska/shopify-outofthebox](https://github.com/akospaska/shopify-outofthebox): shopify-outofthebox
+* [hayes0724/shopify-packer](https://github.com/hayes0724/shopify-packer): Modern development tool for Shopify using Webpack 5. Easy to extend and customize, zero build config, compatible with Slate and existing websites.
+* [fireworkx/Shopify-Penta](https://github.com/fireworkx/Shopify-Penta): Shopify 2.0 theme for Penta Motor Group based off Dawn
+* [wlcr/shopify-product-previews](https://github.com/wlcr/shopify-product-previews): Shopify Product Previews that work with Theme Previews
+* [bravetheskies/shopify-rapid-deploy-action](https://github.com/bravetheskies/shopify-rapid-deploy-action): A GitHub action for rapid deployment of Shopify themes.
+* [uicrooks/shopify-settings-control](https://github.com/uicrooks/shopify-settings-control): Automatic Git version control for Shopify settings_data.json via CI/CD
+* [megasnippets/shopify-snippets](https://github.com/megasnippets/shopify-snippets): None
+* [patrickbolle/shopify-snippets](https://github.com/patrickbolle/shopify-snippets): Random code snippets for Shopify. Sections, snippets, templates.
+* [pgrimaud/shopify-snippets](https://github.com/pgrimaud/shopify-snippets): Useful .liquid snippets for Shopify themes
+* [spiral/shopify-starter-kit](https://github.com/spiral/shopify-starter-kit): Starter theme and environment for the largest Shopify stores.
+* [PaulSteelway/shopify-terrelique](https://github.com/PaulSteelway/shopify-terrelique): None
+* [wyugen/shopify-theme-action](https://github.com/wyugen/shopify-theme-action): Deploy Previews for Shopify themes
+* [Maxvien/shopify-theme-customizer](https://github.com/Maxvien/shopify-theme-customizer): 🛍  An effective development tool for customizing existing Shopify themes. It's built with Gulp, Theme Kit, Theme Check, LiveReload, ... and Passion.
+* [craigerm/shopify-theme-dev](https://github.com/craigerm/shopify-theme-dev): None
+* [Shopify/shopify-theme-inspector](https://github.com/Shopify/shopify-theme-inspector): A Chrome DevTools plugin that visualizes Shopify Liquid render profiling data so you can triage long-running code and reduce server response times!
+* [uicrooks/shopify-theme-lab](https://github.com/uicrooks/shopify-theme-lab): Shopify theme development environment using Liquid, Vue and Tailwind CSS. Built on top of Shopify CLI 🧪
+* [uicrooks/shopify-theme-lab-plugins](https://github.com/uicrooks/shopify-theme-lab-plugins): Official Shopify Theme Lab Plugins
+* [johntelforduk/shopify-to-facebook](https://github.com/johntelforduk/shopify-to-facebook): Command line program to convert a Shopify Customer Export file into Facebook Custom Audience List format.
+* [j-Riv/shopify-tools-cli](https://github.com/j-Riv/shopify-tools-cli): CLI to bulk edit Shopify Products / Variants, and Customers. Uses CSV to import and iterate over data.
+* [electricmaybe/shopify-trafo](https://github.com/electricmaybe/shopify-trafo): 🧬 Shopify development environment, ready for Online Store 2.0 and Shopify CLI. Using Tailwind and Webpack.
+* [h0se69/Shopify-Variant-Scraper](https://github.com/h0se69/Shopify-Variant-Scraper): Scrape Shopify Product with variants | Includes Discord Embed
+* [krjo/shopify-webpack-dev-workflow](https://github.com/krjo/shopify-webpack-dev-workflow): None
+* [freyum/shopify-workflow-poc](https://github.com/freyum/shopify-workflow-poc): PoC of Shopify development workflow using GitHub Actions with multiple environments.
+* [feracommerce/shopify_app_detector](https://github.com/feracommerce/shopify_app_detector): Shopify App Detector chrome extension that can show you what theme and Shopify apps a store is using.
+* [ScreenStaring/shopify_id_export](https://github.com/ScreenStaring/shopify_id_export): Export Shopify product and variant IDs —along with other identifiers— to a CSV or JSON file
+* [sunil209/shopify_themekit](https://github.com/sunil209/shopify_themekit): WDMDev
+* [Asteezy24/ShopifyCheckout](https://github.com/Asteezy24/ShopifyCheckout): Bringing automated checkout to your favorite shopify websites
+* [freakdesign/shopifyFD](https://github.com/freakdesign/shopifyFD): JavaScript layer to provide additional functionality and fixes to the Shopify dashboard
+* [mzama/ShopifyInventoryChecker](https://github.com/mzama/ShopifyInventoryChecker): A simple python script to check a Shopify store's inventory for a particular product, and send an email notification if the product is available.
+* [Czarto/ShopifyScripts](https://github.com/Czarto/ShopifyScripts): Various Shopify scripts to generate XML product feeds, remarketing tracking for Google Ads, and others.
+* [makilyes/shopifyTheme](https://github.com/makilyes/shopifyTheme): None
+* [taminob/shortcuts](https://github.com/taminob/shortcuts): WebExtension which allows selecting tabs with [CTRL] + [1-9]
+* [alfredapp/shortcuts-workflow](https://github.com/alfredapp/shortcuts-workflow): Run installed macOS shortcuts
+* [crittermike/shortkeys](https://github.com/crittermike/shortkeys): A browser extension for custom keyboard shortcuts 
+* [kuldeepghodasara/Show-Payment-icons-to-Shopify-Dynamically](https://github.com/kuldeepghodasara/Show-Payment-icons-to-Shopify-Dynamically): Script to Show Payment icons to Shopify Dynamically [add it to footer.liquid]
+* [garywill/sidebar-switch](https://github.com/garywill/sidebar-switch): Switch for Firefox's native sidebar. A slim vertical button on left of main content. Replace the legacy addon All in One Sidebar. You can open sidebar by clicking edge of screen. (runs on ff115) 🪟
+* [SideStore/SideStore](https://github.com/SideStore/SideStore): SideStore is a fork of AltStore that doesn't require an AltServer.
+* [thsmi/sieve](https://github.com/thsmi/sieve): Sieve Script Editor
+* [mozilla/sign-addon](https://github.com/mozilla/sign-addon): Sign a Firefox add-on with Mozilla's web service
+* [ineat/signature](https://github.com/ineat/signature): How to have a nice signature for emails
+* [ronfybish/Signature-Generator](https://github.com/ronfybish/Signature-Generator): Email Signature Generator - React & Firebase
+* [tiansh/simple-context-search](https://github.com/tiansh/simple-context-search): An easy way to act a context searching with one-time selected search provider. Context Search should be Simple. This extension use your searching list configured in browser, which means it could be used just out-of-box.
+* [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups): Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
 * [migueravila/SimpleFox](https://github.com/migueravila/SimpleFox): 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
-* [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor): A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
-* [ahrm/sioyek](https://github.com/ahrm/sioyek): Sioyek is a PDF viewer with a focus on textbooks and research papers
-* [antoniomika/sish](https://github.com/antoniomika/sish): HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
-* [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan): A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-* [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold): Easy and Repeatable Kubernetes Development
+* [Automattic/simplenote-macos](https://github.com/Automattic/simplenote-macos): Simplenote for macOS
+* [gildas-lormeau/single-file-cli](https://github.com/gildas-lormeau/single-file-cli): None
+* [gildas-lormeau/single-file-companion](https://github.com/gildas-lormeau/single-file-companion): None
+* [gildas-lormeau/single-file-companion-lite](https://github.com/gildas-lormeau/single-file-companion-lite): SingleFile Companion Lite
+* [gildas-lormeau/single-file-core](https://github.com/gildas-lormeau/single-file-core): None
+* [gildas-lormeau/single-filez-core](https://github.com/gildas-lormeau/single-filez-core): None
+* [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile): Web Extension and CLI tool for saving a faithful copy of a complete web page in a single HTML file
+* [gildas-lormeau/SingleFile-Archives](https://github.com/gildas-lormeau/SingleFile-Archives): Pages saved with SingleFile
+* [screenbreak/SingleFile-dockerized](https://github.com/screenbreak/SingleFile-dockerized): SingleFile docker implementation providing access via CLI and WEB service
+* [gildas-lormeau/SingleFile-Lite](https://github.com/gildas-lormeau/SingleFile-Lite): Feel the power of the Manifest V3. The future, right now!
+* [gildas-lormeau/SingleFile-Safari-Extension](https://github.com/gildas-lormeau/SingleFile-Safari-Extension): Source code of SingleFile for Safari
+* [david-littlefield/SingleFileMac](https://github.com/david-littlefield/SingleFileMac): A Mac application that uses the SingleFile repository.
+* [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ): Web Extension for Firefox/MS Edge and CLI tool to save a faithful copy of an entire web page in a self-extracting HTML/ZIP polyglot file 
+* [pellaeon/SingleFileZ](https://github.com/pellaeon/SingleFileZ): MultiFile is a fork of gildas-lormeau/SingleFileZ that allows you to save a webpage as as one main HTML file plus original resource files (images, fonts, stylesheets and frames) in different folders.
+* [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar): A highly customizable macOS status bar replacement
 * [koekeishiya/skhd](https://github.com/koekeishiya/skhd):  Simple hotkey daemon for macOS
-* [zalando/skipper](https://github.com/zalando/skipper): An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress
-* [skooner-k8s/skooner](https://github.com/skooner-k8s/skooner): Simple Kubernetes real-time dashboard and management.
-* [slidevjs/slidev](https://github.com/slidevjs/slidev): Presentation Slides for Developers
-* [slimtoolkit/slim](https://github.com/slimtoolkit/slim): Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
-* [timbertson/slinger](https://github.com/timbertson/slinger): gnome-shell extension for throwing windows around efficiently
-* [RimoChan/smoke_of_deceit](https://github.com/RimoChan/smoke_of_deceit): 把代码藏起来！
+* [jonashellmann/skip-prime-video-intro](https://github.com/jonashellmann/skip-prime-video-intro): Firefox addon to automatically skip intros on Amazon Prime Video
+* [shredthaGNAR/skip-prime-video-intro](https://github.com/shredthaGNAR/skip-prime-video-intro): Firefox addon to automatically skip intros on Amazon Prime Video
+* [Etesam913/slick-fox](https://github.com/Etesam913/slick-fox): :fox_face: A firefox config that has rounded tabs and a url bar that can disappear when not selected on. It works with any theme.
+* [RealRaven2000/SmartTemplates](https://github.com/RealRaven2000/SmartTemplates): Thunderbird Add-on: SmartTemplates
+* [yuliskov/SmartTubeNext](https://github.com/yuliskov/SmartTubeNext): SmartTube - an advanced player for set-top boxes and tv running Android OS
+* [zimocode/smartup](https://github.com/zimocode/smartup): A customizable web browser mouse gestures extension with a variety of actions.
+* [smplayer-dev/smplayer](https://github.com/smplayer-dev/smplayer): Free Media Player for Windows, Linux and Mac OS with YouTube support.
+* [Snapcept/Snapcept](https://github.com/Snapcept/Snapcept): None
+* [ToTheMax/Snapchat-All-Memories-Downloader](https://github.com/ToTheMax/Snapchat-All-Memories-Downloader): Script to download all your Snapchat memories
+* [Wozzify/Snapchat-Memory-Downloader](https://github.com/Wozzify/Snapchat-Memory-Downloader): Downloads Snapchat Memories Quickly and Efficiently
 * [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop): A Progressive Web App for local file sharing 
-* [openSUSE/snapper](https://github.com/openSUSE/snapper): Manage filesystem snapshots and allow undo of system modifications
-* [txthinking/socks5](https://github.com/txthinking/socks5): SOCKS Protocol Version 5 Library in Go. Full TCP/UDP and IPv4/IPv6 support
-* [serjs/socks5-server](https://github.com/serjs/socks5-server): None
-* [soduto/Soduto](https://github.com/soduto/Soduto): Soduto is a KDEConnect compatible client for macOS. It allows better integration between your phones, desktops and tablets.
-* [solidjs/solid](https://github.com/solidjs/solid): A declarative, efficient, and flexible JavaScript library for building user interfaces.
+* [hoothin/snapdrop](https://github.com/hoothin/snapdrop): Modify for ipv6 and WAN. 自用改版，兼容 ipv6 与广域网
+* [fm-sys/snapdrop-android](https://github.com/fm-sys/snapdrop-android): Android client for local file sharing via https://snapdrop.net/ and https://pairdrop.net
+* [alextwothousand/snapdrop-desktop](https://github.com/alextwothousand/snapdrop-desktop): A Snapdrop Desktop app written using Electron.
+* [ueen/SnapdropFirefoxAddon](https://github.com/ueen/SnapdropFirefoxAddon): Snapdrop for Firefox (Addon)
+* [pato/snapsaver](https://github.com/pato/snapsaver): android app that saves snapchats
+* [akarlsten/snaz](https://github.com/akarlsten/snaz): VS Code color theme
+* [akarlsten/snazzy-plus](https://github.com/akarlsten/snazzy-plus): VS Code color theme
+* [snthcy/snazzy-vscode](https://github.com/snthcy/snazzy-vscode): A snazzy looking theme for Visual Studio Code.
+* [gocomet/snippets](https://github.com/gocomet/snippets): A collection of code snippets, generally for use with Shopify
+* [JustAnotherArchivist/snscrape](https://github.com/JustAnotherArchivist/snscrape): A social networking service scraper in Python
+* [Nick-Gottschlich/Social-Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia): Forget the past. Social Amnesia makes sure your social media accounts only show your posts from recent history, not from "that phase" 5 years ago.
+* [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer): API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
+* [aaronmeder/social-history](https://github.com/aaronmeder/social-history): A quick look into your history on social media. Drop in the archives you've downloaded from Facebook and Instagram and see some stats about your time on the networks.
+* [pandrey2003/social-media-profiler](https://github.com/pandrey2003/social-media-profiler): Find information from Twitter, Instagram, LinkedIn and Google Search about a person.
+* [lorey/social-media-profiles-regexs](https://github.com/lorey/social-media-profiles-regexs): :card_index: Extract social media profiles and more with regular expressions
+* [jenzz/social-web-search](https://github.com/jenzz/social-web-search): Search the social web... Find people & posts on Twitter, Facebook and Google+.
+* [Greenwolf/social_mapper](https://github.com/Greenwolf/social_mapper): A Social Media Enumeration & Correlation Tool by Jacob Wilkin(Greenwolf)
+* [Ramalingasamy012/SocialRecon](https://github.com/Ramalingasamy012/SocialRecon): This is an Open source intelligence tool and used to gather information about social media and it is also used to find whether the user name found in any of the website.It is used to find GPS location of an image and it also checks whether the email is found or not.
+* [makiisthenes/socialScanner](https://github.com/makiisthenes/socialScanner): Will Search Various Platforms to Confirm An Email Exists.
+* [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr): Smart PVR for newsgroup and bittorrent users.
+* [semvis123/Sonitus](https://github.com/semvis123/Sonitus): Noise-control like native, but for non-Apple devices
 * [SortableJS/Sortable](https://github.com/SortableJS/Sortable): Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
+* [pesc101/SortRobot](https://github.com/pesc101/SortRobot): Python script to sort the mac download dir automatially
 * [mattingalls/Soundflower](https://github.com/mattingalls/Soundflower): MacOS system extension that allows applications to pass audio to other applications. Soundflower works on macOS Catalina.
-* [doocs/source-code-hunter](https://github.com/doocs/source-code-hunter): 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
-* [apple/sourcekit-lsp](https://github.com/apple/sourcekit-lsp): Language Server Protocol implementation for Swift and C-based languages
-* [sourcery-ai/sourcery](https://github.com/sourcery-ai/sourcery): Automatically review and improve your Python code. ⭐ this repo and Sourcery Starbot will send you a PR. Or install our CLI to improve your code locally
-* [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail): Sourcetrail - free and open-source interactive source explorer
-* [christopher-l/space-bar](https://github.com/christopher-l/space-bar): GNOME Shell extension that shows workspaces buttons in top panel
-* [dado3212/spaces-renamer](https://github.com/dado3212/spaces-renamer): 💻 Ability to rename desktop spaces on macOS 10.10+
-* [apache/spark](https://github.com/apache/spark): Apache Spark - A unified analytics engine for large-scale data processing
-* [japila-books/spark-sql-internals](https://github.com/japila-books/spark-sql-internals): The Internals of Spark SQL
-* [spdk/spdk](https://github.com/spdk/spdk): Storage Performance Development Kit
-* [zachleat/speedlify](https://github.com/zachleat/speedlify): Benchmark the web performance and accessibility of sites over time.
-* [jlfwong/speedscope](https://github.com/jlfwong/speedscope): 🔬 A fast, interactive web-based viewer for performance profiles.
-* [lofyer/spice-webdav](https://github.com/lofyer/spice-webdav): Resources that spice-webdav needs.
-* [Masterminds/sprig](https://github.com/Masterminds/sprig): Useful template functions for Go templates.
-* [whoiskatrin/sql-translator](https://github.com/whoiskatrin/sql-translator): SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.
-* [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer): Automated testing to find logic bugs in database systems
-* [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs): Extensible SQL Lexer and Parser for Rust
-* [jmoiron/sqlx](https://github.com/jmoiron/sqlx): general purpose extensions to golang's database/sql
+* [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight): Quick Look extension for highlight source code files on macOS 10.15 and later.
+* [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph): Code AI platform with Code Search & Cody
+* [sowdust/sowdust.github.io](https://github.com/sowdust/sowdust.github.io): Facebook search engine that works after the Graph API has been shut down
+* [soscripted/sox](https://github.com/soscripted/sox): Stack Overflow Extras: a userscript for the Stack Exchange websites to add a bunch of optional toggle-able features
+* [cmacrae/spacebar](https://github.com/cmacrae/spacebar): A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
+* [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt): :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
+* [friedPotat0/Spam-Scores](https://github.com/friedPotat0/Spam-Scores): Thunderbird add-on to display spam scores according to mail headers. Supports spam/ham score headers of Rspamd and SpamAssassin. The add-on adds a column with the overall spam score to the mail list view and shows details of any matched spam/ham rule.
+* [librespeed/speedtest](https://github.com/librespeed/speedtest): Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
+* [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli): Command line interface for testing internet bandwidth using speedtest.net
+* [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli): Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
+* [CharlieS1103/spicetify-extensions](https://github.com/CharlieS1103/spicetify-extensions): extensions for spotify  i'm creating
+* [onaralili/SplitUp](https://github.com/onaralili/SplitUp): ✨ SplitUp! is a browser extension allows a user to split tabs into a different window, save session, export tabs, supports multiple screens, dark mode etc. ✨
+* [yt-dlp/SponSkrub](https://github.com/yt-dlp/SponSkrub): Strip advertisements from downloaded YouTube videos
+* [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock): Skip YouTube video sponsors (browser extension)
+* [Hammerspoon/Spoons](https://github.com/Hammerspoon/Spoons): The official repository of Spoon plugins
+* [yssefunc/sport_analytics](https://github.com/yssefunc/sport_analytics): Sports betting analytics 
+* [georgedouzas/sports-betting](https://github.com/georgedouzas/sports-betting): Collection of sports betting AI tools.
+* [pretrehr/Sports-betting](https://github.com/pretrehr/Sports-betting): Sports betting assistant (with interface) which optimizes earnings regarding odds and offers
+* [ryankrumenacker/sports-betting-arbitrage-project](https://github.com/ryankrumenacker/sports-betting-arbitrage-project): statistical-arbitrage-for-sports-betting
+* [Shymoney/Sports-betting-web-app](https://github.com/Shymoney/Sports-betting-web-app): Bisically this application serve as an Info system and  predicting sports results and placing a wager on the outcome. 
+* [JamesQuintero/Sports-Odds-Algorithms](https://github.com/JamesQuintero/Sports-Odds-Algorithms): System that calculates and uses algorithms to predict the outcome of NBA, NHL, and MLB sports games.
+* [SoslyLW/SportsOdds](https://github.com/SoslyLW/SportsOdds): A Pythagorean win expectation-based Monte Carlo simulator to determine the odds of NHL teams making the playoffs.
+* [w0lfschild/spotifyPlus](https://github.com/w0lfschild/spotifyPlus): 🎵 MacForge plugin to enhance the Spotify Desktop player on macOS
+* [Nuzair46/SpotX-Mac](https://github.com/Nuzair46/SpotX-Mac): Spotify Ad blocker based on SpotX for MacOS
+* [ziacto/spynet-camera](https://github.com/ziacto/spynet-camera): Allows to use your mobile device as an IP camera
 * [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh): Make images smaller using best-in-class codecs, right in the browser.
-* [zfl9/ss-tproxy](https://github.com/zfl9/ss-tproxy): 搭建 SS/SSR/V2Ray/Trojan/Socks5 透明代理的 Shell 脚本
-* [winfsp/sshfs-win](https://github.com/winfsp/sshfs-win): SSHFS For Windows
-* [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui): Stable Diffusion web UI
-* [jbandela/stackless_coroutine](https://github.com/jbandela/stackless_coroutine): Use C++14 generic lambdas to simulate stackless coroutines without macros or type erasure.
-* [star-history/star-history](https://github.com/star-history/star-history): The missing star history graph of GitHub repos - https://star-history.com
-* [biuuu/star-rail-warp-export](https://github.com/biuuu/star-rail-warp-export): Honkai: Star Rail Warp History Exporter
-* [LmeSzinc/StarRailCopilot](https://github.com/LmeSzinc/StarRailCopilot): 崩坏：星穹铁道脚本 | Honkai: Star Rail bot (简体中文/繁體中文/English/Español)
-* [StarRocks/starrocks](https://github.com/StarRocks/starrocks): StarRocks, a Linux Foundation project, is a next-generation sub-second MPP OLAP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics, and ad-hoc queries.
-* [stashed/stash](https://github.com/stashed/stash): 🛅 Backup your Kubernetes Stateful Applications
-* [RangerNJU/Static-Program-Analysis-Book](https://github.com/RangerNJU/Static-Program-Analysis-Book): Getting started with static program analysis. 静态程序分析入门教程。
-* [JonathonReinhart/staticx](https://github.com/JonathonReinhart/staticx): Create static executable from dynamic executable
-* [rakyll/statik](https://github.com/rakyll/statik): Embed files into a Go executable
-* [datawhalechina/statistical-learning-method-solutions-manual](https://github.com/datawhalechina/statistical-learning-method-solutions-manual): 统计学习方法习题解答，在线阅读地址：https://datawhalechina.github.io/statistical-learning-method-solutions-manual
-* [Stellarium/stellarium](https://github.com/Stellarium/stellarium): Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
-* [openstack/stevedore](https://github.com/openstack/stevedore): Manage dynamic plugins for Python applications. Mirror of code maintained at opendev.org.
-* [stitchesjs/stitches](https://github.com/stitchesjs/stitches): [Not Actively Maintained] CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience.
-* [stv0g/stm32cube-gcc](https://github.com/stv0g/stm32cube-gcc): A developement environment for projects based on the STM32Cube firmware.
-* [RikkaApps/StorageRedirect-assets](https://github.com/RikkaApps/StorageRedirect-assets): Assets (rules, apks etc) for Storage Redirect app.
-* [stumpapp/stump](https://github.com/stumpapp/stump): A free and open source comics, manga and digital book server with OPDS support (WIP)
-* [styled-components/styled-components](https://github.com/styled-components/styled-components): Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
-* [jsjoeio/styled-components-vs-emotion](https://github.com/jsjoeio/styled-components-vs-emotion): a short doc comparing the popular CSS-in-JS libraries styled-components and emotion
-* [refi64/stylepak](https://github.com/refi64/stylepak): Automatically install your host GTK+ theme as a Flatpak
-* [tindy2013/subconverter](https://github.com/tindy2013/subconverter): Utility to convert between various subscription format
-* [apollographql/subscriptions-transport-ws](https://github.com/apollographql/subscriptions-transport-ws): :arrows_clockwise: A WebSocket client + server for GraphQL subscriptions
-* [substrait-io/substrait](https://github.com/substrait-io/substrait): A cross platform way to express data transformation, relational algebra, standardized record expression and plans.
-* [lambdalisue/suda.vim](https://github.com/lambdalisue/suda.vim): 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
-* [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie): ⚠️ Browser fingerprinting via favicon!
-* [ochinchina/supervisord](https://github.com/ochinchina/supervisord): a go-lang supervisor implementation
-* [lazyparser/survival-manual-for-interns](https://github.com/lazyparser/survival-manual-for-interns): 给新员工和实习生的生存指南。 Good Luck and Survive!
-* [sveltejs/svelte](https://github.com/sveltejs/svelte): Cybernetically enhanced web apps
-* [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen): swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
-* [domaindrivendev/Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore): Swagger tools for documenting API's built on ASP.NET Core
-* [SwiftLaTeX/SwiftLaTeX](https://github.com/SwiftLaTeX/SwiftLaTeX): SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor 
-* [daniellandau/switcher](https://github.com/daniellandau/switcher): Gnome Shell extension to switch windows quickly by typing
-* [mozilla-services/syncserver](https://github.com/mozilla-services/syncserver): Run-Your-Own Firefox Sync Server
-* [syncthing/syncthing](https://github.com/syncthing/syncthing): Open Source Continuous File Synchronization
-* [Martchus/syncthingtray](https://github.com/Martchus/syncthingtray): Tray application and Dolphin/Plasma integration for Syncthing
-* [canton7/SyncTrayzor](https://github.com/canton7/SyncTrayzor): Windows tray utility / filesystem watcher / launcher for Syncthing
-* [akopytov/sysbench](https://github.com/akopytov/sysbench): Scriptable database and system performance benchmark
-* [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-* [systemd/systemd](https://github.com/systemd/systemd): The systemd System and Service Manager 
-* [mk-fg/systemd-cgroup-nftables-policy-manager](https://github.com/mk-fg/systemd-cgroup-nftables-policy-manager): Tool to add/update nftables cgroupv2 rules for systemd-managed unit cgroups (slices, services, scopes)
-* [getlantern/systray](https://github.com/getlantern/systray): a cross platfrom Go library to place an icon and menu in the notification area
-* [mono/t4](https://github.com/mono/t4): T4 text templating engine
-* [austinjones/tab-rs](https://github.com/austinjones/tab-rs): The intuitive, config-driven terminal multiplexer designed for software & systems engineers
-* [TablePlus/TablePlus](https://github.com/TablePlus/TablePlus):  TablePlus macOS issue tracker
-* [TablePlus/TablePlus-Linux](https://github.com/TablePlus/TablePlus-Linux):  TablePlus Linux issue tracker
-* [codota/tabnine-vscode](https://github.com/codota/tabnine-vscode): Visual Studio Code client for Tabnine. https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode
-* [chezou/tabula-py](https://github.com/chezou/tabula-py): Simple wrapper of tabula-java: extract table from PDF into pandas DataFrame
-* [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi): Free and open source manga reader for Android.
-* [preservim/tagbar](https://github.com/preservim/tagbar): Vim plugin that displays tags in a window, ordered by scope
-* [taichi-framework/TaiChi](https://github.com/taichi-framework/TaiChi): A framework to use Xposed module with or without Root/Unlock bootloader, supportting Android 5.0 ~ 11.
-* [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss): A utility-first CSS framework for rapid UI development.
-* [phodal/tangping](https://github.com/phodal/tangping): 躺平即正义。Nothing is true, everything is permitted
-* [NervJS/taro](https://github.com/NervJS/taro): 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
-* [KhaosT/tb3-enabler](https://github.com/KhaosT/tb3-enabler): Enable Thunderbolt 3 for unsupported peripherals on macOS
-* [ClangBuiltLinux/tc-build](https://github.com/ClangBuiltLinux/tc-build): A set of scripts to build LLVM and binutils
-* [google/tcmalloc](https://github.com/google/tcmalloc): None
-* [noctuid/tdrop](https://github.com/noctuid/tdrop): A Glorified WM-Independent Dropdown Creator
-* [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook): 💯 Curated coding interview preparation materials for busy software engineers
-* [vinceliuice/Tela-icon-theme](https://github.com/vinceliuice/Tela-icon-theme): A flat colorful Design icon theme
-* [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence): Local development against a remote Kubernetes or OpenShift cluster
-* [Dotnet-Boxed/Templates](https://github.com/Dotnet-Boxed/Templates): .NET project templates with batteries included, providing the minimum amount of code required to get you going faster.
-* [tensorbase/tensorbase](https://github.com/tensorbase/tensorbase): TensorBase is a new big data warehousing with modern efforts.
-* [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples): TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
-* [nsf/termbox-go](https://github.com/nsf/termbox-go): Pure Go termbox implementation
-* [Gioni06/terminal.css](https://github.com/Gioni06/terminal.css): Modern and minimalistic CSS framework for terminal enthusiasts
-* [faressoft/terminalizer](https://github.com/faressoft/terminalizer): 🦄 Record your terminal and generate animated gif images or share a web player
-* [thestinger/termite](https://github.com/thestinger/termite): Termite is obsoleted by Alacritty. Termite was a keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.
-* [gizak/termui](https://github.com/gizak/termui): Golang terminal dashboard
-* [SDRausty/termux-archlinux](https://github.com/SDRausty/termux-archlinux): You can use setupTermuxArch.bash 📲 to install Arch Linux in Termux on Amazon, Android, Chromebook and Windows.  https://sdrausty.github.io/termux-archlinux/
-* [termux/termux-services](https://github.com/termux/termux-services): Scripts to handle services in termux.
-* [SDRausty/TermuxArch](https://github.com/SDRausty/TermuxArch): You can use setupTermuxArch.bash 📲 to install Arch Linux in Amazon, Android, Chromebook and Windows.  https://sdrausty.github.io/TermuxArch/docs/install
-* [TermuxArch/TermuxArch](https://github.com/TermuxArch/TermuxArch): Experience the pleasure of the Linux command prompt in Android, Chromebook, Fire OS and Windows on smartphone, smartTV, tablet and wearable https://termuxarch.github.io/TermuxArch/
-* [terser/terser](https://github.com/terser/terser): 🗜 JavaScript parser, mangler and compressor toolkit for ES6+
+* [rchern/StackExchangeScripts](https://github.com/rchern/StackExchangeScripts): A collection of user scripts for StackExchange sites 
+* [abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed): 📋 Creating your own Awesome List of GitHub stars! 
+* [sagars007/starry-fox](https://github.com/sagars007/starry-fox): Firefox css stylesheets for the dark space theme. Matching more UI elements with the theme.
+* [Thomashighbaugh/stars](https://github.com/Thomashighbaugh/stars): A curated list of my GitHub stars!
+* [ccat3z/stars](https://github.com/ccat3z/stars): A simple tool for creating your own awesome list
+* [maizzle/starter-gradients](https://github.com/maizzle/starter-gradients): Use CSS background gradients in HTML emails, with VML fallback for Outlook.
+* [maizzle/starter-markdown](https://github.com/maizzle/starter-markdown): Generate HTML emails from Markdown files
+* [actions/starter-workflows](https://github.com/actions/starter-workflows): Accelerating new GitHub Actions workflows 
+* [darekkay/static-marks](https://github.com/darekkay/static-marks): Shareable bookmarks
+* [ksclarke/static-marks-action](https://github.com/ksclarke/static-marks-action): A GitHub Action wrapper for the static-marks project
+* [darekkay/static-marks-app](https://github.com/darekkay/static-marks-app): Frontend part of the Static Marks project
+* [gaerfield/static-marks-docker](https://github.com/gaerfield/static-marks-docker): Containerized static-marks to convert plain yaml bookmark files into a static web app.
+* [shredthaGNAR/static-marks-docker](https://github.com/shredthaGNAR/static-marks-docker): Containerized static-marks to convert plain yaml bookmark files into a static web app.
+* [gaerfield/static-marks-github-pages](https://github.com/gaerfield/static-marks-github-pages): static-marks automatically deployed to github-pages
+* [aerobless/static-marks-raycast](https://github.com/aerobless/static-marks-raycast): None
+* [vipintom/stealthFox](https://github.com/vipintom/stealthFox): Clean and minimal set of changes to get Vertical Tabs in Firefox
+* [Shopify/storefront-api-feedback](https://github.com/Shopify/storefront-api-feedback): The home of discussions and feedback surrounding the evolution of Shopify's Storefront API.
+* [streamlink/streamlink](https://github.com/streamlink/streamlink): Streamlink is a CLI utility which pipes video streams from various services into a video player
+* [openstyles/stylus](https://github.com/openstyles/stylus): Stylus - Userstyles Manager
+* [jonschlinkert/sublime-monokai-extended](https://github.com/jonschlinkert/sublime-monokai-extended): Extends Monokai from Soda with additional syntax highlighting for Markdown, LESS, HTML, Handlebars and more.
+* [artginzburg/sudo-touchid](https://github.com/artginzburg/sudo-touchid):  Permanent TouchID support 👆 for `sudo`.
+* [Suffuse-Team/suffuse-team.github.io](https://github.com/Suffuse-Team/suffuse-team.github.io): Website for Suffuse
+* [universalbyte/Superfox](https://github.com/universalbyte/Superfox): Silence Firefox from contacting MOZILLA , GOOGLE and other Servers. 700+ privacy features !
+* [FarisHijazi/SuperGoogleImages](https://github.com/FarisHijazi/SuperGoogleImages): Userscript to Super-charge Google images with rich features, like: download all full-resolution images, replace thumbnails with full-res images, add "view image" and "download" buttons and much more
+* [erosman/support](https://github.com/erosman/support): Support Location for all my extensions
+* [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys): Map your keys for web surfing, expand your browser with javascript and keyboard.
+* [jekyllt/sustain](https://github.com/jekyllt/sustain): 🎹 Personal blog powered by Jekyll
+* [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler): Open source browser extension that makes designing and developing easier by finding, processing, exporting, optimizing, and managing SVG content.
+* [leungwensen/svg-icon](https://github.com/leungwensen/svg-icon): An ultimate SVG icons collection DONE RIGHT, with over 10,000 SVG icons out of the box.
+* [net00-1/SW-DLT](https://github.com/net00-1/SW-DLT): SW-DLT: a front end iOS Shortcut for yt-dlp & gallery-dl. Repository for code, feature requests and bug reports.
+* [iShopifyExpert/swatches-color-settings-section](https://github.com/iShopifyExpert/swatches-color-settings-section): None
+* [shredthaGNAR/SWBH-Impulse](https://github.com/shredthaGNAR/SWBH-Impulse): SWBH Theme Export Impluse Theme
+* [PROxZIMA/sweet-dracula](https://github.com/PROxZIMA/sweet-dracula): Sweet Dracula — A beautiful, darker - Dracula fork.
+* [PROxZIMA/Sweet-Pop](https://github.com/PROxZIMA/Sweet-Pop): Sweet_Pop! Beautify, Customize Firefox. Minimalist animated oneliner theme for Firefox perfectly matching Sweet Dark.
+* [LEFD/sweetdracula-monokai](https://github.com/LEFD/sweetdracula-monokai): 🎨 Sweet Dracula + Monokai syntax highlighting for VS Code
+* [jslpc/Swift-DL](https://github.com/jslpc/Swift-DL): A macOS GUI client for yt-dlp written in Swift
+* [CanisLupus/swift-selection-search](https://github.com/CanisLupus/swift-selection-search): Swift Selection Search (SSS) is a simple Firefox add-on that lets you quickly search for some text in a page using your favorite search engines.
+* [swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar): Powerful macOS menu bar customization tool
+* [swiftyapp/swifty](https://github.com/swiftyapp/swifty): 🔑   Free Offline-first Password Manager 
+* [anuejn/swipe-back](https://github.com/anuejn/swipe-back): A web extension that allows you to jump back/forward in the browser's history by swiping horizontally with two fingers on your touchpad. Mimics the default behaviour on Mac Os.
+* [totu/Swipe2Nav](https://github.com/totu/Swipe2Nav): Firefox Add-on to enable two-finger left and right gestures to navigate browser history
+* [numist/Switch](https://github.com/numist/Switch): A window-based context switcher for the Mac
+* [deweller/switchaudio-osx](https://github.com/deweller/switchaudio-osx): Change the audio source for Mac OS X from the command line.
+* [calzoneman/sync](https://github.com/calzoneman/sync): Node.JS Server and JavaScript/HTML Client for synchronizing online media
+* [JasonkayZK/sync-onetab](https://github.com/JasonkayZK/sync-onetab): A tool to sync data in onetab plugin.
+* [FreeWebber/SyncedJSONtoOnetab](https://github.com/FreeWebber/SyncedJSONtoOnetab): Firefox Synced JSON of tabs to Onetab format
+* [syphon-org/syphon](https://github.com/syphon-org/syphon): ⚗️  a privacy centric matrix client 
+* [RoadToDream/SzContext](https://github.com/RoadToDream/SzContext): Add context menu to macOS Finder 
+* [janraasch/tab-ahead](https://github.com/janraasch/tab-ahead): Web Browser Extension that helps you to quickly find open tabs by title and URL.
+* [117649/Tab-Groups](https://github.com/117649/Tab-Groups): Reimplementation of Firefox Tab Groups as an add-on.
+* [cdzombak/tab-lists-ext](https://github.com/cdzombak/tab-lists-ext): Send a tab list from the current window to the Things to-do app or to the clipboard.
+* [xatier/tab-manager](https://github.com/xatier/tab-manager): Simple OneTab replacement
+* [stefanXO/Tab-Manager-Plus](https://github.com/stefanXO/Tab-Manager-Plus): An updated and improved Chrome and Firefox extension of the old google chrome extension "Tab Manager". 
+* [xcv58/Tab-Manager-v2](https://github.com/xcv58/Tab-Manager-v2): Quickly and conveniently manage your open tabs https://tab-manager.vercel.app
+* [easonwong-de/Tab-Preview-On-Hover](https://github.com/easonwong-de/Tab-Preview-On-Hover): Adds on-hover tab preview to Firefox (requires CSS theme).
+* [sienori/Tab-Session-Manager](https://github.com/sienori/Tab-Session-Manager): WebExtensions for restoring and saving window / tab states
+* [josh-berry/tab-stash](https://github.com/josh-berry/tab-stash): Firefox extension to save and restore tabs as bookmarks
+* [MonterraByte/tab_move](https://github.com/MonterraByte/tab_move): Firefox addon that lets you move a tab to the start or the end of the tab bar
+* [menhera-org/TabArray](https://github.com/menhera-org/TabArray): Chrome-like tab groups using private and isolated containers: The ultimate tab manager and groups for Firefox.
+* [Bill13579/tabby](https://github.com/Bill13579/tabby): A web extension for managing great amounts of windows and tabs at ease.
+* [tabler/tabler-icons](https://github.com/tabler/tabler-icons): A set of over 4700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+* [jakob/TableTool](https://github.com/jakob/TableTool): A simple CSV editor for the Mac
+* [lbragile/TabMerger](https://github.com/lbragile/TabMerger): TabMerger is a cross-browser extension that stores your tabs in a single place to save memory usage and increase your productivity.
+* [onemen/TabMixPlus](https://github.com/onemen/TabMixPlus): New Tab mix plus for modern Firefox
+* [DanielDe/TabRearranger](https://github.com/DanielDe/TabRearranger): Chrome extension to rearrange tabs and move them between windows using keyboard shortcuts
+* [tim-we/tabs-aside](https://github.com/tim-we/tabs-aside): A session/tab manager web extension for Firefox based on the Microsoft Edge feature.
+* [ClementGre/Tabs-Groups-Manager](https://github.com/ClementGre/Tabs-Groups-Manager): Firefox Add-ons to sync tabs between browsers and to manage tabs with custom tabs groups
+* [jingyu9575/tabs-to-bookmark-groups](https://github.com/jingyu9575/tabs-to-bookmark-groups): (Work in progress) Firefox extension to save the tabs to a bookmark group and switch between different groups.
+* [deniszanin/tabs2text](https://github.com/deniszanin/tabs2text): Tabs2Text is a Firefox extension to export all your opened tabs to a text file.
+* [Reeywhaar/tabsaver](https://github.com/Reeywhaar/tabsaver): WebExtension to manage tabs
+* [xtract64/tabsaver](https://github.com/xtract64/tabsaver): Allows you to easily save all of your tabs for later use, reducing clutter
+* [jdberry/tag](https://github.com/jdberry/tag): A command line tool to manipulate tags on Mac OS X files, and to query for files with those tags.
+* [derickfay/tag-services](https://github.com/derickfay/tag-services): Automator workflows to add tagging services to Mavericks
+* [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog): This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.
+* [Tampermonkey/tamperdav](https://github.com/Tampermonkey/tamperdav): A WebDAV-like server to sync Tampermonkey scripts and edit them with an external editor
+* [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey): Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox. 
+* [axcore/tartube](https://github.com/axcore/tartube): A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
+* [tasks/tasks](https://github.com/tasks/tasks): Bringing Astrid Tasks back from the dead
+* [tauri-apps/tauri](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop applications with a web frontend.
+* [thundernest/tb-web-ext-experiments](https://github.com/thundernest/tb-web-ext-experiments): WebExtension Experiments for Thunderbird
+* [PrsPrsBK/tbext-manifest-schema](https://github.com/PrsPrsBK/tbext-manifest-schema): None
+* [wshanks/tbkeys](https://github.com/wshanks/tbkeys): Custom keybindings for Thunderbird
+* [jobisoft/TbSync](https://github.com/jobisoft/TbSync): [Thunderbird Add-On] Central user interface to manage cloud accounts and to synchronize their contact, task and calendar information with Thunderbird
+* [eikendev/tbunread](https://github.com/eikendev/tbunread): Helps you to keep an eye on unread emails in Thunderbird 📬:fire:
+* [edo0/Technetium](https://github.com/edo0/Technetium): A focused approach to taming the new Firefox's Proton design
+* [stoically/temporary-containers](https://github.com/stoically/temporary-containers): Firefox Add-on that lets you open automatically managed disposable containers
+* [mgunyho/tere](https://github.com/mgunyho/tere): Terminal file explorer
+* [0nn0/terminal-mac-cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet): List of my most used commands and shortcuts in the terminal for Mac
+* [sindresorhus/terminal-snazzy](https://github.com/sindresorhus/terminal-snazzy): Elegant Terminal theme with bright colors
+* [tesseract-ocr/tessdata_best](https://github.com/tesseract-ocr/tessdata_best): Best (most accurate) trained LSTM models.
+* [tesseract-ocr/tessdoc](https://github.com/tesseract-ocr/tessdoc): Tesseract documentation
 * [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract): Tesseract Open Source OCR Engine (main repository)
-* [stretchr/testify](https://github.com/stretchr/testify): A toolkit with common assertions and mocks that plays nicely with the standard library
-* [asatarin/testing-distributed-systems](https://github.com/asatarin/testing-distributed-systems): Curated list of resources on testing distributed systems
-* [jdah/tetris-os](https://github.com/jdah/tetris-os): An operating system, but it only plays Tetris.
-* [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror): 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞👆🌟
-* [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line): Master the command line, in one page
-* [lkimuk/the-book-of-modern-cpp](https://github.com/lkimuk/the-book-of-modern-cpp): The Book of Modern C++
-* [unknwon/the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN): 《The Way to Go》中文译本，中文正式名《Go 入门指南》
-* [themix-project/themix-gui](https://github.com/themix-project/themix-gui): Graphical application for generating different color variations of Oomox (Numix-based) and Materia (ex-Flat-Plat) themes (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Papirus and Suru++ icon themes. Have a hack for HiDPI in gtk2. Its Base16 plugin also allowing a lot of app themes support like Alacritty, Emacs, GTK4, KDE, VIM and many more.
-* [RealPeha/This-Repo-Has-1753-Stars](https://github.com/RealPeha/This-Repo-Has-1753-Stars): Yes, it's true :purple_heart: [temporarily not working]
-* [ForbesLindesay/throat](https://github.com/ForbesLindesay/throat): Throttle a collection of promise returning functions
-* [rgov/Thunderbolt3Unblocker](https://github.com/rgov/Thunderbolt3Unblocker): Enable unsupported Thunderbolt 3 peripherals on macOS
-* [pingcap/tidb](https://github.com/pingcap/tidb): TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
-* [DigitalChinaOpenSource/TiDB-for-PostgreSQL](https://github.com/DigitalChinaOpenSource/TiDB-for-PostgreSQL): PgSQL compatible on distributed database TiDB
-* [IlanCosman/tide](https://github.com/IlanCosman/tide): 🌊 The ultimate Fish prompt.
-* [tidb-incubator/tidis](https://github.com/tidb-incubator/tidis): A distributed transactional large-scale NoSQL database powered by TiKV
-* [tikv/tikv](https://github.com/tikv/tikv): Distributed transactional key-value database, originally created to complement TiDB
-* [Leleat/Tiling-Assistant](https://github.com/Leleat/Tiling-Assistant): An extension which adds a Windows-like snap assist to GNOME. It also expands GNOME's 2 column tiling layout.
-* [tilt-dev/tilt](https://github.com/tilt-dev/tilt): Define your dev environment as code. For microservice apps on Kubernetes.
-* [teejee2008/timeshift](https://github.com/teejee2008/timeshift): System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.
-* [tinajs/tina](https://github.com/tinajs/tina): :dancer: 一款轻巧的渐进式微信小程序框架
-* [gsliepen/tinc](https://github.com/gsliepen/tinc): a VPN daemon
-* [pacien/tincapp](https://github.com/pacien/tincapp): Android binding and user interface for the tinc mesh VPN daemon.
-* [krallin/tini](https://github.com/krallin/tini): A tiny but valid `init` for containers
-* [talent-plan/tinykv](https://github.com/talent-plan/tinykv): A course to build distributed key-value service based on TiKV model
-* [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch): 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
-* [talent-plan/tinysql](https://github.com/talent-plan/tinysql): A course to build the SQL layer of a distributed database.
-* [zouxiaohang/TinySTL](https://github.com/zouxiaohang/TinySTL): TinySTL is a subset of STL(cut some containers and algorithms) and also a superset of STL(add some other containers and algorithms)
-* [qinguoyi/TinyWebServer](https://github.com/qinguoyi/TinyWebServer): :fire: Linux下C++轻量级WebServer服务器
-* [conanhujinming/tips_for_interview](https://github.com/conanhujinming/tips_for_interview): 我的一些面试心得；自学CS历程分享；找工作求职经验分享
-* [jbezos/titlesec](https://github.com/jbezos/titlesec): Bundle for titles in LaTeX (sections, contents and page styles)
-* [tldr-pages/tldr](https://github.com/tldr-pages/tldr): 📚 Collaborative cheatsheets for console commands
-* [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect): Persists tmux environment across system restarts.
-* [tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible): basic tmux settings everyone can agree on
-* [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer): To Be Top Javaer - Java工程师成神之路
-* [Gruntfuggly/todo-tree](https://github.com/Gruntfuggly/todo-tree): Use ripgrep to find TODO tags and display the results in a tree view
-* [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei): Count your code, quickly.
-* [TylerYep/torchinfo](https://github.com/TylerYep/torchinfo): View model summaries in PyTorch!
-* [danielnixon/total-functions](https://github.com/danielnixon/total-functions): A collection of total functions to replace TypeScript's built-in partial functions.
-* [JoseExposito/touchegg](https://github.com/JoseExposito/touchegg): Linux multi-touch gesture recognizer
-* [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm): Tmux Plugin Manager
-* [tqdm/tqdm](https://github.com/tqdm/tqdm): :zap: A Fast, Extensible Progress Bar for Python and CLI
-* [soruly/trace.moe](https://github.com/soruly/trace.moe): Anime Scene Search by Image
-* [traefik/traefik](https://github.com/traefik/traefik): The Cloud Native Application Proxy
-* [mesosphere/traefik-forward-auth](https://github.com/mesosphere/traefik-forward-auth): None
-* [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth): Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy
-* [elasticdog/transcrypt](https://github.com/elasticdog/transcrypt): transparently encrypt files within a git repository
-* [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh): Easy and fast file sharing from the command-line.
-* [ritz078/transform](https://github.com/ritz078/transform): A polyglot web converter.
-* [huggingface/transformers](https://github.com/huggingface/transformers): 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-* [soimort/translate-shell](https://github.com/soimort/translate-shell): :speech_balloon: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
-* [l0o0/translators_CN](https://github.com/l0o0/translators_CN): Zotero translator中文网页抓取翻译器🎉This is Zotero translators for Chinese Sites(beta), not the official Zotero repo
-* [qrohlf/trianglify](https://github.com/qrohlf/trianglify): Algorithmically generated triangle art
-* [osfans/trime](https://github.com/osfans/trime): 同文安卓輸入法平臺3.x/Android-rime/Rime Input Method Engine for Android
-* [Trow-Registry/trow](https://github.com/Trow-Registry/trow): Container Registry and Image Management for Kubernetes Clusters
-* [gjsify/ts-for-gir](https://github.com/gjsify/ts-for-gir): TypeScript type definition generator for GObject introspection interfaces
-* [kulshekhar/ts-jest](https://github.com/kulshekhar/ts-jest): A Jest transformer with source map support that lets you use Jest to test projects written in TypeScript.
-* [stephenh/ts-proto](https://github.com/stephenh/ts-proto): An idiomatic protobuf generator for TypeScript
-* [fabiandev/ts-runtime](https://github.com/fabiandev/ts-runtime): Runtime Type Checks for TypeScript
-* [millsp/ts-toolbelt](https://github.com/millsp/ts-toolbelt): 👷 TypeScript's largest type utility library
-* [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx): Zero-config CLI for TypeScript package development
-* [tsl0922/ttyd](https://github.com/tsl0922/ttyd): Share your terminal over the web
-* [apognu/tuigreet](https://github.com/apognu/tuigreet): Graphical console greeter for greetd
-* [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks): tun2socks - powered by gVisor TCP/IP stack
-* [tuplex/tuplex](https://github.com/tuplex/tuplex): Tuplex is a parallel big data processing framework that runs data science pipelines written in Python at the speed of compiled code. Tuplex has similar Python APIs to Apache Spark or Dask, but rather than invoking the Python interpreter, Tuplex generates optimized LLVM bytecode for the given pipeline and input data set.
-* [tusdotnet/tusdotnet](https://github.com/tusdotnet/tusdotnet): .NET server implementation of the Tus protocol for resumable file uploads. Read more at https://tus.io
-* [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8): 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
-* [sboli/twmn](https://github.com/sboli/twmn): A notification system for tiling window managers
-* [crate-ci/typos](https://github.com/crate-ci/typos): Source code spell checker
-* [typst/typst](https://github.com/typst/typst): A new markup-based typesetting system that is powerful and easy to learn.
-* [coldfix/udiskie](https://github.com/coldfix/udiskie): Automounter for removable media
-* [wangyu-/udp2raw](https://github.com/wangyu-/udp2raw): A Tunnel which Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment)
-* [wangyu-/udp2raw-multiplatform](https://github.com/wangyu-/udp2raw-multiplatform): multi-platform(cross-platform) version of udp2raw-tunnel, which supports Windows/Mac/BSD natively. Client-Only at the moment.
-* [astroza/udptunnel](https://github.com/astroza/udptunnel): It allows TCP/UDP/ICMP traffic over UDP tunneling. It's useful to avoid Internet restrictions.
-* [taki0112/UGATIT](https://github.com/taki0112/UGATIT): Official Tensorflow implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation (ICLR 2020)
-* [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher): Feature rich application Launcher for Linux
-* [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight): Lightweight, high-performance HTML renderer for game and app developers.
-* [umdjs/umd](https://github.com/umdjs/umd): UMD (Universal Module Definition) patterns for JavaScript modules that work everywhere.
-* [nondanee/UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic): Revive unavailable songs for Netease Cloud Music
-* [unchase/Unchase.Swashbuckle.AspNetCore.Extensions](https://github.com/unchase/Unchase.Swashbuckle.AspNetCore.Extensions): :hammer: A library contains a bunch of extensions (filters) for Swashbuckle.AspNetCore.
-* [mbbill/undotree](https://github.com/mbbill/undotree): The undo history visualizer for VIM
-* [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard): A lightweight virtual keyboard for developers.
-* [hardpixel/unite-shell](https://github.com/hardpixel/unite-shell): Unite is an extension that makes GNOME Shell look like Ubuntu Unity Shell.
-* [imadr/Unity-game-hacking](https://github.com/imadr/Unity-game-hacking): A guide for hacking unity games
-* [CollegesChat/university-information](https://github.com/CollegesChat/university-information): 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
-* [unlock-music/unlock-music](https://github.com/unlock-music/unlock-music): Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
-* [liuxinyu95/unplugged](https://github.com/liuxinyu95/unplugged): Open book about math and programming.
-* [BishopFox/unredacter](https://github.com/BishopFox/unredacter): Never ever ever use pixelation as a redaction technique
-* [upptime/upptime](https://github.com/upptime/upptime): ⬆️ Free uptime monitor and status page powered by GitHub
-* [urql-graphql/urql](https://github.com/urql-graphql/urql): The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
-* [corellium/usbfluxd](https://github.com/corellium/usbfluxd): Redirects the standard usbmuxd socket to allow connections to local and remote usbmuxd instances so remote devices appear connected locally.
-* [cezanne/usbip-win](https://github.com/cezanne/usbip-win): USB/IP for Windows
-* [barbalion/usbip-win-client](https://github.com/barbalion/usbip-win-client): USBIP 2.0 windows client files with service scripts
-* [piotrwitek/utility-types](https://github.com/piotrwitek/utility-types): Collection of utility types, complementing TypeScript built-in mapped types and aliases (think "lodash" for static types).
-* [utmapp/UTM](https://github.com/utmapp/UTM): Virtual machines for iOS and macOS
-* [utterance/utterances](https://github.com/utterance/utterances): :crystal_ball: A lightweight comments widget built on GitHub issues
-* [vlang/v](https://github.com/vlang/v): Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io
-* [guren-cloud/v-request](https://github.com/guren-cloud/v-request): 突破小程序网络请求限制黑科技，让你更自由地请求网站数据
-* [miniflux/v2](https://github.com/miniflux/v2): Minimalist and opinionated feed reader
-* [Magisk-Modules-Repo/v2ray](https://github.com/Magisk-Modules-Repo/v2ray): v2ray core
-* [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core): A platform for building proxies to bypass network restrictions.
-* [2dust/v2rayNG](https://github.com/2dust/v2rayNG): A V2Ray client for Android, support Xray core and v2fly core
-* [yanue/V2rayU](https://github.com/yanue/V2rayU): V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持trojan,vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
-* [v6d-io/v6d](https://github.com/v6d-io/v6d): vineyard (v6d): an in-memory immutable data manager. (Project under CNCF, TAG-Storage)
-* [v8/v8](https://github.com/v8/v8): The official mirror of the V8 Git repository
-* [hashicorp/vagrant](https://github.com/hashicorp/vagrant): Vagrant is a tool for building and distributing development environments.
-* [freesmartphone/vala-dbus-binding-tool](https://github.com/freesmartphone/vala-dbus-binding-tool): Create Vala DBus Interfaces from XML Specifications
-* [vala-lang/vala-language-server](https://github.com/vala-lang/vala-language-server): Code Intelligence for Vala & Genie
-* [vala-lang/vala-lint](https://github.com/vala-lang/vala-lint): Check code-style of Vala code files
-* [youzan/vant-weapp](https://github.com/youzan/vant-weapp): 轻量、可靠的小程序 UI 组件库
-* [mumoshu/variant](https://github.com/mumoshu/variant): Wrap up your bash scripts into a modern CLI today. Graduate to a full-blown golang app tomorrow.
-* [VcDevel/Vc](https://github.com/VcDevel/Vc): SIMD Vector Classes for C++
-* [Tencent/vConsole](https://github.com/Tencent/vConsole): A lightweight, extendable front-end developer tool for mobile web page.
-* [microsoft/vcpkg](https://github.com/microsoft/vcpkg): C++ Library Manager for Windows, Linux, and MacOS
-* [logaretm/vee-validate](https://github.com/logaretm/vee-validate): ✅  Painless Vue forms
-* [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero): Backup and migrate Kubernetes applications and their persistent volumes
-* [facebookincubator/velox](https://github.com/facebookincubator/velox): A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.
-* [ventoy/Ventoy](https://github.com/ventoy/Ventoy): A new bootable USB solution.
-* [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio): 📦🔐 A lightweight Node.js private proxy registry
-* [Alexandre-io/verdaccio-ldap](https://github.com/Alexandre-io/verdaccio-ldap): LDAP auth plugin for verdaccio
-* [vim/vim](https://github.com/vim/vim): The official Vim repository
-* [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap): :clap: Modern performant fuzzy picker for Vim and NeoVim
-* [tpope/vim-eunuch](https://github.com/tpope/vim-eunuch): eunuch.vim: Helpers for UNIX
-* [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter): A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
-* [jamessan/vim-gnupg](https://github.com/jamessan/vim-gnupg): This script implements transparent editing of gpg encrypted files.
-* [pangloss/vim-javascript](https://github.com/pangloss/vim-javascript): Vastly improved Javascript indentation and syntax support in Vim.
-* [heavenshell/vim-jsdoc](https://github.com/heavenshell/vim-jsdoc): Generate JSDoc to your JavaScript code.
-* [ledger/vim-ledger](https://github.com/ledger/vim-ledger): Vim plugin for Ledger
-* [jceb/vim-orgmode](https://github.com/jceb/vim-orgmode): Text outlining and task management for Vim based on Emacs' Org-Mode
-* [junegunn/vim-plug](https://github.com/junegunn/vim-plug): :hibiscus: Minimalist Vim Plugin Manager
-* [mhinz/vim-signify](https://github.com/mhinz/vim-signify): :heavy_plus_sign: Show a diff using Vim its sign column.
-* [tpope/vim-speeddating](https://github.com/tpope/vim-speeddating): speeddating.vim: use CTRL-A/CTRL-X to increment dates, times, and more
-* [wgwoods/vim-systemd-syntax](https://github.com/wgwoods/vim-systemd-syntax): syntax highlighting and filetype detection for systemd unit files
-* [posva/vim-vue](https://github.com/posva/vim-vue): Syntax Highlight for Vue.js components
-* [spf13/viper](https://github.com/spf13/viper): Go configuration with fangs
-* [virgili0/Virgilio](https://github.com/virgili0/Virgilio): Your new Mentor for Data Science E-Learning.
-* [dianariyanto/virtual-display-linux](https://github.com/dianariyanto/virtual-display-linux): Create virtual display / monitor on linux OS for extended display via teamviewer or vnc server without any real Monitor is Plugged In.
-* [pytorch/vision](https://github.com/pytorch/vision): Datasets, Transforms and Models specific to Computer Vision
-* [vitejs/vite](https://github.com/vitejs/vite): Next generation frontend tooling. It's fast!
-* [vitessio/vitess](https://github.com/vitessio/vitess): Vitess is a database clustering system for horizontal scaling of MySQL.
-* [sharkdp/vivid](https://github.com/sharkdp/vivid): A themeable LS_COLORS generator with a rich filetype datebase
-* [vldbss-2021/vldb-2021-labs](https://github.com/vldbss-2021/vldb-2021-labs): Labs on distributed transaction
-* [vnotex/vnote](https://github.com/vnotex/vnote): A pleasant note-taking platform.
+* [scott0123/Tesseract-macOS](https://github.com/scott0123/Tesseract-macOS): Objective C wrapper for the open source OCR Engine Tesseract (macOS)
+* [ncyhere/test-shopify-bloomandgrow](https://github.com/ncyhere/test-shopify-bloomandgrow): A Gatsby starter using the latest Shopify plugin showcasing a store with product overview, individual product pages, and a cart
+* [bupticybee/TexasSolver](https://github.com/bupticybee/TexasSolver): 🚀 A very efficient Texas Holdem GTO solver :spades::hearts::clubs::diamonds:
+* [piroor/textlink](https://github.com/piroor/textlink): Text Link, Allows URI texts written in webpages to be loaded by double clicks.
+* [beowulf518/textnow-automation](https://github.com/beowulf518/textnow-automation): creating textnow account with temp email
+* [balvin-perrie/the-pirate-bay-torrent-search](https://github.com/balvin-perrie/the-pirate-bay-torrent-search): A browser extension to search for magnet links from The Pirate Bay directly from a popup toolbar
+* [MorganJay/TheBox](https://github.com/MorganJay/TheBox): A responsive, asymmetrical design with HTML & CSS - Firefox!
+* [TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection): The ultimate collection of scripts for YouTube-DL.
+* [drsjb80/thematic](https://github.com/drsjb80/thematic): Now the official repo for the FF/TB Thematic extension.
+* [saadeghi/theme-change](https://github.com/saadeghi/theme-change): Change CSS theme with toggle, buttons or select using CSS custom properties and localStorage
+* [Shopify/theme-check](https://github.com/Shopify/theme-check): The Ultimate Shopify Theme Linter
+* [microsoft/theme-converter-for-vs](https://github.com/microsoft/theme-converter-for-vs): CLI tool that allows you to convert your VS Code color theme to a VS 2022 color theme.
+* [Godiesc/ThemeFixFox](https://github.com/Godiesc/ThemeFixFox): Correcciones generales del navegador Firefox
+* [Shopify/themekit](https://github.com/Shopify/themekit): Shopify theme development command line tool.
+* [baileylatimer/ThemeKit](https://github.com/baileylatimer/ThemeKit): Built for GoSun (gosun.co). Made with ♥ by Latimer Design.
+* [bravetheskies/themekit-download-action](https://github.com/bravetheskies/themekit-download-action): A GitHub action that pulls changes from Shopify Theme Kit themes.
+* [brohlson/themekit-webpack-tailwind](https://github.com/brohlson/themekit-webpack-tailwind): Shopify Themekit with Webpack & Tailwind CSS 
+* [themerdev/themer](https://github.com/themerdev/themer): 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
+* [kerichdev/themes-for-ytmdesktop-player](https://github.com/kerichdev/themes-for-ytmdesktop-player): Youtube Music CSS themes to apply with any injector.
+* [knyar/theoldreader-chrome](https://github.com/knyar/theoldreader-chrome): Chrome extension for The Old Reader
+* [devmount/third-stats](https://github.com/devmount/third-stats): Thunderbird add-on turning your emails into beautifully visualized email account stats
+* [rly0nheart/thorndyke](https://github.com/rly0nheart/thorndyke): Lightweight username enumeration tool that checks the availability of a specified username on over 200 websites.
+* [mrdoob/three.js](https://github.com/mrdoob/three.js): JavaScript 3D Library.
+* [catppuccin/thunderbird](https://github.com/catppuccin/thunderbird): 🕊️ Soothing pastel theme for Thunderbird
+* [dracula/thunderbird](https://github.com/dracula/thunderbird): 🧛🏻‍♂️ Dark theme for Thunderbird
+* [justreportit/thunderbird](https://github.com/justreportit/thunderbird): Thunderbird plugin.
+* [metux/thunderbird](https://github.com/metux/thunderbird): None
+* [seven-io/thunderbird](https://github.com/seven-io/thunderbird): Send SMS from within Thunderbird
+* [metux/thunderbird-2](https://github.com/metux/thunderbird-2): thunderbird 2nd try ... v68.0
+* [kgraefe/thunderbird-autotag](https://github.com/kgraefe/thunderbird-autotag): Copy keywords from thread parent in Thunderbird
+* [ChooChooAl/Thunderbird-Chrome](https://github.com/ChooChooAl/Thunderbird-Chrome): Mozilla Thunderbird Email Client Chrome Folder used for theming the UI.
+* [thunderbird-conversations/thunderbird-conversations](https://github.com/thunderbird-conversations/thunderbird-conversations): An extension for Thunderbird that allows you to view threads as "real" conversations, including your own emails. This extension also adds a bunch of useful UI features in the conversation view.
+* [joax/thunderbird-dark-theme](https://github.com/joax/thunderbird-dark-theme): Dark theme based on Monterail for Thunderbird 78
+* [Era-Dorta/Thunderbird-Google-Keep-Tab](https://github.com/Era-Dorta/Thunderbird-Google-Keep-Tab): Google Keep for Thunderbird
+* [mendel5/thunderbird-how-to](https://github.com/mendel5/thunderbird-how-to): How to configure Mozilla Thunderbird
+* [PascaleBeier/thunderbird-ispdb](https://github.com/PascaleBeier/thunderbird-ispdb): Auto-generated ISPDB distribution from Thunderbird for PHP Applications.
+* [marph91/thunderbird-joplin-export](https://github.com/marph91/thunderbird-joplin-export): Easily export your Thunderbird emails to Joplin.
+* [BDeliers/thunderbird-monterail](https://github.com/BDeliers/thunderbird-monterail): A light and red theme for Thunderbird
+* [ixnewton/thunderbird-monterail](https://github.com/ixnewton/thunderbird-monterail): A set of themes for thunderbird inspired by a Monterail blog post
+* [spymastermatt/thunderbird-monterail](https://github.com/spymastermatt/thunderbird-monterail): A set of themes for thunderbird inspired by a Monterail blog post
+* [Betterbird/thunderbird-patches](https://github.com/Betterbird/thunderbird-patches): Betterbird is a fork of Mozilla Thunderbird. Here are the patches that provide all the goodness.
+* [kaipee/thunderbird-theme-arc](https://github.com/kaipee/thunderbird-theme-arc): Arc inspired theme for Thunderbird
+* [PapirusDevelopmentTeam/thunderbird-theme-papirus](https://github.com/PapirusDevelopmentTeam/thunderbird-theme-papirus): Papirus icons for Thunderbird
+* [HorlogeSkynet/thunderbird-user.js](https://github.com/HorlogeSkynet/thunderbird-user.js): Thunderbird privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening 
+* [PierreLebedel/ThunderbirdLargerMessageList](https://github.com/PierreLebedel/ThunderbirdLargerMessageList): Thunderbird extension that enlarges the display of the message list, and the folder tree view too
+* [eromatiya/thunderblurred](https://github.com/eromatiya/thunderblurred): A theme for Thunderbird
+* [cleidigh/ThunderKdB](https://github.com/cleidigh/ThunderKdB): Thunderbird Addon Code Knowledge Base
+* [networkException/thundersort](https://github.com/networkException/thundersort): Sort incoming mails based on recipient slug
+* [cleidigh/ThunderStorm](https://github.com/cleidigh/ThunderStorm): Tips, Tricks & Examples for Thunderbird E-mail New Add-On Development
+* [snchong/thunderthings](https://github.com/snchong/thunderthings): Integration between Thunderbird and Cultured Code's Things on macOS
+* [tiged/tiged](https://github.com/tiged/tiged): Community driven fork of degit
+* [chzesa/tiled-tab-groups](https://github.com/chzesa/tiled-tab-groups): None
+* [skhzhang/time-based-themes](https://github.com/skhzhang/time-based-themes): Automatically change Firefox's theme based on the time
+* [visini/timebox](https://github.com/visini/timebox): A Custom Pomodoro macOS Menubar App with Things 3 integration
+* [d6o/TinderOnline](https://github.com/d6o/TinderOnline): Find out which of your friends are online on Tinder
+* [OlegPoljakov/TinderPeopleFinder_Yandex_Images](https://github.com/OlegPoljakov/TinderPeopleFinder_Yandex_Images): This program helps to find people from tinder in some other social medias. It takes the screenshot of tinder profile, cuts the image and search it in Yandex Image. All you need to do is to choose the pictures and push few buttons.
+* [pqrs-org/Tinkle](https://github.com/pqrs-org/Tinkle): None
+* [vitorgalvao/tiny-scripts](https://github.com/vitorgalvao/tiny-scripts): Collection of small scripts
+* [code-charity/ToDo](https://github.com/code-charity/ToDo): ToDo - Chrome Extension. Make checklists and more.
+* [rkokkelk/todo.txt-ext](https://github.com/rkokkelk/todo.txt-ext): Thunderbird extension for the Todo.txt application.
+* [mjdescy/TodoTxtMac](https://github.com/mjdescy/TodoTxtMac): TodoTxtMac is a minimalist, keyboard-driven to-do manager for Mac OS X (10.8 Mountain Lion and higher) that conforms to the todo.txt format spec.
+* [Calvin-LL/toggleairport](https://github.com/Calvin-LL/toggleairport): A script for macOS to turn off WiFi when Ethernet is plugged in, and turn on WiFi when Ethernet is unplugged
+* [tangledhelix/toggleAirport](https://github.com/tangledhelix/toggleAirport): Toggle Airport power based on presence of wired ethernet
+* [RealRaven2000/ToneQuilla](https://github.com/RealRaven2000/ToneQuilla): ToneQuilla 1.1.1 - Adds a new action to Thunderbird mail filters to allow playing a particular sound when the filter matches. Also includes several sample sound files - original project by R. Kent James
+* [JimmyLaurent/torrent-search-api](https://github.com/JimmyLaurent/torrent-search-api): Yet another node torrent scraper (supports iptorrents, torrentleech, torrent9, torrentz2, 1337x, thepiratebay, Yggtorrent, TorrentProject, Eztv, Yts, LimeTorrents)
+* [sindresorhus/touch-bar-simulator](https://github.com/sindresorhus/touch-bar-simulator): Use the Touch Bar on any Mac
+* [ris58h/Touch-Tab](https://github.com/ris58h/Touch-Tab): Switch apps with trackpad on macOS.
+* [rickkas7/TowerInfo](https://github.com/rickkas7/TowerInfo): Tool to show the location of nearby cellular towers on a mobile device, tablet, or laptop
+* [MrOtherGuy/ToyfoCSS](https://github.com/MrOtherGuy/ToyfoCSS): Guide to introduce basic CSS concepts and progressively advance into Firefox CSS hacking
+* [Nisarg03/Tracing-people-with-Facial-Recognition-using-OCR](https://github.com/Nisarg03/Tracing-people-with-Facial-Recognition-using-OCR): A computer vision project to develop a query based software that seeks string of words as input. It searches through the database using concepts of OCR by employing libraries like Tesseract and OpenCV to find the said string. The program then recognises the faces of individuals on the page, crops them, and arranges them in a strip to display.
+* [RealityRipple/trackpackage](https://github.com/RealityRipple/trackpackage): Fork of Track Package for Pale Moon. 📦️ Track Packages from the right-click menu.
+* [erickok/transdroid-search](https://github.com/erickok/transdroid-search): Cross-app torrent search results provider for Android
+* [menukaonline/transfer-between-drives](https://github.com/menukaonline/transfer-between-drives): This is a Google Colab notebook for transferring files/folders between drives from different Google accounts
+* [byeolbit/translucent](https://github.com/byeolbit/translucent): Translucent plastic card theme.
+* [pjialin/TranslucentFox](https://github.com/pjialin/TranslucentFox): 🤭 Translucent UI for Firefox
+* [jofpin/trape](https://github.com/jofpin/trape): People tracker on the Internet: OSINT analysis and research tool by Jose Pino
+* [piroor/treestyletab](https://github.com/piroor/treestyletab): Tree Style Tab, Show tabs like a tree.
+* [Xinkai/TreeStyleTabCompanion.uc.js](https://github.com/Xinkai/TreeStyleTabCompanion.uc.js): A Firefox userChrome.js for hiding the native tab bar when a sidebar tab manager is active
+* [amebalabs/TRex](https://github.com/amebalabs/TRex): Copy any text on your screen, stop retyping.
+* [trockerapp/trocker](https://github.com/trockerapp/trocker): This chrome/Firefox extension is an email Tracker Blocker, hence the name: Trocker!
+* [opa334/TrollStore](https://github.com/opa334/TrollStore): Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
+* [thehappydinoa/TruePeopleSearch](https://github.com/thehappydinoa/TruePeopleSearch): Gets info from truepeoplesearch.com and adds it to Maltego
+* [syanle/ts-commercials-remover](https://github.com/syanle/ts-commercials-remover): MPEG-TS stream workflow
+* [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist): Your self hosted YouTube media server
+* [meeb/tubesync](https://github.com/meeb/tubesync): Syncs YouTube channels and playlists to a locally hosted media server
+* [Leonetienne/Tubio](https://github.com/Leonetienne/Tubio): The free, open source video downloader! Mirror of https://gitea.leonetienne.de/leonetienne/Tubio
+* [unixorn/tumult.plugin.zsh](https://github.com/unixorn/tumult.plugin.zsh): Tumult is a collection of macOS-specific functions and scripts for your shell environment. It is packaged as a ZSH plugin, but can be used with other shells as well.
+* [humandecoded/twayback](https://github.com/humandecoded/twayback): Automate downloading archived deleted Tweets.
+* [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets): Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
+* [iorate/ublacklist](https://github.com/iorate/ublacklist): Blocks specific sites from appearing in Google search results
+* [gorhill/uBlock](https://github.com/gorhill/uBlock): uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+* [mtxadmin/ublock](https://github.com/mtxadmin/ublock): Filters for uBlock Origin
+* [quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter): Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.
+* [JustOff/ublock0-updater](https://github.com/JustOff/ublock0-updater): Keep uBlock Origin up to date using the latest XUL-compatible release from GitHub
+* [jeremyperkin/uBlockdark](https://github.com/jeremyperkin/uBlockdark): Dark theme for uBlock Origin
+* [LanikSJ/ubo-filters](https://github.com/LanikSJ/ubo-filters): uBlock Origin Filters
+* [uBlock-user/uBO-Personal-Filters](https://github.com/uBlock-user/uBO-Personal-Filters): A personal filterlist of mine with additional filters for uBlock Origin to block third-party, tracking, annoyances, anti-adblock, resource-abuse and all other unwarranted resources from loading.
+* [avotoko/ubo-resource](https://github.com/avotoko/ubo-resource): uBlock Origin Experimental Scriptlets Resource
+* [uBlock-user/uBO-Scriptlets](https://github.com/uBlock-user/uBO-Scriptlets): A custom arsenal of scriptlets to be used for injecting userscripts via uBlock Origin.
+* [aminomancer/uc.css.js](https://github.com/aminomancer/uc.css.js): A dark indigo CSS theme for Firefox and a large collection of privileged scripts to add new buttons, menus, and behaviors and eliminate nuisances. The theme is similar to other userChrome stylesheets, but it's intended for use with an autoconfig loader like fx-autoconfig, since it uses JavaScript to implement its more functional features.
+* [eludadev/ui-buttons](https://github.com/eludadev/ui-buttons): 100 Modern CSS Buttons. Every style that you can imagine.
+* [web-ext-labs/ui-tool](https://github.com/web-ext-labs/ui-tool): UI for create-web-ext
+* [DeweyReed/UltimateRingtonePicker](https://github.com/DeweyReed/UltimateRingtonePicker): An Android music picker library for picking alarm, notification or ringtones sound using an Activity or a dialog.
+* [Swift-open-source/UltraTabSaver](https://github.com/Swift-open-source/UltraTabSaver): The open source Tab Manager Extension for Safari.
+* [gorhill/uMatrix](https://github.com/gorhill/uMatrix): uMatrix: Point and click matrix to filter net requests according to source, destination and type
+* [UncannyOwl/Uncanny-Automator](https://github.com/UncannyOwl/Uncanny-Automator): Uncanny Automator is the easiest and most powerful way to connect your WordPress plugins, sites and apps together with powerful automations. Build automated workflows in minutes with no code!
+* [pwn20wndstuff/Undecimus](https://github.com/pwn20wndstuff/Undecimus): unc0ver jailbreak for iOS 11.0 - 12.4
+* [pwn20wndstuff/Undecimus-Resources](https://github.com/pwn20wndstuff/Undecimus-Resources): None
+* [joshuacant/undo_closed_tabs_menu](https://github.com/joshuacant/undo_closed_tabs_menu): Firefox webextension to add an undo closed tabs menu to tabs.
+* [p1usminus/undoclosetabreplacement](https://github.com/p1usminus/undoclosetabreplacement): Updated for FF78+
+* [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit): The easiest way to use git. On any platform. Anywhere.
+* [LAX18/Unichat-Firefox-Extension](https://github.com/LAX18/Unichat-Firefox-Extension): The repo for the firefox port of the Unichat Chrome Extension
+* [jeffreytram/UniDrive](https://github.com/jeffreytram/UniDrive): 🗄 Access, organize, and manage several Google Drive accounts in one place.
+* [ourresearch/unpaywall-extension](https://github.com/ourresearch/unpaywall-extension): Firefox/Chrome extension that gives you a link to a free PDF when you view scholarly articles
+* [aahung/Unshaky](https://github.com/aahung/Unshaky): A software attempt to address the "double key press" issue on Apple's butterfly keyboard [not actively maintained]
+* [UnstoppableSwap/unstoppableswap-gui](https://github.com/UnstoppableSwap/unstoppableswap-gui): XMR<>BTC Atomic Swaps GUI
+* [blenderskool/untab](https://github.com/blenderskool/untab): 🔍 A productivity tool to boost your browser workflow!
+* [alfredapp/update-automation-tasks-workflow](https://github.com/alfredapp/update-automation-tasks-workflow): Update Automation Tasks During Alfred 5 Early Access
+* [alfredapp/updated-third-party-python2-workflows](https://github.com/alfredapp/updated-third-party-python2-workflows): Third-party Python 2 Workflows updated to work on macOS Monterey 12.3 and above
+* [actions/upload-artifact](https://github.com/actions/upload-artifact): None
+* [MichaelCurrin/url-manager](https://github.com/MichaelCurrin/url-manager): Centralize, view, edit, label and organize collections of your favorite URLs 🔗 📙
+* [moritz-h/urls-list](https://github.com/moritz-h/urls-list): Firefox Add-on to list URLs. Install here: https://addons.mozilla.org/addon/urls-list/
+* [jacklukem/USBOpenCoreAPFSloader](https://github.com/jacklukem/USBOpenCoreAPFSloader): None
+* [TrollSkull/uScanner](https://github.com/TrollSkull/uScanner): uScanner is a tool to find usernames on various pages throughout the entire internet.
+* [gglukmann/use-google-sheets](https://github.com/gglukmann/use-google-sheets): 📝 A React Hook for getting data from Google Sheets API v4
+* [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io): Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
+* [jingyu9575/user-chrome-js](https://github.com/jingyu9575/user-chrome-js): Firefox extension (privileged) to enable userChrome.js support
+* [JYLD/User-CSS-For-Firefox-And-Thunderbird](https://github.com/JYLD/User-CSS-For-Firefox-And-Thunderbird): User CSS Contributions For CustomizeMyBird and Custom CSS For FX
+* [taitems/user-email-enrichment](https://github.com/taitems/user-email-enrichment): A free, open source tool to lookup user identities by email address
+* [arkenfox/user.js](https://github.com/arkenfox/user.js): Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
+* [pyllyukko/user.js](https://github.com/pyllyukko/user.js): user.js -- Firefox configuration hardening
+* [Nomes77/UserChrome](https://github.com/Nomes77/UserChrome): userChrome.css for FireFox and Thunderbird
+* [ago1024/userchrome](https://github.com/ago1024/userchrome): BEcuase F'
+* [annoyatron255/Userchrome](https://github.com/annoyatron255/Userchrome): My Firefox Userchrome Config
+* [p9n/userchrome](https://github.com/p9n/userchrome): userchrome.css/.js for firefox >= 57
+* [Joolee/userchrome-toggle](https://github.com/Joolee/userchrome-toggle): A Firefox extension to allow a user to toggle custom userchrome styles
+* [Timvde/UserChrome-Tweaks](https://github.com/Timvde/UserChrome-Tweaks): A community maintained repository of userChrome.css tweaks for Firefox
+* [benman604/userChrome.css](https://github.com/benman604/userChrome.css): None
+* [entepe85/userChrome.css](https://github.com/entepe85/userChrome.css): Firefox customizations to make Proton bearable (imho, of course)
+* [xarantolus/userchrome.css](https://github.com/xarantolus/userchrome.css): Firefox Proton userChrome.css customizations
+* [Endor8/userChrome.js](https://github.com/Endor8/userChrome.js): Skripte für die Firefox-Erweiterung userChromeJS
+* [Merci-chao/userChrome.js](https://github.com/Merci-chao/userChrome.js): None
+* [alice0775/userChrome.js](https://github.com/alice0775/userChrome.js): None
+* [ardiman/userChrome.js](https://github.com/ardiman/userChrome.js): Skripte für die Firefox-Erweiterung userChromeJS
+* [k08045kk/userChrome.js](https://github.com/k08045kk/userChrome.js): None
+* [tkhquang/userChrome.js](https://github.com/tkhquang/userChrome.js): userChrome.js for Firefox
+* [typeling1578/userChrome.js](https://github.com/typeling1578/userChrome.js): None
+* [dupontjoy/userChrome.js-Collections-](https://github.com/dupontjoy/userChrome.js-Collections-): UC scripts collections, include UC scripts I don't use for now and UC scripts collected from others' sharing. Just for me to find them easily in the future.
+* [tortious/userChrome.js-userChrome.css-Favorites](https://github.com/tortious/userChrome.js-userChrome.css-Favorites): None
+* [feiruo/userChromeJS](https://github.com/feiruo/userChromeJS): Firefox userChromeJS
+* [harv/userChromeJS](https://github.com/harv/userChromeJS): My userChromeJS scripts!
+* [jikamens/userChromeJS](https://github.com/jikamens/userChromeJS): Re-implementation of the userChromeJS add-on for Thunderbird 60+
+* [myfreeer/userChromeJS](https://github.com/myfreeer/userChromeJS): userChrome.js scripts for firefox
+* [zephyrer/userChromeJS](https://github.com/zephyrer/userChromeJS): uc.js, uc.xul collections
+* [RJ-Infinity/UserChromeScriptLoader](https://github.com/RJ-Infinity/UserChromeScriptLoader): None
+* [t0xk/username-generator](https://github.com/t0xk/username-generator): A username generator written in JavaScript
+* [erdidogan/username-scanner](https://github.com/erdidogan/username-scanner): Fast & Accurate Username Scanner (Frontend)
+* [Yuhanawa/UserScript](https://github.com/Yuhanawa/UserScript): 搜索引擎(百度/必应/谷歌)优化美化\快速切换|哔哩哔哩(bilibili)美化\移除评论区关键字搜索蓝字|CSDN 增强\极简化\沉浸式阅读\免登录复制|推特屏蔽过滤器|黄推屏蔽器|我的所有脚本👇
+* [Trinovantes/userscript-youtube-playlist-organizer](https://github.com/Trinovantes/userscript-youtube-playlist-organizer): Drag and drop interface to organize playlists on YouTube
+* [Infocatcher/UserScripts](https://github.com/Infocatcher/UserScripts): UserScripts for Firefox with Greasemonkey extension and (may be) for other browsers with user.js support
+* [Jorengarenar/UserScripts](https://github.com/Jorengarenar/UserScripts): Collection of all my UserScripts
+* [danydodson/userscripts](https://github.com/danydodson/userscripts):  🪚 Collection of UserScripts.
+* [darkred/Userscripts](https://github.com/darkred/Userscripts): My userscripts
+* [jerone/UserScripts](https://github.com/jerone/UserScripts): 🐵 My UserScripts
+* [jwilk/userscripts](https://github.com/jwilk/userscripts): Jakub's custom CSS and JavaScript (for dotPageMod Firefox extension)
+* [n3cr0cr0w/userscripts](https://github.com/n3cr0cr0w/userscripts): User Scripts for bingeing
+* [sagiegurari/userscripts-ads-dom-remover](https://github.com/sagiegurari/userscripts-ads-dom-remover): Removes Ad Containers from DOM (doesn't replace adblocker extension, but blocks dynamic content which the adblocker fails to block by removing whole sections from the HTML DOM.)
+* [krisu5/userstyles](https://github.com/krisu5/userstyles): UserCSS for Stylus (for AniList, DuckDuckGo, Imgur, Twitter & more)
+* [MiRO92/uYou-for-YouTube](https://github.com/MiRO92/uYou-for-YouTube): The best tweak for the YouTube app
+* [qnblackcat/uYouPlus](https://github.com/qnblackcat/uYouPlus): uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
+* [arichorn/uYouPlusExtra](https://github.com/arichorn/uYouPlusExtra): uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
+* [bchiang7/v4](https://github.com/bchiang7/v4): Fourth iteration of my personal website built with Gatsby
+* [Vallek/vallek-firefox-custom-css](https://github.com/Vallek/vallek-firefox-custom-css): Custom Firefox UI styles based on https://github.com/Aris-t2/CustomCSSforFx
+* [TeamVanced/VancedMicroG](https://github.com/TeamVanced/VancedMicroG): MicroG tweaked to work for applications such as Vanced.
+* [inotia00/VancedMicroG](https://github.com/inotia00/VancedMicroG): MicroG tweaked to work for applications such as Vanced.
+* [vegetableman/vandal](https://github.com/vegetableman/vandal): Navigator for Web Archive
+* [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio): vCard is a fully responsive personal portfolio website, responsive for all devices.
+* [aclap-dev/vdhcoapp](https://github.com/aclap-dev/vdhcoapp): Companion application for Video DownloadHelper browser add-on
+* [Vendicated/Vencord](https://github.com/Vendicated/Vencord): The cutest Discord client mod
+* [Pravpro/Vibn-Central](https://github.com/Pravpro/Vibn-Central): An app being built with the goal of making Product Uploading exponentially faster for Shopify stores with one-off products.
+* [Kayno0o/vibrant-glass-theme](https://github.com/Kayno0o/vibrant-glass-theme): I made this theme for myself at first, but some friends found it cool, so I decided to share it here.
+* [catnuke/vibrantfox](https://github.com/catnuke/vibrantfox): a clean firefox userchrome
+* [jtlw99/vicefox](https://github.com/jtlw99/vicefox): ViceFox make your FireFox great and beter!
+* [rubjo/victor-mono](https://github.com/rubjo/victor-mono): A free programming font with cursive italics and ligatures. Donations welcome ❤️
+* [jeanslack/Videomass](https://github.com/jeanslack/Videomass): Videomass is a free, open source and cross-platform GUI for FFmpeg and yt-dlp
+* [fruiz500/VideoSkip-extension](https://github.com/fruiz500/VideoSkip-extension): Same as VideoSkip, but as a Chrome/Firefox/Edge extension so it can edit videos streaming from many sources
+* [ViennaRSS/vienna-rss](https://github.com/ViennaRSS/vienna-rss): Vienna is a free and open-source RSS/Atom newsreader for macOS.
+* [plwt/View-Pocket-List](https://github.com/plwt/View-Pocket-List): None
+* [bijij/ViewImage](https://github.com/bijij/ViewImage): Extension to re-implement the "View Image" and "Search by image" buttons into google images.
+* [FunkyMuse/Vigilante](https://github.com/FunkyMuse/Vigilante): 🛡️ Android security (camera/microphone dots indicators) app using Hilt, Animations, Coroutines, Material, StateFlow, Jetpack (Room, ViewModel, Paging, Security, Biometrics, Start-up) based on MVVM architecture.
+* [Tusko/vimeo-private-downloader](https://github.com/Tusko/vimeo-private-downloader): Script gets you access to download private videos on Vimeo
+* [philc/vimium](https://github.com/philc/vimium): The hacker's browser.
+* [amix/vimrc](https://github.com/amix/vimrc): The ultimate Vim configuration (vimrc)
+* [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey): Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
+* [sanderdebr/visited-places-api](https://github.com/sanderdebr/visited-places-api): Full-stack App - user generated map of visited places. Where have you been to?
+* [nt1m/vivaldi-fox](https://github.com/nt1m/vivaldi-fox): An add-on that aims to add Vivaldi style toolbar colouring to the Firefox UI
+* [muhummadPatel/vLoader](https://github.com/muhummadPatel/vLoader): An extremely simple, no frills, GUI-based video downloader
+* [AdamCaviness/vs-code-theme-monokai-dark-soda](https://github.com/AdamCaviness/vs-code-theme-monokai-dark-soda): A VS Code theme
 * [microsoft/vscode](https://github.com/microsoft/vscode): Visual Studio Code
-* [formulahendry/vscode-code-runner](https://github.com/formulahendry/vscode-code-runner): Code Runner for Visual Studio Code
-* [dotnet/vscode-csharp](https://github.com/dotnet/vscode-csharp): Official C# support for Visual Studio Code
-* [cweijan/vscode-database-client](https://github.com/cweijan/vscode-database-client): Database Client For Visual Studio Code
-* [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode): Solve LeetCode problems in VS Code
+* [alefragnani/vscode-bookmarks](https://github.com/alefragnani/vscode-bookmarks): Bookmarks Extension for Visual Studio Code
+* [slysherz/vscode-comment-box](https://github.com/slysherz/vscode-comment-box): Extension that transforms lines of text into a pretty comment box.
+* [danileao/vscode-css-variables-autocomplete](https://github.com/danileao/vscode-css-variables-autocomplete): None
+* [willofindie/vscode-cssvar](https://github.com/willofindie/vscode-cssvar): VSCode extension to support CSS Variables Intellisense
+* [be5invis/vscode-custom-css](https://github.com/be5invis/vscode-custom-css): Custom CSS Plugin for Visual Studio Code. Based on vscode-icon
+* [idbartosz/vscode-darkpp-italic](https://github.com/idbartosz/vscode-darkpp-italic): Enhanced VScode Dark+ theme with support for Fira Code iScript and Fira Code + Operator Mono fonts.
+* [jianbingfang/vscode-dup-checker](https://github.com/jianbingfang/vscode-dup-checker): vscode extension to check and dedup duplicate lines
+* [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples): Sample code illustrating the VS Code extension API.
+* [kenhowardpdx/vscode-gist](https://github.com/kenhowardpdx/vscode-gist): vscode extension for quick gists
+* [SimonSiefke/vscode-html-missing-features](https://github.com/SimonSiefke/vscode-html-missing-features): None
+* [paulhoughton/vscode-jscpd](https://github.com/paulhoughton/vscode-jscpd): Copy/Paste Detector (jscpd) for Visual Studio Code
+* [panoply/vscode-liquid](https://github.com/panoply/vscode-liquid): 💧Liquid language support for VS Code
+* [killalau/vscode-liquid-snippets](https://github.com/killalau/vscode-liquid-snippets): Shopify Liquid Template Snippets
+* [timdmackey/vscode-mechanic-liquid](https://github.com/timdmackey/vscode-mechanic-liquid): Provides unofficial support for syntax highlighting and code snippets for the Mechanic app on the Shopify platform.
+* [mjmlio/vscode-mjml](https://github.com/mjmlio/vscode-mjml): MJML preview, lint, compile for Visual Studio Code.
+* [vikrantnegi/vscode-personal-preference-setting](https://github.com/vikrantnegi/vscode-personal-preference-setting): Visual Studio Code Personal Preference Settings
 * [kiteco/vscode-plugin](https://github.com/kiteco/vscode-plugin): Kite Autocomplete Plugin for Visual Studio Code
-* [hoovercj/vscode-power-mode](https://github.com/hoovercj/vscode-power-mode): Your code is powerful, unleash it! The extension made popular by Code in the Dark has finally made its way to VS Code.
-* [SaekiRaku/vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart): 一个在你编程时疯狂称赞你的 VSCode 扩展插件 | An VSCode extension that keeps giving you compliment while you are coding, it will checks the keywords of code to play suitable sounds.
-* [thisboyiscrazy/vscode-rsync](https://github.com/thisboyiscrazy/vscode-rsync): rsync extension for visual studio code
-* [Jomik/vscode-search-provider](https://github.com/Jomik/vscode-search-provider): GNOME Search Provider for recent VS Code projects.
-* [augustocdias/vscode-shell-command](https://github.com/augustocdias/vscode-shell-command): A task helper to use system commands as input
-* [mehyaa/vscode-workspace-storage-cleanup](https://github.com/mehyaa/vscode-workspace-storage-cleanup): A cleaner for VSCode workspace storage cache.
-* [websanova/vue-auth](https://github.com/websanova/vue-auth): A simple light-weight authentication library for Vue.js
-* [pikax/vue-composable](https://github.com/pikax/vue-composable): Vue composition-api composable components. i18n, validation, pagination, fetch, etc. +50 different composables
-* [revolist/vue-datagrid](https://github.com/revolist/vue-datagrid): Spreadsheet data grid component. Handles enormous data processing.
-* [PeachScript/vue-infinite-loading](https://github.com/PeachScript/vue-infinite-loading): An infinite scroll plugin for Vue.js.
-* [ElemeFE/vue-infinite-scroll](https://github.com/ElemeFE/vue-infinite-scroll): An infinite scroll directive for vue.js.
-* [paulcollett/vue-masonry-css](https://github.com/paulcollett/vue-masonry-css): Vue.js Masonry layout component powered by CSS, dependancy free
-* [egoist/vue-mugen-scroll](https://github.com/egoist/vue-mugen-scroll): Infinite scroll component for Vue.js 2
-* [posva/vue-promised](https://github.com/posva/vue-promised): 💝 Composable Promises & Promises as components
-* [bhuh12/vue-router-tab](https://github.com/bhuh12/vue-router-tab): Vue.js tab components, based on Vue Router.
-* [eddiemf/vue-scrollactive](https://github.com/eddiemf/vue-scrollactive): Lightweight and simple to use vue component that highlights menu items as you scroll the page, also scrolling to target section when clicked.
-* [rigor789/vue-scrollto](https://github.com/rigor789/vue-scrollto): Adds a directive that listens for click events and scrolls to elements.
-* [vue-styleguidist/vue-styleguidist](https://github.com/vue-styleguidist/vue-styleguidist): Created from react styleguidist for Vue Components with a living style guide
-* [johnsoncodehk/vue-tsc](https://github.com/johnsoncodehk/vue-tsc): vue-tsc --noEmit && vite build
-* [wonderful-panda/vue-tsx-support](https://github.com/wonderful-panda/vue-tsx-support): TSX (JSX for TypeScript) support library for Vue
-* [Tarektouati/vue-use-web](https://github.com/Tarektouati/vue-use-web): 🕸 Web APIs implemented as Vue.js composition functions
-* [f/vue-wait](https://github.com/f/vue-wait): Complex Loader and Progress Management for Vue/Vuex and Nuxt Applications
-* [MopTym/vue-waterfall](https://github.com/MopTym/vue-waterfall): A waterfall layout component for Vue.js
-* [SortableJS/vue.draggable.next](https://github.com/SortableJS/vue.draggable.next): Vue 3 compatible drag-and-drop component based on Sortable.js
-* [David-Desmaisons/Vue.Isotope](https://github.com/David-Desmaisons/Vue.Isotope): :iphone: Vue component for isotope filter & sort magical layouts
-* [vueuse/vueuse](https://github.com/vueuse/vueuse): Collection of essential Vue Composition Utilities for Vue 2 and 3
-* [superwf/vuex-cache](https://github.com/superwf/vuex-cache): cache vuex action when dispatch
-* [championswimmer/vuex-persist](https://github.com/championswimmer/vuex-persist): A Vuex plugin to persist the store. (Fully Typescript enabled)
-* [robinvdvleuten/vuex-persistedstate](https://github.com/robinvdvleuten/vuex-persistedstate): 💾 Persist and rehydrate your Vuex state between page reloads.
-* [grandchef/vuex-persistedstate-migrate](https://github.com/grandchef/vuex-persistedstate-migrate): Library to migrate vuex state using vuex-persistedstate
-* [dukeluo/wai](https://github.com/dukeluo/wai): 一款可以预防颈椎病的新标签页扩展。
-* [DeadSix27/waifu2x-converter-cpp](https://github.com/DeadSix27/waifu2x-converter-cpp): Improved fork of Waifu2X C++ using OpenCL and OpenCV
-* [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI): Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN,  and ACNet.
-* [nihui/waifu2x-ncnn-vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan): waifu2x converter ncnn version, runs fast on intel / amd / nvidia / apple-silicon GPU with vulkan
-* [CoeJoder/waitForKeyElements.js](https://github.com/CoeJoder/waitForKeyElements.js): A utility function for userscripts that detects and handles AJAXed content. 
-* [wal-g/wal-g](https://github.com/wal-g/wal-g): Archival and Restoration for databases in the Cloud
-* [P3TERX/warp.sh](https://github.com/P3TERX/warp.sh): Cloudflare WARP Installer | WARP 一键安装脚本
-* [containrrr/watchtower](https://github.com/containrrr/watchtower): A process for automating Docker container base image updates. 
-* [songgao/water](https://github.com/songgao/water): A simple TUN/TAP library written in native Go.
-* [Alexays/Waybar](https://github.com/Alexays/Waybar): Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
-* [waydroid/waydroid](https://github.com/waydroid/waydroid): Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
-* [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire): A modular and extensible wayland compositor
-* [weaveworks/weave](https://github.com/weaveworks/weave): Simple, resilient multi-host containers networking and more.
-* [lokles/Web-Development-Interview-With-Java](https://github.com/lokles/Web-Development-Interview-With-Java): Java 开发相关技术栈（大中厂）高频面试问题收录。
-* [webpack/webpack](https://github.com/webpack/webpack): A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
-* [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2): The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser. 
-* [greycodee/wechat-backup](https://github.com/greycodee/wechat-backup): 微信聊天记录持久化备份本地硬盘，释放手机存储空间。
-* [ppwwyyxx/wechat-dump](https://github.com/ppwwyyxx/wechat-dump): Cracking encrypted wechat message history from android
-* [msojocs/wechat-web-devtools-linux](https://github.com/msojocs/wechat-web-devtools-linux): 微信开发者工具 纯Linux版 微信小程序
-* [cytle/wechat_web_devtools](https://github.com/cytle/wechat_web_devtools): 微信开发者工具(微信小程序)linux完美支持
-* [wechatpy/wechatpy](https://github.com/wechatpy/wechatpy): WeChat SDK for Python
-* [wechaty/wechaty](https://github.com/wechaty/wechaty): Conversational RPA SDK for Chatbot Makers
-* [ascoders/weekly](https://github.com/ascoders/weekly): 前端精读周刊。帮你理解最前沿、实用的技术。
-* [JeffreySu/WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK): 微信全平台 SDK Senparc.Weixin for C#，支持 .NET Framework 及 .NET Core、.NET 6.0、.NET 7.0。已支持微信公众号、小程序、小游戏、微信支付、企业微信/企业号、开放平台、JSSDK、微信周边等全平台。 WeChat SDK for C#.
-* [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan): 文言文編程語言 A programming language for the ancient Chinese.
-* [wetools/wept](https://github.com/wetools/wept): 微信小程序多端实时运行工具
-* [Tencent/wepy](https://github.com/Tencent/wepy): 小程序组件化开发框架
-* [ochukai/wepy-com-toptip](https://github.com/ochukai/wepy-com-toptip): a toptip component for 小程序~
-* [wepyjs/wepy-weui-demo](https://github.com/wepyjs/wepy-weui-demo): WeUI 在 WePY 中的使用示例，同一份代码可以运行在小程序上和Web上
-* [Tencent/weui-wxss](https://github.com/Tencent/weui-wxss): A UI library by WeChat official design team, includes the most useful widgets/modules.
-* [Neilpang/wgcf-docker](https://github.com/Neilpang/wgcf-docker): CloudFlare warp in docker
-* [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12): Windows 12 网页版，在线体验 点击下面的链接在线体验
-* [quantum5/win2xcur](https://github.com/quantum5/win2xcur): win2xcur is a tool that converts cursors from Windows format (*.cur, *.ani) to Xcursor format. It also contains x2wincur which does the opposite.
-* [Fmstrat/winapps](https://github.com/Fmstrat/winapps): Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
-* [Winetricks/winetricks](https://github.com/Winetricks/winetricks): Winetricks is an easy way to work around problems in Wine
-* [winfsp/winfsp](https://github.com/winfsp/winfsp): Windows File System Proxy - FUSE for Windows
-* [microsoft/winget-cli](https://github.com/microsoft/winget-cli): WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
-* [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs): The Microsoft community Windows Package Manager manifest repository
-* [google/wire](https://github.com/google/wire): Compile-time Dependency Injection for Go
-* [WireGuard/wireguard-android](https://github.com/WireGuard/wireguard-android): Mirror only. Official repository is at https://git.zx2c4.com/wireguard-android
-* [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB): A Microsoft Windows® USB installation media preparer for GNU+Linux
-* [slacka/WoeUSB](https://github.com/slacka/WoeUSB):  WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
-* [0no-co/wonka](https://github.com/0no-co/wonka): 🎩 A tiny but capable push & pull stream library for TypeScript and Flow
-* [k8up-io/wrestic](https://github.com/k8up-io/wrestic): Restic Backup Kubernetes and OpenShift Wrapper - Part of K8up
-* [susers/Writeups](https://github.com/susers/Writeups): 国内各大CTF赛题及writeup整理
-* [wg/wrk](https://github.com/wg/wrk): Modern HTTP benchmarking tool
-* [microsoft/WSL](https://github.com/microsoft/WSL): Issues found on WSL
-* [microsoft/WSL-DistroLauncher](https://github.com/microsoft/WSL-DistroLauncher): Sample/reference launcher app for WSL distro Microsoft Store packages.
-* [mskyaxl/wsl-terminal](https://github.com/mskyaxl/wsl-terminal): Terminal emulator for Windows Subsystem for Linux (WSL)
-* [Rucadi/wsld](https://github.com/Rucadi/wsld): WSLD is a tool for downloading and installing docker images into WSL1 or WSL2 directly. It also supports uploading WSL images into Docker Hub.
-* [yuk7/wsldl](https://github.com/yuk7/wsldl): Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
-* [int128/wslexec](https://github.com/int128/wslexec): A wrapper to run Linux command inside WSL (Windows Subsystem for Linux) from native apps
-* [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython): What the f*ck Python? 😱
-* [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn): wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
-* [tvfe/wxpage](https://github.com/tvfe/wxpage): WXPage 是一个极其轻量的微信小程序开发框架，其中的API蕴含了“极致页面打开速度的思想”，为可维护性与开发效率而设计的功能，框架来自“腾讯视频”小程序的项目沉淀，框架对于小程序工程理念为不依赖额外构建，即引即用。腾讯视频播放器插件 =>
-* [intel/x86-simd-sort](https://github.com/intel/x86-simd-sort): C++ header file library for high performance SIMD based sorting algorithms for primitive datatypes
-* [jelmer/xandikos](https://github.com/jelmer/xandikos): A CalDAV/CardDAV server
-* [matryer/xbar](https://github.com/matryer/xbar): Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
-* [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy): Build Caddy with plugins
-* [svengong/xcubebase](https://github.com/svengong/xcubebase): 基于xposed的frida持久化方案
-* [ritave/xeventbind](https://github.com/ritave/xeventbind): A small utillity that runs your script on X11 events
-* [machyve/xhyve](https://github.com/machyve/xhyve): xhyve, a lightweight OS X virtualization solution
-* [jD91mZM2/xidlehook](https://github.com/jD91mZM2/xidlehook): GitLab: https://gitlab.com/jD91mZM2/xidlehook
-* [duskwuff/Xilinx-ISE-Makefile](https://github.com/duskwuff/Xilinx-ISE-Makefile): An example of how to use the Xilinx ISE toolchain from the command line
-* [jotaen/xit](https://github.com/jotaen/xit): A plain-text file format for todos and check lists
-* [xmake-io/xmake](https://github.com/xmake-io/xmake): 🔥 A cross-platform build utility based on Lua
-* [florentc/xob](https://github.com/florentc/xob): A lightweight overlay volume (or anything) bar for the X Window System.
-* [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp): Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.
-* [botoxparty/XP.css](https://github.com/botoxparty/XP.css): A CSS framework for building faithful recreations of operating system GUIs.
-* [WindySha/Xpatch](https://github.com/WindySha/Xpatch): 免Root实现app加载Xposed插件工具。This is a tool to repackage apk file, then the apk can load any xposed modules installed in the device. It is another way to hook an app without root device.
-* [Xpra-org/xpra](https://github.com/Xpra-org/xpra): Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
-* [theQuert/XPS-9360-macOS](https://github.com/theQuert/XPS-9360-macOS): XPS 13 (9360) with macOS Big Sur
-* [hoanX/xps13-9360-Hackintosh](https://github.com/hoanX/xps13-9360-Hackintosh): macOS on XPS-9360
-* [XTLS/Xray-core](https://github.com/XTLS/Xray-core): Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
-* [google/xsecurelock](https://github.com/google/xsecurelock): X11 screen lock utility with security in mind
-* [BurntSushi/xsv](https://github.com/BurntSushi/xsv): A fast CSV command line toolkit written in Rust.
-* [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js): A terminal for the web
-* [peng-zhihui/XUAN](https://github.com/peng-zhihui/XUAN): None
-* [AArnott/Xunit.SkippableFact](https://github.com/AArnott/Xunit.SkippableFact): Adds Xunit dynamic skipping of facts and theories.
-* [ranxian/xv6-chinese](https://github.com/ranxian/xv6-chinese): 中文版的 MIT xv6 文档
-* [getActivity/XXPermissions](https://github.com/getActivity/XXPermissions): Android 权限请求框架，已适配 Android 14
-* [binux/yaaw](https://github.com/binux/yaaw): Yet Another Aria2 Webui in pure HTML/CSS/Javascirpt
+* [alefragnani/vscode-project-manager](https://github.com/alefragnani/vscode-project-manager): Project Manager Extension for Visual Studio Code
+* [chaance/vscode-setup](https://github.com/chaance/vscode-setup): My extensions and settings for VS Code. Mostly tools for HTML, CSS, JavaScript, TypeScript, and React.
+* [instaatze/vscode-snazzy](https://github.com/instaatze/vscode-snazzy): VS Code theme based on hyper-snazzy with bright colors
+* [aaronthomas/vscode-snazzy-operator](https://github.com/aaronthomas/vscode-snazzy-operator): A VS Code theme based on hyper-snazzy and optimised for use with the Operator Mono font
+* [xDae/vscode-snazzy-theme](https://github.com/xDae/vscode-snazzy-theme): 🎨 VS Code theme based on hyper-snazzy with bright colors
+* [benhcai/VSCode-Theme-Snazzy](https://github.com/benhcai/VSCode-Theme-Snazzy): None
+* [phoihos/vscode-translate-it](https://github.com/phoihos/vscode-translate-it): Text/Comment Translator Extension for VS Code    https://marketplace.visualstudio.com/items?itemName=phoihos.translate-it
+* [EYHN/vscode-vibrancy](https://github.com/EYHN/vscode-vibrancy): Enable Acrylic/Glass effect for your VS Code.
+* [illixion/vscode-vibrancy-continued](https://github.com/illixion/vscode-vibrancy-continued): Enable Acrylic/Glass effect for your VS Code.
+* [andrejsharapov/vue-box-shadows](https://github.com/andrejsharapov/vue-box-shadows): Collection of CSS box-shadows for every taste contains more than 100 simple, beautiful and airy shadows.
+* [Kocal/vue-web-extension](https://github.com/Kocal/vue-web-extension): 🛠️ A Vue CLI 3+ preset (previously a Vue CLI 2 boilerplate) for quickly starting a web extension with Vue, Babel, ESLint and more!
+* [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension): Browser extension to spoof timezone, geolocation, locale and user agent.
+* [sedemmler/WagerBrain](https://github.com/sedemmler/WagerBrain): A package containing the essential math required for sports betting and gambling.
+* [wallabag/wallabag](https://github.com/wallabag/wallabag): wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
+* [wallabag/wallabagger](https://github.com/wallabag/wallabagger): Chrome / Firefox / Opera plugin for wallabag v2.
+* [mczachurski/wallpapper](https://github.com/mczachurski/wallpapper): :computer: Console application for creating dynamic wallpapers for macOS Mojave and newer
+* [cheap-glitch/warpgate](https://github.com/cheap-glitch/warpgate): 💫 A lightweight browser extension to jump to various external bookmarks from the address bar.
+* [QNetITQ/WaveFox](https://github.com/QNetITQ/WaveFox): Flexible theme for manual customization.
+* [RobinBoers/wavefox-lepton](https://github.com/RobinBoers/wavefox-lepton): :fox_face: Firefox UI fix. A combination of Lepton and Wavefox for Firefox 90-91
+* [JamieMagee/wayback](https://github.com/JamieMagee/wayback): Save pages to the Wayback Machine as part of your CI/CD pipeline
+* [internetarchive/wayback-machine-webextension](https://github.com/internetarchive/wayback-machine-webextension): A web browser extension for Chrome, Firefox, Edge, and Safari 14.
+* [deyanvelichkov/waybackmachine](https://github.com/deyanvelichkov/waybackmachine): A simple wayback machine
+* [jsvine/waybackpack](https://github.com/jsvine/waybackpack): Download the entire Wayback Machine archive for a given URL.
+* [zhuowei/WDBRemoveThreeAppLimit](https://github.com/zhuowei/WDBRemoveThreeAppLimit): None
+* [dessant/web-archives](https://github.com/dessant/web-archives): Browser extension for viewing archived and cached versions of web pages, available for Chrome, Edge and Safari
+* [webclipper/web-clipper](https://github.com/webclipper/web-clipper): For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
+* [Shopify/web-configs](https://github.com/Shopify/web-configs): Common configurations for building web apps at Shopify
+* [jamesqquick/Web-Development-Essentials-Extension-Pack](https://github.com/jamesqquick/Web-Development-Essentials-Extension-Pack): This an extension pack for Visual Studio Code with extensions that are extremely helpful for Web Developers!
+* [mozilla/web-ext](https://github.com/mozilla/web-ext): A command line tool to help build, run, and test web extensions
+* [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter): 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
+* [BCIT-DDC/web-extension-ts-starter](https://github.com/BCIT-DDC/web-extension-ts-starter): 🚀 A web extension starter built with React, Typescript, and Tailwind CSS. Build once, and run on multiple browsers: Google Chrome, Mozilla Firefox, Microsoft Edge, Brave, and Opera.
+* [infokiller/web-search-navigator](https://github.com/infokiller/web-search-navigator): Web extension that adds keyboard shortcuts to Google, YouTube, Github, Amazon, and others (Chrome/Firefox/Edge/Safari)
+* [yourduskquibbles/webannoyances](https://github.com/yourduskquibbles/webannoyances): Fix and remove annoying web elements such as sticky headers, floating boxes, floating videos, dickbars, social share bars and other distracting elements.
+* [webcomponents/webcomponentsjs](https://github.com/webcomponents/webcomponentsjs): A suite of polyfills supporting the HTML Web Components specs
+* [subins2000/WebDrop](https://github.com/subins2000/WebDrop): Easiest group P2P File & Message transfer in browser with WebRTC 🔥. Cross-platform alternative to Apple's AirDrop, Xender, ShareIT with the same speed over LAN. No installation, just a website :)
+* [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill): A lightweight polyfill library for Promise-based WebExtension APIs in Chrome
+* [sblask/webextension-skip-redirect](https://github.com/sblask/webextension-skip-redirect): Some web pages use intermediary pages before redirecting to a final page. This add-on tries to extract the final url from the intermediary url and goes there straight away if successful.
+* [sblask/webextension-tab-deque](https://github.com/sblask/webextension-tab-deque): A Firefox extension for better tab handling.
+* [webextension-toolbox/webextension-toolbox](https://github.com/webextension-toolbox/webextension-toolbox): Small CLI toolbox for cross-browser WebExtension development
+* [tpamula/webextension-window-titler](https://github.com/tpamula/webextension-window-titler): Label your Firefox windows and profiles by modifying window title
+* [mdn/webextensions-examples](https://github.com/mdn/webextensions-examples): Example Firefox add-ons created using the WebExtensions API
+* [robomx/WebIDHunt](https://github.com/robomx/WebIDHunt): Client based app to get information about username availability from different important websites. This tool can be used by startups, tech enthusiast, and people who want to block particular username on important domains.
+* [webpack/webpack-dev-server](https://github.com/webpack/webpack-dev-server): Serves a webpack app. Updates the browser on changes. Documentation https://webpack.js.org/configuration/dev-server/.
+* [kpriyanshu256/Webpage_hosting_from_google_drive](https://github.com/kpriyanshu256/Webpage_hosting_from_google_drive): Easy way of hosting webpages using a Google Drive Account
+* [emin/WebPQuickLook](https://github.com/emin/WebPQuickLook): Mac OS X QuickLook plugin for WebP image files
+* [aclap-dev/weh](https://github.com/aclap-dev/weh): Toolkit to save time when developing a browser add-on for Firefox, Chrome, Edge, Opera and Vivaldi
+* [oOthkOo/whatsapp-desktop](https://github.com/oOthkOo/whatsapp-desktop): Unofficial WhatsApp Desktop Client for OSX, Linux and Windows. Build with Electron.
+* [Ekultek/WhatWaf](https://github.com/Ekultek/WhatWaf): Detect and bypass web application firewalls and protection systems
+* [easonwong-de/White-Sur-Firefox-Theme-MacOS](https://github.com/easonwong-de/White-Sur-Firefox-Theme-MacOS): ATBC-compatible macOS Safari-like CSS theme for Firefox.
+* [vinceliuice/WhiteSur-firefox-theme](https://github.com/vinceliuice/WhiteSur-firefox-theme): Mac OS Safari theme for Firefox on Linux
+* [FirefoxCSSThemers/WhiteSur-FirefoxTheme](https://github.com/FirefoxCSSThemers/WhiteSur-FirefoxTheme): A Firefox theme made by Agnihotra Nath, to simulate Safari on macOS Big Sur 11. Works best on Proton.
+* [AdamXweb/WhiteSurFirefoxThemeMacOS](https://github.com/AdamXweb/WhiteSurFirefoxThemeMacOS): MacOS Big Sur like theme for Firefox on MacOS & Windows. Make your Firefox look like Safari.
+* [aprilmaccydee/WhiteSurFirefoxThemeMacOS-Fork](https://github.com/aprilmaccydee/WhiteSurFirefoxThemeMacOS-Fork): None
+* [ATechnocratis/widefox](https://github.com/ATechnocratis/widefox): A wide screen friendly browser
+* [TDenisM/widevinedump](https://github.com/TDenisM/widevinedump): None
+* [selfish/window-merge-extension](https://github.com/selfish/window-merge-extension): Browser Addon/Extension to bring all open tabs into one window
+* [jonhac/Window-Saver](https://github.com/jonhac/Window-Saver): None
+* [Wingtwz/Window-Title-Hider](https://github.com/Wingtwz/Window-Title-Hider): Webextension that hides the current tab title from the window shown on the task bar (shows browser name first)
+* [dralletje/Windowed](https://github.com/dralletje/Windowed): Chrome extension to keep fullscreen windows contained
+* [drcheap/WindowSizer](https://github.com/drcheap/WindowSizer): WebExtension to quickly resize the window to one of your favorite sizes
+* [l10nelw/winger](https://github.com/l10nelw/winger): Window Manager: A Firefox web extension for switching windows and moving tabs between windows
+* [shredthaGNAR/wokiee](https://github.com/shredthaGNAR/wokiee): None
+* [teamniteo/work-hours-mac](https://github.com/teamniteo/work-hours-mac): Simple app that tracks your work hours from the status bar.
+* [utkarshsingh99/Workspace-Manager](https://github.com/utkarshsingh99/Workspace-Manager): A Firefox extension to save frequently used tabs as Workspaces
+* [rtfcv/worse-onetab](https://github.com/rtfcv/worse-onetab): None
+* [yjmp14/wulingate](https://github.com/yjmp14/wulingate): A Cross-Platform Files Transfer Web App. 
+* [matryer/xbar-plugins](https://github.com/matryer/xbar-plugins): Plugin repository for xbar (the BitBar reboot)
+* [benibela/xidel](https://github.com/benibela/xidel): Command line tool to download and extract data from HTML/XML pages or JSON-APIs, using CSS, XPath 3.0, XQuery 3.0, JSONiq or pattern matching.  It can also create new or transformed XML/HTML/JSON documents.
+* [StigNygaard/xIFr](https://github.com/StigNygaard/xIFr): Exif viewer WebExtension for Firefox and compatible webbrowsers
+* [Team-xManager/xManager](https://github.com/Team-xManager/xManager): Ad-Free, New Features & Freedom
+* [xnotepp/xnote](https://github.com/xnotepp/xnote): Sources for the XNote++ Thunderbird add-on.
 * [koekeishiya/yabai](https://github.com/koekeishiya/yabai): A tiling window manager for macOS based on binary space partitioning
-* [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm): Yet Another Dotfiles Manager
-* [cblp/yaml-sucks](https://github.com/cblp/yaml-sucks): YAML sucks.
-* [aaubry/YamlDotNet](https://github.com/aaubry/YamlDotNet): YamlDotNet is a .NET library for YAML
-* [scinos/yarn-deduplicate](https://github.com/scinos/yarn-deduplicate): Deduplication tool for yarn.lock files
-* [nkanaev/yarr](https://github.com/nkanaev/yarr): yet another rss reader
-* [wormtql/yas](https://github.com/wormtql/yas): Superfast Genshin Impact artifacts scanner
-* [Jguer/yay](https://github.com/Jguer/yay): Yet another Yogurt - An AUR Helper written in Go
-* [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic): 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron: 
-* [3Shain/yet-another-anime-game-launcher](https://github.com/3Shain/yet-another-anime-game-launcher): Discord server https://discord.gg/HrV52MgSC2 QQ频道 https://pd.qq.com/s/1dwwmkgq4
-* [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script): YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
-* [yoda-pa/yoda](https://github.com/yoda-pa/yoda): Wise and powerful personal assistant, available in your nearest terminal
-* [you-dont-need/You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs): List of functions which you can use to replace moment.js + ESLint Plugin
+* [hendrikbgr/YandexMail-Account-Creator](https://github.com/hendrikbgr/YandexMail-Account-Creator): 🚀 Create hundreds of free YandexMail Email Accounts in the matter of minutes 🚀
+* [roleoroleo/yi-hack-Allwinner](https://github.com/roleoroleo/yi-hack-Allwinner): Custom firmware for Yi 1080p camera based on Allwinner platform
+* [roleoroleo/yi-hack-Allwinner-v2](https://github.com/roleoroleo/yi-hack-Allwinner-v2): Custom firmware for Yi 1080p camera based on Allwinner platform
+* [roleoroleo/yi-hack-MStar](https://github.com/roleoroleo/yi-hack-MStar): Custom firmware for Yi 1080p camera based on MStar platform
+* [roleoroleo/yi-hack-MStar.gdrive](https://github.com/roleoroleo/yi-hack-MStar.gdrive): Google drive loader for yi smart ip camera (MStar based)
+* [TheCrypt0/yi-hack-v4](https://github.com/TheCrypt0/yi-hack-v4): New Custom Firmware for Xiaomi Cameras based on Hi3518e Chipset. It features RTSP, SSH, FTP and more!
+* [alienatedsec/yi-hack-v5](https://github.com/alienatedsec/yi-hack-v5): Even newer Custom Firmware for Xiaomi Cameras based on Hi3518ev200 Chipset. It includes free RTSP, ONVIF and other improvements based on the work by roleoroleo
+* [yiisoft/yii2-app-basic](https://github.com/yiisoft/yii2-app-basic): Yii 2.0 Basic Application Template
+* [execut/yii2-people-finder](https://github.com/execut/yii2-people-finder): Library for search peoples via social networks
+* [mattDavo/Yippy](https://github.com/mattDavo/Yippy): macOS open source clipboard manager
 * [soimort/you-get](https://github.com/soimort/you-get): :arrow_double_down: Dumb downloader that scrapes the web
-* [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe): A code-completion engine for Vim
-* [ytsaurus/ytsaurus](https://github.com/ytsaurus/ytsaurus): YTsaurus is a scalable and fault-tolerant open-source big data platform.
-* [ivarptr/yu-writer.site](https://github.com/ivarptr/yu-writer.site): A feature-rich, efficient text editor - Web Site
-* [HighCapable/YukiHookAPI](https://github.com/HighCapable/YukiHookAPI): ⛱️ An efficient Hook API and Xposed Module solution built in Kotlin.
-* [jquense/yup](https://github.com/jquense/yup): Dead simple Object schema validation
-* [x-cold/yuque-hexo](https://github.com/x-cold/yuque-hexo): 同步语雀的文章到你的 Hexo 项目吧！
-* [wubaiqing/zaobao](https://github.com/wubaiqing/zaobao): 每日时报，以前端技术体系为主要分享课题。根据：文章、工具、新闻、视频几大板块作为主要分类。
-* [mchehab/zbar](https://github.com/mchehab/zbar): ZBar is an open source software suite for reading bar codes from various sources, including webcams. As its development stopped in 2012, I took the task of keeping it updated with the V4L2 API. This is the main repository for it. There's a clone at at LinuxTV.org, and another one at gitlab.
-* [zen-kernel/zen-kernel](https://github.com/zen-kernel/zen-kernel): Zen Patched Kernel Sources
-* [rs/zerolog](https://github.com/rs/zerolog): Zero Allocation JSON Logger
-* [google/zetasql](https://github.com/google/zetasql): ZetaSQL - Analyzer Framework for SQL
-* [ZSaberLv0/ZFVimDirDiff](https://github.com/ZSaberLv0/ZFVimDirDiff): directory diff plugin with split treeview, similar to BeyondCompare, fully async and low dependency
-* [shatyuka/Zhiliao](https://github.com/shatyuka/Zhiliao): 知乎去广告Xposed模块
-* [zhouhuahui/zhouhuahui.github.io](https://github.com/zhouhuahui/zhouhuahui.github.io): None
-* [apache/zookeeper](https://github.com/apache/zookeeper): Apache ZooKeeper
-* [zotero/zotero](https://github.com/zotero/zotero): Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.
-* [argenos/zotero-mdnotes](https://github.com/argenos/zotero-mdnotes): A Zotero plugin to export item metadata and notes as markdown files
-* [NicoleMayer/zotero-save-with-tag](https://github.com/NicoleMayer/zotero-save-with-tag): A Zotero plugin that adds the tag when saving a new item.
-* [SiriusXT/Zotero-Scholar-Rank](https://github.com/SiriusXT/Zotero-Scholar-Rank): Zotero显示CCF分区，JCR分区，影响因子, 中科院分区。
-* [ethanwillis/zotero-scihub](https://github.com/ethanwillis/zotero-scihub): A plugin that will automatically download PDFs of zotero items from sci-hub
-* [giorginolab/zotfile_doctor](https://github.com/giorginolab/zotfile_doctor): Zotfile directory consistency checker
-* [zpm-zsh/zpm](https://github.com/zpm-zsh/zpm): Zpm— Zsh Plugin Manager
-* [systemd/zram-generator](https://github.com/systemd/zram-generator): Systemd unit generator for zram devices
-* [marlonrichert/zsh-snap](https://github.com/marlonrichert/zsh-snap): ⚡️ Znap! Fast, easy-to-use tools for Zsh dotfiles & plugins, plus git repos
-* [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode): 💻 A better and friendly vi(vim) mode plugin for ZSH.
-* [facebook/zstd](https://github.com/facebook/zstd): Zstandard - Fast real-time compression algorithm
-* [google/zx](https://github.com/google/zx): A tool for writing better scripts
-* [Perfare/Zygisk-Il2CppDumper](https://github.com/Perfare/Zygisk-Il2CppDumper): Using Zygisk to dump il2cpp data at runtime
-
-# Pandoc
-
-* [lauritzsh/pandoc-markdown-template](https://github.com/lauritzsh/pandoc-markdown-template): Markdown templates for Pandoc
-* [jgm/pandocfilters](https://github.com/jgm/pandocfilters): A python module for writing pandoc filters, with a collection of examples
-* [vim-pandoc/vim-pandoc](https://github.com/vim-pandoc/vim-pandoc): pandoc integration and utilities for vim
-* [vim-pandoc/vim-pandoc-after](https://github.com/vim-pandoc/vim-pandoc-after): Handles vim-pandoc's integration with third-party plugins
-* [vim-pandoc/vim-pandoc-syntax](https://github.com/vim-pandoc/vim-pandoc-syntax): pandoc markdown syntax, to be installed alongside vim-pandoc
-
-# Python
-
-* [tkem/cachetools](https://github.com/tkem/cachetools): Extensible memoizing collections and decorators
-* [pallets/click](https://github.com/pallets/click): Python composable command line interface toolkit
-* [viniciuschiele/flask-apscheduler](https://github.com/viniciuschiele/flask-apscheduler): Adds APScheduler support to Flask
-* [fusepy/fusepy](https://github.com/fusepy/fusepy): Simple ctypes bindings for FUSE
-* [lepture/opencc-python](https://github.com/lepture/opencc-python): OpenCC binding for Python.
-* [coleifer/peewee](https://github.com/coleifer/peewee): a small, expressive orm -- supports postgresql, mysql, sqlite and cockroachdb
-* [PyCQA/pep8-naming](https://github.com/PyCQA/pep8-naming): Naming Convention checker for Python
-* [pypa/pipenv](https://github.com/pypa/pipenv):  Python Development Workflow for Humans.
-* [libfuse/python-fuse](https://github.com/libfuse/python-fuse): Python 2.x/3.x bindings for libfuse 2.x
-* [google/yapf](https://github.com/google/yapf): A formatter for Python files
-
-## API
-
-* [OneDrive/onedrive-sdk-python](https://github.com/OneDrive/onedrive-sdk-python): OneDrive SDK for Python! https://dev.onedrive.com 
-
-## Tutorial
-
-* [PegasusWang/python-web-guide](https://github.com/PegasusWang/python-web-guide): python/golang -web入坑指南
-* [yidao620c/python3-cookbook](https://github.com/yidao620c/python3-cookbook): 《Python Cookbook》 3rd Edition Translation
-* [MrKiven/PyZh](https://github.com/MrKiven/PyZh): :books: 一起写Python文章，一起看Python文章 - 利用readthedocs的Python技术文章的收集和翻译。
-
-# Resource
-
-* [gilbarbara/logos](https://github.com/gilbarbara/logos): A huge collection of SVG logos
-
-# SBC
-
-* [justind000/nRF-IoT](https://github.com/justind000/nRF-IoT): RF24 based sensor-mesh (flood, addressless) network
-* [duxingkei33/orangepi_PC_gpio_pyH3](https://github.com/duxingkei33/orangepi_PC_gpio_pyH3): python control orangepi_PC ext GPIO ALLwinner H3  base on  pyA20 0.2.1
-
-# SQLite
-
-* [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser): Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at: 
-* [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio): A free, open source, multi-platform SQLite database manager.
-
-# Spider
-
-* [Doreamonsky/Shnu-Cas-Login](https://github.com/Doreamonsky/Shnu-Cas-Login): 上师大 CAS登陆与课程爬虫
-
-# Unity
-
-* [ekpyron/ktxutils](https://github.com/ekpyron/ktxutils): Utilities for the KTX image format.
+* [code-charity/youtube](https://github.com/code-charity/youtube): Top~100 Extension. Enrich your YouTube- & Video-experience & -choice [🧰80 lean Features 📌Longest-standing 👨‍👩‍👧‍👧🧩Please help] ⋮⚙️🎛️☕🎧🎞️📈🎨⏯️🎬🔊 youtube playback, content discovery, player, extra buttons, youtube distractions & related videos / suggestions. youtube shorts, youtube ads, quality, codec, full tab, full screen. ...
+* [OsaSoft/youtube-better-subscriptions](https://github.com/OsaSoft/youtube-better-subscriptions): This extension for Firefox and Chrome aims to make navigating YouTube's subscription grid easier by allowing users to hide watched videos
+* [Jeeaaasus/youtube-dl](https://github.com/Jeeaaasus/youtube-dl): Automated yt-dlp Docker image
+* [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl): Command-line program to download videos from YouTube.com and other video sites
+* [akhilkedia/youtube-dl-firefox-addon](https://github.com/akhilkedia/youtube-dl-firefox-addon): Addon to download youtube videos from firefox using youtube-dl
+* [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui): A cross-platform GUI for youtube-dl made in Electron and node.js
+* [murrty/youtube-dl-gui](https://github.com/murrty/youtube-dl-gui): Download/Convert videos from websites without needing to learn command line
+* [oleksis/youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui): A cross platform front-end GUI of the popular youtube-dl written in wxPython.
+* [p333ter/youtube-dl-gui](https://github.com/p333ter/youtube-dl-gui): A cross-platform GUI for youtube-dl made in Electron and node.js
+* [jim60105/youtube-dl-server](https://github.com/jim60105/youtube-dl-server): [Fork for CI docker build] 
+* [longpdo/youtube-dl-watch-later-playlist](https://github.com/longpdo/youtube-dl-watch-later-playlist): Python script to download all YouTube videos from your Watch Later Playlist automatically.
+* [xxcodianxx/youtube-dl-web](https://github.com/xxcodianxx/youtube-dl-web): A good web interface for youtube-dl that allows you to download arbitrary mixes of audio and video, including up to the highest quality such as 8K.
+* [TheYellowArchitect/youtube-dlp-bash](https://github.com/TheYellowArchitect/youtube-dlp-bash): Bash script which opens youtube-dlp on the dmenu, and optionally pastes the clipboard
+* [karimelgazar/youtube-downloader](https://github.com/karimelgazar/youtube-downloader): Youtube Downloader for the blind 👨‍🦯 and the sighted 🚶
+* [DenBeke/YouTube-Downloader-for-macOS](https://github.com/DenBeke/YouTube-Downloader-for-macOS): Simple menu bar app to download YouTube movies on your Mac
+* [ytb2mp3/youtube-mp3-downloader](https://github.com/ytb2mp3/youtube-mp3-downloader): Extract music from YouTube videos
+* [steve228uk/YouTube-Music](https://github.com/steve228uk/YouTube-Music): :musical_note: A Mac app wrapper for music.youtube.com
+* [th-ch/youtube-music](https://github.com/th-ch/youtube-music): YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
+* [pateldevang/Youtube-music-macOS](https://github.com/pateldevang/Youtube-music-macOS): Youtube Music for macOS (Ads free) & Download Music For Free.
+* [alexmercerind/youtube-search-python](https://github.com/alexmercerind/youtube-search-python): 🔎 Search for YouTube videos, channels & playlists. Get 🎞 video &  📑 playlist info using link. Get search suggestions. WITHOUT YouTube Data API v3.
+* [PeerGroupSoftware/Youtube-To-Mac](https://github.com/PeerGroupSoftware/Youtube-To-Mac): Cocoa Interface for youtube-dl
+* [Tatsh/youtube-unofficial](https://github.com/Tatsh/youtube-unofficial): Access parts of your account unavailable through normal YouTube API access.
+* [trizen/youtube-viewer](https://github.com/trizen/youtube-viewer): Lightweight YouTube client for Linux
+* [ewpratten/youtube_ad_blocklist](https://github.com/ewpratten/youtube_ad_blocklist): This is an open project to maintain a list of domain names that serve YouTube ads
+* [Tzahi12345/YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material): Self-hosted YouTube downloader built on Material Design
+* [JMARyA/YoutubeDownload](https://github.com/JMARyA/YoutubeDownload): youtube-dl GUI for MacOS
+* [xhico/YoutubeDownloader](https://github.com/xhico/YoutubeDownloader): Download any public Playlist from Youtube
+* [Tyrrrz/YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode): Abstraction layer over YouTube's internal API
+* [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp): A youtube-dl fork with additional features and fixes
+* [ohmybahgosh/YT-DLP-SCRIPTS](https://github.com/ohmybahgosh/YT-DLP-SCRIPTS): ...Just a place for me to share my various YT-DLP & related bash scripts.
+* [shailshouryya/yt-videos-list](https://github.com/shailshouryya/yt-videos-list): Create and **automatically** update a list of all videos on a YouTube channel (in txt/csv/md form) via YouTube bot with end-to-end web scraping - no API tokens required. Multi-threaded support for YouTube videos list  updates.
+* [ytb2mp3/ytb2mp3](https://github.com/ytb2mp3/ytb2mp3): Convert YouTube videos to mp3 files via the command-line
+* [pystardust/ytfzf](https://github.com/pystardust/ytfzf): A posix script to find and watch youtube videos from the terminal. (Without API)
+* [Margiris/ytmdesktop](https://github.com/Margiris/ytmdesktop): NO LONGER UPDATED (see readme). A fork of https://github.com/ytmdesktop/ytmdesktop with added adblocker from https://github.com/cliqz-oss/adblocker.
+* [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop): A Desktop App for YouTube Music
+* [deepjyoti30/ytmdl](https://github.com/deepjyoti30/ytmdl): A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.
+* [Goxore/ytmp3](https://github.com/Goxore/ytmp3): A simple shell script that downloads a song with youtube-dl/yt-dlp, renames it and adds artist and album names with id3tool.
+* [sigma67/ytmusicapi](https://github.com/sigma67/ytmusicapi): Unofficial API for YouTube Music
+* [jamesbrindle/YTMusicUploader](https://github.com/jamesbrindle/YTMusicUploader): Automatically upload your music library and playlists to YouTube Music .Net Application. Upload songs to YouTube Music and bulk delete music and playlists from YouTube Music. C#.
+* [chibicitiberiu/ytsm](https://github.com/chibicitiberiu/ytsm): Self-hosted tool which manages your YouTube subscriptions, and downloads files automatically.
+* [cuynu/ytvancedx](https://github.com/cuynu/ytvancedx): YouTube Vanced+ & YouTube Music Vanced+ project [WIP]
+* [rupa/z](https://github.com/rupa/z): z - jump around
+* [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy): The ZAP core project
+* [marlonrichert/zcolors](https://github.com/marlonrichert/zcolors): 🌈 Use your $LS_COLORS to generate a coherent theme for Git & your Zsh prompt, command line and completions.
+* [mattmc3/zdotdir](https://github.com/mattmc3/zdotdir): My zsh config
+* [zbrateam/Zebra](https://github.com/zbrateam/Zebra): 🦓 A Useful Package Manager for iOS
+* [RealRaven2000/ZombieKeys](https://github.com/RealRaven2000/ZombieKeys): Thunderbird / Waterfox Add-on: ZombieKeys
+* [zotero/zotero-connectors](https://github.com/zotero/zotero-connectors): Chrome, Firefox, and Safari extensions for Zotero
+* [li-zyang/zScripts](https://github.com/li-zyang/zScripts): Repository of my userscripts
+* [zsh-users/zsh](https://github.com/zsh-users/zsh): Mirror of the Z shell source code repository.
+* [DarrinTisdale/zsh-aliases-exa](https://github.com/DarrinTisdale/zsh-aliases-exa): zsh plugin adding aliases for the exa command-line tool
+* [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions): Additional completion definitions for Zsh.
+* [zsh-users/zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search): 🐠 ZSH port of Fish history search (up arrow)
+* [johannchangpro/zsh-interactive-cd](https://github.com/johannchangpro/zsh-interactive-cd): Fish like interactive tab completion for cd in zsh
+* [marlonrichert/zsh-launchpad](https://github.com/marlonrichert/zsh-launchpad): 🚀 Simple, educational dotfiles template to get started with Zsh and learn about its features
+* [MenkeTechnologies/zsh-more-completions](https://github.com/MenkeTechnologies/zsh-more-completions): Worlds largest collection of zsh completions
+* [lukechilds/zsh-nvm](https://github.com/lukechilds/zsh-nvm): Zsh plugin for installing, updating and loading nvm
+* [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit): A simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins. It is designed to be easy to customize without requiring you to maintain your own fork.
+* [agkozak/zsh-z](https://github.com/agkozak/zsh-z): Jump quickly to directories that you have visited "frecently." A native Zsh port of z.sh with added features.
+* [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans): A turnkey configuration for Zsh
+* [Innei/zshrc](https://github.com/Innei/zshrc): one-key to configure zsh.
+* [caius/zshrc](https://github.com/caius/zshrc): My ZSH configs and dotfiles
+* [BjorneEk/zshrc-cheat-sheet](https://github.com/BjorneEk/zshrc-cheat-sheet): None
+* [vaeth/zshrc-mv](https://github.com/vaeth/zshrc-mv): This is a zsh initialization file (e.g. /etc/zshrc or ~/.zshrc) which activates a lot of zsh features
 
 # Utility
 
-* [m13253/BiliDan](https://github.com/m13253/BiliDan): Play videos on Bilibili.com with MPV and Danmaku2ASS
 * [janeczku/calibre-web](https://github.com/janeczku/calibre-web): :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
-* [jgraph/drawio](https://github.com/jgraph/drawio): draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
-* [JinnLynn/genpac](https://github.com/JinnLynn/genpac): PAC/Dnsmasq/Wingy file Generator,  working with gfwlist, support custom rules.
-* [yudai/gotty](https://github.com/yudai/gotty): Share your terminal as a web application
-* [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter): ”深蓝词库转换“ 一款开源免费的输入法词库转换程序
-* [ledger/ledger](https://github.com/ledger/ledger): Double-entry accounting system with a command-line reporting interface
-* [lingfengsan/MillionHero](https://github.com/lingfengsan/MillionHero): 百万英雄/冲顶大会答题助手 
-* [darknessomi/musicbox](https://github.com/darknessomi/musicbox): 网易云音乐命令行版本
-* [binux/ThunderLixianExporter](https://github.com/binux/ThunderLixianExporter): export thunder lixian url to aria2/wget
-* [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x): Image Super-Resolution for Anime-Style Art
-* [lltcggie/waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe): waifu2xのCaffe版
-
-# VS Code
-
-* [goessner/mdmath](https://github.com/goessner/mdmath): LaTeX Math for Markdown inside of Visual Studio Code.
-* [karabaja4/vscode-explorer-git-status](https://github.com/karabaja4/vscode-explorer-git-status): Highlighting of git added, modified and ignored files inside Visual Studio Code File Explorer (similar to Atom).
-* [emeraldwalk/vscode-runonsave](https://github.com/emeraldwalk/vscode-runonsave): Visual Studio Code extension to run commands whenever a file is saved.
-
-# Vim
-
-* [jiangmiao/auto-pairs](https://github.com/jiangmiao/auto-pairs): Vim plugin, insert or delete brackets, parens, quotes in pair
-* [maralla/completor.vim](https://github.com/maralla/completor.vim): Async completion framework made ease.
-* [ctrlpvim/ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim): Active fork of kien/ctrlp.vim—Fuzzy file, buffer, mru, tag, etc finder.
-* [Shougo/deoplete.nvim](https://github.com/Shougo/deoplete.nvim): :stars: Dark powered asynchronous completion framework for neovim/Vim8
-* [Yggdroot/indentLine](https://github.com/Yggdroot/indentLine): A vim plugin to display the indention levels with thin vertical lines
-* [davidhalter/jedi-vim](https://github.com/davidhalter/jedi-vim): Using the jedi autocompletion library for VIM.
-* [python-mode/python-mode](https://github.com/python-mode/python-mode): Vim python-mode. PyLint, Rope, Pydoc, breakpoints from box.
-* [vim-python/python-syntax](https://github.com/vim-python/python-syntax): Python syntax highlighting for Vim
-* [SirVer/ultisnips](https://github.com/SirVer/ultisnips): UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
-* [yangyangwithgnu/use_vim_as_ide](https://github.com/yangyangwithgnu/use_vim_as_ide): use vim as IDE
-* [skywind3000/vim](https://github.com/skywind3000/vim): Personal Vim Profile
-* [tclem/vim-arduino](https://github.com/tclem/vim-arduino): Compile and Deploy Arduino sketches in Vim
-* [sudar/vim-arduino-snippets](https://github.com/sudar/vim-arduino-snippets): Vim snippets for Arduino files
-* [sudar/vim-arduino-syntax](https://github.com/sudar/vim-arduino-syntax): Arduino syntax files for Vim
-* [vim-awesome/vim-awesome](https://github.com/vim-awesome/vim-awesome): Awesome Vim plugins from across the universe
-* [fisadev/vim-ctrlp-cmdpalette](https://github.com/fisadev/vim-ctrlp-cmdpalette): Extension for ctrlp.vim, to have a command palette like sublime text 2
-* [roxma/vim-hug-neovim-rpc](https://github.com/roxma/vim-hug-neovim-rpc): EXPERIMENTAL
-* [xuhdev/vim-latex-live-preview](https://github.com/xuhdev/vim-latex-live-preview): A Vim Plugin for Lively Previewing LaTeX PDF Output
-* [embear/vim-localvimrc](https://github.com/embear/vim-localvimrc): Search local vimrc files (".lvimrc") in the tree (root dir up to current dir) and load them.
-* [severin-lemaignan/vim-minimap](https://github.com/severin-lemaignan/vim-minimap): A Sublime-like minimap for VIM, based on the Drawille console-based drawing library
-* [vim-pandoc/vim-pandoc](https://github.com/vim-pandoc/vim-pandoc): pandoc integration and utilities for vim
-* [vim-pandoc/vim-pandoc-after](https://github.com/vim-pandoc/vim-pandoc-after): Handles vim-pandoc's integration with third-party plugins
-* [vim-pandoc/vim-pandoc-syntax](https://github.com/vim-pandoc/vim-pandoc-syntax): pandoc markdown syntax, to be installed alongside vim-pandoc
-* [asins/vimcdoc](https://github.com/asins/vimcdoc): Vim Chinese Documentation
-* [Shougo/vimshell.vim](https://github.com/Shougo/vimshell.vim): :shell: Powerful shell implemented by vim.
-* [lervag/vimtex](https://github.com/lervag/vimtex): VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.
-
-# WeChat
-
-
-## Mini Program
-
-
-### Develop
-
-* [EastWorld/wechat-app-mall](https://github.com/EastWorld/wechat-app-mall): 微信小程序商城，微信小程序微店
-
-### Utility
-
-* [Doreamonsky/Course-table](https://github.com/Doreamonsky/Course-table): 微信小程序，课程表最佳实践案例。
-
-# Web
-
-* [Kozea/wdb](https://github.com/Kozea/wdb): An improbable web debugger through WebSockets
-
-## Backend
-
-
-### REST
-
-* [evilsocket/librestd](https://github.com/evilsocket/librestd): A low dependencies and self contained library to create C++ RESTful API services.
-
-## CSS
-
-* [egoist/hack](https://github.com/egoist/hack): ⛷ Dead simple CSS framework.
-
-## JavaScript
-
-* [WickyNilliams/headroom.js](https://github.com/WickyNilliams/headroom.js): Give your pages some headroom. Hide your header until you need it
-* [pnigos/hookjs](https://github.com/pnigos/hookjs): javascript function hook
-* [syntaxhighlighter/syntaxhighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter): SyntaxHighlighter is a fully functional self-contained code syntax highlighter developed in JavaScript.
-* [iamdanfox/typetype](https://github.com/iamdanfox/typetype): human typing with jQuery
-
-## Tutorial
-
-* [it-ebooks/w3school](https://github.com/it-ebooks/w3school): :books: W3School 教程整理
-
-## Vue
-
-* [vuematerial/vue-material](https://github.com/vuematerial/vue-material): Vue.js Framework - ready-to-use Vue components with Material Design, free forever.
-* [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify): 🐉 Vue Component Framework
-
-# Windows
-
-
-## PowerShell
-
-* [Windos/BurntToast](https://github.com/Windos/BurntToast): Module for creating and displaying Toast Notifications on Microsoft Windows 10.
-* [dahlbyk/posh-git](https://github.com/dahlbyk/posh-git): A PowerShell environment for Git
-* [JulianChow94/Windows-screenFetch](https://github.com/JulianChow94/Windows-screenFetch): Powershell port of bash/unix screenfetch.
-
-## Terminal
-
-* [neilpa/cmd-colors-solarized](https://github.com/neilpa/cmd-colors-solarized): Solarized color settings for Windows command prompt
-* [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal): A Terminal Emulator based on UWP and web technologies.
-
-### ConEmu
-
-* [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu): Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
-* [joonro/ConEmu-Color-Themes](https://github.com/joonro/ConEmu-Color-Themes): Manually ported color themes for ConEmu
-
-### Mintty
-
-* [karlin/mintty-colors-solarized](https://github.com/karlin/mintty-colors-solarized): Solarized theme for mintty
-* [mavnn/mintty-colors-solarized](https://github.com/mavnn/mintty-colors-solarized): None
-
-## Utility
-
-* [Jonno12345/TileIconifier](https://github.com/Jonno12345/TileIconifier): Creates tiles for most Windows 8.1 and 10 start menu icons
-* [equalsraf/win32yank](https://github.com/equalsraf/win32yank): Windows clipboard tool
-
-## WSL
-
-* [alwsl/alwsl](https://github.com/alwsl/alwsl): Install archlinux as the WSL (Windows Subsystem for Linux) host.
-* [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL): ArchLinux based WSL Distribution. Supports multiple install.
-* [rprichard/wslbridge](https://github.com/rprichard/wslbridge): Bridge from Cygwin to WSL pty/pipe I/O
 
 
