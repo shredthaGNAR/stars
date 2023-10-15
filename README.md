@@ -432,6 +432,7 @@ creating your own Awesome List by GitHub stars!
 * [Andereoo/Cortland](https://github.com/Andereoo/Cortland): A sleek, modern, macOS-inspired theme for Firefox
 * [leminlimez/Cowabunga](https://github.com/leminlimez/Cowabunga): iOS 14.0-15.7.1 & 16.0-16.1.2 MacDirtyCow ToolBox
 * [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg): A shell script to build fancy DMGs
+* [luooooob/create-my-awesome](https://github.com/luooooob/create-my-awesome): Github Actions for automatically generating the personal awesome list from all of the repositories you starred.
 * [ololx/create-symlink](https://github.com/ololx/create-symlink): Create Symlink is a simple mac Automator workflow which provides a GUI for the symbolic links creation on macOS. There is an alternative https://github.com/ololx/quick-symlink
 * [schollz/croc](https://github.com/schollz/croc): Easily and securely send things from one computer to another :crocodile: :package:
 * [warren-bank/crx-Tubi-TV](https://github.com/warren-bank/crx-Tubi-TV): website userscript: redirect embedded videos from "tubitv.com" to an external player
@@ -1229,6 +1230,7 @@ creating your own Awesome List by GitHub stars!
 * [fmeyertoens/MaterialFox](https://github.com/fmeyertoens/MaterialFox): A Material Design-inspired userChrome.css theme for Firefox
 * [te6-in/MaterialFox-BigSur](https://github.com/te6-in/MaterialFox-BigSur): 🦊 A cleaner, more refined userChrome.css theme for Firefox—forked from MaterialFox
 * [typeling1578/MaterialFox-Plus](https://github.com/typeling1578/MaterialFox-Plus): A Material Design-inspired userChrome.css theme for Firefox. This repository is a Fork of muckSponge/MaterialFox.
+* [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome): 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
 * [square/maximum-awesome](https://github.com/square/maximum-awesome): Config files for vim and tmux.
 * [qsniyg/maxurl](https://github.com/qsniyg/maxurl): Finds larger/original versions of images and videos
 * [tanrax/maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking): Local ad blocker. Like Pi-hole but local and using your operating system.
@@ -2004,7 +2006,6 @@ creating your own Awesome List by GitHub stars!
 * [seven-io/thunderbird](https://github.com/seven-io/thunderbird): Send SMS from within Thunderbird
 * [metux/thunderbird-2](https://github.com/metux/thunderbird-2): thunderbird 2nd try ... v68.0
 * [kgraefe/thunderbird-autotag](https://github.com/kgraefe/thunderbird-autotag): Copy keywords from thread parent in Thunderbird
-* [ChooChooAl/Thunderbird-Chrome](https://github.com/ChooChooAl/Thunderbird-Chrome): Mozilla Thunderbird Email Client Chrome Folder used for theming the UI.
 * [thunderbird-conversations/thunderbird-conversations](https://github.com/thunderbird-conversations/thunderbird-conversations): An extension for Thunderbird that allows you to view threads as "real" conversations, including your own emails. This extension also adds a bunch of useful UI features in the conversation view.
 * [joax/thunderbird-dark-theme](https://github.com/joax/thunderbird-dark-theme): Dark theme based on Monterail for Thunderbird 78
 * [Era-Dorta/Thunderbird-Google-Keep-Tab](https://github.com/Era-Dorta/Thunderbird-Google-Keep-Tab): Google Keep for Thunderbird
