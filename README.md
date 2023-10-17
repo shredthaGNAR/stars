@@ -32,7 +32,7 @@ creating your own Awesome List by GitHub stars!
 * [rsapkf/42](https://github.com/rsapkf/42): @rsapkf's wiki. [Merged into rsapkf/www]
 * [Lexxrt/9xe3](https://github.com/Lexxrt/9xe3): 🔍sᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ ʟᴏᴏᴋᴜᴘ🔍
 * [earthlng/aboutconfig](https://github.com/earthlng/aboutconfig): None
-* [garywill/aboutconfig-menu](https://github.com/garywill/aboutconfig-menu): Shortcuts to settings in about:config (universal), through a button on toolbar. Firefox userChrome script 🛠️ (runs on ff 115)
+* [garywill/aboutconfig-menu](https://github.com/garywill/aboutconfig-menu): Shortcuts to settings in about:config (universal), through a button on toolbar. Firefox userChrome script 🛠️
 * [abp-filters/abp-filters-anti-cv](https://github.com/abp-filters/abp-filters-anti-cv): None
 * [bartoszj/acextract](https://github.com/bartoszj/acextract): A tool to list and extract content from Assets.car file.
 * [pgrimaud/action-shopify](https://github.com/pgrimaud/action-shopify): Deploy Shopify theme with Theme Kit on GitHub Actions
@@ -364,6 +364,7 @@ creating your own Awesome List by GitHub stars!
 * [Godiesc/Chameleons-Beauty](https://github.com/Godiesc/Chameleons-Beauty): Adapted "Beautiful" Themes
 * [jscher2000/change-maximized-to-resizable](https://github.com/jscher2000/change-maximized-to-resizable): Firefox Extension to Change Maximized New Window to Resizable 
 * [dtkdt100/Chat-GPT-for-Gmail](https://github.com/dtkdt100/Chat-GPT-for-Gmail): A browser extension to complete your email with the help of ChatGPT
+* [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced): WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 * [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension): This project is deprecated. Check my new project ChatHub:
 * [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity): ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
 * [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox): Integrating ChatGPT into your browser deeply, everything you need is here
@@ -1140,7 +1141,7 @@ creating your own Awesome List by GitHub stars!
 * [tetsuharuohzeki/linkplaces](https://github.com/tetsuharuohzeki/linkplaces): This is a add-on for Mozilla Firefox. This provides Sidebar to display "Unsorted Bookmarks" folder in Places, as "Temporary Links".
 * [velvia/links](https://github.com/velvia/links): Just a bunch of useful links
 * [cloux/LinkSanitizer](https://github.com/cloux/LinkSanitizer): Browser userscript to clean up hyperlink redirections and link shims
-* [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden): A self-hosted, open-source collaborative bookmark manager to collect, organize and archive webpages.
+* [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden): A self-hosted, open-source collaborative bookmark manager to collect, organize, and archive webpages.
 * [Shopify/liquid](https://github.com/Shopify/liquid): Liquid markup language. Safe, customer facing template language for flexible web apps. 
 * [EvgeniyMukhamedjanov/liquid-ajax-cart](https://github.com/EvgeniyMukhamedjanov/liquid-ajax-cart): Build a Shopify Ajax-cart without JavaScript coding
 * [harttle/liquidjs](https://github.com/harttle/liquidjs): A simple, expressive, safe and Shopify compatible template engine in pure JavaScript.
