@@ -67,6 +67,7 @@ creating your own Awesome List by GitHub stars!
 * [canalnoises/AirDrop-Shortcut](https://github.com/canalnoises/AirDrop-Shortcut): A script to select AirDrop from Finder's Share menu. Assign to a keyboard shortcut for quick AirDropping.
 * [Airmail/AirmailPlugIn-Framework](https://github.com/Airmail/AirmailPlugIn-Framework): None
 * [xwmx/airport](https://github.com/xwmx/airport): A command line / terminal tool for Wi-Fi on macOS / OS X.
+* [SethuSenthil/AirPush](https://github.com/SethuSenthil/AirPush): The all in one AirMessage (iMessage) script you can forget about
 * [ajrosen/Alfred](https://github.com/ajrosen/Alfred): Alfred workflows
 * [kkanzelmeyer/alfred](https://github.com/kkanzelmeyer/alfred): Raspberry pi webcam and motion sensor project
 * [kevin-funderburg/alfred-bettertouchtool-gestures](https://github.com/kevin-funderburg/alfred-bettertouchtool-gestures): Use Alfred to quickly search through all the trackpad gestures within BetterTouchTool
@@ -148,6 +149,7 @@ creating your own Awesome List by GitHub stars!
 * [abbeycode/AppleScripts](https://github.com/abbeycode/AppleScripts): My collection of scripts I've written over the years
 * [kevin-funderburg/AppleScripts](https://github.com/kevin-funderburg/AppleScripts): My collection of AppleScripts I've developed or acquired over the years.
 * [nathan-artist/AppleScripts](https://github.com/nathan-artist/AppleScripts): AppleScripts for use with OS X / macOS
+* [shreygan/applescripts](https://github.com/shreygan/applescripts): custom applescripts for btt
 * [steventheworker/applescripts](https://github.com/steventheworker/applescripts): This is where I keep my applescript's and BetterTouchTool configuration, and some apps/automation's I use.
 * [wafflesnatcha/AppleScripts](https://github.com/wafflesnatcha/AppleScripts): ~/Library/Scripts
 * [JT5D/AppleTree](https://github.com/JT5D/AppleTree): Applescripts, apps, services, droplets, actions & automator workflows grow abudant on this Apple Tree, some fruit made by me, while many come from Web tuts & altruist worker bees
@@ -1027,7 +1029,7 @@ creating your own Awesome List by GitHub stars!
 * [th-schmidt/janus-for-alfred](https://github.com/th-schmidt/janus-for-alfred): Create random usernames in Alfred
 * [jeeliz/jeelizFaceFilter](https://github.com/jeeliz/jeelizFaceFilter): Javascript/WebGL lightweight face tracking library designed for augmented reality webcam filters. Features : multiple faces detection, rotation, mouth opening. Various integration examples are provided (Three.js, Babylon.js, FaceSwap, Canvas2D, CSS3D...). 
 * [sighingnow/jekyll-gitbook](https://github.com/sighingnow/jekyll-gitbook): Build Jekyll site with GitBook style!
-* [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy): A minimal, responsive and feature-rich Jekyll theme for technical writing.
+* [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy): A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 * [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono): JetBrains Mono – the free and open-source typeface for developers
 * [JitouchApp/Jitouch](https://github.com/JitouchApp/Jitouch): A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad
 * [sukolsak/jitouch](https://github.com/sukolsak/jitouch): A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad
