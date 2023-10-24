@@ -370,6 +370,7 @@ creating your own Awesome List by GitHub stars!
 * [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced): WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 * [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension): This project is deprecated. Check my new project ChatHub:
 * [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity): ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
+* [josStorer/chatGPT-search-engine-extension](https://github.com/josStorer/chatGPT-search-engine-extension): A browser extension to display ChatGPT response alongside Search Engine results
 * [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox): Integrating ChatGPT into your browser deeply, everything you need is here
 * [actions/checkout](https://github.com/actions/checkout): Action for checking out a repo
 * [adamschwartz/chrome-desaturate-favicons](https://github.com/adamschwartz/chrome-desaturate-favicons): Desaturate the favicons of all inactive tabs.
@@ -1436,7 +1437,7 @@ creating your own Awesome List by GitHub stars!
 * [keiichi4e/paper-app](https://github.com/keiichi4e/paper-app): Unofficial Paper app for Mac
 * [shredthaGNAR/paper-app](https://github.com/shredthaGNAR/paper-app): Unofficial Paper app for Mac
 * [vict0rsch/PaperMemory](https://github.com/vict0rsch/PaperMemory): Your browser's reference manager: automatic paper detection (Arxiv, OpenReview & more), publication venue matching and code repository discovery! Also enhances ArXiv: BibTex citation, Markdown link, direct download and more!
-* [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme): Papirus icon theme for Linux
+* [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme): Pixel perfect icon theme for Linux
 * [Paragon-Software-Group/paragon_firewall_ce](https://github.com/Paragon-Software-Group/paragon_firewall_ce): Paragon Firewall for Mac
 * [sindresorhus/Pasteboard-Viewer](https://github.com/sindresorhus/Pasteboard-Viewer): 📋 Inspect the system pasteboards on macOS
 * [yozdas/PdfCombiner](https://github.com/yozdas/PdfCombiner): This is Automator app built in Mac
