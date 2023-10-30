@@ -562,6 +562,7 @@ creating your own Awesome List by GitHub stars!
 * [downthemall/downthemall](https://github.com/downthemall/downthemall): The DownThemAll! WebExtension
 * [Mortennn/Dozer](https://github.com/Mortennn/Dozer): Hide menu bar icons on macOS
 * [odeke-em/drive](https://github.com/odeke-em/drive): Google Drive client for the commandline
+* [itszechs/DriveStream](https://github.com/itszechs/DriveStream): Stream video files from Google drive
 * [diatoming/Drop2Download](https://github.com/diatoming/Drop2Download): macOS menu bar app for youtube-dl GUI
 * [coolaj86/dropshare](https://github.com/coolaj86/dropshare): A min.us / ge.tt file share clone.
 * [aptonic/dropzone4-actions](https://github.com/aptonic/dropzone4-actions): Add-on actions and API Docs for Dropzone 4
@@ -816,6 +817,7 @@ creating your own Awesome List by GitHub stars!
 * [ncyhere/gatsby-starter-shopify](https://github.com/ncyhere/gatsby-starter-shopify): A Gatsby starter using the latest Shopify plugin showcasing a store with product overview, individual product pages, and a cart
 * [LekoArts/gatsby-themes](https://github.com/LekoArts/gatsby-themes): Get high-quality and customizable Gatsby themes to quickly bootstrap your website! Choose from many professionally created and impressive designs with a wide variety of features and customization options.
 * [ftassy/GCalTab](https://github.com/ftassy/GCalTab): GCalTab is a Thunderbird add-on that opens Google Calendar website in a Thunderbird tab. It facilitates multiple accounts management. and features a beautiful dark mode thanks to the DarkReader algorithm.
+* [glotlabs/gdrive](https://github.com/glotlabs/gdrive): Google Drive CLI Client
 * [dantebarba/gdrive-migrator](https://github.com/dantebarba/gdrive-migrator): Google Drive Migrator helper. Migrates from one gdrive account to another
 * [ShanukJ/gDrive-Multiple-File-Upload](https://github.com/ShanukJ/gDrive-Multiple-File-Upload): This is a simple script to upload Multiple files into google drive using google drive API and Nodejs.
 * [rebhu-open-source-foundation/gecko-b2g](https://github.com/rebhu-open-source-foundation/gecko-b2g): This is a mirror of https://gitlab.com/rebhu/rosf/thenexus-codes/gecko-b2g
@@ -986,7 +988,7 @@ creating your own Awesome List by GitHub stars!
 * [onmyway133/IconGenerator](https://github.com/onmyway133/IconGenerator): 🍱 A macOS app to generate app icons
 * [iconify/iconify](https://github.com/iconify/iconify): Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (100+ icon sets, 100,000+ icons). SVG framework, React, Vue and Svelte components!
 * [raphaelhanneken/iconizer](https://github.com/raphaelhanneken/iconizer): Create Xcode asset catalogs swift and painless. Generate images for macOS and iOS app icons, launch images and image sets.
-* [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir): An open source icons library with 1300+ icons, supporting React, React Native, Flutter, CSS, Figma, and Framer.
+* [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir): An open source icons library with 1500+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.
 * [kreativekorp/iconposeur](https://github.com/kreativekorp/iconposeur): Open-source recreation of the Icon Composer application. Create icons for Mac OS X without Xcode. Also creates Windows ico files.
 * [FirefoxUX/icons](https://github.com/FirefoxUX/icons): SVG icons used in Firefox. View all icons here:
 * [uuware/icons-font-desktop](https://github.com/uuware/icons-font-desktop): Desktop version of free-icons-customization, a collection of over 33,000 high-quality free svg icons and tools for generating customized icon font. All icons are completely free for personal or business requirements.
@@ -1308,6 +1310,7 @@ creating your own Awesome List by GitHub stars!
 * [Toxblh/MTMR-presets](https://github.com/Toxblh/MTMR-presets): 💈 [My TouchBar My rules] Share your preset!
 * [ohmybahgosh/MTV-YTDLP](https://github.com/ohmybahgosh/MTV-YTDLP): Simple script using YT-DLP do download an episode from MTV.com, and then merge the resulting multiple output MP4 files using ffmpeg.  MTV episodes are split in to multiple MP4 files, so resulting output for a single episode can be between 3-11+ MP4 files.  This script is a band-aid for that.
 * [mozilla/multi-account-containers](https://github.com/mozilla/multi-account-containers): Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
+* [TheCaduceus/Multi-Cloud-Transfer-Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool): The most advanced yet simple Jupyter Notebook to transfer/manage your data from/to any cloud remotely based on Rclone and other engines.⚡
 * [Javojav/Multi-engine-search](https://github.com/Javojav/Multi-engine-search): This Firefox extension allows you to use multiple of your installed search engines at once.
 * [wantora/multiple-paste-and-go-button](https://github.com/wantora/multiple-paste-and-go-button): This add-on provides a button to open multiple URLs from clipboard.
 * [rxhanson/Multitouch-Community](https://github.com/rxhanson/Multitouch-Community): Issue and feature request tracking for the Multitouch app
@@ -2057,6 +2060,7 @@ creating your own Awesome List by GitHub stars!
 * [tangledhelix/toggleAirport](https://github.com/tangledhelix/toggleAirport): Toggle Airport power based on presence of wired ethernet
 * [RealRaven2000/ToneQuilla](https://github.com/RealRaven2000/ToneQuilla): ToneQuilla 1.1.1 - Adds a new action to Thunderbird mail filters to allow playing a particular sound when the filter matches. Also includes several sample sound files - original project by R. Kent James
 * [JimmyLaurent/torrent-search-api](https://github.com/JimmyLaurent/torrent-search-api): Yet another node torrent scraper (supports iptorrents, torrentleech, torrent9, torrentz2, 1337x, thepiratebay, Yggtorrent, TorrentProject, Eztv, Yts, LimeTorrents)
+* [r12habh/Torrent-To-Google-Drive-Downloader](https://github.com/r12habh/Torrent-To-Google-Drive-Downloader): Simple notebook to stream torrent files to Google Drive using Google Colab and python3.
 * [sindresorhus/touch-bar-simulator](https://github.com/sindresorhus/touch-bar-simulator): Use the Touch Bar on any Mac
 * [ris58h/Touch-Tab](https://github.com/ris58h/Touch-Tab): Switch apps with trackpad on macOS.
 * [rickkas7/TowerInfo](https://github.com/rickkas7/TowerInfo): Tool to show the location of nearby cellular towers on a mobile device, tablet, or laptop
