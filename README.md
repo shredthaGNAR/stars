@@ -407,7 +407,7 @@ creating your own Awesome List by GitHub stars!
 * [lauthieb/code-notes](https://github.com/lauthieb/code-notes): (No longer maintained) A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 * [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2): CodeGeeX2: A More Powerful Multilingual Code Generation Model
 * [CodeverDotDev/codever](https://github.com/CodeverDotDev/codever): Bookmarks, Snippets and Notes Manager for Developers & Co (website)
-* [CollectionBuilder/collectionbuilder-gh](https://github.com/CollectionBuilder/collectionbuilder-gh): a Jekyll project to create a basic digital collection exhibit. See Readme below for instructions to get started!
+* [CollectionBuilder/collectionbuilder-gh](https://github.com/CollectionBuilder/collectionbuilder-gh): A framework for creating digital exhibits from a folder of files and a spreadsheet. See Readme below for instructions to get started!
 * [iShopifyExpert/color-swatches-as-sepreate-products](https://github.com/iShopifyExpert/color-swatches-as-sepreate-products): None
 * [NickBodliev/Color-variants-collection](https://github.com/NickBodliev/Color-variants-collection): A collection template which will show all the color variations of the product as an individual product on the collection page
 * [w0lfschild/colorfulSidebar](https://github.com/w0lfschild/colorfulSidebar): :open_file_folder: MacForge plugin to add color back to the sidebar icons in Finder on macOS
@@ -447,6 +447,7 @@ creating your own Awesome List by GitHub stars!
 * [luooooob/create-my-awesome](https://github.com/luooooob/create-my-awesome): Github Actions for automatically generating the personal awesome list from all of the repositories you starred.
 * [ololx/create-symlink](https://github.com/ololx/create-symlink): Create Symlink is a simple mac Automator workflow which provides a GUI for the symbolic links creation on macOS. There is an alternative https://github.com/ololx/quick-symlink
 * [schollz/croc](https://github.com/schollz/croc): Easily and securely send things from one computer to another :crocodile: :package:
+* [PlutoHDDev/CrossDrop](https://github.com/PlutoHDDev/CrossDrop): Crossdrop is a partial implementation of Google's Nearby Share in Flutter for macOS, iOS and Linux. Crossdrop is based on NearDrop, a Swift implementation of Nearby Share for macOS.
 * [warren-bank/crx-Tubi-TV](https://github.com/warren-bank/crx-Tubi-TV): website userscript: redirect embedded videos from "tubitv.com" to an external player
 * [Rob--W/crxviewer](https://github.com/Rob--W/crxviewer): Add-on / web app to view the source code of Chrome / Firefox / Opera 15 extensions and zip files.
 * [cedricbeau/css-gradient-generator](https://github.com/cedricbeau/css-gradient-generator): Générateur de gradient css en ligne
@@ -635,6 +636,7 @@ creating your own Awesome List by GitHub stars!
 * [andy-portmen/external-application-button](https://github.com/andy-portmen/external-application-button): Communicate with external applications of your OS through a toolbar button or context menu item.
 * [feller-prj/extractor-project](https://github.com/feller-prj/extractor-project): forked from iaextractor
 * [jotyGill/ezsh](https://github.com/jotyGill/ezsh): quickly install zsh, oh-my-zsh with power-level-9k zsh-completions zsh-autosuggestions zsh-syntax-highlighting history-substring-search
+* [mifi/ezshare](https://github.com/mifi/ezshare): Easily share files, folders and clipboard over LAN - Like Google Drive but without internet
 * [Raathigesh/fabulous](https://github.com/Raathigesh/fabulous): 🎨 CSS properties sidebar for VS Code
 * [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition): The world's simplest facial recognition api for Python and the command line
 * [dmhacker/facebook-message-analysis](https://github.com/dmhacker/facebook-message-analysis): Visualizations of Facebook messenger history
@@ -805,7 +807,7 @@ creating your own Awesome List by GitHub stars!
 * [MrOtherGuy/fx-nightly-changelog](https://github.com/MrOtherGuy/fx-nightly-changelog): Generated list of daily bug fixes
 * [hensm/fx_cast](https://github.com/hensm/fx_cast): Chromecast Web Sender SDK implementation for Firefox
 * [MrOtherGuy/FxChromeViewer](https://github.com/MrOtherGuy/FxChromeViewer): None
-* [johannchangpro/fz.sh](https://github.com/johannchangpro/fz.sh): Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
+* [mrjohannchang/fz.sh](https://github.com/mrjohannchang/fz.sh): Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
 * [junegunn/fzf](https://github.com/junegunn/fzf): :cherry_blossom: A command-line fuzzy finder
 * [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab): Replace zsh's default completion selection menu with fzf!
 * [perXautomatik/GAS-OneTabExportOrganizer](https://github.com/perXautomatik/GAS-OneTabExportOrganizer): OneTab -> googleSheets -> Clustering datasheet
@@ -1154,7 +1156,7 @@ creating your own Awesome List by GitHub stars!
 * [tetsuharuohzeki/linkplaces](https://github.com/tetsuharuohzeki/linkplaces): This is a add-on for Mozilla Firefox. This provides Sidebar to display "Unsorted Bookmarks" folder in Places, as "Temporary Links".
 * [velvia/links](https://github.com/velvia/links): Just a bunch of useful links
 * [cloux/LinkSanitizer](https://github.com/cloux/LinkSanitizer): Browser userscript to clean up hyperlink redirections and link shims
-* [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden): A self-hosted, open-source collaborative bookmark manager to collect, organize, and archive webpages.
+* [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden): A self-hosted, open-source collaborative bookmark manager to collect, organize, and preserve webpages.
 * [Shopify/liquid](https://github.com/Shopify/liquid): Liquid markup language. Safe, customer facing template language for flexible web apps. 
 * [EvgeniyMukhamedjanov/liquid-ajax-cart](https://github.com/EvgeniyMukhamedjanov/liquid-ajax-cart): Build a Shopify Ajax-cart without JavaScript coding
 * [harttle/liquidjs](https://github.com/harttle/liquidjs): A simple, expressive, safe and Shopify compatible template engine in pure JavaScript.
@@ -1440,6 +1442,7 @@ creating your own Awesome List by GitHub stars!
 * [sveinbjornt/osxiconutils](https://github.com/sveinbjornt/osxiconutils): A suite of command line utilities for working with Mac icons
 * [vasi/osxutils](https://github.com/vasi/osxutils): Mac-specific command line utilities (UPDATES)
 * [CptFoobar/Owl](https://github.com/CptFoobar/Owl): A Mozilla Firefox add-on to make online reading comfortable.
+* [seemoo-lab/owl](https://github.com/seemoo-lab/owl): An open Apple Wireless Direct Link (AWDL) implementation written in C
 * [AaronSoria/PAnalizer](https://github.com/AaronSoria/PAnalizer): PAnalizer is a forensic tool, you can search pornographic images in a specific directory, this is util in Pedestrian Detection. Also you can search a specific person in image set, is necesesary give to the aplication a few pictures of the person of interest
 * [projectdelphai/panorama-tab-groups](https://github.com/projectdelphai/panorama-tab-groups):  An add-on for Firefox that implements the old Tab Groups/Panorama functionality
 * [photodiode/panorama-view](https://github.com/photodiode/panorama-view): Add-on for Firefox letting you organize tabs and tab groups visually
@@ -1887,6 +1890,7 @@ creating your own Awesome List by GitHub stars!
 * [cmacrae/spacebar](https://github.com/cmacrae/spacebar): A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
 * [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt): :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
 * [friedPotat0/Spam-Scores](https://github.com/friedPotat0/Spam-Scores): Thunderbird add-on to display spam scores according to mail headers. Supports spam/ham score headers of Rspamd and SpamAssassin. The add-on adds a column with the overall spam score to the mail list view and shows details of any matched spam/ham rule.
+* [nightmare-space/speed_share](https://github.com/nightmare-space/speed_share): Speed Share is a highly available file sharing terminal on LAN(local area network) like airdrop developed by flutter framework.
 * [librespeed/speedtest](https://github.com/librespeed/speedtest): Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 * [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli): Command line interface for testing internet bandwidth using speedtest.net
 * [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli): Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
@@ -2352,7 +2356,7 @@ creating your own Awesome List by GitHub stars!
 * [DarrinTisdale/zsh-aliases-exa](https://github.com/DarrinTisdale/zsh-aliases-exa): zsh plugin adding aliases for the exa command-line tool
 * [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions): Additional completion definitions for Zsh.
 * [zsh-users/zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search): 🐠 ZSH port of Fish history search (up arrow)
-* [johannchangpro/zsh-interactive-cd](https://github.com/johannchangpro/zsh-interactive-cd): Fish like interactive tab completion for cd in zsh
+* [mrjohannchang/zsh-interactive-cd](https://github.com/mrjohannchang/zsh-interactive-cd): Fish like interactive tab completion for cd in zsh
 * [marlonrichert/zsh-launchpad](https://github.com/marlonrichert/zsh-launchpad): 🚀 Simple, educational dotfiles template to get started with Zsh and learn about its features
 * [MenkeTechnologies/zsh-more-completions](https://github.com/MenkeTechnologies/zsh-more-completions): Worlds largest collection of zsh completions
 * [lukechilds/zsh-nvm](https://github.com/lukechilds/zsh-nvm): Zsh plugin for installing, updating and loading nvm
