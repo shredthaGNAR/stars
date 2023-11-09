@@ -500,6 +500,7 @@ creating your own Awesome List by GitHub stars!
 * [desktop/desktop](https://github.com/desktop/desktop): Focus on what matters instead of fighting with Git.
 * [Windscribe/Desktop-App](https://github.com/Windscribe/Desktop-App): Windscribe 2.0 desktop client for Windows, Mac and Linux
 * [chriskol/Desktop-Google-Keep-OSX](https://github.com/chriskol/Desktop-Google-Keep-OSX): A Super Simple Desktop Client for Mac OSX Built in Javascript and MacGap
+* [b-inary/desktop-postflop](https://github.com/b-inary/desktop-postflop): [Development suspended] Advanced open-source Texas Hold'em GTO solver with optimized performance
 * [scriptingosx/desktoppr](https://github.com/scriptingosx/desktoppr): Simple command line tool to set the desktop picture on macOS
 * [TASEmulators/desmume](https://github.com/TASEmulators/desmume): DeSmuME is a Nintendo DS emulator
 * [shredthaGNAR/dev-new](https://github.com/shredthaGNAR/dev-new): None
@@ -679,6 +680,7 @@ creating your own Awesome List by GitHub stars!
 * [pellaeon/firefox-91plus-photon-userchrome](https://github.com/pellaeon/firefox-91plus-photon-userchrome): userChrome.css to restore the classic Photon look on Firefox 91+
 * [ACEx86/Firefox-about-config-tweaks](https://github.com/ACEx86/Firefox-about-config-tweaks): Firefox about:config useful tweaks.
 * [GitZip/firefox-addons](https://github.com/GitZip/firefox-addons): Firefox addons for GitZip
+* [Tagggar/Firefox-Alpha](https://github.com/Tagggar/Firefox-Alpha): 🗿 Super clear desktop browser with zero buttons and intuitive gesture controls
 * [GrosBourrin/FIREFOX-BLUE-MOON](https://github.com/GrosBourrin/FIREFOX-BLUE-MOON): Firefox blueish & dark theme 
 * [gabeweb/Firefox-Browser-Proton-Custom](https://github.com/gabeweb/Firefox-Browser-Proton-Custom): A custom userChrome.css for Firefox 86+ (February 2021). For personal purpose only. 
 * [anewuser/firefox-clean-dark-theme](https://github.com/anewuser/firefox-clean-dark-theme): Firefox dark theme with a less cluttered UI
@@ -1030,6 +1032,7 @@ creating your own Awesome List by GitHub stars!
 * [syedibrahim/IntruderDetectionCamera](https://github.com/syedibrahim/IntruderDetectionCamera): A Raspberry Pi based security camera to detect unknown person and raise alarm!
 * [iv-org/invidious](https://github.com/iv-org/invidious): Invidious is an alternative front-end to YouTube
 * [devcxm/iOS-Images-Extractor](https://github.com/devcxm/iOS-Images-Extractor): A Mac app to decode and extract images from iOS apps, support png/jpg/ipa/Assets.car files.
+* [BlackJack8/iOSAdblockList](https://github.com/BlackJack8/iOSAdblockList): Ultimate Host List for Mobile Adblockers (Focused on iOS)
 * [ShaleenM/IP-Camera](https://github.com/ShaleenM/IP-Camera): Change your android phone to surveillance camera
 * [axi0mX/ipwndfu](https://github.com/axi0mX/ipwndfu): open-source jailbreaking tool for many iOS devices
 * [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes): Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty
@@ -2236,6 +2239,7 @@ creating your own Awesome List by GitHub stars!
 * [mczachurski/wallpapper](https://github.com/mczachurski/wallpapper): :computer: Console application for creating dynamic wallpapers for macOS Mojave and newer
 * [cheap-glitch/warpgate](https://github.com/cheap-glitch/warpgate): 💫 A lightweight browser extension to jump to various external bookmarks from the address bar.
 * [moseoridev/WarpShare](https://github.com/moseoridev/WarpShare): An Open-source AirDrop Alternative
+* [b-inary/wasm-postflop](https://github.com/b-inary/wasm-postflop): [Development suspended] Advanced open-source Texas Hold'em GTO solver with optimized performance (web browser version)
 * [QNetITQ/WaveFox](https://github.com/QNetITQ/WaveFox): Firefox CSS Theme for manual customization
 * [RobinBoers/wavefox-lepton](https://github.com/RobinBoers/wavefox-lepton): :fox_face: Firefox UI fix. A combination of Lepton and Wavefox for Firefox 90-91
 * [JamieMagee/wayback](https://github.com/JamieMagee/wayback): Save pages to the Wayback Machine as part of your CI/CD pipeline
