@@ -265,6 +265,7 @@ creating your own Awesome List by GitHub stars!
 * [barrykn/big-sur-micropatcher](https://github.com/barrykn/big-sur-micropatcher): A primitive USB patcher for installing macOS Big Sur on unsupported Macs
 * [StarPlayrX/bigmac](https://github.com/StarPlayrX/bigmac): Big Mac, macOS 11 Big Sur and macOS Monterey disk installer and back up tool for Intel based Macs
 * [garywill/BigSearch](https://github.com/garywill/BigSearch): Browser extension. Definitly more than a GET/POST sender. Handily use search engines via a Flexible Tool! UI has Vimium-like feature 🌐🔍 (Pure-client. No 3rd-party server needed) 大术专搜 既专又广 手敲几下 纵横去往
+* [kdmukai/bitcoin_resources](https://github.com/kdmukai/bitcoin_resources): My starter pack for people new to the bewildering world of bitcoin.
 * [jnsdrtlf/bitwarden-menubar](https://github.com/jnsdrtlf/bitwarden-menubar): Bitwarden in the macOS menu bar
 * [black7375/BlaCk-Void-Zsh](https://github.com/black7375/BlaCk-Void-Zsh): 🔮 Awesome, Customable Zsh Starter Kit 🌠🌠
 * [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird): An OSINT tool to search for accounts by username in social networks.
@@ -374,6 +375,7 @@ creating your own Awesome List by GitHub stars!
 * [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity): ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
 * [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac): ChatGPT for Mac, living in your menubar.
 * [josStorer/chatGPT-search-engine-extension](https://github.com/josStorer/chatGPT-search-engine-extension): A browser extension to display ChatGPT response alongside Search Engine results
+* [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js): 🤖 A powerful, open source client-side JavaScript library for ChatGPT
 * [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN): ChatGPT DAN, Jailbreaks prompt
 * [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox): Integrating ChatGPT into your browser deeply, everything you need is here
 * [actions/checkout](https://github.com/actions/checkout): Action for checking out a repo
@@ -1092,7 +1094,7 @@ creating your own Awesome List by GitHub stars!
 * [kucherenko/jscpd](https://github.com/kucherenko/jscpd): Copy/paste detector for programming source code.
 * [jsdom/jsdom](https://github.com/jsdom/jsdom): A JavaScript implementation of various web standards, for use with Node.js
 * [1nfiniteloop/json-bookmarks](https://github.com/1nfiniteloop/json-bookmarks): Browser extension for Mozilla Firefox and Chrome for importing and exporting bookmarks with a json file
-* [lauriro/json-lite](https://github.com/lauriro/json-lite): Fast non-blocking JSON viewer for Chrome and Firefox
+* [litejs/json-lite](https://github.com/litejs/json-lite): Fast non-blocking JSON viewer for Chrome and Firefox
 * [Automattic/juice](https://github.com/Automattic/juice): Juice inlines CSS stylesheets into your HTML source.
 * [snark/jumpcut](https://github.com/snark/jumpcut): Minimalist clipboard management for macOS
 * [RealRaven2000/JunQuilla](https://github.com/RealRaven2000/JunQuilla): Adopted Thunderbird Add-on from Kent James - adds column with percent likelihood that a message is spam
@@ -1159,7 +1161,7 @@ creating your own Awesome List by GitHub stars!
 * [tetsuharuohzeki/linkplaces](https://github.com/tetsuharuohzeki/linkplaces): This is a add-on for Mozilla Firefox. This provides Sidebar to display "Unsorted Bookmarks" folder in Places, as "Temporary Links".
 * [velvia/links](https://github.com/velvia/links): Just a bunch of useful links
 * [cloux/LinkSanitizer](https://github.com/cloux/LinkSanitizer): Browser userscript to clean up hyperlink redirections and link shims
-* [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden): A self-hosted, open-source collaborative bookmark manager to collect, organize, and preserve webpages.
+* [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden): ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages.
 * [Shopify/liquid](https://github.com/Shopify/liquid): Liquid markup language. Safe, customer facing template language for flexible web apps. 
 * [EvgeniyMukhamedjanov/liquid-ajax-cart](https://github.com/EvgeniyMukhamedjanov/liquid-ajax-cart): Build a Shopify Ajax-cart without JavaScript coding
 * [harttle/liquidjs](https://github.com/harttle/liquidjs): A simple, expressive, safe and Shopify compatible template engine in pure JavaScript.
@@ -2240,7 +2242,7 @@ creating your own Awesome List by GitHub stars!
 * [cheap-glitch/warpgate](https://github.com/cheap-glitch/warpgate): 💫 A lightweight browser extension to jump to various external bookmarks from the address bar.
 * [moseoridev/WarpShare](https://github.com/moseoridev/WarpShare): An Open-source AirDrop Alternative
 * [b-inary/wasm-postflop](https://github.com/b-inary/wasm-postflop): [Development suspended] Advanced open-source Texas Hold'em GTO solver with optimized performance (web browser version)
-* [QNetITQ/WaveFox](https://github.com/QNetITQ/WaveFox): Firefox CSS Theme for manual customization
+* [QNetITQ/WaveFox](https://github.com/QNetITQ/WaveFox): Firefox CSS Theme/Style for manual customization
 * [RobinBoers/wavefox-lepton](https://github.com/RobinBoers/wavefox-lepton): :fox_face: Firefox UI fix. A combination of Lepton and Wavefox for Firefox 90-91
 * [JamieMagee/wayback](https://github.com/JamieMagee/wayback): Save pages to the Wayback Machine as part of your CI/CD pipeline
 * [internetarchive/wayback-machine-webextension](https://github.com/internetarchive/wayback-machine-webextension): A web browser extension for Chrome, Firefox, Edge, and Safari 14.
