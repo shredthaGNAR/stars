@@ -142,6 +142,7 @@ creating your own Awesome List by GitHub stars!
 * [mjolnirapp/AppGrid](https://github.com/mjolnirapp/AppGrid): macOS window manager with Vim–like hotkeys
 * [aaronfreimark/Apple-ID-AppleScript](https://github.com/aaronfreimark/Apple-ID-AppleScript): AppleScript to programatically create Apple IDs
 * [revblaze/AppleMusicUltra](https://github.com/revblaze/AppleMusicUltra): Music Client for macOS. Upgrade your music experience with themes, styles, custom scripting and more. Uses WebKit and JavaScript.
+* [mattrose/AppleNotes2Joplin](https://github.com/mattrose/AppleNotes2Joplin): Apple Notes to Joplin - Export Apple notes to Markdown in Joplin export format
 * [unforswearing/applescript](https://github.com/unforswearing/applescript): Applescript applets, snippets, resources, and links
 * [RichardBronosky/AppleScript-droplet](https://github.com/RichardBronosky/AppleScript-droplet): A template for creating Droplets for Mac OS X that will pass dropped files to an embedded script
 * [adriannier/applescript-functions](https://github.com/adriannier/applescript-functions): None
@@ -539,6 +540,7 @@ creating your own Awesome List by GitHub stars!
 * [mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge): WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
 * [jim60105/docker-youtube-dl](https://github.com/jim60105/docker-youtube-dl): Youtube錄影伺服器 (Docker Compose) https://blog.maki0419.com/2020/11/docker-youtube-dl-auto-recording-live-dl.html
 * [DeromirNeves/DockSeparator](https://github.com/DeromirNeves/DockSeparator): macOS utility to add multiple separators to Dock
+* [kstenschke/doShell](https://github.com/kstenschke/doShell): Headful automation on Linux and Mac OS
 * [zzamboni/dot-hammerspoon](https://github.com/zzamboni/dot-hammerspoon): My personal Hammerspoon configuration - mirrored from GitLab
 * [anishathalye/dotbot](https://github.com/anishathalye/dotbot): A tool that bootstraps your dotfiles ⚡️
 * [svetlyak40wt/dotfiler](https://github.com/svetlyak40wt/dotfiler): Shell agnostic git based dotfiles package manager, written in Python.
@@ -1559,6 +1561,7 @@ creating your own Awesome List by GitHub stars!
 * [diditforlulz273/PokerRL-Omaha](https://github.com/diditforlulz273/PokerRL-Omaha): Omaha Poker functionality+some features for PokerRL Reinforcement Learning card framwork
 * [goldfire/pokersolver](https://github.com/goldfire/pokersolver): Javascript poker hand solver.
 * [andrewprock/pokerstove](https://github.com/andrewprock/pokerstove): poker evaluation and enumeration software
+* [pilotmoon/PopClip-Extensions](https://github.com/pilotmoon/PopClip-Extensions): Source code extensions in the official PopClip Extensions directory.
 * [iSapozhnik/Popover](https://github.com/iSapozhnik/Popover): Custom macOS Popover 💬
 * [eight04/popup-tab](https://github.com/eight04/popup-tab): A Firefox addon, easily convert a tab into a popup and vice versa.
 * [Porco-Rosso/PorcoSpoon](https://github.com/Porco-Rosso/PorcoSpoon): My Versatile Hammerspoon Config
@@ -1930,6 +1933,8 @@ creating your own Awesome List by GitHub stars!
 * [Nuzair46/SpotX-Mac](https://github.com/Nuzair46/SpotX-Mac): Spotify Ad blocker based on SpotX for MacOS
 * [ziacto/spynet-camera](https://github.com/ziacto/spynet-camera): Allows to use your mobile device as an IP camera
 * [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh): Make images smaller using best-in-class codecs, right in the browser.
+* [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui): Stable Diffusion web UI
+* [AUTOMATIC1111/stable-diffusion-webui-aesthetic-gradients](https://github.com/AUTOMATIC1111/stable-diffusion-webui-aesthetic-gradients): Aesthetic gradients extension for web ui
 * [rchern/StackExchangeScripts](https://github.com/rchern/StackExchangeScripts): A collection of user scripts for StackExchange sites 
 * [abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed): 📋 Creating your own Awesome List of GitHub stars! 
 * [sagars007/starry-fox](https://github.com/sagars007/starry-fox): Firefox css stylesheets for the dark space theme. Matching more UI elements with the theme.
