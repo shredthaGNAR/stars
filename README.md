@@ -1327,7 +1327,7 @@ creating your own Awesome List by GitHub stars!
 * [balvin-perrie/mp3-converter](https://github.com/balvin-perrie/mp3-converter): a pure JS mp3 encoder for Chrome and Firefox browser
 * [mpdf/mpdf](https://github.com/mpdf/mpdf): PHP library generating PDF files from UTF-8 encoded HTML
 * [mpv-player/mpv](https://github.com/mpv-player/mpv): 🎥 Command line video player
-* [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes): :mag: A Complete Osint Tool
+* [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes):  A Complete Osint Tool :mag:
 * [bappygazi/MR.kirof-email-signature](https://github.com/bappygazi/MR.kirof-email-signature): None
 * [Toxblh/MTMR](https://github.com/Toxblh/MTMR): 🌟 [My TouchBar My rules]. The Touch Bar Customisation App for your MacBook Pro
 * [Toxblh/MTMR-presets](https://github.com/Toxblh/MTMR-presets): 💈 [My TouchBar My rules] Share your preset!
@@ -2189,7 +2189,7 @@ creating your own Awesome List by GitHub stars!
 * [Yuhanawa/UserScript](https://github.com/Yuhanawa/UserScript): 搜索引擎(百度/必应/谷歌)优化美化\快速切换|哔哩哔哩(bilibili)美化\移除评论区关键字搜索蓝字|CSDN 增强\极简化\沉浸式阅读\免登录复制|推特屏蔽过滤器|黄推屏蔽器|我的所有脚本👇
 * [Trinovantes/userscript-youtube-playlist-organizer](https://github.com/Trinovantes/userscript-youtube-playlist-organizer): Drag and drop interface to organize playlists on YouTube
 * [Infocatcher/UserScripts](https://github.com/Infocatcher/UserScripts): UserScripts for Firefox with Greasemonkey extension and (may be) for other browsers with user.js support
-* [Jorengarenar/UserScripts](https://github.com/Jorengarenar/UserScripts): An archive of some of my UserScripts
+* [Jorengarenar/UserScripts](https://github.com/Jorengarenar/UserScripts): An archive of some of my smaller UserScripts
 * [danydodson/userscripts](https://github.com/danydodson/userscripts):  🪚 Collection of UserScripts.
 * [darkred/Userscripts](https://github.com/darkred/Userscripts): My userscripts
 * [jerone/UserScripts](https://github.com/jerone/UserScripts): 🐵 My UserScripts
