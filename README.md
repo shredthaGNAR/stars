@@ -1434,7 +1434,7 @@ creating your own Awesome List by GitHub stars!
 * [openai/openai-cookbook](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
 * [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop): An open Apple AirDrop implementation written in Python
 * [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu): 🕹 Retro video game emulation for macOS
-* [Sankra/OpenFolderInVSCode](https://github.com/Sankra/OpenFolderInVSCode): With this macOS service, you can quickly open any given folder as a project in Visual Studio Code from the Finders context menu.
+* [hjerpbakk/OpenFolderInVSCode](https://github.com/hjerpbakk/OpenFolderInVSCode): With this macOS service, you can quickly open any given folder as a project in Visual Studio Code from the Finders context menu.
 * [evanp/openfollow](https://github.com/evanp/openfollow): Search server to find people on the federated social web
 * [OpenHoldem/openholdembot](https://github.com/OpenHoldem/openholdembot): OpenHoldem Poker Bot (free, open-source poker-bot for Texas Hold'em and Omaha)
 * [sozercan/OpenInCode](https://github.com/sozercan/OpenInCode): :open_file_folder: macOS Finder toolbar app to open current folder in Visual Studio Code
@@ -2330,7 +2330,7 @@ creating your own Awesome List by GitHub stars!
 * [execut/yii2-people-finder](https://github.com/execut/yii2-people-finder): Library for search peoples via social networks
 * [mattDavo/Yippy](https://github.com/mattDavo/Yippy): macOS open source clipboard manager
 * [soimort/you-get](https://github.com/soimort/you-get): :arrow_double_down: Dumb downloader that scrapes the web
-* [code-charity/youtube](https://github.com/code-charity/youtube): Top~3 YouTube Extension! Enrich your YouTube- & Video-experience & -choice [🧰90 lean Features 📌Longest-standing 👨‍👩‍👧‍👧🧩Please help] ⋮⚙️🎛️☕🎧🎞️📈🎨⏯️🎬🔊 youtube playback, content discovery, player, extra buttons, youtube distractions & related videos / suggestions. youtube shorts, youtube ads, quality, codec, full tab, full screen. ...
+* [code-charity/youtube](https://github.com/code-charity/youtube): [Top~3 YouTube Extension][🧰90 lean Features📌consistent (set & forget)📌Longest-standing](👨‍👩‍👧‍👧🧩Please help) "Enrich your YouTube- & Video-experience & -choice" ⋮⚙️🎛️☕🎧🎞️📈🎨⏯️🎬🔊 youtube playback, content discovery, player, extra buttons no distractions related videos shorts ads; quality codec; full tab full screen
 * [OsaSoft/youtube-better-subscriptions](https://github.com/OsaSoft/youtube-better-subscriptions): This extension for Firefox and Chrome aims to make navigating YouTube's subscription grid easier by allowing users to hide watched videos
 * [Jeeaaasus/youtube-dl](https://github.com/Jeeaaasus/youtube-dl): Automated yt-dlp Docker image
 * [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl): Command-line program to download videos from YouTube.com and other video sites
