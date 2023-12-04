@@ -44,7 +44,7 @@ creating your own Awesome List by GitHub stars!
 * [robertocaldas/AdbInstallService](https://github.com/robertocaldas/AdbInstallService): Simple adb install APK Automator Service for Mac with Notification
 * [Yuki2718/adblock](https://github.com/Yuki2718/adblock): Personal filters and rules for AdGuard/uBlock Origin
 * [adblockultimate/AdBlocker-Ultimate-for-Browsers](https://github.com/adblockultimate/AdBlocker-Ultimate-for-Browsers): AdBlocker Ultimate for Browsers
-* [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast): Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
+* [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast): Adblock Fast is a faster ad blocker for Windows, Android, iOS, Chrome, and Opera.
 * [evilpie/add-custom-search-engine](https://github.com/evilpie/add-custom-search-engine): Add a custom search engine to the list of available search engines in Firefox
 * [erichgoldman/add-url-to-window-title](https://github.com/erichgoldman/add-url-to-window-title): A Firefox addon which will put the web page address (URL) into the window's title. Useful for customizing KeePass's auto-type
 * [mozilla/addons-linter](https://github.com/mozilla/addons-linter): 🔍 Firefox Add-ons linter, written in JavaScript. 👁
@@ -2199,11 +2199,12 @@ creating your own Awesome List by GitHub stars!
 * [krisu5/userstyles](https://github.com/krisu5/userstyles): UserCSS for Stylus (for AniList, DuckDuckGo, Imgur, Twitter & more)
 * [MiRO92/uYou-for-YouTube](https://github.com/MiRO92/uYou-for-YouTube): The best tweak for the YouTube app
 * [qnblackcat/uYouPlus](https://github.com/qnblackcat/uYouPlus): uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
-* [arichorn/uYouPlusExtra](https://github.com/arichorn/uYouPlusExtra): uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
+* [arichorn/uYouPlusExtra](https://github.com/arichorn/uYouPlusExtra): uYouEnhanced is an expanded version of uYou+ (made by @qnblackcat) with additional features and mainly made for non jailbroken users!
 * [bchiang7/v4](https://github.com/bchiang7/v4): Fourth iteration of my personal website built with Gatsby
 * [Vallek/vallek-firefox-custom-css](https://github.com/Vallek/vallek-firefox-custom-css): Custom Firefox UI styles based on https://github.com/Aris-t2/CustomCSSforFx
 * [TeamVanced/VancedMicroG](https://github.com/TeamVanced/VancedMicroG): MicroG tweaked to work for applications such as Vanced.
 * [inotia00/VancedMicroG](https://github.com/inotia00/VancedMicroG): MicroG tweaked to work for applications such as Vanced.
+* [cuynu/vancedx](https://github.com/cuynu/vancedx): YouTube Vanced+ & YouTube Music Vanced+ Official Distribution
 * [vegetableman/vandal](https://github.com/vegetableman/vandal): Navigator for Web Archive
 * [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio): vCard is a fully responsive personal portfolio website, responsive for all devices.
 * [aclap-dev/vdhcoapp](https://github.com/aclap-dev/vdhcoapp): Companion application for Video DownloadHelper browser add-on
@@ -2370,7 +2371,6 @@ creating your own Awesome List by GitHub stars!
 * [sigma67/ytmusicapi](https://github.com/sigma67/ytmusicapi): Unofficial API for YouTube Music
 * [jamesbrindle/YTMusicUploader](https://github.com/jamesbrindle/YTMusicUploader): Automatically upload your music library and playlists to YouTube Music .Net Application. Upload songs to YouTube Music and bulk delete music and playlists from YouTube Music. C#.
 * [chibicitiberiu/ytsm](https://github.com/chibicitiberiu/ytsm): Self-hosted tool which manages your YouTube subscriptions, and downloads files automatically.
-* [cuynu/ytvancedx](https://github.com/cuynu/ytvancedx): YouTube Vanced+ & YouTube Music Vanced+ Official Distribution
 * [rupa/z](https://github.com/rupa/z): z - jump around
 * [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy): The ZAP core project
 * [zapSNH/zapsCoolPhotonTheme](https://github.com/zapSNH/zapsCoolPhotonTheme): A Firefox Photon theme originally made in early-2022, updated for Firefox 122.0a1
