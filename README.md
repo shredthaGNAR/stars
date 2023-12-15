@@ -1632,7 +1632,7 @@ creating your own Awesome List by GitHub stars!
 * [Watson1978/QLMarkdownGFM](https://github.com/Watson1978/QLMarkdownGFM): Quicklook plugin for Github Flavored Markdown
 * [Marginal/QLVideo](https://github.com/Marginal/QLVideo): This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files.
 * [srirangav/qlZipInfo](https://github.com/srirangav/qlZipInfo): MacOSX QuickLook Generator for zip, jar, tar, tar.gz (.tgz), tar.bz2 (.tbz2/.tbz), tar.Z, xar (.xar, .pkg), debian (.deb), RedHat Package Manager (.rpm), 7zip (.7z), xz, Microsoft cabinet (.cab), gzip (.gz), lha, BinHex 4.0 (.hqx), ePub (.epub), and Stuffit (.sit) archives, and ISO9660 images
-* [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes): QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
+* [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes): QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
 * [FrederikRogalski/QR-Reader-Mac](https://github.com/FrederikRogalski/QR-Reader-Mac): This Applescript reads QR Codes from the screen and processes them via zbar. It extracts the urls and automatically opens them in your standard browser.
 * [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy): Android real-time display control software
 * [Izheil/Quantum-Nox-Firefox-Dark-Full-Theme](https://github.com/Izheil/Quantum-Nox-Firefox-Dark-Full-Theme): A customizable full dark theme for Firefox. You can also add extra functions using the CSS and JS files here apart from the theme.
@@ -1706,10 +1706,10 @@ creating your own Awesome List by GitHub stars!
 * [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module): Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
 * [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager): 💊 Application to use ReVanced on Android 
 * [inotia00/revanced-manager](https://github.com/inotia00/revanced-manager): 💊 Application to use ReVanced on Android 
-* [luxysiv/revanced-nonroot](https://github.com/luxysiv/revanced-nonroot): Auto check and patch YouTube Revanced 
+* [luxysiv/revanced-nonroot](https://github.com/luxysiv/revanced-nonroot): Auto check and patch some apps from revanced/inotia00 sources
 * [ReVanced/revanced-patcher](https://github.com/ReVanced/revanced-patcher): 💉 ReVanced Patcher used to patch Android applications
-* [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches): 🧩 Patches for ReVanced
 * [inotia00/revanced-patches](https://github.com/inotia00/revanced-patches): 🧩 Patches for ReVanced
+* [ReVanced/revanced-patches-template](https://github.com/ReVanced/revanced-patches-template): 👋🧩ReVanced Patches template
 * [inotia00/ReVanced_Extended](https://github.com/inotia00/ReVanced_Extended): ReVanced Extended Issues/Request repo
 * [SinTan1729/ReVancedBuilder](https://github.com/SinTan1729/ReVancedBuilder): A tool to automatically build latest releases of ReVanced apps
 * [decipher3114/Revancify](https://github.com/decipher3114/Revancify): The only revancify
