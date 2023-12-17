@@ -261,6 +261,7 @@ creating your own Awesome List by GitHub stars!
 * [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox): Firefox speed, privacy, and security: a user.js template for configuration. Your favorite browser, but better.
 * [AlickH/BetterTouchBar](https://github.com/AlickH/BetterTouchBar): Use BetterTouchTool to make TouchBar better.
 * [mkozjak/bettertouchtool](https://github.com/mkozjak/bettertouchtool): BetterTouchTool configuration
+* [BitRacer/bettertouchtool-crypto](https://github.com/BitRacer/bettertouchtool-crypto): Crypto stock market prices for your Macbook Pro touch bar! (Bitcoin, Ethereum, Litecoin, Neo, and Civic)
 * [glock47/bettertouchtool-crypto](https://github.com/glock47/bettertouchtool-crypto): Crypto stock market prices for your Macbook Pro touch bar! (Bitcoin, Ethereum, Litecoin, Neo, and Civic)
 * [krunkosaurus/bettertouchtool-crypto](https://github.com/krunkosaurus/bettertouchtool-crypto): Crypto stock market prices for your Macbook Pro touch bar! (Bitcoin, Ethereum, Litecoin, Neo, and Civic)
 * [shoutcool/bettertouchtool-crypto](https://github.com/shoutcool/bettertouchtool-crypto): Crypto stock market prices for your Macbook Pro touch bar! (Bitcoin, Ethereum and Lamden)
@@ -597,6 +598,7 @@ creating your own Awesome List by GitHub stars!
 * [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru): Find duplicate files
 * [Peuj/duplicate-tabs-closer](https://github.com/Peuj/duplicate-tabs-closer): Duplicate Tabs Closer  - Detects and closes duplicate tabs for Chrome and Firefox.
 * [powerwolf543/DuplicateFinder](https://github.com/powerwolf543/DuplicateFinder): Duplicate Finder is a macOS application that is written by Swift. It's a useful tool that would help you find all duplicate files with the same names in the specific folder.
+* [duplicati/duplicati](https://github.com/duplicati/duplicati): Store securely encrypted backups in the cloud!
 * [adi1090x/dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper): A simple bash script to set wallpapers according to current time, using cron job scheduler.
 * [kush-agra/Dynamic_Walls](https://github.com/kush-agra/Dynamic_Walls): Replicating macOS Mojave's dynamic wallpaper feature
 * [plumk97/DynamicWallpaper](https://github.com/plumk97/DynamicWallpaper): Mac dynamic wallpaper program
