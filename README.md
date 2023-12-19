@@ -1105,7 +1105,7 @@ creating your own Awesome List by GitHub stars!
 * [JackGruber/joplin-plugin-tagging](https://github.com/JackGruber/joplin-plugin-tagging): Plugin to extend the Joplin tagging menu with a copy all tags and tagging dialog with more control.
 * [CalebJohn/joplin-rich-markdown](https://github.com/CalebJohn/joplin-rich-markdown): Helping you ditch the markdown viewer for good.
 * [forcewake/joplin-tags-generator](https://github.com/forcewake/joplin-tags-generator): Plugin for Joplin which can be used to extract keywords from note and assign them as a note's tags
-* [AngelCrawford/joplin-theme](https://github.com/AngelCrawford/joplin-theme): My private style for Joplin. It's build on top of the integrated "Dark" Theme included in Joplin. Inklusive a special Bullet Journal css style.
+* [AngelCrawford/joplin-theme](https://github.com/AngelCrawford/joplin-theme): My private style for Joplin. It's build on top of the integrated "Dark" Theme included in Joplin. Inclusive a special Bullet Journal CSS style.
 * [hrqmonteiro/joplin-theme](https://github.com/hrqmonteiro/joplin-theme): My Joplin theme files, including userchrome.css and userstyles.css, as well as some markdown templates for my notes.
 * [kveberg/joplin-theme](https://github.com/kveberg/joplin-theme): A few visual tweaks of stysebae's "joplin-vsc-material-theme"
 * [robotcorner/joplin-theme-dark-gruvbox](https://github.com/robotcorner/joplin-theme-dark-gruvbox): Inspired by "Mayukai Mirage Gruvbox Darktooth Theme" on VSCode
@@ -2072,6 +2072,7 @@ creating your own Awesome List by GitHub stars!
 * [bravetheskies/themekit-download-action](https://github.com/bravetheskies/themekit-download-action): A GitHub action that pulls changes from Shopify Theme Kit themes.
 * [brohlson/themekit-webpack-tailwind](https://github.com/brohlson/themekit-webpack-tailwind): Shopify Themekit with Webpack & Tailwind CSS 
 * [themerdev/themer](https://github.com/themerdev/themer): 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
+* [OceanicSquirrel/themes-for-ytmdesktop-player](https://github.com/OceanicSquirrel/themes-for-ytmdesktop-player): If you are using the https://github.com/ytmdesktop/ytmdesktop player, you can copy these CSS files to try different color themes. (This is not affiliated with YouTube or the ytmdesktop project)
 * [kerichdev/themes-for-ytmdesktop-player](https://github.com/kerichdev/themes-for-ytmdesktop-player): Youtube Music CSS themes to apply with any injector.
 * [knyar/theoldreader-chrome](https://github.com/knyar/theoldreader-chrome): Chrome extension for The Old Reader
 * [devmount/third-stats](https://github.com/devmount/third-stats): Thunderbird add-on turning your emails into beautifully visualized email account stats
