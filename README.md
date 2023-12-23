@@ -152,7 +152,7 @@ creating your own Awesome List by GitHub stars!
 * [abbeycode/AppleScripts](https://github.com/abbeycode/AppleScripts): My collection of scripts I've written over the years
 * [kevin-funderburg/AppleScripts](https://github.com/kevin-funderburg/AppleScripts): My collection of AppleScripts I've developed or acquired over the years.
 * [nathan-artist/AppleScripts](https://github.com/nathan-artist/AppleScripts): AppleScripts for use with OS X / macOS
-* [shreygan/applescripts](https://github.com/shreygan/applescripts): custom applescripts for btt
+* [shreygan/Applescripts](https://github.com/shreygan/Applescripts): custom applescripts for btt
 * [steventheworker/applescripts](https://github.com/steventheworker/applescripts): This is where I keep my applescript's and BetterTouchTool configuration, and some apps/automation's I use.
 * [wafflesnatcha/AppleScripts](https://github.com/wafflesnatcha/AppleScripts): ~/Library/Scripts
 * [JT5D/AppleTree](https://github.com/JT5D/AppleTree): Applescripts, apps, services, droplets, actions & automator workflows grow abudant on this Apple Tree, some fruit made by me, while many come from Web tuts & altruist worker bees
@@ -1491,7 +1491,6 @@ creating your own Awesome List by GitHub stars!
 * [projectdelphai/panorama-tab-groups](https://github.com/projectdelphai/panorama-tab-groups):  An add-on for Firefox that implements the old Tab Groups/Panorama functionality
 * [photodiode/panorama-view](https://github.com/photodiode/panorama-view): Add-on for Firefox letting you organize tabs and tab groups visually
 * [keiichi4e/paper-app](https://github.com/keiichi4e/paper-app): Unofficial Paper app for Mac
-* [shredthaGNAR/paper-app](https://github.com/shredthaGNAR/paper-app): Unofficial Paper app for Mac
 * [vict0rsch/PaperMemory](https://github.com/vict0rsch/PaperMemory): Your browser's reference manager: automatic paper detection (Arxiv, OpenReview & more), publication venue matching and code repository discovery! Also enhances ArXiv: BibTex citation, Markdown link, direct download and more!
 * [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme): Pixel perfect icon theme for Linux
 * [Paragon-Software-Group/paragon_firewall_ce](https://github.com/Paragon-Software-Group/paragon_firewall_ce): Paragon Firewall for Mac
