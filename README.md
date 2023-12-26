@@ -384,6 +384,7 @@ creating your own Awesome List by GitHub stars!
 * [Godiesc/Chameleons-Beauty](https://github.com/Godiesc/Chameleons-Beauty): Adapted "Beautiful" Themes
 * [jscher2000/change-maximized-to-resizable](https://github.com/jscher2000/change-maximized-to-resizable): Firefox Extension to Change Maximized New Window to Resizable 
 * [dtkdt100/Chat-GPT-for-Gmail](https://github.com/dtkdt100/Chat-GPT-for-Gmail): A browser extension to complete your email with the help of ChatGPT
+* [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox): Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux
 * [lencx/ChatGPT](https://github.com/lencx/ChatGPT): 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 * [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced): WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 * [adamlui/chatgpt-apps](https://github.com/adamlui/chatgpt-apps): 🤖 Apps that utilize the astounding power of ChatGPT or enhance its UX
@@ -942,7 +943,7 @@ creating your own Awesome List by GitHub stars!
 * [cheap-glitch/google-keep-to-clipboard](https://github.com/cheap-glitch/google-keep-to-clipboard): 🗒️ A tiny browser extension to copy the contents of Google Keep notes to the clipboard in various formats.
 * [kelyvin/Google-Messages-For-Desktop](https://github.com/kelyvin/Google-Messages-For-Desktop): A "native-like" OS X, Windows, & Linux desktop app for Google Messages
 * [mrishab/google-photos-delete-tool](https://github.com/mrishab/google-photos-delete-tool): Tool for deleting all photos from the Google Photos
-* [jmlntw/google-search-sidebar](https://github.com/jmlntw/google-search-sidebar): A user script and user style to move Google search tools to sidebar.
+* [mnghsn/google-search-sidebar](https://github.com/mnghsn/google-search-sidebar): A user script and user style to move Google search tools to sidebar.
 * [gglukmann/google-sheets-mapper](https://github.com/gglukmann/google-sheets-mapper): 📝  A library for getting data from Google Sheets API v4
 * [scrapewalrus/Google-Shopping-Scraper](https://github.com/scrapewalrus/Google-Shopping-Scraper): This is a python Google Shopping scraper that can scrape all the products by searching for a keyword.
 * [Ibit-to/google-unlocked](https://github.com/Ibit-to/google-unlocked): Google Unlocked browser extension uncensor google search results
@@ -958,6 +959,7 @@ creating your own Awesome List by GitHub stars!
 * [yinthewind/GPHud](https://github.com/yinthewind/GPHud): None
 * [vipintom/gpm2spotify](https://github.com/vipintom/gpm2spotify): Google Play Music to Spotify Library Exporter
 * [GPortfolio/GPortfolio](https://github.com/GPortfolio/GPortfolio): Creating an automatic portfolio based on Github profile
+* [giosilvi/GPT-Prompter](https://github.com/giosilvi/GPT-Prompter): Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3, GPT-4 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons
 * [zenangst/Gray](https://github.com/zenangst/Gray):  :first_quarter_moon: Tailor your macOS Mojave experience
 * [vitalif/grive2](https://github.com/vitalif/grive2): Google Drive client with support for new Drive REST API and partial sync
 * [tardisx/gropple](https://github.com/tardisx/gropple): Server and bookmarklet to download files via youtube-dl directly from your browser. Cross platform single binary installation, web browser configurable.
@@ -1501,6 +1503,7 @@ creating your own Awesome List by GitHub stars!
 * [sindresorhus/Pasteboard-Viewer](https://github.com/sindresorhus/Pasteboard-Viewer): 📋 Inspect the system pasteboards on macOS
 * [yozdas/PdfCombiner](https://github.com/yozdas/PdfCombiner): This is Automator app built in Mac
 * [benwiggy/PDFsuite](https://github.com/benwiggy/PDFsuite): Python scripts, Automator Services and Quartz Filters for MacOS (OS X) that create, manipulate, and query PDF files
+* [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner): Open-source mac app cleaner
 * [getpelican/pelican](https://github.com/getpelican/pelican): Static site generator that supports Markdown and reST syntax. Powered by Python.
 * [dgurkaynak/Penc](https://github.com/dgurkaynak/Penc): Trackpad-oriented window manager for macOS
 * [shash007/People-Search-on-Social-Networks-using-Face-Recognition](https://github.com/shash007/People-Search-on-Social-Networks-using-Face-Recognition): Searching people on social networking sites using Face Recognition
@@ -1687,6 +1690,7 @@ creating your own Awesome List by GitHub stars!
 * [vihanggodbole/reddit-pocket-sync](https://github.com/vihanggodbole/reddit-pocket-sync): None
 * [marioortizmanero/reddit-search-on-google](https://github.com/marioortizmanero/reddit-search-on-google): Button on Google to search only for Reddit posts
 * [tadwohlrapp/reddit-search-on-google](https://github.com/tadwohlrapp/reddit-search-on-google): A browser extension which adds a "Reddit" button to the Google search for only showing search results from reddit.
+* [Jorengarenar/RedditOld_MarkedJS.user.js](https://github.com/Jorengarenar/RedditOld_MarkedJS.user.js): Replace Markdown renderer on Old Reddit with MarkedJS
 * [refined-bitbucket/refined-bitbucket](https://github.com/refined-bitbucket/refined-bitbucket): Chrome and Firefox extension that improves Bitbucket's user experience
 * [refined-github/refined-github](https://github.com/refined-github/refined-github): :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 * [plibither8/refined-hacker-news](https://github.com/plibither8/refined-hacker-news): ✨ Hacker News, but refined — Interface tweaks and features to make the HN experience better
@@ -2223,7 +2227,6 @@ creating your own Awesome List by GitHub stars!
 * [Yuhanawa/UserScript](https://github.com/Yuhanawa/UserScript): 搜索引擎(百度/必应/谷歌)优化美化\快速切换|哔哩哔哩(bilibili)美化\移除评论区关键字搜索蓝字|CSDN 增强\极简化\沉浸式阅读\免登录复制|推特屏蔽过滤器|黄推屏蔽器|我的所有脚本👇
 * [Trinovantes/userscript-youtube-playlist-organizer](https://github.com/Trinovantes/userscript-youtube-playlist-organizer): Drag and drop interface to organize playlists on YouTube
 * [Infocatcher/UserScripts](https://github.com/Infocatcher/UserScripts): UserScripts for Firefox with Greasemonkey extension and (may be) for other browsers with user.js support
-* [Jorengarenar/UserScripts](https://github.com/Jorengarenar/UserScripts): An archive of some of my smaller UserScripts
 * [danydodson/userscripts](https://github.com/danydodson/userscripts):  🪚 Collection of UserScripts.
 * [darkred/Userscripts](https://github.com/darkred/Userscripts): My userscripts
 * [jerone/UserScripts](https://github.com/jerone/UserScripts): 🐵 My UserScripts
