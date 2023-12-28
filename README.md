@@ -1768,7 +1768,7 @@ creating your own Awesome List by GitHub stars!
 * [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy): Display and control your Android device
 * [hotchemi/Scre](https://github.com/hotchemi/Scre): A lightweight screen recorder macOS application written in SwiftUI.
 * [steventheworker/screenhook](https://github.com/steventheworker/screenhook): Background app to make up for BetterTouchTool's limitations. (eg: Run applescript on click (w/o modifier keys) or when connecting a display)
-* [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity): The most powerful screen recorder & annotation tool for Chrome 🎥
+* [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity): The free and privacy-friendly screen recorder with no limits 🎥
 * [duyquoc/ScreenToLayers](https://github.com/duyquoc/ScreenToLayers): macOS app to capture your screen as a layered PSD file
 * [raycast/script-commands](https://github.com/raycast/script-commands): Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
 * [tombowditch/scripts](https://github.com/tombowditch/scripts): General Scripts
@@ -2369,7 +2369,7 @@ creating your own Awesome List by GitHub stars!
 * [execut/yii2-people-finder](https://github.com/execut/yii2-people-finder): Library for search peoples via social networks
 * [mattDavo/Yippy](https://github.com/mattDavo/Yippy): macOS open source clipboard manager
 * [soimort/you-get](https://github.com/soimort/you-get): :arrow_double_down: Dumb downloader that scrapes the web
-* [code-charity/youtube](https://github.com/code-charity/youtube): [Top~3 YouTube & Video Extension]🧰90 clever features📌set & forget📌Longest-standing (Please help🧩👨‍👩‍👧‍👧) "Enrich your experience & -choice!"  -  ..⋮  {playback|content discovery|player|extra buttons|distractions|related videos|shorts|ads|quality|codec|full tab|full screen}
+* [code-charity/youtube](https://github.com/code-charity/youtube): [Top~3 YouTube & Video Extension] Enrich your experience & -choice! 🧰90 clever features📌set & forget📌Longest-standing (Please help🧩us👨‍👩‍👧‍👧) ..⋮  {playback|content discovery|player|extra buttons|distractions|related videos|shorts|ads|quality|codec|full tab|full screen}
 * [OsaSoft/youtube-better-subscriptions](https://github.com/OsaSoft/youtube-better-subscriptions): This extension for Firefox and Chrome aims to make navigating YouTube's subscription grid easier by allowing users to hide watched videos
 * [Jeeaaasus/youtube-dl](https://github.com/Jeeaaasus/youtube-dl): Automated yt-dlp Docker image
 * [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl): Command-line program to download videos from YouTube.com and other video sites
@@ -2417,7 +2417,7 @@ creating your own Awesome List by GitHub stars!
 * [mattmc3/zdotdir](https://github.com/mattmc3/zdotdir): My zsh config
 * [zbrateam/Zebra](https://github.com/zbrateam/Zebra): 🦓 A Useful Package Manager for iOS
 * [RealRaven2000/ZombieKeys](https://github.com/RealRaven2000/ZombieKeys): Thunderbird / Waterfox Add-on: ZombieKeys
-* [zotero/zotero-connectors](https://github.com/zotero/zotero-connectors): Chrome, Firefox, and Safari extensions for Zotero
+* [zotero/zotero-connectors](https://github.com/zotero/zotero-connectors): Chrome, Firefox, Edge, and Safari extensions for Zotero
 * [li-zyang/zScripts](https://github.com/li-zyang/zScripts): Repository of my userscripts
 * [zsh-users/zsh](https://github.com/zsh-users/zsh): Mirror of the Z shell source code repository.
 * [DarrinTisdale/zsh-aliases-exa](https://github.com/DarrinTisdale/zsh-aliases-exa): zsh plugin adding aliases for the exa command-line tool
