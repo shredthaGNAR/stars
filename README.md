@@ -671,7 +671,6 @@ creating your own Awesome List by GitHub stars!
 * [algolia/facebook-search](https://github.com/algolia/facebook-search): Facebook Feed Search powered by Algolia
 * [TheAdnan/facebook-video-download](https://github.com/TheAdnan/facebook-video-download): Facebook video downloader for Firefox
 * [bcat95/Facebook-Video-Downloader](https://github.com/bcat95/Facebook-Video-Downloader): Facebook Video Downloader
-* [sameera-madushan/Facebook-Video-Downloader](https://github.com/sameera-madushan/Facebook-Video-Downloader): Python script to download and save your favorite Facebook videos.
 * [vikas5914/Facebook-Video-Downloader](https://github.com/vikas5914/Facebook-Video-Downloader): Facebook Video Downloader in PHP 
 * [facebookresearch/faiss](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors.
 * [FakeFiller/fake-filler-extension](https://github.com/FakeFiller/fake-filler-extension): A browser extension for Chrome, Edge and Firefox that fills dummy text in all input fields in a page.
@@ -2031,7 +2030,7 @@ creating your own Awesome List by GitHub stars!
 * [MonterraByte/tab_move](https://github.com/MonterraByte/tab_move): Firefox addon that lets you move a tab to the start or the end of the tab bar
 * [menhera-org/TabArray](https://github.com/menhera-org/TabArray): Chrome-like tab groups using private and isolated containers: The ultimate tab manager and groups for Firefox.
 * [Bill13579/tabby](https://github.com/Bill13579/tabby): A web extension for managing great amounts of windows and tabs at ease.
-* [tabler/tabler-icons](https://github.com/tabler/tabler-icons): A set of over 4800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+* [tabler/tabler-icons](https://github.com/tabler/tabler-icons): A set of over 4900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 * [jakob/TableTool](https://github.com/jakob/TableTool): A simple CSV editor for the Mac
 * [lbragile/TabMerger](https://github.com/lbragile/TabMerger): TabMerger is a cross-browser extension that stores your tabs in a single place to save memory usage and increase your productivity.
 * [onemen/TabMixPlus](https://github.com/onemen/TabMixPlus): New Tab mix plus for modern Firefox
