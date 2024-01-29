@@ -80,7 +80,7 @@ creating your own Awesome List by GitHub stars!
 * [azai91/alfred-drive-workflow](https://github.com/azai91/alfred-drive-workflow): Alfred workflow to search google drive
 * [deanishe/alfred-firefox](https://github.com/deanishe/alfred-firefox): Search and control Firefox from Alfred
 * [edgarjs/alfred-github-repos](https://github.com/edgarjs/alfred-github-repos): Alfred workflow to easily open Github repositories
-* [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow): GitHub Workflow for Alfred 4
+* [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow): GitHub Workflow for Alfred
 * [aviaryan/alfred-last2imgur](https://github.com/aviaryan/alfred-last2imgur): Alfred workflow to upload the last screenshot taken to Imgur + (delete and minify image)
 * [nikitavoloboev/alfred-my-mind](https://github.com/nikitavoloboev/alfred-my-mind): Alfred workflow to search through my notes and bookmarks
 * [kostyafarber/alfred-notable-workflow](https://github.com/kostyafarber/alfred-notable-workflow): Search, open and make notes from Alfred 5 in Notable 📓
@@ -210,6 +210,7 @@ creating your own Awesome List by GitHub stars!
 * [klaufel/awesome-design-systems](https://github.com/klaufel/awesome-design-systems): 📒 A curated list of bookmarks, resources and articles about design systems focused on developers.
 * [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools): The best design tools and plugins for everything 👉
 * [prayash/awesome-gatsby](https://github.com/prayash/awesome-gatsby): ⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.
+* [devisasari/awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store): A curated list of awesome GPTs in the GPT Store
 * [ashfinal/awesome-hammerspoon](https://github.com/ashfinal/awesome-hammerspoon): awesome configuration for Hammerspoon.
 * [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant): A curated list of amazingly awesome Home Assistant resources.
 * [humanetech-community/awesome-humane-tech](https://github.com/humanetech-community/awesome-humane-tech): Promoting Solutions that Improve Wellbeing, Freedom and Society
@@ -423,6 +424,7 @@ creating your own Awesome List by GitHub stars!
 * [Clipy/Clipy](https://github.com/Clipy/Clipy): Clipboard extension app for macOS.
 * [ian4hu/Clipy](https://github.com/ian4hu/Clipy): Clipboard extension app for macOS.
 * [spieglt/Cloaker](https://github.com/spieglt/Cloaker): Simple, drag-and-drop, password-based file encryption
+* [infinitepower18/clone-in-vscode](https://github.com/infinitepower18/clone-in-vscode): Browser extension to clone any GitHub, GitLab or Bitbucket repository in Visual Studio Code
 * [webextensions/close-tab-by-double-right-click](https://github.com/webextensions/close-tab-by-double-right-click): Source code for Chrome/Firefox extension "Close Tab by Double Right Click"
 * [Aadil101/cloud](https://github.com/Aadil101/cloud): A clean storage management interface for Google Drive, Dropbox, Box, and OneDrive accounts.
 * [PHLAK/CloudDrop](https://github.com/PHLAK/CloudDrop): Store and retrieve files in cloud storage providers (i.e. Dropbox, Google Drive, Microsoft OneDrive, Amazon Cloud Drive, etc.)
@@ -723,6 +725,7 @@ creating your own Awesome List by GitHub stars!
 * [HamletDuFromage/firefox-css](https://github.com/HamletDuFromage/firefox-css): None
 * [Shadow-of-Colossus/Firefox-CSS](https://github.com/Shadow-of-Colossus/Firefox-CSS): A mish mash of css files to change Firefox appearance, more of old style
 * [akisblack/firefox-css](https://github.com/akisblack/firefox-css): My custom CSS for Firefox 
+* [deciare/firefox-css](https://github.com/deciare/firefox-css): Customisations to Firefox via userChrome.css
 * [pdtxie/firefox-css](https://github.com/pdtxie/firefox-css): None
 * [seatedSinger/Firefox-CSS](https://github.com/seatedSinger/Firefox-CSS): None
 * [NiBa97/firefox-css-custom](https://github.com/NiBa97/firefox-css-custom): A modified version of Andreas Grafen's "ag-proton" design for firefox
@@ -754,7 +757,7 @@ creating your own Awesome List by GitHub stars!
 * [leadweedy/Firefox-Proton-Square](https://github.com/leadweedy/Firefox-Proton-Square): Makes Firefox Proton UI square again
 * [wrestlerdude/Firefox-Proton-Square](https://github.com/wrestlerdude/Firefox-Proton-Square): Makes Firefox Proton UI look and feel like Quantum
 * [xpmn/firefox-reading-list](https://github.com/xpmn/firefox-reading-list): A minimal Firefox extension for saving pages to read later.
-* [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar): Refine the Firefox (100–121) find bar by repositioning it, adjusting spacing & styling internal elements.
+* [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar): Refine the Firefox (100–122) find bar by repositioning it, adjusting spacing & styling internal elements.
 * [mobiusxp/firefox-remap-private-browsing](https://github.com/mobiusxp/firefox-remap-private-browsing): UserChrome JS script to remap Firefox's Private Browsing to match everything else
 * [BGMP/firefox-revert-proton](https://github.com/BGMP/firefox-revert-proton): Revert Firefox Proton to Photon & Photon Compact
 * [denizjcan/Firefox-Safari-15-Theme](https://github.com/denizjcan/Firefox-Safari-15-Theme): A Firefox theme that emulates the Safari 15 interface and new tab page
@@ -971,6 +974,7 @@ creating your own Awesome List by GitHub stars!
 * [tardisx/gropple](https://github.com/tardisx/gropple): Server and bookmarklet to download files via youtube-dl directly from your browser. Cross platform single binary installation, web browser configurable.
 * [samfromaway/Gulp-Boilerplate01](https://github.com/samfromaway/Gulp-Boilerplate01): Boilerplate for a Gulp-Workflow for a Youtube video. If you are lazy like me and are always on the watch out of how you can optimize your workflow especially in regards to deploying a HTML CSS Javascript website this boilerplate is for you. 
 * [jasewarner/gulp-shopify](https://github.com/jasewarner/gulp-shopify): Blank slate Shopify theme for Developers, packaged with Gulp.js for processing SCSS, JavaScript (ES6), images and fonts. Made to support Online Store 2.0 features and Shopify CLI.
+* [SirAlidadi/HackBar](https://github.com/SirAlidadi/HackBar): Hackbar Firefox Extension
 * [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData): Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
 * [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh): Hackintosh long-term maintenance model EFI and installation tutorial
 * [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon): Staggeringly powerful macOS desktop automation with Lua
@@ -1973,6 +1977,7 @@ creating your own Awesome List by GitHub stars!
 * [JamesQuintero/Sports-Odds-Algorithms](https://github.com/JamesQuintero/Sports-Odds-Algorithms): System that calculates and uses algorithms to predict the outcome of NBA, NHL, and MLB sports games.
 * [SoslyLW/SportsOdds](https://github.com/SoslyLW/SportsOdds): A Pythagorean win expectation-based Monte Carlo simulator to determine the odds of NHL teams making the playoffs.
 * [w0lfschild/spotifyPlus](https://github.com/w0lfschild/spotifyPlus): 🎵 MacForge plugin to enhance the Spotify Desktop player on macOS
+* [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX): SpotX patcher used for patching the desktop version of Spotify
 * [Nuzair46/SpotX-Mac](https://github.com/Nuzair46/SpotX-Mac): Spotify Ad blocker based on SpotX for MacOS
 * [ziacto/spynet-camera](https://github.com/ziacto/spynet-camera): Allows to use your mobile device as an IP camera
 * [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh): Make images smaller using best-in-class codecs, right in the browser.
