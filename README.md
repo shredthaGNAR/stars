@@ -31,6 +31,7 @@ creating your own Awesome List by GitHub stars!
 * [tortious/2021_Firefox](https://github.com/tortious/2021_Firefox): Updated config settings & possibilities for Firefox. This includes all file types (css; uc.js; js; etc) and other tips and tricks, including about:config tweaks
 * [rsapkf/42](https://github.com/rsapkf/42): @rsapkf's wiki. [Merged into rsapkf/www]
 * [Lexxrt/9xe3](https://github.com/Lexxrt/9xe3): 🔍sᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ ʟᴏᴏᴋᴜᴘ🔍
+* [pfcao/abookmark](https://github.com/pfcao/abookmark): Advanced bookmark & tab manager
 * [earthlng/aboutconfig](https://github.com/earthlng/aboutconfig): None
 * [garywill/aboutconfig-menu](https://github.com/garywill/aboutconfig-menu): Shortcuts to settings in about:config (universal), through a button on toolbar. Firefox userChrome script 🛠️
 * [abp-filters/abp-filters-anti-cv](https://github.com/abp-filters/abp-filters-anti-cv): None
@@ -394,6 +395,7 @@ creating your own Awesome List by GitHub stars!
 * [adamlui/chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue): ⏩ Automatically continue generating multiple ChatGPT responses
 * [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension): This project is deprecated. Check my new project ChatHub:
 * [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity): ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
+* [swyxio/chatgpt-mac](https://github.com/swyxio/chatgpt-mac): ChatGPT for Mac, living in your menubar.
 * [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac): ChatGPT for Mac, living in your menubar.
 * [yokoffing/ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts): ChatGPT and Bing AI prompt curation
 * [josStorer/chatGPT-search-engine-extension](https://github.com/josStorer/chatGPT-search-engine-extension): A browser extension to display ChatGPT response alongside Search Engine results
@@ -1260,6 +1262,7 @@ creating your own Awesome List by GitHub stars!
 * [schappim/macOCR](https://github.com/schappim/macOCR): Get any text on your screen into your clipboard.
 * [xulihang/macOCR](https://github.com/xulihang/macOCR): Command line OCR tool using macOS's VNRecognizeTextRequest
 * [temochka/macos-automation](https://github.com/temochka/macos-automation): A collection of my macOS automation scripts (Alfred Workflows, AppleScript, and JXA)
+* [SKaplanOfficial/macOS-Automation-Resources](https://github.com/SKaplanOfficial/macOS-Automation-Resources): Resources for MacOS automation languages
 * [dosdude1/macos-catalina-patcher](https://github.com/dosdude1/macos-catalina-patcher): macOS Catalina Patcher (http://dosdude1.com/catalina)
 * [kevinSuttle/macOS-Defaults](https://github.com/kevinSuttle/macOS-Defaults): A centralized place for the awesome work started by @mathiasbynens on .macos
 * [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults): Incomplete list of macOS `defaults` commands with demos ✨
@@ -1448,6 +1451,7 @@ creating your own Awesome List by GitHub stars!
 * [iansinnott/one-dark-tab](https://github.com/iansinnott/one-dark-tab): Like OneTab, but darker.
 * [benfaerber/one-monokai-firefox-devtools](https://github.com/benfaerber/one-monokai-firefox-devtools): A theme for Firefox Devtools
 * [simurai/one-vibrancy](https://github.com/simurai/one-vibrancy): Vibrancy effect for Atom One themes
+* [ikki4/OneTab-Backup](https://github.com/ikki4/OneTab-Backup): Python script to backup your OneTab data. Can be scheduled with Windows' Task Scheduler to run automatically.
 * [busyxiang/OneTab-Backup-Automation](https://github.com/busyxiang/OneTab-Backup-Automation): Automated Python Script to backup your OneTab data
 * [ikki4/OneTab-Backup-Automation](https://github.com/ikki4/OneTab-Backup-Automation): Automated Python Script to backup your OneTab data
 * [dpschen/onetab-export-script](https://github.com/dpschen/onetab-export-script): A simple browser script that helps exporting saved OneTab meta data 
@@ -1460,6 +1464,8 @@ creating your own Awesome List by GitHub stars!
 * [Packetslave/onetab-to-bookmarks](https://github.com/Packetslave/onetab-to-bookmarks): Convert a OneTab bookmark export to the standard HTML bookmark export format
 * [one-tab-group/onetab.group](https://github.com/one-tab-group/onetab.group): This repo just to collect user feedback.
 * [MAKIO135/OneTab2Pocket](https://github.com/MAKIO135/OneTab2Pocket): Bookmarklet sending OneTab links to Pocket 
+* [lolonao/onetab2sqlite3](https://github.com/lolonao/onetab2sqlite3): Script to import export data from OneTab browser extension into SQLite3. I will add the ability to search by keywords or categories.
+* [alan1world/onetab_data_archiver](https://github.com/alan1world/onetab_data_archiver): A data archiver script for use with OneTab browser extension, and Google Keep as a bonus
 * [endcloud/onetab_restore_tauri](https://github.com/endcloud/onetab_restore_tauri): An App for backing up and better displaying Onetab data Powered by Tauri.
 * [Enan01/OneTabClear](https://github.com/Enan01/OneTabClear): Quickly clear OneTab tag group.
 * [sueszli/oneTabScraper](https://github.com/sueszli/oneTabScraper): oneTab bookmark collection → plaintext
