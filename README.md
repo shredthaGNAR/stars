@@ -344,6 +344,7 @@ creating your own Awesome List by GitHub stars!
 * [mkbabb/btt-scripts](https://github.com/mkbabb/btt-scripts): A collection of utility scripts for Better Touch Tool.
 * [dynle/btt-simple-airpods-battery-widget](https://github.com/dynle/btt-simple-airpods-battery-widget): Simple AirPods battery btt widget for macOS Ventura
 * [vas3k/btt-touchbar-presets](https://github.com/vas3k/btt-touchbar-presets): BetterTouchTool Touch Bar Presets
+* [Zidious/BTT-TouchBarScript](https://github.com/Zidious/BTT-TouchBarScript): BetterTouchTool(BTT) Cryptocurrency Python Scripts Powered by CoinGecko API
 * [elv1n/btt-window-manager-preset](https://github.com/elv1n/btt-window-manager-preset): BetterTouchTool Window Manager Preset
 * [noonchen/BTT_AppleWirelessHeadphone](https://github.com/noonchen/BTT_AppleWirelessHeadphone): Toggle and display battery info of apple wireless headphones on the touch bar
 * [noonchen/BTT_NightShiftSlider](https://github.com/noonchen/BTT_NightShiftSlider): A BetterTouchTool widget to control Night Shift strength
@@ -858,6 +859,7 @@ creating your own Awesome List by GitHub stars!
 * [junegunn/fzf](https://github.com/junegunn/fzf): :cherry_blossom: A command-line fuzzy finder
 * [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab): Replace zsh's default completion selection menu with fzf!
 * [perXautomatik/GAS-OneTabExportOrganizer](https://github.com/perXautomatik/GAS-OneTabExportOrganizer): OneTab -> googleSheets -> Clustering datasheet
+* [tssandor/gasbar](https://github.com/tssandor/gasbar): Ethereum Gas Fee for the MacBook Pro touchbar (using BetterTouchTool)
 * [2ndalpha/gasmask](https://github.com/2ndalpha/gasmask): Hosts file manager for OS X
 * [ttscoff/gather-cli](https://github.com/ttscoff/gather-cli): None
 * [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby): The best React-based framework with performance, scalability and security built in.
@@ -1324,6 +1326,7 @@ creating your own Awesome List by GitHub stars!
 * [qsniyg/maxurl](https://github.com/qsniyg/maxurl): Finds larger/original versions of images and videos
 * [tanrax/maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking): Local ad blocker. Like Pi-hole but local and using your operating system.
 * [ryosama/mbox_spliter](https://github.com/ryosama/mbox_spliter): Split large mbox files (from hunderbird) into smaller one, class by year of the message
+* [olivierodo/MBP-BTT-activity-monitor-touchbar](https://github.com/olivierodo/MBP-BTT-activity-monitor-touchbar):  Activity monitor toolbar widget for the Macbook Pro
 * [olivierodo/MBP-BTT-spotify-touchbar](https://github.com/olivierodo/MBP-BTT-spotify-touchbar):  Spotify touchbar widget for Macbook touchbar
 * [lightward/mechanic-tasks](https://github.com/lightward/mechanic-tasks): Public task repository for Mechanic (https://mechanic.dev)
 * [mhogomchungu/media-downloader](https://github.com/mhogomchungu/media-downloader): Media Downloader is a Qt/C++ front end to yt-dlp, youtube-dl, gallery-dl, lux, you-get, svtplay-dl, aria2c, wget and safari books..
@@ -1541,7 +1544,7 @@ creating your own Awesome List by GitHub stars!
 * [thlorenz/phe](https://github.com/thlorenz/phe): Poker hand evaluator
 * [fabiospampinato/phoenix](https://github.com/fabiospampinato/phoenix): My Phoenix setup. Powerful, easy to customize, tuned for web development, adds a space switcher.
 * [kasper/phoenix](https://github.com/kasper/phoenix): A lightweight macOS window and app manager scriptable with JavaScript
-* [phcode-dev/phoenix](https://github.com/phcode-dev/phoenix): Phoenix is a modern open-source IDE for the web, built for the browser. 
+* [phcode-dev/phoenix](https://github.com/phcode-dev/phoenix): Phoenix is a modern open-source Code Editor for the web, built for the browser. 
 * [garrow/phoenix-configurations](https://github.com/garrow/phoenix-configurations): My custom configurations for the Phoenix macOS window Manager, ( https://github.com/kasper/phoenix )
 * [FranklinDM/Phosphor](https://github.com/FranklinDM/Phosphor): Relive the monochrome screens of yesterday.
 * [DhruvRoy247/Photo-Trans](https://github.com/DhruvRoy247/Photo-Trans): Image Search Web Application
