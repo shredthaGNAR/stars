@@ -1827,6 +1827,7 @@ creating your own Awesome List by GitHub stars!
 * [rak3n/SecuritySttream](https://github.com/rak3n/SecuritySttream): an Alfred Camera like solution for motion detection and streaming based on react-native
 * [seekr-osint/seekr](https://github.com/seekr-osint/seekr): A multi-purpose OSINT toolkit with a neat web-interface.
 * [Pitmairen/selection-search](https://github.com/Pitmairen/selection-search): Search extension for the chrome web browser
+* [emvaized/selecton-extension](https://github.com/emvaized/selecton-extension): Selecton provides popup with actions on text selection in all major browsers
 * [bitwarden/self-host](https://github.com/bitwarden/self-host): Bitwarden's self-hosted release repository
 * [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide): Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
 * [pluja/Selfhosted-Google-Photos-Alternative](https://github.com/pluja/Selfhosted-Google-Photos-Alternative): A complete guide on exiting Google, Amazon or any proprietary service Photos storage with all the features you would want.
@@ -1916,6 +1917,7 @@ creating your own Awesome List by GitHub stars!
 * [alfredapp/shortcuts-workflow](https://github.com/alfredapp/shortcuts-workflow): Run installed macOS shortcuts
 * [crittermike/shortkeys](https://github.com/crittermike/shortkeys): A browser extension for custom keyboard shortcuts 
 * [kuldeepghodasara/Show-Payment-icons-to-Shopify-Dynamically](https://github.com/kuldeepghodasara/Show-Payment-icons-to-Shopify-Dynamically): Script to Show Payment icons to Shopify Dynamically [add it to footer.liquid]
+* [shredthaGNAR/shredthagnar.github.io](https://github.com/shredthaGNAR/shredthagnar.github.io): ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 * [garywill/sidebar-switch](https://github.com/garywill/sidebar-switch): Switch for Firefox's native sidebar. A slim vertical button on left of main content. Replace the legacy addon All in One Sidebar. You can open sidebar by clicking edge of screen. (runs on ff115) 🪟
 * [SideStore/SideStore](https://github.com/SideStore/SideStore): SideStore is a fork of AltStore that doesn't require an AltServer.
 * [thsmi/sieve](https://github.com/thsmi/sieve): Sieve Script Editor
@@ -2223,6 +2225,7 @@ creating your own Awesome List by GitHub stars!
 * [aahung/Unshaky](https://github.com/aahung/Unshaky): A software attempt to address the "double key press" issue on Apple's butterfly keyboard [not actively maintained]
 * [UnstoppableSwap/unstoppableswap-gui](https://github.com/UnstoppableSwap/unstoppableswap-gui): XMR<>BTC Atomic Swaps GUI
 * [blenderskool/untab](https://github.com/blenderskool/untab): 🔍 A productivity tool to boost your browser workflow!
+* [TheLoserCoder/unvisited_tabs_indicator](https://github.com/TheLoserCoder/unvisited_tabs_indicator): None
 * [alfredapp/update-automation-tasks-workflow](https://github.com/alfredapp/update-automation-tasks-workflow): Update Automation Tasks During Alfred 5 Early Access
 * [alfredapp/updated-third-party-python2-workflows](https://github.com/alfredapp/updated-third-party-python2-workflows): Third-party Python 2 Workflows updated to work on macOS Monterey 12.3 and above
 * [actions/upload-artifact](https://github.com/actions/upload-artifact): None
