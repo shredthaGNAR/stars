@@ -287,6 +287,7 @@ creating your own Awesome List by GitHub stars!
 * [danielmiessler/blackhat-arsenal-tools](https://github.com/danielmiessler/blackhat-arsenal-tools): Official Black Hat Arsenal Security Tools Repository
 * [anudeepND/blacklist](https://github.com/anudeepND/blacklist): Curated and well-maintained hostfile to block ads, tracking, cryptomining, and more! Updated regularly. ⚡🔒
 * [EnergizedProtection/block](https://github.com/EnergizedProtection/block): Let's make an annoyance free, better open internet, altogether!
+* [Nuzair46/BlockTheSpot-Mac](https://github.com/Nuzair46/BlockTheSpot-Mac): Spotify Ad blocker for MacOS
 * [RickStrahl/BlogPosts](https://github.com/RickStrahl/BlogPosts): None
 * [Filip-Sutkowy/blurclean-firefox-theme](https://github.com/Filip-Sutkowy/blurclean-firefox-theme): Clean, transparent firefox theme
 * [skylineone044/blurclean-firefox-theme](https://github.com/skylineone044/blurclean-firefox-theme): Clean, transparent firefox theme
@@ -310,6 +311,7 @@ creating your own Awesome List by GitHub stars!
 * [aerobless/bookmarks](https://github.com/aerobless/bookmarks): Personal browser launch page. Made with static-marks.
 * [dyu/bookmarks](https://github.com/dyu/bookmarks): a simple self-hosted bookmarking app that can import bookmarks from delicious and chrome
 * [gietema/bookmarks](https://github.com/gietema/bookmarks): Script that syncs pocket to my bookmarks page
+* [twolfson/bookmarks](https://github.com/twolfson/bookmarks): Webpage representing a collection of bookmarks
 * [brian-girko/bookmarks-commander](https://github.com/brian-girko/bookmarks-commander): A two-panel bookmarks manager which is similar to the well-known Total Commander.
 * [radam9/bookmarks-converter](https://github.com/radam9/bookmarks-converter): Parse db/html/json bookmarks file from (Chrome - Firefox - Custom source) and convert it to db/html/json format.
 * [scraggo/bookmarks-markdown-utils](https://github.com/scraggo/bookmarks-markdown-utils): Collection of command-line tools for Chrome, OneTab, Evernote, and FireFox bookmark management. The tools are mostly to convert proprietary formats to markdown and organizing and add tags.
@@ -391,6 +393,7 @@ creating your own Awesome List by GitHub stars!
 * [jscher2000/change-maximized-to-resizable](https://github.com/jscher2000/change-maximized-to-resizable): Firefox Extension to Change Maximized New Window to Resizable 
 * [dtkdt100/Chat-GPT-for-Gmail](https://github.com/dtkdt100/Chat-GPT-for-Gmail): A browser extension to complete your email with the help of ChatGPT
 * [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox): Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux
+* [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT): OpenAI API Free Reverse Proxy
 * [khzg/ChatGPT](https://github.com/khzg/ChatGPT): Ai Chat everywhere (firefox addons)
 * [lencx/ChatGPT](https://github.com/lencx/ChatGPT): 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 * [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced): WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
@@ -1300,7 +1303,7 @@ creating your own Awesome List by GitHub stars!
 * [fharper/macsetup](https://github.com/fharper/macsetup): Scripts to setup my mac
 * [Pilaton/MacSync](https://github.com/Pilaton/MacSync): Easy sync for macOS. Dotfiles, folders, configurations, etc.
 * [macvim-dev/macvim](https://github.com/macvim-dev/macvim): Vim - the text editor - for macOS
-* [section83/MacYTDL](https://github.com/section83/MacYTDL): A macOS GUI front-end for the youtube-dl video downloader
+* [section83/MacYTDL](https://github.com/section83/MacYTDL): A macOS GUI front-end for the YT-DLP video downloader
 * [samschott/maestral](https://github.com/samschott/maestral): Open-source Dropbox client for macOS and Linux
 * [alfredapp/magic-8-ball-workflow](https://github.com/alfredapp/magic-8-ball-workflow): A simple workflow that makes use of the Random utility to answer your questions like a classic magic 8-ball
 * [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk): The Magic Mask for Android
@@ -1518,6 +1521,7 @@ creating your own Awesome List by GitHub stars!
 * [soxoj/osint-namecheckers-list](https://github.com/soxoj/osint-namecheckers-list): A list of tools to search accounts by username
 * [rly0nheart/osinteye](https://github.com/rly0nheart/osinteye): Username enumeration & reconnaisance suite
 * [awareseven/OSINTsources](https://github.com/awareseven/OSINTsources): This is a repo containing several osint sources
+* [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo): Turn GitHub into a bookmark manager
 * [caballerofelipe/osx-automator-services](https://github.com/caballerofelipe/osx-automator-services): Some services meant to make life a little easier
 * [olafhartong/osx-defaults](https://github.com/olafhartong/osx-defaults): All my default config stuff for mac
 * [msikma/osx-folder-icons](https://github.com/msikma/osx-folder-icons): Colorful folder icons for macOS to help you organize your projects
@@ -2010,7 +2014,6 @@ creating your own Awesome List by GitHub stars!
 * [SoslyLW/SportsOdds](https://github.com/SoslyLW/SportsOdds): A Pythagorean win expectation-based Monte Carlo simulator to determine the odds of NHL teams making the playoffs.
 * [w0lfschild/spotifyPlus](https://github.com/w0lfschild/spotifyPlus): 🎵 MacForge plugin to enhance the Spotify Desktop player on macOS
 * [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX): SpotX patcher used for patching the desktop version of Spotify
-* [Nuzair46/SpotX-Mac](https://github.com/Nuzair46/SpotX-Mac): Spotify Ad blocker based on SpotX for MacOS
 * [ziacto/spynet-camera](https://github.com/ziacto/spynet-camera): Allows to use your mobile device as an IP camera
 * [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh): Make images smaller using best-in-class codecs, right in the browser.
 * [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui): Stable Diffusion web UI
