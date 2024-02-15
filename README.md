@@ -261,6 +261,7 @@ creating your own Awesome List by GitHub stars!
 * [cnwangjie/better-onetab-sync-server](https://github.com/cnwangjie/better-onetab-sync-server): This is the sync server for better-onetab. Please don't submit PR to master directly.
 * [AnthonyRobertson17/better-touch-tool](https://github.com/AnthonyRobertson17/better-touch-tool): All of my personal better-touch-tool config files
 * [songhao/BetterAndBetter](https://github.com/songhao/BetterAndBetter): BetterAndBetter 是一款包含很多功能的 macOS 软件。
+* [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT): An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
 * [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord): Better Discord enhances Discord desktop app with new features.
 * [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay): Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, virtual screens, PIP and lots more!
 * [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox): Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
@@ -1322,6 +1323,7 @@ creating your own Awesome List by GitHub stars!
 * [sunshinev/markdown-image-upload-github](https://github.com/sunshinev/markdown-image-upload-github): 将图片通过Alfred-workflow上传到github，并且返回markdown格式的图片语法
 * [simov/markdown-viewer](https://github.com/simov/markdown-viewer): Markdown Viewer / Browser Extension
 * [deathau/markdownload](https://github.com/deathau/markdownload): A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
+* [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit): Just like TextEdit on Mac but dedicated to Markdown.
 * [marktext/marktext](https://github.com/marktext/marktext): 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 * [soxoj/marple](https://github.com/soxoj/marple): 📖 Collect links to profiles by username through search engines and analyze with various plugins
 * [arp242/MartinFox](https://github.com/arp242/MartinFox): Really simple userChrome.css for Firefox 89 to make the active tab stand out more
