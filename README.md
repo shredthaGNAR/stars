@@ -1317,6 +1317,7 @@ creating your own Awesome List by GitHub stars!
 * [Clipy/Magnet](https://github.com/Clipy/Magnet): Customize global hotkeys in macOS.
 * [soxoj/maigret](https://github.com/soxoj/maigret): 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 * [peci1/mailing-list-filter](https://github.com/peci1/mailing-list-filter): Thunderbird mail filter search term using mailing lists (and not whole addressbooks).
+* [apparition47/MailTrackerBlocker](https://github.com/apparition47/MailTrackerBlocker): Email tracker, read receipt and spy pixel blocker plugin for Apple's default macOS Mail
 * [mangtronix/MangTouchBar](https://github.com/mangtronix/MangTouchBar): Minimalist Touch Bar setup
 * [neilsardesai/Manila](https://github.com/neilsardesai/Manila): A Finder extension for changing folder colors
 * [AbhishekKalavadiya/maper](https://github.com/AbhishekKalavadiya/maper): A location-based website using React as Frontend and NodeJs, ExpressJS as backend, and MongoDB as Database. On this website, I had use MapBox for the world map and React-Mapbox-gl for configuration. We can select the place where we had visited and added the photo URL, so the entry will be seen on the map and in the visited place area. We can delete or modify the changes in the Entry we had created. It is a responsive website with live location of a point on the map. The Backend is deployed on Heroku and the frontend is deployed on Netlify.
@@ -1764,7 +1765,7 @@ creating your own Awesome List by GitHub stars!
 * [leemunroe/responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template): A free simple responsive HTML email template
 * [hanacchi/RestoreFirefoxJS](https://github.com/hanacchi/RestoreFirefoxJS): userChromeJS scripts to restore Firefox features that have been removed or changed
 * [briangershon/retrieve-pocket-bookmarks](https://github.com/briangershon/retrieve-pocket-bookmarks): Retrieves your bookmarks and meta data from Pocket API (via https://getpocket.com/developer/docs/v3/retrieve)
-* [cormiertyshawn895/Retroactive](https://github.com/cormiertyshawn895/Retroactive): Run Aperture, iPhoto, and iTunes on macOS Ventura, macOS Monterey, macOS Big Sur, and macOS Catalina. Xcode 11.7 on macOS Mojave. Final Cut Pro 7, Logic Pro 9, and iWork ’09 on macOS Mojave or macOS High Sierra.
+* [cormiertyshawn895/Retroactive](https://github.com/cormiertyshawn895/Retroactive): Retroactive only receives limited support. Run Aperture, iPhoto, and iTunes on macOS Sonoma, macOS Ventura, macOS Monterey, macOS Big Sur, and macOS Catalina. Xcode 11.7 on macOS Mojave. Final Cut Pro 7, Logic Pro 9, and iWork ’09 on macOS Mojave or macOS High Sierra.
 * [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root): Automatic Repository build Revanced and Revanced Extended non-root version
 * [n0k0m3/revanced-build-template](https://github.com/n0k0m3/revanced-build-template): Github Template for building Revanced
 * [reisxd/revanced-builder](https://github.com/reisxd/revanced-builder): A NodeJS ReVanced builder
@@ -2295,7 +2296,7 @@ creating your own Awesome List by GitHub stars!
 * [n3cr0cr0w/userscripts](https://github.com/n3cr0cr0w/userscripts): User Scripts for bingeing
 * [sagiegurari/userscripts-ads-dom-remover](https://github.com/sagiegurari/userscripts-ads-dom-remover): Removes Ad Containers from DOM (doesn't replace adblocker extension, but blocks dynamic content which the adblocker fails to block by removing whole sections from the HTML DOM.)
 * [krisu5/userstyles](https://github.com/krisu5/userstyles): UserCSS for Stylus (for AniList, DuckDuckGo, Imgur, Twitter & more)
-* [MiRO92/uYou-for-YouTube](https://github.com/MiRO92/uYou-for-YouTube): The best tweak for the YouTube app
+* [MiRO92/uYou-for-YouTube](https://github.com/MiRO92/uYou-for-YouTube): Enhance Your YouTube Experience
 * [arichornlover/uYouEnhanced](https://github.com/arichornlover/uYouEnhanced): uYouEnhanced is an expanded version of uYou+ (made by @qnblackcat) with additional features and mainly made for non jailbroken users!
 * [qnblackcat/uYouPlus](https://github.com/qnblackcat/uYouPlus): uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
 * [bchiang7/v4](https://github.com/bchiang7/v4): Fourth iteration of my personal website built with Gatsby
