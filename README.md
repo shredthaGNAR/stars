@@ -70,6 +70,7 @@ creating your own Awesome List by GitHub stars!
 * [xwmx/airport](https://github.com/xwmx/airport): A command line / terminal tool for Wi-Fi on macOS / OS X.
 * [SethuSenthil/AirPush](https://github.com/SethuSenthil/AirPush): The all in one AirMessage (iMessage) script you can forget about
 * [pinetum/AirUnlock-for-Mac](https://github.com/pinetum/AirUnlock-for-Mac): Using android phone to establish a connection with your Mac via Bluetooth low-energy (BLE), controlling Mac lock state (Lock or Unlock).
+* [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter): macOS menubar tool to set Charge Limits and prolong battery lifespan
 * [ajrosen/Alfred](https://github.com/ajrosen/Alfred): Alfred workflows
 * [kkanzelmeyer/alfred](https://github.com/kkanzelmeyer/alfred): Raspberry pi webcam and motion sensor project
 * [kevin-funderburg/alfred-bettertouchtool-gestures](https://github.com/kevin-funderburg/alfred-bettertouchtool-gestures): Use Alfred to quickly search through all the trackpad gestures within BetterTouchTool
@@ -635,6 +636,7 @@ creating your own Awesome List by GitHub stars!
 * [bmFtZQ/edge-frfox](https://github.com/bmFtZQ/edge-frfox): A Firefox userChrome.css theme that aims to recreate the look and feel of Microsoft Edge.
 * [maicol07/edge-frfox](https://github.com/maicol07/edge-frfox): A Firefox userChrome.css theme that aims to recreate the look and feel of the Chromium version of Microsoft Edge.
 * [23Bluemaster23/EdgeFox](https://github.com/23Bluemaster23/EdgeFox): Is a userchrome that imitates (or attempts to imitate) the style of Microsoft's Edge Chromiun browser. is a project in development./Es un userchrome que imita (o intenta imitar) el estilo del navegador Edge Chromiun de Microsoft. es un proyecto en desarrollo.
+* [artsyfriedchicken/EdgyArc-fr](https://github.com/artsyfriedchicken/EdgyArc-fr): Firefox Userchrome and sidebery style
 * [cleidigh/EditEmailSubject-MX](https://github.com/cleidigh/EditEmailSubject-MX): Conversion exercise for Thunderbird MailExtensions
 * [codewizard13/ehw-app-scrape-onetab-links](https://github.com/codewizard13/ehw-app-scrape-onetab-links): Scrape OneTab links and produce HTML that can be saved for backup
 * [G3root/Eisen-Matrix](https://github.com/G3root/Eisen-Matrix): 🎯 Eisen Matrix is a prioritization app that uses Eisenhower matrix technique as workflow to prioritize a list of tasks & built with React Native for learning purposes.
@@ -1361,7 +1363,7 @@ creating your own Awesome List by GitHub stars!
 * [duolingo/metasearch](https://github.com/duolingo/metasearch): Search aggregator for Slack, Google Docs, GitHub, and more :mag:
 * [alexta69/metube](https://github.com/alexta69/metube): Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 * [nanocortex/metube-firefox-addon](https://github.com/nanocortex/metube-firefox-addon): Firefox addon for queueing videos to MeTube instance.
-* [WSTxda/MicroG-RE](https://github.com/WSTxda/MicroG-RE): GmsCore fork for ReVanced with beautiful UI, features and improvements
+* [WSTxda/MicroG-RE](https://github.com/WSTxda/MicroG-RE): GmsCore fork for ReVanced with Material You, features and improvements
 * [cl3m/MiddleClick](https://github.com/cl3m/MiddleClick): Emulate a middleclick with triple tap on MacBook trackpad and Magic Mouse.
 * [artginzburg/MiddleClick-Sonoma](https://github.com/artginzburg/MiddleClick-Sonoma):  "Wheel click" with three-finger click/tap for Trackpad and Magic Mouse.
 * [Midnight-Lizard/Midnight-Lizard](https://github.com/Midnight-Lizard/Midnight-Lizard): Сustom color schemes for all websites
@@ -1574,6 +1576,7 @@ creating your own Awesome List by GitHub stars!
 * [pooja-v-dev/php-drive-s3](https://github.com/pooja-v-dev/php-drive-s3): Read a Google Drive account, list files in a folder and move selected file to S3.
 * [YukisCoffee/phroton](https://github.com/YukisCoffee/phroton): Firefox Proton userChrome.css for an accurate Photon theme.
 * [bltavares/pickpocket](https://github.com/bltavares/pickpocket): Pocket CLI management tools
+* [ppati000/pickpocket](https://github.com/ppati000/pickpocket): Pickpocket imports Pocket links to Safari reading list. 
 * [RooneyMcNibNug/pihole-stuff](https://github.com/RooneyMcNibNug/pihole-stuff): blocklists, scripts, etc.
 * [jyssh/pin-unpin-tab](https://github.com/jyssh/pin-unpin-tab): Firefox add-on to pin or unpin current tab in more efficient ways.
 * [pinterest/PINCache](https://github.com/pinterest/PINCache): Fast, non-deadlocking parallel object cache for iOS, tvOS and OS X
@@ -1590,6 +1593,7 @@ creating your own Awesome List by GitHub stars!
 * [pock/pock](https://github.com/pock/pock): Widgets manager for MacBook Touch Bar
 * [knowfox/pocket](https://github.com/knowfox/pocket): Knowfox: Retrieve bookmarks from getpocket.com
 * [tapanpandita/pocket](https://github.com/tapanpandita/pocket): A python wrapper for the pocket api.
+* [ChingizAdamov/Pocket-Bot](https://github.com/ChingizAdamov/Pocket-Bot): Pocket bot for saving your favourite links
 * [ildella/pocket-cli](https://github.com/ildella/pocket-cli): Interactive terminal app for Pocket - read it later / bookmark application by @Mozilla - https://getpocket.com/
 * [cshtdd/pocket-data-exporter](https://github.com/cshtdd/pocket-data-exporter): Export your pocket data
 * [kevinpollet/pocket-deduper](https://github.com/kevinpollet/pocket-deduper): Remove duplicates from your Pocket list.
@@ -1597,16 +1601,20 @@ creating your own Awesome List by GitHub stars!
 * [JeanDavidDaviet/Pocket-Export](https://github.com/JeanDavidDaviet/Pocket-Export): None
 * [krewast/pocket-export-chrome-import-converter](https://github.com/krewast/pocket-export-chrome-import-converter): Export bookmarks from Pocket and import them into Chrome
 * [rtward/pocket-import](https://github.com/rtward/pocket-import): A small script to upload a list of URLs into pocket
+* [haroldo-ok/pocket-platformer-exporter](https://github.com/haroldo-ok/pocket-platformer-exporter): Converts html files exported by pocket-platformer (https://the-l0bster.itch.io/pocket-platformer) into formats that should be more easily exported to other engines.
 * [mmagnus/Pocket-Plus-Calibre-Plugin](https://github.com/mmagnus/Pocket-Plus-Calibre-Plugin): 📚 Modified version of the Calibre plugin for Pocket. Now, you get your articles organized by your Pocket tags, and more!
+* [eebmagic/pocket-pull](https://github.com/eebmagic/pocket-pull): Pull links from your pocket account and save them as text files with links
 * [andyw8/pocket-ruby](https://github.com/andyw8/pocket-ruby): Ruby wrapper for the Pocket REST and Search APIs
 * [ShockwaveNN/pocket-sinatra-interface](https://github.com/ShockwaveNN/pocket-sinatra-interface): Sinatra-based web interface for pocket api
 * [sanghviharshit/pocket-tagger](https://github.com/sanghviharshit/pocket-tagger): 📖👓🏷Tag your getpocket.com articles automatically using natural language processing
 * [gullitmiranda/pocket-to-raindrop](https://github.com/gullitmiranda/pocket-to-raindrop): Script to export bookmarks from https://getpocket.com to https://raindrop.io.
 * [dogsheep/pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite): Create a SQLite database containing data from your Pocket account
+* [kevinlebrun/pocket-triage](https://github.com/kevinlebrun/pocket-triage): A simple way to clean up your Pocket links in close to no time.
 * [tadeussenf/pocket-wiki](https://github.com/tadeussenf/pocket-wiki): Alternative User Interface for getpocket.com
 * [knilling/pocket2csv](https://github.com/knilling/pocket2csv): None
 * [msoap/pocket2dropbox](https://github.com/msoap/pocket2dropbox): Backup Pocket articles to Dropbox
 * [lobre/pocket2notion](https://github.com/lobre/pocket2notion): Tool for migrating Pocket items to Notion
+* [andriy-denysenko/pocket2pocket](https://github.com/andriy-denysenko/pocket2pocket): Lets you exchange Pocket links between accounts (console)
 * [ryderstorm/pocket_article_exporter](https://github.com/ryderstorm/pocket_article_exporter): None
 * [billpalombi/pocket_parse](https://github.com/billpalombi/pocket_parse): Script to parse the html export from Pocket and write out a csv
 * [nlbao/pocket_stats](https://github.com/nlbao/pocket_stats): A tool to analyze your Pocket reading list.
@@ -1743,6 +1751,7 @@ creating your own Awesome List by GitHub stars!
 * [vihanggodbole/reddit-pocket-sync](https://github.com/vihanggodbole/reddit-pocket-sync): None
 * [marioortizmanero/reddit-search-on-google](https://github.com/marioortizmanero/reddit-search-on-google): Button on Google to search only for Reddit posts
 * [tadwohlrapp/reddit-search-on-google](https://github.com/tadwohlrapp/reddit-search-on-google): A browser extension which adds a "Reddit" button to the Google search for only showing search results from reddit.
+* [umbrae/reddit-top-2.5-million](https://github.com/umbrae/reddit-top-2.5-million): This is a dataset of the all-time top 1,000 posts, from the top 2,500 subreddits by subscribers, pulled from reddit between August 15–20, 2013.
 * [Jorengarenar/RedditOld_MarkedJS.user.js](https://github.com/Jorengarenar/RedditOld_MarkedJS.user.js): Replace Markdown renderer on Old Reddit with MarkedJS
 * [refined-bitbucket/refined-bitbucket](https://github.com/refined-bitbucket/refined-bitbucket): Chrome and Firefox extension that improves Bitbucket's user experience
 * [refined-github/refined-github](https://github.com/refined-github/refined-github): :octocat: Browser extension that simplifies the GitHub interface and adds useful features
@@ -1770,7 +1779,7 @@ creating your own Awesome List by GitHub stars!
 * [n0k0m3/revanced-build-template](https://github.com/n0k0m3/revanced-build-template): Github Template for building Revanced
 * [reisxd/revanced-builder](https://github.com/reisxd/revanced-builder): A NodeJS ReVanced builder
 * [XDream8/revanced-creator](https://github.com/XDream8/revanced-creator): Create Revanced apps easily ☠️
-* [ReVanced/revanced-documentation](https://github.com/ReVanced/revanced-documentation): 🗄 Documentation and guides for ReVanced
+* [ReVanced/revanced-documentation](https://github.com/ReVanced/revanced-documentation): 🗄 Collection of all ReVanced documentation
 * [inotia00/revanced-documentation](https://github.com/inotia00/revanced-documentation): 🗄 Documentation and guides for ReVanced Extended
 * [NoName-exe/revanced-extended](https://github.com/NoName-exe/revanced-extended): ReVanced eXtended YT and YT-M for both root and non-root users.
 * [ReVanced/revanced-integrations](https://github.com/ReVanced/revanced-integrations): 🔩 ReVanced Integrations containing classes to be merged by ReVanced Patcher
@@ -1851,6 +1860,7 @@ creating your own Awesome List by GitHub stars!
 * [bitwarden/self-host](https://github.com/bitwarden/self-host): Bitwarden's self-hosted release repository
 * [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide): Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
 * [pluja/Selfhosted-Google-Photos-Alternative](https://github.com/pluja/Selfhosted-Google-Photos-Alternative): A complete guide on exiting Google, Amazon or any proprietary service Photos storage with all the features you would want.
+* [umbrae/Serendipity](https://github.com/umbrae/Serendipity): /r/serendipity is a meta-subreddit meant to broaden the perspective of its subscribers. It takes a popular entry from a random subreddit and posts it every few hours. If you want to increase your exposure to niche subreddits, or just your perspective on things on the web in general, serendipity might help you do that. But it might not. It's a bot, after all.
 * [LeeluPradhan/Service-accounts-seperator-AutoRclone](https://github.com/LeeluPradhan/Service-accounts-seperator-AutoRclone): To split google service accounts after 10 accounts, to add in google group easily and use autorclone!
 * [aderyabin/ServPane](https://github.com/aderyabin/ServPane): A launchd menu bar app for Mac
 * [oxen-io/session-android](https://github.com/oxen-io/session-android): A private messenger for Android.
