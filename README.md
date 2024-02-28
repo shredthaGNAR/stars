@@ -265,7 +265,7 @@ creating your own Awesome List by GitHub stars!
 * [songhao/BetterAndBetter](https://github.com/songhao/BetterAndBetter): BetterAndBetter 是一款包含很多功能的 macOS 软件。
 * [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT): An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
 * [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord): Better Discord enhances Discord desktop app with new features.
-* [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay): Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, virtual screens, PIP and lots more!
+* [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay): Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
 * [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox): Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 * [AlickH/BetterTouchBar](https://github.com/AlickH/BetterTouchBar): Use BetterTouchTool to make TouchBar better.
 * [mkozjak/bettertouchtool](https://github.com/mkozjak/bettertouchtool): BetterTouchTool configuration
@@ -1335,6 +1335,7 @@ creating your own Awesome List by GitHub stars!
 * [mas-cli/mas](https://github.com/mas-cli/mas): :package: Mac App Store command line interface
 * [massCodeIO/massCode](https://github.com/massCodeIO/massCode): A free and open source code snippets manager for developers
 * [material-components/material-components-web](https://github.com/material-components/material-components-web): Modular and customizable Material Design UI components for the web
+* [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated): Firefox theme looks similar to Chrome
 * [fmeyertoens/MaterialFox](https://github.com/fmeyertoens/MaterialFox): A Material Design-inspired userChrome.css theme for Firefox
 * [te6-in/MaterialFox-BigSur](https://github.com/te6-in/MaterialFox-BigSur): 🦊 A cleaner, more refined userChrome.css theme for Firefox—forked from MaterialFox
 * [typeling1578/MaterialFox-Plus](https://github.com/typeling1578/MaterialFox-Plus): A Material Design-inspired userChrome.css theme for Firefox. This repository is a Fork of muckSponge/MaterialFox.
