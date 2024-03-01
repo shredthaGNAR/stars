@@ -1230,6 +1230,7 @@ creating your own Awesome List by GitHub stars!
 * [libreddit/libreddit](https://github.com/libreddit/libreddit): Private front-end for Reddit
 * [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube): An alternative frontend for YouTube, for Android.
 * [hnhx/librex](https://github.com/hnhx/librex): Framework and javascript free privacy respecting meta search engine
+* [Ahwxorg/LibreY](https://github.com/Ahwxorg/LibreY): Framework and JS free privacy respecting meta search engine
 * [Shopify/lighthouse-ci-action](https://github.com/Shopify/lighthouse-ci-action): None
 * [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse): The mouse and trackpad utility for Mac.
 * [ddawson/Link-Tools](https://github.com/ddawson/Link-Tools): Configurable copy and visit operations for links in Firefox
@@ -1439,7 +1440,6 @@ creating your own Awesome List by GitHub stars!
 * [garywill/newtab-btn-menu](https://github.com/garywill/newtab-btn-menu): FIrefox open URL in clipboard by right-clicking new-tab-button then use context menu. Create new tab button's context menu with a menu item to open clipboard URL in new tab. 📋🖱️🔗
 * [garywill/newTabClipboardUrl](https://github.com/garywill/newTabClipboardUrl): Quickly create new tab opening URL from clipboard. Firefox addon 📋🖱️🔗
 * [thewhiteh4t/nexfil](https://github.com/thewhiteh4t/nexfil): OSINT tool for finding profiles by username
-* [Karchensky/nhl_api_modeling](https://github.com/Karchensky/nhl_api_modeling): NHL API scraper ++ stats database ++ predictive modeling ++ odds calculator
 * [nghtfall/nightfall-vsc](https://github.com/nghtfall/nightfall-vsc): a blue-ish gray with a purple accent color palette for Visual Studio Code.
 * [calibr/node-bookmarks-parser](https://github.com/calibr/node-bookmarks-parser): Parses Firefox/Chrome HTML bookmarks files
 * [alex-phillips/node-clouddrive](https://github.com/alex-phillips/node-clouddrive): Node SDK and CLI for Amazon's Cloud Drive
@@ -1589,7 +1589,7 @@ creating your own Awesome List by GitHub stars!
 * [nicinabox/plistbuddy](https://github.com/nicinabox/plistbuddy): A handy tool to manipulate plist files. Useful for iOS development.
 * [joplin/plugin-templates](https://github.com/joplin/plugin-templates): Create templates in Joplin and use them to create new notes and todos.
 * [Dis90/plugin.video.discoveryplus](https://github.com/Dis90/plugin.video.discoveryplus): discovery+ add-on for Kodi
-* [joplin/plugins](https://github.com/joplin/plugins): Joplin official plugin repository. For issues, please use https://github.com/laurent22/joplin/issues
+* [joplin/plugins](https://github.com/joplin/plugins): Joplin official plugin repository
 * [withfig/plugins](https://github.com/withfig/plugins): Plugin store for zsh, bash & fish.
 * [pock/pock](https://github.com/pock/pock): Widgets manager for MacBook Touch Bar
 * [knowfox/pocket](https://github.com/knowfox/pocket): Knowfox: Retrieve bookmarks from getpocket.com
@@ -1848,6 +1848,8 @@ creating your own Awesome List by GitHub stars!
 * [meanii/Search4](https://github.com/meanii/Search4): Search people on the Internet.
 * [diegov/searchbox](https://github.com/diegov/searchbox): Personal crawling and indexing
 * [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper): Yet another awesome web extension for switching search engines, can also search anything (selection text / image / link / find in page) on any engine with a simple right click or a variety of menus and shortcuts. Build with React & Material-UI. (WIP). 搜索酱/搜尋醬/検索ちゃん
+* [ttscoff/searchlink](https://github.com/ttscoff/searchlink): None
+* [ttscoff/searchlink-plugins](https://github.com/ttscoff/searchlink-plugins): None
 * [EmySaulIntec/SearchPeople](https://github.com/EmySaulIntec/SearchPeople): Search images in your phone based in three photo of a person
 * [searx/searx](https://github.com/searx/searx): Privacy-respecting metasearch engine
 * [searxng/searxng](https://github.com/searxng/searxng): SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
@@ -2393,8 +2395,8 @@ creating your own Awesome List by GitHub stars!
 * [webcomponents/webcomponentsjs](https://github.com/webcomponents/webcomponentsjs): A suite of polyfills supporting the HTML Web Components specs
 * [subins2000/WebDrop](https://github.com/subins2000/WebDrop): Easiest group P2P File & Message transfer in browser with WebRTC 🔥. Cross-platform alternative to Apple's AirDrop, Xender, ShareIT with the same speed over LAN. No installation, just a website :)
 * [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill): A lightweight polyfill library for Promise-based WebExtension APIs in Chrome
-* [sblask/webextension-skip-redirect](https://github.com/sblask/webextension-skip-redirect): Some web pages use intermediary pages before redirecting to a final page. This add-on tries to extract the final url from the intermediary url and goes there straight away if successful.
-* [sblask/webextension-tab-deque](https://github.com/sblask/webextension-tab-deque): A Firefox extension for better tab handling.
+* [sblask-webextensions/webextension-skip-redirect](https://github.com/sblask-webextensions/webextension-skip-redirect): Some web pages use intermediary pages before redirecting to a final page. This add-on tries to extract the final url from the intermediary url and goes there straight away if successful.
+* [sblask-webextensions/webextension-tab-deque](https://github.com/sblask-webextensions/webextension-tab-deque): A Firefox extension for better tab handling.
 * [webextension-toolbox/webextension-toolbox](https://github.com/webextension-toolbox/webextension-toolbox): Small CLI toolbox for cross-browser WebExtension development
 * [tpamula/webextension-window-titler](https://github.com/tpamula/webextension-window-titler): Label your Firefox windows and profiles by modifying window title
 * [mdn/webextensions-examples](https://github.com/mdn/webextensions-examples): Example Firefox add-ons created using the WebExtensions API
@@ -2429,6 +2431,7 @@ creating your own Awesome List by GitHub stars!
 * [Team-xManager/xManager](https://github.com/Team-xManager/xManager): Ad-Free, New Features & Freedom
 * [xnotepp/xnote](https://github.com/xnotepp/xnote): Sources for the XNote++ Thunderbird add-on.
 * [koekeishiya/yabai](https://github.com/koekeishiya/yabai): A tiling window manager for macOS based on binary space partitioning
+* [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT): Locally running, hands-free ChatGPT UI
 * [hendrikbgr/YandexMail-Account-Creator](https://github.com/hendrikbgr/YandexMail-Account-Creator): 🚀 Create hundreds of free YandexMail Email Accounts in the matter of minutes 🚀
 * [roleoroleo/yi-hack-Allwinner](https://github.com/roleoroleo/yi-hack-Allwinner): Custom firmware for Yi 1080p camera based on Allwinner platform
 * [roleoroleo/yi-hack-Allwinner-v2](https://github.com/roleoroleo/yi-hack-Allwinner-v2): Custom firmware for Yi 1080p camera based on Allwinner platform

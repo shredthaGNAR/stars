@@ -104,6 +104,9 @@
     "Aholicknight/IMDb-Scout": [
         "Other"
     ],
+    "Ahwxorg/LibreY": [
+        "Other"
+    ],
     "Airmail/AirmailPlugIn-Framework": [
         "Other"
     ],
@@ -813,9 +816,6 @@
         "Other"
     ],
     "KURANADO2/hammerspoon-kuranado": [
-        "Other"
-    ],
-    "Karchensky/nhl_api_modeling": [
         "Other"
     ],
     "Karna98/Save-Tabs": [
@@ -6068,10 +6068,10 @@
     "sbarex/SourceCodeSyntaxHighlight": [
         "Other"
     ],
-    "sblask/webextension-skip-redirect": [
+    "sblask-webextensions/webextension-skip-redirect": [
         "Other"
     ],
-    "sblask/webextension-tab-deque": [
+    "sblask-webextensions/webextension-tab-deque": [
         "Other"
     ],
     "sbmpost/AutoRaise": [
@@ -6875,6 +6875,12 @@
     "ttscoff/gather-cli": [
         "Other"
     ],
+    "ttscoff/searchlink": [
+        "Other"
+    ],
+    "ttscoff/searchlink-plugins": [
+        "Other"
+    ],
     "tubearchivist/tubearchivist": [
         "Other"
     ],
@@ -7287,6 +7293,9 @@
         "Other"
     ],
     "xxcodianxx/youtube-dl-web": [
+        "Other"
+    ],
+    "yakGPT/yakGPT": [
         "Other"
     ],
     "yangqian/hass-gelight": [
