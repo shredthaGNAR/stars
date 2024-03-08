@@ -285,7 +285,7 @@ creating your own Awesome List by GitHub stars!
 * [garywill/BigSearch](https://github.com/garywill/BigSearch): Browser extension. Definitly more than a GET/POST sender. Handily use search engines via a Flexible Tool! UI has Vimium-like feature 🌐🔍 (Pure-client. No 3rd-party server needed) 大术专搜 既专又广 手敲几下 纵横去往
 * [kdmukai/bitcoin_resources](https://github.com/kdmukai/bitcoin_resources): My starter pack for people new to the bewildering world of bitcoin.
 * [ajmalshahabudeen/Bitwarden-Duplicate-remover](https://github.com/ajmalshahabudeen/Bitwarden-Duplicate-remover): When Importing multiple CSV files Bitwarden creates Duplicate Entries. So this Python script will remove duplicate entries and keep ONE.
-* [jnsdrtlf/bitwarden-menubar](https://github.com/jnsdrtlf/bitwarden-menubar): Bitwarden in the macOS menu bar
+* [3j14/bitwarden-menubar](https://github.com/3j14/bitwarden-menubar): Bitwarden in the macOS menu bar
 * [elias123tre/bitwarden_find_duplicates](https://github.com/elias123tre/bitwarden_find_duplicates): Find duplicate logins based on domain, from bitwarden export. Open source for your safety.
 * [black7375/BlaCk-Void-Zsh](https://github.com/black7375/BlaCk-Void-Zsh): 🔮 Awesome, Customable Zsh Starter Kit 🌠🌠
 * [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird): An OSINT tool to search for accounts by username in social networks.
@@ -493,6 +493,7 @@ creating your own Awesome List by GitHub stars!
 * [Rob--W/crxviewer](https://github.com/Rob--W/crxviewer): Add-on / web app to view the source code of Chrome / Firefox / Opera 15 extensions and zip files.
 * [chrislennon/Crypto-Touchbar-App](https://github.com/chrislennon/Crypto-Touchbar-App): A web app to build Apple touch bar elements for crytpo currencies. Requires BetterTouchTool. Supports wide range of cryptos and converts to a variety of fiat monies.
 * [alichtman/Cryptocurrency-TouchBar-Display](https://github.com/alichtman/Cryptocurrency-TouchBar-Display): Using BetterTouchTool to display cryptocurrency prices on the MacBook Pro Touch Bar
+* [frm/cryptotool](https://github.com/frm/cryptotool): Cryptocurrencies on your Mac touchbar 💸
 * [cedricbeau/css-gradient-generator](https://github.com/cedricbeau/css-gradient-generator): Générateur de gradient css en ligne
 * [lough-city/css-smart](https://github.com/lough-city/css-smart): a smart css helpers.
 * [astrit/css.gg](https://github.com/astrit/css.gg): 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs
@@ -565,6 +566,7 @@ creating your own Awesome List by GitHub stars!
 * [tapans/DIY-Surveillance-with-Smartphones](https://github.com/tapans/DIY-Surveillance-with-Smartphones): DIY hack for a complete CCTV solution using open source software and smartphones. 
 * [vexorian/dizquetv](https://github.com/vexorian/dizquetv): Create live TV channels from your own media. Access the streams using the simulated HDHomerun tuner or the generated M3U URl.
 * [fredjoseph/dns-blocker](https://github.com/fredjoseph/dns-blocker): DNS Blocker for Chrome and Firefox (Web Extension)
+* [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists): DNS-Blocklists: For a better internet - keep the internet clean!
 * [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy): dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 * [cleanbrowsing/dnsperftest](https://github.com/cleanbrowsing/dnsperftest): DNS Performance test
 * [sindresorhus/do-not-disturb-cli](https://github.com/sindresorhus/do-not-disturb-cli): Control the macOS `Do Not Disturb` feature from the command-line
@@ -1017,6 +1019,7 @@ creating your own Awesome List by GitHub stars!
 * [Benjamin-Dobell/Heimdall](https://github.com/Benjamin-Dobell/Heimdall): Heimdall is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung Galaxy devices.
 * [blanklob/helium](https://github.com/blanklob/helium): Helium is a modern Shopify development workflow ⚙️, with Online Store 2.0 features. Built with performance ⚡️ and best practices in mind.. 
 * [demtario/hes-gallery](https://github.com/demtario/hes-gallery): Light, dependency free, responsive gallery script
+* [MStankiewiczOfficial/Hi-Notch](https://github.com/MStankiewiczOfficial/Hi-Notch): Hi Notch! makes using your MacBook even more productive. It displays additional buttons and statuses of active applications such as web browsers, Apple Music, Microsoft Teams and Zoom.
 * [dwarvesf/hidden](https://github.com/dwarvesf/hidden): An ultra-light MacOS utility that helps hide menu bar icons
 * [hensm/hide_private_mode](https://github.com/hensm/hide_private_mode): None
 * [amarsyla/hidutil-key-remapping-generator](https://github.com/amarsyla/hidutil-key-remapping-generator): Simple tool to generate HIDUTIL key remapping configurations for MacOS
@@ -1320,7 +1323,7 @@ creating your own Awesome List by GitHub stars!
 * [Clipy/Magnet](https://github.com/Clipy/Magnet): Customize global hotkeys in macOS.
 * [soxoj/maigret](https://github.com/soxoj/maigret): 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 * [peci1/mailing-list-filter](https://github.com/peci1/mailing-list-filter): Thunderbird mail filter search term using mailing lists (and not whole addressbooks).
-* [apparition47/MailTrackerBlocker](https://github.com/apparition47/MailTrackerBlocker): Email tracker, read receipt and spy pixel blocker plugin for Apple's default macOS Mail
+* [apparition47/MailTrackerBlocker](https://github.com/apparition47/MailTrackerBlocker): Email tracker, read receipt and spy pixel blocker plugin for macOS Mail (10.11-13.x)
 * [mangtronix/MangTouchBar](https://github.com/mangtronix/MangTouchBar): Minimalist Touch Bar setup
 * [neilsardesai/Manila](https://github.com/neilsardesai/Manila): A Finder extension for changing folder colors
 * [AbhishekKalavadiya/maper](https://github.com/AbhishekKalavadiya/maper): A location-based website using React as Frontend and NodeJs, ExpressJS as backend, and MongoDB as Database. On this website, I had use MapBox for the world map and React-Mapbox-gl for configuration. We can select the place where we had visited and added the photo URL, so the entry will be seen on the map and in the visited place area. We can delete or modify the changes in the Entry we had created. It is a responsive website with live location of a point on the map. The Backend is deployed on Heroku and the frontend is deployed on Netlify.
@@ -1420,6 +1423,7 @@ creating your own Awesome List by GitHub stars!
 * [tansawit/my-mac-setup](https://github.com/tansawit/my-mac-setup): List of applications and tools that optimize my macOS experience. Inspired by https://github.com/nikitavoloboev/my-mac-os
 * [leohu1/My-UserChrome](https://github.com/leohu1/My-UserChrome): My UserChrome Css and Script
 * [iam-py-test/my_filters_001](https://github.com/iam-py-test/my_filters_001): My filter lists - feel free to add these lists to uBlock Origin
+* [hisamafahri/mypocket](https://github.com/hisamafahri/mypocket): GetPocket but better!
 * [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail): UI Email Signature Generator - Make easy to create your email signature
 * [shredthaGNAR/mytheme](https://github.com/shredthaGNAR/mytheme): firefox userchrome css theme
 * [tj/n](https://github.com/tj/n): Node version management
@@ -1430,7 +1434,7 @@ creating your own Awesome List by GitHub stars!
 * [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch): 🖼️  A command-line system information tool written in bash 3.2+
 * [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts): Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 * [aminomancer/Netflix-Marathon-Pausable](https://github.com/aminomancer/Netflix-Marathon-Pausable): Automatically skip recaps, intros, credits, and ads, and click "next episode" prompts on Netflix, Amazon Prime Video, Hulu, HBO Max, Starz, Disney+, and Hotstar
-* [Dreamlinerm/Netflix-Prime-Auto-Skip](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip): Automatically skip Ads, Intros, Recaps, Credits, etc. on Netflix, Prime video, Disney+ & Hotstar and Crunchyroll. Streaming enhanced
+* [Dreamlinerm/Netflix-Prime-Auto-Skip](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip): Automatically skip Ads, Intros, Recaps, Credits, etc. on Netflix, Prime video, Disney+ (Hotstar, STAR+) and Crunchyroll
 * [objective-see/Netiquette](https://github.com/objective-see/Netiquette): Network Monitor
 * [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire): RSS reader for macOS and iOS.
 * [PhilippMatthes/neural-greenscreen](https://github.com/PhilippMatthes/neural-greenscreen): Real time background replacement on a mac os driven webcam using the DeepLabV3 neural network for image segmentation and the native CoreMediaIO DAL framework of Mac OS.
@@ -1980,7 +1984,7 @@ creating your own Awesome List by GitHub stars!
 * [shredthaGNAR/skip-prime-video-intro](https://github.com/shredthaGNAR/skip-prime-video-intro): Firefox addon to automatically skip intros on Amazon Prime Video
 * [Etesam913/slick-fox](https://github.com/Etesam913/slick-fox): :fox_face: A firefox config that has rounded tabs and a url bar that can disappear when not selected on. It works with any theme.
 * [RealRaven2000/SmartTemplates](https://github.com/RealRaven2000/SmartTemplates): Thunderbird Add-on: SmartTemplates
-* [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube): SmartTube - an advanced player for set-top boxes and tv running Android OS
+* [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube): SmartTube - an advanced player for set-top boxes and tvs running Android OS
 * [zimocode/smartup](https://github.com/zimocode/smartup): A customizable web browser mouse gestures extension with a variety of actions.
 * [smplayer-dev/smplayer](https://github.com/smplayer-dev/smplayer): Free Media Player for Windows, Linux and Mac OS with YouTube support.
 * [Snapcept/Snapcept](https://github.com/Snapcept/Snapcept): None
