@@ -95,6 +95,9 @@
     "AdguardTeam/AdGuardForSafari": [
         "Other"
     ],
+    "AdguardTeam/AdguardFilters": [
+        "Other"
+    ],
     "AdguardTeam/ContentBlocker": [
         "Other"
     ],
@@ -1578,9 +1581,6 @@
         "Other"
     ],
     "TheAdnan/facebook-video-download": [
-        "Other"
-    ],
-    "TheAmalLalgi/KenKai-Theme": [
         "Other"
     ],
     "TheBi11iona1re/BlurFox-CSS-for-Mac": [
@@ -5549,6 +5549,9 @@
     "phcode-dev/phoenix": [
         "Other"
     ],
+    "phguo/AskGPT": [
+        "Other"
+    ],
     "philc/vimium": [
         "Other"
     ],
@@ -6698,6 +6701,9 @@
     "thePaulV/Most-Recent-Tab": [
         "Other"
     ],
+    "theamallalgi/KenKai-Theme": [
+        "Other"
+    ],
     "thebaer/MMRA": [
         "Other"
     ],
@@ -7395,6 +7401,9 @@
         "Other"
     ],
     "yuuiko/AquaTouch": [
+        "Other"
+    ],
+    "yzfly/awesome-claude-prompts": [
         "Other"
     ],
     "zanetu/direct_google_images": [
