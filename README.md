@@ -343,6 +343,7 @@ creating your own Awesome List by GitHub stars!
 * [adi6409/browser-ff](https://github.com/adi6409/browser-ff): None
 * [Luzifer/browser-privacy](https://github.com/Luzifer/browser-privacy): List of filter rules for uBlock Origin to enhance the browsing privacy and replace Ghostery
 * [Zegnat/browserext-window-merger](https://github.com/Zegnat/browserext-window-merger): Merge specified browser windows into each other. Or all of them into one. Simply right click to open Firefox’s context menu when multiple windows are open, or configure a keyboard shortcut. All wrapped up in one tiny free extension.
+* [SaulBerrenson/BrowserStealer](https://github.com/SaulBerrenson/BrowserStealer): Simple password/cookies/history/bookmarks stealer/dumper for chrome all version (includes 80+), microsoft edge browser,includes all chromium based browsers, and all gecko based browser (firefox etc.).
 * [Worie/btt](https://github.com/Worie/btt): Low level MacOS management in JavaScript via BetterTouchTool
 * [wonjoonSeol/BTT-Aqua-modification](https://github.com/wonjoonSeol/BTT-Aqua-modification): Better Touch Tool AquaTouch Preset Modification
 * [andrewchidden/btt-controllers](https://github.com/andrewchidden/btt-controllers): Small controller scripts and utilities designed to work with BetterTouchTool.
@@ -2146,6 +2147,7 @@ creating your own Awesome List by GitHub stars!
 * [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract): Tesseract Open Source OCR Engine (main repository)
 * [scott0123/Tesseract-macOS](https://github.com/scott0123/Tesseract-macOS): Objective C wrapper for the open source OCR Engine Tesseract (macOS)
 * [ncyhere/test-shopify-bloomandgrow](https://github.com/ncyhere/test-shopify-bloomandgrow): A Gatsby starter using the latest Shopify plugin showcasing a store with product overview, individual product pages, and a cart
+* [bupticybee/TexasHoldemSolverJava](https://github.com/bupticybee/TexasHoldemSolverJava): A Java implemented Texas holdem and short deck Solver
 * [bupticybee/TexasSolver](https://github.com/bupticybee/TexasSolver): 🚀 A very efficient Texas Holdem GTO solver :spades::hearts::clubs::diamonds:
 * [piroor/textlink](https://github.com/piroor/textlink): Text Link, Allows URI texts written in webpages to be loaded by double clicks.
 * [beowulf518/textnow-automation](https://github.com/beowulf518/textnow-automation): creating textnow account with temp email
