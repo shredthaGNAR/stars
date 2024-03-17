@@ -303,6 +303,7 @@ creating your own Awesome List by GitHub stars!
 * [TheBi11iona1re/BlurFox-CSS-for-Mac](https://github.com/TheBi11iona1re/BlurFox-CSS-for-Mac): Update  to manilarome's Blur Fox for mac only
 * [dwarvesf/blurred](https://github.com/dwarvesf/blurred): A macOS utility that helps reduce distraction by dimming your inactive noise
 * [eromatiya/blurredfox](https://github.com/eromatiya/blurredfox): A sleek, modern and elegant Firefox CSS theme
+* [khaneliman/blurredfox](https://github.com/khaneliman/blurredfox): A sleek, modern and elegant Firefox CSS theme
 * [iam4x/bobarr](https://github.com/iam4x/bobarr): 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 * [Tenica/bookMark](https://github.com/Tenica/bookMark): A bookmark webpage built with javaScript 
 * [MattRuetz/bookmark-app](https://github.com/MattRuetz/bookmark-app): Simple webpage to store bookmarks using localStorage. Flexible and simple UI using CSS variables and animations.
@@ -395,7 +396,7 @@ creating your own Awesome List by GitHub stars!
 * [CaptainN/cbyge2mqtt](https://github.com/CaptainN/cbyge2mqtt): None
 * [chriswayg/CC-Offline-Package-Generator](https://github.com/chriswayg/CC-Offline-Package-Generator): Adobe CC 2018 to 2022 Direct Download and Offline Installer Package Generator 
 * [cc-archive/ccsearch-browser-extension](https://github.com/cc-archive/ccsearch-browser-extension): [PROJECT TRANSFERRED] Cross-Browser extension to search, filter and use images in the public domain and under Creative Commons licenses.
-* [eaaasun/CCStopper](https://github.com/eaaasun/CCStopper): [Archived] Stops Adobe's pesky background apps and more 😉
+* [t4rra/CCStopper](https://github.com/t4rra/CCStopper): [Archived] Stops Adobe's pesky background apps and more 😉
 * [w0lfschild/cDock](https://github.com/w0lfschild/cDock): :lollipop: Basic dock customization for macOS
 * [jbtule/cdto](https://github.com/jbtule/cdto): Finder Toolbar app to open the current directory in the Terminal
 * [sw-uci/cdto](https://github.com/sw-uci/cdto): Mac script used to open a terminal at the current Finder folder
@@ -783,6 +784,7 @@ creating your own Awesome List by GitHub stars!
 * [Godiesc/firefox-one](https://github.com/Godiesc/firefox-one): Firefox Theme for Opera One skin Lovers 
 * [nathandaven/firefox-paradise-theme](https://github.com/nathandaven/firefox-paradise-theme): My custom Firefox userChrome profile, setup with right handed vertical tabs, compact layout, and MacOS/Paradise theming. Also works on Windows!
 * [junocomp/firefox-phosh-theme](https://github.com/junocomp/firefox-phosh-theme): None
+* [amnweb/firefox-plus](https://github.com/amnweb/firefox-plus): CSS tweaks for Firefox
 * [nt0g/firefox-profile-stuff](https://github.com/nt0g/firefox-profile-stuff): As advertised on TV !
 * [LRDN/firefox-proton-custom](https://github.com/LRDN/firefox-proton-custom): Firefox default theme customization that replaces the floating tabs with a more conventional, cleaner interface.
 * [leadweedy/Firefox-Proton-Square](https://github.com/leadweedy/Firefox-Proton-Square): Makes Firefox Proton UI square again
@@ -903,6 +905,7 @@ creating your own Awesome List by GitHub stars!
 * [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev): Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
 * [webextension-toolbox/generator-web-extension](https://github.com/webextension-toolbox/generator-web-extension): Advanced WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
 * [alfaaarex/GentleFox](https://github.com/alfaaarex/GentleFox): A Firefox theme, which features gentle curves, transparency and a minimal interface.
+* [vincens2005/GentleFox](https://github.com/vincens2005/GentleFox): A Firefox theme, which features gentle curves, transparency and a minimal interface.
 * [danielmiessler/GeoHarvest](https://github.com/danielmiessler/GeoHarvest): A simple script for translating IP addresses to GeoLocations
 * [danielmiessler/geoip](https://github.com/danielmiessler/geoip): A Ruby script that takes in IPs and returns Country, State, and City
 * [marchyman/GeoTag](https://github.com/marchyman/GeoTag): Image geo location editing for macOS Ventura (13) and later.  Instructions and a .dmg of the current version are on the application home page.
@@ -1316,6 +1319,7 @@ creating your own Awesome List by GitHub stars!
 * [sindresorhus/macos-wallpaper](https://github.com/sindresorhus/macos-wallpaper): Manage the desktop wallpaper on macOS
 * [elrumo/macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements): Replacement icons for popular apps in the style of macOS Big Sur
 * [Tnings/MacosVibrant](https://github.com/Tnings/MacosVibrant): None
+* [network-alchemist/MacosVibrant](https://github.com/network-alchemist/MacosVibrant): None
 * [MacPass/MacPass](https://github.com/MacPass/MacPass): A native macOS KeePass client 
 * [lodestone/macpaste](https://github.com/lodestone/macpaste): Global middle-mouse-click copy/paste for Mac OSX (C).
 * [w0lfschild/macplugins](https://github.com/w0lfschild/macplugins): :green_book: Community repo for MacForge
@@ -1790,6 +1794,7 @@ creating your own Awesome List by GitHub stars!
 * [srvaroa/repocket](https://github.com/srvaroa/repocket): Manage a local copy of articles saved in Pocket
 * [danmindru/responsive-html-email-signature](https://github.com/danmindru/responsive-html-email-signature): ✨ Template generator for (responsive) emails & email signatures 
 * [leemunroe/responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template): A free simple responsive HTML email template
+* [cerealkella/rest-uploader](https://github.com/cerealkella/rest-uploader): REST API File Uploader
 * [hanacchi/RestoreFirefoxJS](https://github.com/hanacchi/RestoreFirefoxJS): userChromeJS scripts to restore Firefox features that have been removed or changed
 * [briangershon/retrieve-pocket-bookmarks](https://github.com/briangershon/retrieve-pocket-bookmarks): Retrieves your bookmarks and meta data from Pocket API (via https://getpocket.com/developer/docs/v3/retrieve)
 * [cormiertyshawn895/Retroactive](https://github.com/cormiertyshawn895/Retroactive): Retroactive only receives limited support. Run Aperture, iPhoto, and iTunes on macOS Sonoma, macOS Ventura, macOS Monterey, macOS Big Sur, and macOS Catalina. Xcode 11.7 on macOS Mojave. Final Cut Pro 7, Logic Pro 9, and iWork ’09 on macOS Mojave or macOS High Sierra.
