@@ -68,6 +68,7 @@ creating your own Awesome List by GitHub stars!
 * [fastaddons/AI-Anywhere](https://github.com/fastaddons/AI-Anywhere): None
 * [canalnoises/AirDrop-Shortcut](https://github.com/canalnoises/AirDrop-Shortcut): A script to select AirDrop from Finder's Share menu. Assign to a keyboard shortcut for quick AirDropping.
 * [Airmail/AirmailPlugIn-Framework](https://github.com/Airmail/AirmailPlugIn-Framework): None
+* [airmessage/airmessage-server](https://github.com/airmessage/airmessage-server): AirMessage's native message relay server for Mac
 * [xwmx/airport](https://github.com/xwmx/airport): A command line / terminal tool for Wi-Fi on macOS / OS X.
 * [SethuSenthil/AirPush](https://github.com/SethuSenthil/AirPush): The all in one AirMessage (iMessage) script you can forget about
 * [pinetum/AirUnlock-for-Mac](https://github.com/pinetum/AirUnlock-for-Mac): Using android phone to establish a connection with your Mac via Bluetooth low-energy (BLE), controlling Mac lock state (Lock or Unlock).
@@ -298,6 +299,7 @@ creating your own Awesome List by GitHub stars!
 * [mkb2091/blockconvert](https://github.com/mkb2091/blockconvert): Malware, advert and tracking blacklist
 * [Nuzair46/BlockTheSpot-Mac](https://github.com/Nuzair46/BlockTheSpot-Mac): Spotify Ad blocker for MacOS
 * [RickStrahl/BlogPosts](https://github.com/RickStrahl/BlogPosts): None
+* [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app): A cross-platform app ecosystem, bringing iMessage to Android, PC (Windows, Linux, & even macOS), and Web!
 * [Filip-Sutkowy/blurclean-firefox-theme](https://github.com/Filip-Sutkowy/blurclean-firefox-theme): Clean, transparent firefox theme
 * [skylineone044/blurclean-firefox-theme](https://github.com/skylineone044/blurclean-firefox-theme): Clean, transparent firefox theme
 * [TheBi11iona1re/BlurFox-CSS-for-Mac](https://github.com/TheBi11iona1re/BlurFox-CSS-for-Mac): Update  to manilarome's Blur Fox for mac only
