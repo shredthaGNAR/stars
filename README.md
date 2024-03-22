@@ -66,6 +66,7 @@ creating your own Awesome List by GitHub stars!
 * [Czarto/Adwords-Scripts](https://github.com/Czarto/Adwords-Scripts): Google Ads Bidding scripts
 * [piroor/aggregate-tabs-to-main-window](https://github.com/piroor/aggregate-tabs-to-main-window): Aggregate new tabs to a window which has most many tabs and largest size.
 * [fastaddons/AI-Anywhere](https://github.com/fastaddons/AI-Anywhere): None
+* [air-controller/air-controller-desktop](https://github.com/air-controller/air-controller-desktop): A new handy and powerful Android phone assistant， powered by Flutter.
 * [canalnoises/AirDrop-Shortcut](https://github.com/canalnoises/AirDrop-Shortcut): A script to select AirDrop from Finder's Share menu. Assign to a keyboard shortcut for quick AirDropping.
 * [Airmail/AirmailPlugIn-Framework](https://github.com/Airmail/AirmailPlugIn-Framework): None
 * [airmessage/airmessage-server](https://github.com/airmessage/airmessage-server): AirMessage's native message relay server for Mac
@@ -146,6 +147,7 @@ creating your own Awesome List by GitHub stars!
 * [doug-leith/appFirewall](https://github.com/doug-leith/appFirewall): A free, fully open-source application firewall for MAC OS High Sierra and later. Allows real-time monitoring of network connections being made by applications, and blocking/allowing of these per app by user. Supports use of hostname lists (Energized Blu etc) to block known tracker and advertising domains for all apps. Also allows blocking of all network connections for specified apps, blocking of all connections except for specified whitelisted connections, use of pre-configured lists of connections per app to allow/block etc.
 * [mjolnirapp/AppGrid](https://github.com/mjolnirapp/AppGrid): macOS window manager with Vim–like hotkeys
 * [aaronfreimark/Apple-ID-AppleScript](https://github.com/aaronfreimark/Apple-ID-AppleScript): AppleScript to programatically create Apple IDs
+* [agentcooper/apple-notes-bookmarklet](https://github.com/agentcooper/apple-notes-bookmarklet): Bookmarklet for saving selected text to Apple Notes
 * [threeplanetssoftware/apple_cloud_notes_parser](https://github.com/threeplanetssoftware/apple_cloud_notes_parser): Parser for Apple Notes data stored on the Cloud as seen on Apple handsets
 * [revblaze/AppleMusicUltra](https://github.com/revblaze/AppleMusicUltra): Music Client for macOS. Upgrade your music experience with themes, styles, custom scripting and more. Uses WebKit and JavaScript.
 * [mattrose/AppleNotes2Joplin](https://github.com/mattrose/AppleNotes2Joplin): Apple Notes to Joplin - Export Apple notes to Markdown in Joplin export format
@@ -1040,7 +1042,7 @@ creating your own Awesome List by GitHub stars!
 * [agneevX/home-assistant](https://github.com/agneevX/home-assistant): Home Assistant lovelace layout and config
 * [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar): Displaying Home Assistant sensors in the Macbook Pro's touch bar using BTT 🤖💻
 * [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io): :blue_book: Home Assistant User documentation
-* [Dimentium/homebrew-autoraise](https://github.com/Dimentium/homebrew-autoraise): Formula for https://github.com/sbmpost/AutoRaise
+* [Dimentium/homebrew-autoraise](https://github.com/Dimentium/homebrew-autoraise): Formula and cask for https://github.com/sbmpost/AutoRaise
 * [romankurnovskii/homebrew-awesome-brew](https://github.com/romankurnovskii/homebrew-awesome-brew): A catalog of Homebrew casks and formulas extending to open-source projects by developers. Simplifies the process of finding and installing apps via Homebrew.
 * [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask): 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 * [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts): 🖋 Casks of Ｆ🅾𝓝𝐓𝚂
