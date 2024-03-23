@@ -948,7 +948,7 @@ creating your own Awesome List by GitHub stars!
 * [benbalter/github_records_archiver](https://github.com/benbalter/github_records_archiver): Backs up a GitHub organization's repositories and all their associated information for archival purposes.
 * [github/gitignore](https://github.com/github/gitignore): A collection of useful .gitignore templates
 * [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal): Mobile first Note Taking integrated with Git
-* [arifszn/gitprofile](https://github.com/arifszn/gitprofile): 🚀 Create a dynamic portfolio by just providing your GitHub username.
+* [arifszn/gitprofile](https://github.com/arifszn/gitprofile): 🚀 Create and deploy a dynamic portfolio by just providing your GitHub username.
 * [gorse-io/gitrec](https://github.com/gorse-io/gitrec): A recommender system for GitHub repositories based on Gorse
 * [to-ie/gitswitch](https://github.com/to-ie/gitswitch): This script helps with users who have multiple GitHub profiles and require to switch between them on a regular basis.  
 * [gitx/gitx](https://github.com/gitx/gitx): The best fork of the best lightweight, visual git client for macOS.
@@ -1624,7 +1624,6 @@ creating your own Awesome List by GitHub stars!
 * [cshtdd/pocket-data-exporter](https://github.com/cshtdd/pocket-data-exporter): Export your pocket data
 * [kevinpollet/pocket-deduper](https://github.com/kevinpollet/pocket-deduper): Remove duplicates from your Pocket list.
 * [k5md/Pocket-Editor-webextension](https://github.com/k5md/Pocket-Editor-webextension): A sidebar text-editing addon for firefox
-* [JeanDavidDaviet/Pocket-Export](https://github.com/JeanDavidDaviet/Pocket-Export): None
 * [krewast/pocket-export-chrome-import-converter](https://github.com/krewast/pocket-export-chrome-import-converter): Export bookmarks from Pocket and import them into Chrome
 * [rtward/pocket-import](https://github.com/rtward/pocket-import): A small script to upload a list of URLs into pocket
 * [haroldo-ok/pocket-platformer-exporter](https://github.com/haroldo-ok/pocket-platformer-exporter): Converts html files exported by pocket-platformer (https://the-l0bster.itch.io/pocket-platformer) into formats that should be more easily exported to other engines.
