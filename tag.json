@@ -116,6 +116,9 @@
     "Airmail/AirmailPlugIn-Framework": [
         "Other"
     ],
+    "AlexVallat/firefox-scripts": [
+        "Other"
+    ],
     "AlexisDrain/Less-Addictive-YouTube": [
         "Other"
     ],
@@ -459,9 +462,6 @@
         "Other"
     ],
     "Enan01/OneTabClear": [
-        "Other"
-    ],
-    "EnderDev/browser-chrome-experiment": [
         "Other"
     ],
     "Endor8/userChrome.js": [
@@ -837,6 +837,9 @@
         "Other"
     ],
     "Kiuryy/Bookmark_Sidebar": [
+        "Other"
+    ],
+    "KnightmareVIIVIIXC/AIO-Firebog-Blocklists": [
         "Other"
     ],
     "Kocal/vue-web-extension": [
@@ -2249,6 +2252,9 @@
     "ashwinishet/Image-Web-Scraper": [
         "Other"
     ],
+    "asilvas/circler": [
+        "Other"
+    ],
     "astrit/css.gg": [
         "Other"
     ],
@@ -3077,6 +3083,9 @@
     "drcheap/WindowSizer": [
         "Other"
     ],
+    "drcika/apc-extension": [
+        "Other"
+    ],
     "drduh/macOS-Security-and-Privacy-Guide": [
         "Other"
     ],
@@ -3297,6 +3306,9 @@
         "Other"
     ],
     "evanca/quick-portfolio": [
+        "Other"
+    ],
+    "evanjd/hass-logi-circle": [
         "Other"
     ],
     "evanjd/python-logi-circle": [
@@ -3989,9 +4001,6 @@
     "interstellard/chatgpt-advanced": [
         "Other"
     ],
-    "iocave/customize-ui": [
-        "Other"
-    ],
     "iorate/ublacklist": [
         "Other"
     ],
@@ -4419,6 +4428,9 @@
         "Other"
     ],
     "khzg/ChatGPT": [
+        "Other"
+    ],
+    "kierandrewett/browser-chrome-experiment": [
         "Other"
     ],
     "kiliman/operator-mono-lig": [
@@ -5949,6 +5961,9 @@
         "Other"
     ],
     "robertocaldas/AdbInstallService": [
+        "Other"
+    ],
+    "robilic/DockHand": [
         "Other"
     ],
     "robin/LYTabView": [
