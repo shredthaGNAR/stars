@@ -1281,6 +1281,7 @@ creating your own Awesome List by GitHub stars!
 * [kaktuspalme/LogiCircleDownloader](https://github.com/kaktuspalme/LogiCircleDownloader): Automatically download all your videos from your Logi Circle camera
 * [VMpc/Login-Stealer](https://github.com/VMpc/Login-Stealer): what the name says (made for "educational" purposes)
 * [TB-throwback/LookOut-fix-version](https://github.com/TB-throwback/LookOut-fix-version): Fork of LookOut (fix version)
+* [MrKai77/Loop](https://github.com/MrKai77/Loop): MacOS window management made elegant.
 * [musically-ut/lovely-forks](https://github.com/musically-ut/lovely-forks): 💚 🍴 Show notable forks of GitHub repositories under their names.
 * [objective-see/LuLu](https://github.com/objective-see/LuLu): LuLu is the free macOS firewall
 * [robin/LYTabView](https://github.com/robin/LYTabView): A customized Mac OS X Tab View with modern tab bar style
@@ -1301,6 +1302,7 @@ creating your own Awesome List by GitHub stars!
 * [p0deje/Maccy](https://github.com/p0deje/Maccy): Lightweight clipboard manager for macOS
 * [jonbeebe/MacDynamicWallpaper](https://github.com/jonbeebe/MacDynamicWallpaper): Mojave-style dynamic wallpapers for macOS.
 * [MacEnhance/MacForge](https://github.com/MacEnhance/MacForge): 📦 Plugin, App, and Theme store which includes plugin injection for macOS
+* [d0sse/macFox-theme](https://github.com/d0sse/macFox-theme): Safari like minimalistic theme
 * [maccman/macgap-rb](https://github.com/maccman/macgap-rb): Generator for MacGap
 * [darkbrow/macgap2_google_keep](https://github.com/darkbrow/macgap2_google_keep): None
 * [MacGesture/MacGesture](https://github.com/MacGesture/MacGesture): Global mouse gestures for macOS
