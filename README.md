@@ -180,6 +180,7 @@ creating your own Awesome List by GitHub stars!
 * [netlify-templates/astro-quickstart](https://github.com/netlify-templates/astro-quickstart): A bare-bones Astro template to get you deployed to Netlify fast!
 * [manuelernestog/astrofy](https://github.com/manuelernestog/astrofy): Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS. Create in minutes a website with Blog, CV, Project Section, Store and RSS Feed.
 * [surjithctly/astroship](https://github.com/surjithctly/astroship): Astroship is a starter template for startups, marketing websites, landing pages & blog. Built with Astro & TailwindCSS
+* [Zenlua/AT-YT](https://github.com/Zenlua/AT-YT): Tool build YouTube revanced mods auto.
 * [atom/atom](https://github.com/atom/atom): :atom: The hackable text editor
 * [Hann8n/Atom-for-Firefox](https://github.com/Hann8n/Atom-for-Firefox): Restores UI to default settings but keeps the translucency effects of FluidFox for MacOS
 * [nathanbuchar/atom-one-dark-terminal](https://github.com/nathanbuchar/atom-one-dark-terminal): A Terminal theme that mimics the One Dark theme made by the Atom team.
@@ -291,6 +292,7 @@ creating your own Awesome List by GitHub stars!
 * [barrykn/big-sur-micropatcher](https://github.com/barrykn/big-sur-micropatcher): A primitive USB patcher for installing macOS Big Sur on unsupported Macs
 * [StarPlayrX/bigmac](https://github.com/StarPlayrX/bigmac): Big Mac, macOS 11 Big Sur and macOS Monterey disk installer and back up tool for Intel based Macs
 * [garywill/BigSearch](https://github.com/garywill/BigSearch): Browser extension. Definitly more than a GET/POST sender. Handily use search engines via a Flexible Tool! UI has Vimium-like feature 🌐🔍 (Pure-client. No 3rd-party server needed) 大术专搜 既专又广 手敲几下 纵横去往
+* [zjns/BiliRoamingX-patches](https://github.com/zjns/BiliRoamingX-patches): BiliRoamingX patches powered by revanced.
 * [kdmukai/bitcoin_resources](https://github.com/kdmukai/bitcoin_resources): My starter pack for people new to the bewildering world of bitcoin.
 * [ajmalshahabudeen/Bitwarden-Duplicate-remover](https://github.com/ajmalshahabudeen/Bitwarden-Duplicate-remover): When Importing multiple CSV files Bitwarden creates Duplicate Entries. So this Python script will remove duplicate entries and keep ONE.
 * [3j14/bitwarden-menubar](https://github.com/3j14/bitwarden-menubar): Bitwarden in the macOS menu bar
@@ -1811,12 +1813,14 @@ creating your own Awesome List by GitHub stars!
 * [hanacchi/RestoreFirefoxJS](https://github.com/hanacchi/RestoreFirefoxJS): userChromeJS scripts to restore Firefox features that have been removed or changed
 * [briangershon/retrieve-pocket-bookmarks](https://github.com/briangershon/retrieve-pocket-bookmarks): Retrieves your bookmarks and meta data from Pocket API (via https://getpocket.com/developer/docs/v3/retrieve)
 * [cormiertyshawn895/Retroactive](https://github.com/cormiertyshawn895/Retroactive): Retroactive only receives limited support. Run Aperture, iPhoto, and iTunes on macOS Sonoma, macOS Ventura, macOS Monterey, macOS Big Sur, and macOS Catalina. Xcode 11.7 on macOS Mojave. Final Cut Pro 7, Logic Pro 9, and iWork ’09 on macOS Mojave or macOS High Sierra.
+* [NoName-exe/revanced](https://github.com/NoName-exe/revanced): ReVanced YT and YT-M for both root and non-root users.
 * [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root): Real-time repository build Revanced and Revanced Extended about 5 minutes after patch release
 * [n0k0m3/revanced-build-template](https://github.com/n0k0m3/revanced-build-template): Github Template for building Revanced
 * [reisxd/revanced-builder](https://github.com/reisxd/revanced-builder): A NodeJS ReVanced builder
 * [XDream8/revanced-creator](https://github.com/XDream8/revanced-creator): Create Revanced apps easily ☠️
 * [ReVanced/revanced-documentation](https://github.com/ReVanced/revanced-documentation): 🗄 Collection of all ReVanced documentation
 * [inotia00/revanced-documentation](https://github.com/inotia00/revanced-documentation): 🗄 Documentation and guides for ReVanced Extended
+* [AbakNacchan/revanced-extended](https://github.com/AbakNacchan/revanced-extended): ReVanced eXtended: Enhanced Modules and APKs for YouTube and YouTube Music.
 * [NoName-exe/revanced-extended](https://github.com/NoName-exe/revanced-extended): ReVanced eXtended YT and YT-M for both root and non-root users.
 * [ReVanced/revanced-integrations](https://github.com/ReVanced/revanced-integrations): 🔩 ReVanced Integrations containing classes to be merged by ReVanced Patcher
 * [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module): Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
@@ -1824,10 +1828,12 @@ creating your own Awesome List by GitHub stars!
 * [inotia00/revanced-manager](https://github.com/inotia00/revanced-manager): 💊 Application to use ReVanced on Android 
 * [ReVanced/revanced-patcher](https://github.com/ReVanced/revanced-patcher): 💉 ReVanced Patcher used to patch Android applications
 * [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches): 🧩 Patches for ReVanced
+* [anddea/revanced-patches](https://github.com/anddea/revanced-patches): 🧩 Patches for ReVanced
 * [inotia00/revanced-patches](https://github.com/inotia00/revanced-patches): 🧩 Patches for ReVanced
 * [ReVanced/revanced-patches-template](https://github.com/ReVanced/revanced-patches-template): 👋🧩ReVanced Patches template
 * [inotia00/ReVanced_Extended](https://github.com/inotia00/ReVanced_Extended): ReVanced Extended Issues/Request repo
 * [SinTan1729/ReVancedBuilder](https://github.com/SinTan1729/ReVancedBuilder): A tool to automatically build latest releases of ReVanced apps
+* [shekhawat2/RevancedYT](https://github.com/shekhawat2/RevancedYT): None
 * [decipher3114/Revancify](https://github.com/decipher3114/Revancify): The only revancify
 * [kastentop2005/Revancify-X](https://github.com/kastentop2005/Revancify-X): Revancify X manager
 * [YT-Advanced/ReX-patches](https://github.com/YT-Advanced/ReX-patches): 🧩 Patches for ReVanced
@@ -1841,6 +1847,7 @@ creating your own Awesome List by GitHub stars!
 * [moisseev/rspamd-spamness](https://github.com/moisseev/rspamd-spamness): Thunderbird add-on for visualizing rspamd spam scores.
 * [huhu/rust-search-extension](https://github.com/huhu/rust-search-extension): 🦀 The ultimate search extension for Rust
 * [rvm/rvm](https://github.com/rvm/rvm): Ruby enVironment Manager (RVM)
+* [kazimmt/RVX-Features](https://github.com/kazimmt/RVX-Features): Organized YouTube ReVanced & ReVanced Extended functionalities along with visual illustrations.
 * [thepante/SAL-Firefox](https://github.com/thepante/SAL-Firefox): Sidebar Always Loaded for Firefox
 * [thunderbird/sample-extensions](https://github.com/thunderbird/sample-extensions): Example extensions for Thunderbird WebExtensions APIs
 * [CruelKernel/samsung-exynos9820](https://github.com/CruelKernel/samsung-exynos9820): Unified kernel tree for S10 and Note10 devices
