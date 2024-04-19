@@ -66,7 +66,7 @@ creating your own Awesome List by GitHub stars!
 * [Czarto/Adwords-Scripts](https://github.com/Czarto/Adwords-Scripts): Google Ads Bidding scripts
 * [piroor/aggregate-tabs-to-main-window](https://github.com/piroor/aggregate-tabs-to-main-window): Aggregate new tabs to a window which has most many tabs and largest size.
 * [fastaddons/AI-Anywhere](https://github.com/fastaddons/AI-Anywhere): None
-* [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists): Supercharge your network security with DNS blocklists from The Firebog! Daily updates shield you from ads, trackers, malware, phishing, crypto, and NSFW content! Works with AdGuard Home, Pi-Hole, and adblock browser extensions for a safer, ad-free world wide web experience.
+* [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists): Supercharge your network security with DNS blocklists from The Firebog! Daily updates shield you from ads, trackers, malware, phishing, crypto, and NSFW content! Works with AdGuard Home, Pi-Hole, and adblock browser extensions for a safer, ad-free world wide web experience!
 * [air-controller/air-controller-desktop](https://github.com/air-controller/air-controller-desktop): A new handy and powerful Android phone assistant， powered by Flutter.
 * [canalnoises/AirDrop-Shortcut](https://github.com/canalnoises/AirDrop-Shortcut): A script to select AirDrop from Finder's Share menu. Assign to a keyboard shortcut for quick AirDropping.
 * [Airmail/AirmailPlugIn-Framework](https://github.com/Airmail/AirmailPlugIn-Framework): None
@@ -262,7 +262,7 @@ creating your own Awesome List by GitHub stars!
 * [sharkdp/bat](https://github.com/sharkdp/bat): A cat(1) clone with wings.
 * [sabaatworld/batch-media-compressor](https://github.com/sabaatworld/batch-media-compressor): Compress your entire photo & video library and take it with you everywhere.
 * [beardedspice/beardedspice](https://github.com/beardedspice/beardedspice): Mac Media Keys for the Masses
-* [hachikoharuno/Beautiful-newtab-Firefox](https://github.com/hachikoharuno/Beautiful-newtab-Firefox): None
+* [hachikoharuno/Beautiful-newtab-Firefox](https://github.com/hachikoharuno/Beautiful-newtab-Firefox): Beautiful design for firefox new tab
 * [NicolaeNMV/BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay): One button to close any overlay on any website
 * [tomhaydn/BetArbit](https://github.com/tomhaydn/BetArbit): Sports betting arbitrage algorithm
 * [dashee87/betScrapeR](https://github.com/dashee87/betScrapeR): R package to scrape live sports betting odds
@@ -293,7 +293,7 @@ creating your own Awesome List by GitHub stars!
 * [barrykn/big-sur-micropatcher](https://github.com/barrykn/big-sur-micropatcher): A primitive USB patcher for installing macOS Big Sur on unsupported Macs
 * [StarPlayrX/bigmac](https://github.com/StarPlayrX/bigmac): Big Mac, macOS 11 Big Sur and macOS Monterey disk installer and back up tool for Intel based Macs
 * [garywill/BigSearch](https://github.com/garywill/BigSearch): Browser extension. Definitly more than a GET/POST sender. Handily use search engines via a Flexible Tool! UI has Vimium-like feature 🌐🔍 (Pure-client. No 3rd-party server needed) 大术专搜 既专又广 手敲几下 纵横去往
-* [zjns/BiliRoamingX-patches](https://github.com/zjns/BiliRoamingX-patches): BiliRoamingX patches powered by revanced.
+* [zjns/BiliRoamingX-patches](https://github.com/zjns/BiliRoamingX-patches): [Deprecated] Merged into https://github.com/BiliRoamingX/BiliRoamingX.
 * [kdmukai/bitcoin_resources](https://github.com/kdmukai/bitcoin_resources): My starter pack for people new to the bewildering world of bitcoin.
 * [ajmalshahabudeen/Bitwarden-Duplicate-remover](https://github.com/ajmalshahabudeen/Bitwarden-Duplicate-remover): When Importing multiple CSV files Bitwarden creates Duplicate Entries. So this Python script will remove duplicate entries and keep ONE.
 * [3j14/bitwarden-menubar](https://github.com/3j14/bitwarden-menubar): Bitwarden in the macOS menu bar
@@ -504,7 +504,7 @@ creating your own Awesome List by GitHub stars!
 * [luooooob/create-my-awesome](https://github.com/luooooob/create-my-awesome): Github Actions for automatically generating the personal awesome list from all of the repositories you starred.
 * [ololx/create-symlink](https://github.com/ololx/create-symlink): Create Symlink is a simple mac Automator workflow which provides a GUI for the symbolic links creation on macOS. There is an alternative https://github.com/ololx/quick-symlink
 * [schollz/croc](https://github.com/schollz/croc): Easily and securely send things from one computer to another :crocodile: :package:
-* [Medformatik/CrossDrop](https://github.com/Medformatik/CrossDrop): Crossdrop is a partial implementation of Google's Nearby Share in Flutter for macOS, iOS and Linux. Crossdrop is based on NearDrop, a Swift implementation of Nearby Share for macOS.
+* [Medformatik/CrossDrop](https://github.com/Medformatik/CrossDrop): CrossDrop is a partial implementation of Google's Quick Share in Flutter for macOS, iOS and Linux. CrossDrop is based on NearDrop, a Swift implementation of Nearby Share for macOS.
 * [warren-bank/crx-Tubi-TV](https://github.com/warren-bank/crx-Tubi-TV): website userscript: redirect embedded videos from "tubitv.com" to an external player
 * [Rob--W/crxviewer](https://github.com/Rob--W/crxviewer): Add-on / web app to view the source code of Chrome / Firefox / Opera 15 extensions and zip files.
 * [chrislennon/Crypto-Touchbar-App](https://github.com/chrislennon/Crypto-Touchbar-App): A web app to build Apple touch bar elements for crytpo currencies. Requires BetterTouchTool. Supports wide range of cryptos and converts to a variety of fiat monies.
@@ -1417,6 +1417,7 @@ creating your own Awesome List by GitHub stars!
 * [keith/ModMove](https://github.com/keith/ModMove): Move/Resize windows using modifiers and the mouse
 * [basharovV/Modos-BTT](https://github.com/basharovV/Modos-BTT): Modos is a BetterTouchTool preset for managing workspaces + windows. 
 * [monero-project/monero](https://github.com/monero-project/monero): Monero: the secure, private, untraceable cryptocurrency
+* [monero-project/monero-gui](https://github.com/monero-project/monero-gui): Monero: the secure, private, untraceable cryptocurrency
 * [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl): 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 * [witalihirsch/Mono-firefox-theme](https://github.com/witalihirsch/Mono-firefox-theme): Mono Firefox Theme for Linux
 * [thesephist/monocle](https://github.com/thesephist/monocle): Universal personal search engine, powered by a full text search algorithm written in pure Ink, indexing Linus's blogs and private note archives, contacts, tweets, and over a decade of journals.
@@ -1769,6 +1770,7 @@ creating your own Awesome List by GitHub stars!
 * [LoneWanderer-GH/RaspiVWS](https://github.com/LoneWanderer-GH/RaspiVWS): Raspberry Pi Webcam Streaming with Logitech C920 and VLC
 * [DEgITx/rats-search](https://github.com/DEgITx/rats-search): BitTorrent P2P multi-platform search engine for Desktop and Web servers with integrated torrent client.
 * [isheeze/rawalpindis](https://github.com/isheeze/rawalpindis): Shopify os 2.0 first theme of mine
+* [MassimilianoPasquini97/raycast_ollama](https://github.com/MassimilianoPasquini97/raycast_ollama): Raycast extention for Ollama
 * [rbenv/rbenv](https://github.com/rbenv/rbenv): Manage your app's Ruby environment
 * [rclone/rclone](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 * [iampueroo/rComments](https://github.com/iampueroo/rComments): Chrome and Firefox extension for quickly exploring Reddit comments and replies without having to click through to the post!
@@ -1823,7 +1825,7 @@ creating your own Awesome List by GitHub stars!
 * [XDream8/revanced-creator](https://github.com/XDream8/revanced-creator): Create Revanced apps easily ☠️
 * [ReVanced/revanced-documentation](https://github.com/ReVanced/revanced-documentation): 🗄 Collection of all ReVanced documentation
 * [inotia00/revanced-documentation](https://github.com/inotia00/revanced-documentation): 🗄 Documentation and guides for ReVanced Extended
-* [AbakNacchan/revanced-extended](https://github.com/AbakNacchan/revanced-extended): ReVanced eXtended: Enhanced Modules and APKs for YouTube and YouTube Music.
+* [AbakNacchan/revanced-extended](https://github.com/AbakNacchan/revanced-extended): ReVanced eXtended: Enhanced Modules and APKs.
 * [NoName-exe/revanced-extended](https://github.com/NoName-exe/revanced-extended): ReVanced eXtended YT and YT-M for both root and non-root users.
 * [ReVanced/revanced-integrations](https://github.com/ReVanced/revanced-integrations): 🔩 ReVanced Integrations containing classes to be merged by ReVanced Patcher
 * [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module): Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
@@ -2240,6 +2242,7 @@ creating your own Awesome List by GitHub stars!
 * [OlegPoljakov/TinderPeopleFinder_Yandex_Images](https://github.com/OlegPoljakov/TinderPeopleFinder_Yandex_Images): This program helps to find people from tinder in some other social medias. It takes the screenshot of tinder profile, cuts the image and search it in Yandex Image. All you need to do is to choose the pictures and push few buttons.
 * [pqrs-org/Tinkle](https://github.com/pqrs-org/Tinkle): None
 * [vitorgalvao/tiny-scripts](https://github.com/vitorgalvao/tiny-scripts): Collection of small scripts
+* [yusufcanb/tlm](https://github.com/yusufcanb/tlm): Local CLI Copilot, powered by CodeLLaMa. 💻🦙
 * [code-charity/ToDo](https://github.com/code-charity/ToDo): ToDo - Chrome Extension. Make checklists and more.
 * [rkokkelk/todo.txt-ext](https://github.com/rkokkelk/todo.txt-ext): Thunderbird extension for the Todo.txt application.
 * [mjdescy/TodoTxtMac](https://github.com/mjdescy/TodoTxtMac): TodoTxtMac is a minimalist, keyboard-driven to-do manager for Mac OS X (10.8 Mountain Lion and higher) that conforms to the todo.txt format spec.
@@ -2438,6 +2441,7 @@ creating your own Awesome List by GitHub stars!
 * [mozilla/web-ext](https://github.com/mozilla/web-ext): A command line tool to help build, run, and test web extensions
 * [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter): 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
 * [BCIT-DDC/web-extension-ts-starter](https://github.com/BCIT-DDC/web-extension-ts-starter): 🚀 A web extension starter built with React, Typescript, and Tailwind CSS. Build once, and run on multiple browsers: Google Chrome, Mozilla Firefox, Microsoft Edge, Brave, and Opera.
+* [usc-isi-i2/Web-Karma](https://github.com/usc-isi-i2/Web-Karma): Information Integration Tool
 * [infokiller/web-search-navigator](https://github.com/infokiller/web-search-navigator): Web extension that adds keyboard shortcuts to Google, YouTube, Github, Amazon, and others (Chrome/Firefox/Edge/Safari)
 * [yourduskquibbles/webannoyances](https://github.com/yourduskquibbles/webannoyances): Fix and remove annoying web elements such as sticky headers, floating boxes, floating videos, dickbars, social share bars and other distracting elements.
 * [webcomponents/webcomponentsjs](https://github.com/webcomponents/webcomponentsjs): A suite of polyfills supporting the HTML Web Components specs
