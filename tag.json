@@ -317,6 +317,9 @@
     "CleanMachine1/AdlistTXTS": [
         "Other"
     ],
+    "ClearURLs/Addon": [
+        "Other"
+    ],
     "ClementGre/Tabs-Groups-Manager": [
         "Other"
     ],
@@ -4346,6 +4349,9 @@
     "k08045kk/userChrome.js": [
         "Other"
     ],
+    "k08045kk/userChrome.menus.css": [
+        "Other"
+    ],
     "k5md/Pocket-Editor-webextension": [
         "Other"
     ],
@@ -4431,6 +4437,9 @@
         "Other"
     ],
     "kevinamiri/Instructgpt-prompts": [
+        "Other"
+    ],
+    "kevinhermawan/Ollamac": [
         "Other"
     ],
     "kevinlebrun/pocket-triage": [
