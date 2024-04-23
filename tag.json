@@ -401,6 +401,9 @@
     "DarrinTisdale/zsh-aliases-exa": [
         "Other"
     ],
+    "David-Kunz/gen.nvim": [
+        "Other"
+    ],
     "DebianArch64/DebProvision": [
         "Other"
     ],
@@ -2147,6 +2150,9 @@
     "anddea/revanced-patches": [
         "Other"
     ],
+    "andersrex/notesollama": [
+        "Other"
+    ],
     "andrejilderda/joplin-macos-native-theme": [
         "Other"
     ],
@@ -2930,6 +2936,9 @@
     "davidmytton/dotfiles": [
         "Other"
     ],
+    "davila7/code-gpt-docs": [
+        "Other"
+    ],
     "dawiidio/o-menu": [
         "Other"
     ],
@@ -2958,6 +2967,9 @@
         "Other"
     ],
     "decipher3114/Revancify": [
+        "Other"
+    ],
+    "dedoussis/icloud-hide-my-email-browser-extension": [
         "Other"
     ],
     "deepjyoti30/ytmdl": [
@@ -3144,6 +3156,9 @@
         "Other"
     ],
     "dupontjoy/userChrome.js-Collections-": [
+        "Other"
+    ],
+    "dustinblackman/oatmeal": [
         "Other"
     ],
     "dustindmiller/QLab-Touchbar": [
@@ -3446,6 +3461,9 @@
     "folivoraAI/BetterTouchToolPlugins": [
         "Other"
     ],
+    "folke/lazy.nvim": [
+        "Other"
+    ],
     "fontsource/fontsource": [
         "Other"
     ],
@@ -3585,6 +3603,9 @@
         "Other"
     ],
     "gglukmann/use-google-sheets": [
+        "Other"
+    ],
+    "ggozad/oterm": [
         "Other"
     ],
     "gharlan/alfred-github-workflow": [
@@ -3809,6 +3830,9 @@
     "himanshukumar660/Address-Validation": [
         "Other"
     ],
+    "hinterdupfinger/obsidian-ollama": [
+        "Other"
+    ],
     "hiroshil/save-tabs": [
         "Other"
     ],
@@ -3962,10 +3986,22 @@
     "igorlogius/bookmark-tabs": [
         "Other"
     ],
+    "igorlogius/copy-tabs": [
+        "Other"
+    ],
     "igorlogius/dbl-click-dict": [
         "Other"
     ],
     "igorlogius/load-background-tabs-on-select": [
+        "Other"
+    ],
+    "igorlogius/save-website-as-image": [
+        "Other"
+    ],
+    "igorlogius/show-qrcode": [
+        "Other"
+    ],
+    "igorlogius/unlisted": [
         "Other"
     ],
     "iina/iina": [
@@ -4047,6 +4083,9 @@
         "Other"
     ],
     "iv-org/invidious": [
+        "Other"
+    ],
+    "ivanfioravanti/chatbot-ollama": [
         "Other"
     ],
     "ixartz/Astro-boilerplate": [
@@ -4878,6 +4917,9 @@
         "Other"
     ],
     "material-components/material-components-web": [
+        "Other"
+    ],
+    "material-theme/vsc-material-theme": [
         "Other"
     ],
     "mathiasbynens/dotfiles": [
@@ -6645,6 +6687,9 @@
         "Other"
     ],
     "stuyam/laravel-phone-validator": [
+        "Other"
+    ],
+    "stysebae/joplin-vsc-material-theme": [
         "Other"
     ],
     "subins2000/WebDrop": [
