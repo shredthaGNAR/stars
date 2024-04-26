@@ -462,6 +462,7 @@ creating your own Awesome List by GitHub stars!
 * [webextensions/close-tab-by-double-right-click](https://github.com/webextensions/close-tab-by-double-right-click): Source code for Chrome/Firefox extension "Close Tab by Double Right Click"
 * [Aadil101/cloud](https://github.com/Aadil101/cloud): A clean storage management interface for Google Drive, Dropbox, Box, and OneDrive accounts.
 * [PHLAK/CloudDrop](https://github.com/PHLAK/CloudDrop): Store and retrieve files in cloud storage providers (i.e. Dropbox, Google Drive, Microsoft OneDrive, Amazon Cloud Drive, etc.)
+* [zidansec/CloudPeler](https://github.com/zidansec/CloudPeler): CrimeFlare is a useful tool for bypassing websites protected by CloudFlare WAF, with this tool you can easily see the real IP of websites that have been protected by CloudFlare. The resulting information is certainly very useful for conducting further penetration testing, and analyzing websites with the same server.
 * [Micky1979/Clover-Configurator-Pro](https://github.com/Micky1979/Clover-Configurator-Pro): A free Plist Editor with some optional facilities for Clover UEFI boot loader
 * [johncoryk/coastal-shopify-theme](https://github.com/johncoryk/coastal-shopify-theme): Shopify theme for Low Coast Coffee
 * [davila7/code-gpt-docs](https://github.com/davila7/code-gpt-docs): Docusaurus page
@@ -826,6 +827,7 @@ creating your own Awesome List by GitHub stars!
 * [chronakis/firefox-sticky-window-containers](https://github.com/chronakis/firefox-sticky-window-containers): Firefox extention to make the current container "sticky" when opening a new tab
 * [SpitFire-666/Firefox-Stuff](https://github.com/SpitFire-666/Firefox-Stuff): Firefox info, addons, extensions, themes, customisation and stuff
 * [EliverLara/firefox-sweet-theme](https://github.com/EliverLara/firefox-sweet-theme): :candy: A dark and modern theme for firefox with vibrant colors
+* [UserNombre/firefox-tag-search](https://github.com/UserNombre/firefox-tag-search): Add a bookmark tag search sidebar to Firefox
 * [BloodyHell619/Firefox-Theme-DarkMatter](https://github.com/BloodyHell619/Firefox-Theme-DarkMatter): None
 * [dazecoop/firefox-theme-macos-vibrant](https://github.com/dazecoop/firefox-theme-macos-vibrant): None
 * [LDK-iii/firefox-transparent-theme-mac](https://github.com/LDK-iii/firefox-transparent-theme-mac): One-line theme
@@ -1215,7 +1217,7 @@ creating your own Awesome List by GitHub stars!
 * [ZachSaucier/Just-Read](https://github.com/ZachSaucier/Just-Read): A customizable read mode web extension.
 * [EragonJ/Kaku](https://github.com/EragonJ/Kaku): 🎧 Kaku is a highly integrated music player supports different online platform like YouTube, SoundCloud, Vimeo and more. Available on Mac, Windows and Linux.
 * [wulkano/Kap](https://github.com/wulkano/Kap): An open-source screen recorder built with web technology
-* [tekezo/Karabiner](https://github.com/tekezo/Karabiner): Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
+* [pqrs-org/Karabiner-archived](https://github.com/pqrs-org/Karabiner-archived): Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
 * [genesy/karabiner-complex-rules-generator](https://github.com/genesy/karabiner-complex-rules-generator): Simple web app to help generate Karabiner Elements Complex Rules
 * [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements): Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
 * [rux616/karabiner-windows-mode](https://github.com/rux616/karabiner-windows-mode): Karabiner-Elements complex ruleset to make using macOS friendlier by enabling common keyboard functionality used in Linux and Windows.
@@ -1288,6 +1290,7 @@ creating your own Awesome List by GitHub stars!
 * [fregante/list-github-dir-content](https://github.com/fregante/list-github-dir-content): List all the files in a GitHub repo’s directory
 * [webextensions/live-css-editor](https://github.com/webextensions/live-css-editor): Source code for Chrome/Edge/Firefox/Opera extension Magic CSS (Live editor for CSS, Less & Sass)
 * [nt1m/livemarks](https://github.com/nt1m/livemarks): Extension that restores RSS Feed Livemarks in Firefox. 
+* [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile): Distribute and run LLMs with a single file.
 * [lliurex/lliurex-gdrive](https://github.com/lliurex/lliurex-gdrive): App to manage google drive accounts
 * [igorlogius/load-background-tabs-on-select](https://github.com/igorlogius/load-background-tabs-on-select): Prevents tabs which are opend in the background from loading until they have been manually activated
 * [cleidigh/Localfolder-TB](https://github.com/cleidigh/Localfolder-TB): Thunderbird Add-On to add additional local folders to accounts
@@ -1787,7 +1790,7 @@ creating your own Awesome List by GitHub stars!
 * [isheeze/rawalpindis](https://github.com/isheeze/rawalpindis): Shopify os 2.0 first theme of mine
 * [MassimilianoPasquini97/raycast_ollama](https://github.com/MassimilianoPasquini97/raycast_ollama): Raycast extention for Ollama
 * [rbenv/rbenv](https://github.com/rbenv/rbenv): Manage your app's Ruby environment
-* [rclone/rclone](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+* [rclone/rclone](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 * [iampueroo/rComments](https://github.com/iampueroo/rComments): Chrome and Firefox extension for quickly exploring Reddit comments and replies without having to click through to the post!
 * [SamR1/rdltr](https://github.com/SamR1/rdltr): a simple read-it later app
 * [SamR1/rdltr-addon](https://github.com/SamR1/rdltr-addon): Firefox add-on for rdltr (read-it-later app)
@@ -1934,6 +1937,7 @@ creating your own Awesome List by GitHub stars!
 * [oxen-io/session-android](https://github.com/oxen-io/session-android): A private messenger for Android.
 * [oxen-io/session-desktop](https://github.com/oxen-io/session-desktop): Session Desktop - Onion routing based messenger
 * [navorite/sessionic](https://github.com/navorite/sessionic): A web extension to save, manage and restore sessions, windows and tabs.
+* [AlexPerathoner/Sessions](https://github.com/AlexPerathoner/Sessions): Safari extension to save your working sessions
 * [ReDEnergy/SessionSync](https://github.com/ReDEnergy/SessionSync): SessionSync
 * [overdodactyl/ShadowBird](https://github.com/overdodactyl/ShadowBird): A universal dark theme for Thunderbird
 * [overdodactyl/ShadowFox](https://github.com/overdodactyl/ShadowFox): A universal dark theme for Firefox
@@ -2194,6 +2198,7 @@ creating your own Awesome List by GitHub stars!
 * [eikendev/tbunread](https://github.com/eikendev/tbunread): Helps you to keep an eye on unread emails in Thunderbird 📬:fire:
 * [team-crew/team-crew.github.io](https://github.com/team-crew/team-crew.github.io): None
 * [edo0/Technetium](https://github.com/edo0/Technetium): A focused approach to taming the new Firefox's Proton design
+* [64characters/Telephone](https://github.com/64characters/Telephone): SIP softphone for Mac
 * [stoically/temporary-containers](https://github.com/stoically/temporary-containers): Firefox Add-on that lets you open automatically managed disposable containers
 * [mgunyho/tere](https://github.com/mgunyho/tere): Terminal file explorer
 * [0nn0/terminal-mac-cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet): List of my most used commands and shortcuts in the terminal for Mac
@@ -2566,6 +2571,7 @@ creating your own Awesome List by GitHub stars!
 * [zbrateam/Zebra](https://github.com/zbrateam/Zebra): 🦓 A Useful Package Manager for iOS
 * [RealRaven2000/ZombieKeys](https://github.com/RealRaven2000/ZombieKeys): Thunderbird / Waterfox Add-on: ZombieKeys
 * [zotero/zotero-connectors](https://github.com/zotero/zotero-connectors): Chrome, Firefox, Edge, and Safari extensions for Zotero
+* [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide): A smarter cd command. Supports all major shells.
 * [li-zyang/zScripts](https://github.com/li-zyang/zScripts): Repository of my userscripts
 * [zsh-users/zsh](https://github.com/zsh-users/zsh): Mirror of the Z shell source code repository.
 * [DarrinTisdale/zsh-aliases-exa](https://github.com/DarrinTisdale/zsh-aliases-exa): zsh plugin adding aliases for the exa command-line tool
