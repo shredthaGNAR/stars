@@ -371,7 +371,7 @@ creating your own Awesome List by GitHub stars!
 * [dynle/btt-simple-airpods-battery-widget](https://github.com/dynle/btt-simple-airpods-battery-widget): Simple AirPods battery btt widget for macOS Ventura
 * [vas3k/btt-touchbar-presets](https://github.com/vas3k/btt-touchbar-presets): BetterTouchTool Touch Bar Presets
 * [Zidious/BTT-TouchBarScript](https://github.com/Zidious/BTT-TouchBarScript): BetterTouchTool(BTT) Cryptocurrency Python Scripts Powered by CoinGecko API
-* [elv1n/btt-window-manager-preset](https://github.com/elv1n/btt-window-manager-preset): BetterTouchTool Window Manager Preset
+* [elv1n/btt-window-manager-preset](https://github.com/elv1n/btt-window-manager-preset): Simple and powerful BetterTouchTool Window Manager Preset
 * [noonchen/BTT_AppleWirelessHeadphone](https://github.com/noonchen/BTT_AppleWirelessHeadphone): Toggle and display battery info of apple wireless headphones on the touch bar
 * [noonchen/BTT_NightShiftSlider](https://github.com/noonchen/BTT_NightShiftSlider): A BetterTouchTool widget to control Night Shift strength
 * [ganapativs/bttn.css](https://github.com/ganapativs/bttn.css): Awesome buttons for awesome projects!
@@ -2106,6 +2106,7 @@ creating your own Awesome List by GitHub stars!
 * [SoslyLW/SportsOdds](https://github.com/SoslyLW/SportsOdds): A Pythagorean win expectation-based Monte Carlo simulator to determine the odds of NHL teams making the playoffs.
 * [w0lfschild/spotifyPlus](https://github.com/w0lfschild/spotifyPlus): 🎵 MacForge plugin to enhance the Spotify Desktop player on macOS
 * [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX): SpotX patcher used for patching the desktop version of Spotify
+* [SpotX-Official/SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash): SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash
 * [ziacto/spynet-camera](https://github.com/ziacto/spynet-camera): Allows to use your mobile device as an IP camera
 * [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh): Make images smaller using best-in-class codecs, right in the browser.
 * [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui): Stable Diffusion web UI
