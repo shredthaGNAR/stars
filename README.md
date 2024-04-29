@@ -307,6 +307,7 @@ creating your own Awesome List by GitHub stars!
 * [anudeepND/blacklist](https://github.com/anudeepND/blacklist): Curated and well-maintained hostfile to block ads, tracking, cryptomining, and more! Updated regularly. ⚡🔒
 * [EnergizedProtection/block](https://github.com/EnergizedProtection/block): Let's make an annoyance free, better open internet, altogether!
 * [mkb2091/blockconvert](https://github.com/mkb2091/blockconvert): Malware, advert and tracking blacklist
+* [ph00lt0/blocklist](https://github.com/ph00lt0/blocklist): Blocklists for AdGuard Home, AdGuard, Little Snitch, Open Snitch, uBlock Origin, Brave Adblock, pfBlockerNG, and PiHole
 * [Nuzair46/BlockTheSpot-Mac](https://github.com/Nuzair46/BlockTheSpot-Mac): Spotify Ad blocker for MacOS
 * [RickStrahl/BlogPosts](https://github.com/RickStrahl/BlogPosts): None
 * [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app): A cross-platform app ecosystem, bringing iMessage to Android, PC (Windows, Linux, & even macOS), and Web!
@@ -362,6 +363,7 @@ creating your own Awesome List by GitHub stars!
 * [Worie/btt](https://github.com/Worie/btt): Low level MacOS management in JavaScript via BetterTouchTool
 * [wonjoonSeol/BTT-Aqua-modification](https://github.com/wonjoonSeol/BTT-Aqua-modification): Better Touch Tool AquaTouch Preset Modification
 * [andrewchidden/btt-controllers](https://github.com/andrewchidden/btt-controllers): Small controller scripts and utilities designed to work with BetterTouchTool.
+* [leegeunhyeok/btt-ghp](https://github.com/leegeunhyeok/btt-ghp): ✨ My BTT(Better Touch Tool) preset.
 * [jlehrer1/BTT-Practical](https://github.com/jlehrer1/BTT-Practical): A BetterTouchTool preset focused on a clean, minimalistic design for those interested in hardware stats and essential developer tools. 
 * [PINPAL/btt-preset](https://github.com/PINPAL/btt-preset): BetterTouchTool Preset
 * [andrewchidden/btt-presets](https://github.com/andrewchidden/btt-presets): A robust BetterTouchTool preset for developer power users.
@@ -1162,6 +1164,7 @@ creating your own Awesome List by GitHub stars!
 * [jekyll/jekyll](https://github.com/jekyll/jekyll): :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 * [sighingnow/jekyll-gitbook](https://github.com/sighingnow/jekyll-gitbook): Build Jekyll site with GitBook style!
 * [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy): A minimal, responsive, and feature-rich Jekyll theme for technical writing.
+* [sharadcodes/jekyll-theme-serial-programmer](https://github.com/sharadcodes/jekyll-theme-serial-programmer): A Jekyll theme for serial programmers (-.-)
 * [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono): JetBrains Mono – the free and open-source typeface for developers
 * [JitouchApp/Jitouch](https://github.com/JitouchApp/Jitouch): A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad
 * [sukolsak/jitouch](https://github.com/sukolsak/jitouch): A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad
@@ -1620,6 +1623,8 @@ creating your own Awesome List by GitHub stars!
 * [ChanChunCheong/PeopleSearch](https://github.com/ChanChunCheong/PeopleSearch): DSO Summer Internship-People Search Aggregator web application which use data analytics and artificial intelligence libraries, to simultaneously search social media profiles from various platforms, processes, and then rank the search results based on name, location, keywords and image matching
 * [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis): Persepolis Download Manager is a GUI for aria2.
 * [github/personal-website](https://github.com/github/personal-website): Code that'll help you kickstart a personal website that showcases your work as a software developer.
+* [nimit95/Personal-Website](https://github.com/nimit95/Personal-Website): My Personal Website in React, Material UI, React Spring. Contents can be modified via single JSON.
+* [umutxyp/Personal-Website](https://github.com/umutxyp/Personal-Website): It is a quality portfolio site with a beautiful and simple design that you can personalize for yourself.
 * [thlorenz/phe](https://github.com/thlorenz/phe): Poker hand evaluator
 * [fabiospampinato/phoenix](https://github.com/fabiospampinato/phoenix): My Phoenix setup. Powerful, easy to customize, tuned for web development, adds a space switcher.
 * [kasper/phoenix](https://github.com/kasper/phoenix): A lightweight macOS window and app manager scriptable with JavaScript
@@ -1785,6 +1790,7 @@ creating your own Awesome List by GitHub stars!
 * [Shad0wSeven/Quietfox-Proton](https://github.com/Shad0wSeven/Quietfox-Proton): Quietfox release for Proton, upgrades and improvments from myself, and from the Lepton project
 * [TheGITofTeo997/quietfoxReborn](https://github.com/TheGITofTeo997/quietfoxReborn): Trying to resurrect a very Clean Firefox userChrome Mod
 * [1280px/rainfox](https://github.com/1280px/rainfox): Photon UI, re-imagined.
+* [rajaprerak/rajaprerak.github.io](https://github.com/rajaprerak/rajaprerak.github.io): Personal Portfolio Website
 * [HoldemPokerTools/RangeAssistant](https://github.com/HoldemPokerTools/RangeAssistant): Texas Hold'em Opening Range Assistant web and desktop application for OS X and Windows (beta)
 * [LoneWanderer-GH/RaspiVWS](https://github.com/LoneWanderer-GH/RaspiVWS): Raspberry Pi Webcam Streaming with Logitech C920 and VLC
 * [DEgITx/rats-search](https://github.com/DEgITx/rats-search): BitTorrent P2P multi-platform search engine for Desktop and Web servers with integrated torrent client.
@@ -2021,6 +2027,7 @@ creating your own Awesome List by GitHub stars!
 * [crittermike/shortkeys](https://github.com/crittermike/shortkeys): A browser extension for custom keyboard shortcuts 
 * [kuldeepghodasara/Show-Payment-icons-to-Shopify-Dynamically](https://github.com/kuldeepghodasara/Show-Payment-icons-to-Shopify-Dynamically): Script to Show Payment icons to Shopify Dynamically [add it to footer.liquid]
 * [igorlogius/show-qrcode](https://github.com/igorlogius/show-qrcode): Displays the active url (or any selected link or text) as a qrcode for easy sharing between devices with a qrcode scanner like mobile/smart phones and tablets. Also allows saving and copying to the clipboard pasting in other programms.
+* [apvarun/showfolio-hugo-theme](https://github.com/apvarun/showfolio-hugo-theme): Modern portfolio theme for your Hugo site
 * [shredthaGNAR/shredthagnar.github.io](https://github.com/shredthaGNAR/shredthagnar.github.io): ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 * [garywill/sidebar-switch](https://github.com/garywill/sidebar-switch): Switch for Firefox's native sidebar. A slim vertical button on left of main content. Replace the legacy addon All in One Sidebar. You can open sidebar by clicking edge of screen. (runs on ff115) 🪟
 * [SideStore/SideStore](https://github.com/SideStore/SideStore): SideStore is a fork of AltStore that doesn't require an AltServer.
@@ -2037,6 +2044,7 @@ creating your own Awesome List by GitHub stars!
 * [gildas-lormeau/single-file-companion-lite](https://github.com/gildas-lormeau/single-file-companion-lite): SingleFile Companion Lite
 * [gildas-lormeau/single-file-core](https://github.com/gildas-lormeau/single-file-core): None
 * [gildas-lormeau/single-filez-core](https://github.com/gildas-lormeau/single-filez-core): None
+* [odeyemitobi/Single-page-personal-website](https://github.com/odeyemitobi/Single-page-personal-website): None
 * [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile): Web Extension for saving a faithful copy of a complete web page in a single HTML file
 * [gildas-lormeau/SingleFile-Archives](https://github.com/gildas-lormeau/SingleFile-Archives): Pages saved with SingleFile
 * [screenbreak/SingleFile-dockerized](https://github.com/screenbreak/SingleFile-dockerized): SingleFile docker implementation providing access via CLI and WEB service
