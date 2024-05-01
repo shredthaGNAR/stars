@@ -67,7 +67,7 @@ creating your own Awesome List by GitHub stars!
 * [Czarto/Adwords-Scripts](https://github.com/Czarto/Adwords-Scripts): Google Ads Bidding scripts
 * [piroor/aggregate-tabs-to-main-window](https://github.com/piroor/aggregate-tabs-to-main-window): Aggregate new tabs to a window which has most many tabs and largest size.
 * [fastaddons/AI-Anywhere](https://github.com/fastaddons/AI-Anywhere): None
-* [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists): ⛔ Supercharge your network security with DNS blocklists from The Firebog ⛔ Daily updates shield you from ads, trackers, malware, phishing, crypto, and NSFW content ⛔ Works with AdGuard Home, Pi-Hole, and adblock browser extensions for a safer, ad-free world wide web experience ⛔
+* [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists): ⛔ Supercharge your network security with DNS blocklists from ⛔ The Firebog ⛔ Daily updates shield you from ads, trackers, malware, phishing, crypto, and NSFW content ⛔ Works with AdGuard Home, Pi-Hole, and adblock browser extensions for a safer, ad-free world wide web experience ⛔
 * [air-controller/air-controller-desktop](https://github.com/air-controller/air-controller-desktop): A new handy and powerful Android phone assistant， powered by Flutter.
 * [canalnoises/AirDrop-Shortcut](https://github.com/canalnoises/AirDrop-Shortcut): A script to select AirDrop from Finder's Share menu. Assign to a keyboard shortcut for quick AirDropping.
 * [Airmail/AirmailPlugIn-Framework](https://github.com/Airmail/AirmailPlugIn-Framework): None
@@ -1321,7 +1321,7 @@ creating your own Awesome List by GitHub stars!
 * [anonymousaga/mac-passwords-app](https://github.com/anonymousaga/mac-passwords-app): An app that allows you to view keychain passwords with one click.
 * [haokaiyang/Mac-QuickLook](https://github.com/haokaiyang/Mac-QuickLook): QuickLook plugins and packages
 * [madlymad/mac-scrcpy-app](https://github.com/madlymad/mac-scrcpy-app): Automator scripts that allow to start scrcpy tool on mac
-* [bkuhlmann/mac_os-config](https://github.com/bkuhlmann/mac_os-config): Shell scripts for customized macOS machine setup and configuration.
+* [bkuhlmann/mac_os-config](https://github.com/bkuhlmann/mac_os-config): Shell scripts for customized macOS machine setup.
 * [p0deje/Maccy](https://github.com/p0deje/Maccy): Lightweight clipboard manager for macOS
 * [jonbeebe/MacDynamicWallpaper](https://github.com/jonbeebe/MacDynamicWallpaper): Mojave-style dynamic wallpapers for macOS.
 * [MacEnhance/MacForge](https://github.com/MacEnhance/MacForge): 📦 Plugin, App, and Theme store which includes plugin injection for macOS
