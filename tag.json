@@ -3692,6 +3692,9 @@
     "github/personal-website": [
         "Other"
     ],
+    "gittyupcowboy/Onetab-Extractor": [
+        "Other"
+    ],
     "gitx/gitx": [
         "Other"
     ],
@@ -4116,6 +4119,9 @@
         "Other"
     ],
     "ivanfioravanti/chatbot-ollama": [
+        "Other"
+    ],
+    "ivarbrandt/skin.fentastic": [
         "Other"
     ],
     "ixartz/Astro-boilerplate": [
@@ -5549,6 +5555,9 @@
     "ollama-ui/ollama-ui": [
         "Other"
     ],
+    "ollama/ollama": [
+        "Other"
+    ],
     "ololx/create-symlink": [
         "Other"
     ],
@@ -5903,6 +5912,9 @@
     "projectdelphai/panorama-tab-groups": [
         "Other"
     ],
+    "promptslab/Awesome-Prompt-Engineering": [
+        "Other"
+    ],
     "psd-tools/psd-tools": [
         "Other"
     ],
@@ -6180,6 +6192,12 @@
         "Other"
     ],
     "ruipgil/pocketmark": [
+        "Other"
+    ],
+    "run-llama/llama-lab": [
+        "Other"
+    ],
+    "run-llama/llama_index": [
         "Other"
     ],
     "runoshun/onetab-sync": [
@@ -6995,6 +7013,9 @@
     "thunderbird/tb-web-ext-experiments": [
         "Other"
     ],
+    "thunlp/OpenPrompt": [
+        "Other"
+    ],
     "tiansh/simple-context-search": [
         "Other"
     ],
@@ -7134,6 +7155,9 @@
         "Other"
     ],
     "ttscoff/searchlink-plugins": [
+        "Other"
+    ],
+    "tuan3w/llama-raycast": [
         "Other"
     ],
     "tubearchivist/tubearchivist": [
