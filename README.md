@@ -197,6 +197,7 @@ creating your own Awesome List by GitHub stars!
 * [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq): Automatic headphone equalization from frequency responses
 * [synappser/AutoFocus](https://github.com/synappser/AutoFocus): A focus-follows-mouse implementation on steroids!
 * [wting/autojump](https://github.com/wting/autojump): A cd command that learns - easily navigate directories from the command line
+* [tsaost/autoload-temporary-addon](https://github.com/tsaost/autoload-temporary-addon): Automatically load temporary addons from a local directory when Firefox starts
 * [thirdinsight/AutoMarkFolderRead](https://github.com/thirdinsight/AutoMarkFolderRead): Thunderbird Addon to automatically mark folders (like junk) as read.
 * [madkarmaa/automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan): Browser userscript to automatically send DAN messages to ChatGPT
 * [alfredapp/automation-tasks](https://github.com/alfredapp/automation-tasks): Official Alfred Automation Tasks
@@ -269,6 +270,7 @@ creating your own Awesome List by GitHub stars!
 * [hachikoharuno/Beautiful-newtab-Firefox](https://github.com/hachikoharuno/Beautiful-newtab-Firefox): Beautiful design for firefox new tab
 * [shredthaGNAR/beautiiful-jekyl](https://github.com/shredthaGNAR/beautiiful-jekyl): ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 * [NicolaeNMV/BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay): One button to close any overlay on any website
+* [themeselection/best-chrome-extensions](https://github.com/themeselection/best-chrome-extensions): A curated list of Best Awesome Chrome Extensions to boost your productivity in your Browsers
 * [tomhaydn/BetArbit](https://github.com/tomhaydn/BetArbit): Sports betting arbitrage algorithm
 * [dashee87/betScrapeR](https://github.com/dashee87/betScrapeR): R package to scrape live sports betting odds
 * [aligo/better-google](https://github.com/aligo/better-google): Userscript to Better (or Older and Good) Google
@@ -339,6 +341,7 @@ creating your own Awesome List by GitHub stars!
 * [twolfson/bookmarks](https://github.com/twolfson/bookmarks): Webpage representing a collection of bookmarks
 * [brian-girko/bookmarks-commander](https://github.com/brian-girko/bookmarks-commander): A two-panel bookmarks manager which is similar to the well-known Total Commander.
 * [radam9/bookmarks-converter](https://github.com/radam9/bookmarks-converter): Parse db/html/json bookmarks file from (Chrome - Firefox - Custom source) and convert it to db/html/json format.
+* [atkinsio/bookmarks-html-generator](https://github.com/atkinsio/bookmarks-html-generator): A tool which allows you to convert a list of URLs into Bookmarks for use with all major browsers.
 * [scraggo/bookmarks-markdown-utils](https://github.com/scraggo/bookmarks-markdown-utils): Collection of command-line tools for Chrome, OneTab, Evernote, and FireFox bookmark management. The tools are mostly to convert proprietary formats to markdown and organizing and add tags.
 * [cadeyrn/bookmarks-organizer](https://github.com/cadeyrn/bookmarks-organizer): With the Bookmarks Organizer it's easy to put order in your bookmarks. The Bookmarks Organizer finds no longer working bookmarks, redirects, duplicates and more!
 * [dvdn/bookmarks-reader](https://github.com/dvdn/bookmarks-reader): Display all your bookmarks files on a webpage
@@ -359,6 +362,7 @@ creating your own Awesome List by GitHub stars!
 * [fregante/browser-extension-template](https://github.com/fregante/browser-extension-template): 📕 Barebones boilerplate with Parcel 2, options handler and auto-publishing
 * [adi6409/browser-ff](https://github.com/adi6409/browser-ff): None
 * [Luzifer/browser-privacy](https://github.com/Luzifer/browser-privacy): List of filter rules for uBlock Origin to enhance the browsing privacy and replace Ghostery
+* [seanbreckenridge/browserexport](https://github.com/seanbreckenridge/browserexport): backup and parse browser history databases (chrome, firefox, safari, and other chrome/firefox derivatives)
 * [Zegnat/browserext-window-merger](https://github.com/Zegnat/browserext-window-merger): Merge specified browser windows into each other. Or all of them into one. Simply right click to open Firefox’s context menu when multiple windows are open, or configure a keyboard shortcut. All wrapped up in one tiny free extension.
 * [SaulBerrenson/BrowserStealer](https://github.com/SaulBerrenson/BrowserStealer): Simple password/cookies/history/bookmarks stealer/dumper for chrome all version (includes 80+), microsoft edge browser,includes all chromium based browsers, and all gecko based browser (firefox etc.).
 * [Worie/btt](https://github.com/Worie/btt): Low level MacOS management in JavaScript via BetterTouchTool
@@ -421,7 +425,7 @@ creating your own Awesome List by GitHub stars!
 * [jscher2000/change-maximized-to-resizable](https://github.com/jscher2000/change-maximized-to-resizable): Firefox Extension to Change Maximized New Window to Resizable 
 * [dtkdt100/Chat-GPT-for-Gmail](https://github.com/dtkdt100/Chat-GPT-for-Gmail): A browser extension to complete your email with the help of ChatGPT
 * [ivanfioravanti/chatbot-ollama](https://github.com/ivanfioravanti/chatbot-ollama): Chatbot Ollama is an open source chat UI for Ollama.
-* [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox): Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux
+* [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox): User-friendly Desktop App for LLMs (GPT, Claude, Ollama...)
 * [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT): OpenAI API Free Reverse Proxy
 * [khzg/ChatGPT](https://github.com/khzg/ChatGPT): Ai Chat everywhere (firefox addons)
 * [lencx/ChatGPT](https://github.com/lencx/ChatGPT): 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
@@ -502,6 +506,7 @@ creating your own Awesome List by GitHub stars!
 * [ysard/cookie-quick-manager](https://github.com/ysard/cookie-quick-manager): An addon to manage (view, search, create, edit, remove, backup, restore) cookies on Firefox.
 * [hariprasd/cool-bookmarklets](https://github.com/hariprasd/cool-bookmarklets): Bookmarklets for Browsers, that are cool in some way for someone. Minimum Automation
 * [webkul/coolhue](https://github.com/webkul/coolhue): Coolest Gradient Hues and Swatches
+* [igorlogius/copy-link-extras](https://github.com/igorlogius/copy-link-extras): Add extra copy functions to links. Works with single or muliple links in a selection. 
 * [piroor/copy-selected-tabs-to-clipboard](https://github.com/piroor/copy-selected-tabs-to-clipboard): Provides ability to copy title and URL of selected tabs to the clipboard for Firefox 63 and later.
 * [igorlogius/copy-tabs](https://github.com/igorlogius/copy-tabs): Copy tabs as hyperlinks or as plaintext URLs, similar to  MS Edge, but better since this addons supports copying mutliple tabs at once
 * [ctrlxc/copyaddrs](https://github.com/ctrlxc/copyaddrs): thunderbird webextentions
@@ -761,6 +766,7 @@ creating your own Awesome List by GitHub stars!
 * [kencrocken/FiraCodeiScript](https://github.com/kencrocken/FiraCodeiScript): Mashup Font of FiraCode and Script12
 * [bennypowers/fireblocks](https://github.com/bennypowers/fireblocks): Chonky Firefox tabs for square developers
 * [Thomashighbaugh/firefox](https://github.com/Thomashighbaugh/firefox): Torturing Firefox with userchrome.js and userchrome.css in response to Mozilla's successive degradation of the browser window. 
+* [awesome-windows11/firefox](https://github.com/awesome-windows11/firefox): 🦊 Awesome Firefox
 * [bolucat/Firefox](https://github.com/bolucat/Firefox): The Source Code of Firefox on Desktop
 * [crssi/Firefox](https://github.com/crssi/Firefox): None
 * [nonoroazoro/firefox](https://github.com/nonoroazoro/firefox): Customized Extensions, Scripts, UserChromeJS and Rules of Firefox.
@@ -812,6 +818,7 @@ creating your own Awesome List by GitHub stars!
 * [LRDN/firefox-proton-custom](https://github.com/LRDN/firefox-proton-custom): Firefox default theme customization that replaces the floating tabs with a more conventional, cleaner interface.
 * [leadweedy/Firefox-Proton-Square](https://github.com/leadweedy/Firefox-Proton-Square): Makes Firefox Proton UI square again
 * [wrestlerdude/Firefox-Proton-Square](https://github.com/wrestlerdude/Firefox-Proton-Square): Makes Firefox Proton UI look and feel like Quantum
+* [Sporif/firefox-quantum-userchromejs](https://github.com/Sporif/firefox-quantum-userchromejs): Firefox Quantum-compatible custom javascript in browser context — no extension, userChromeJS replacement
 * [xpmn/firefox-reading-list](https://github.com/xpmn/firefox-reading-list): A minimal Firefox extension for saving pages to read later.
 * [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar): Refine the Firefox (100–125) find bar by repositioning it, adjusting spacing & styling internal elements.
 * [mobiusxp/firefox-remap-private-browsing](https://github.com/mobiusxp/firefox-remap-private-browsing): UserChrome JS script to remap Firefox's Private Browsing to match everything else
@@ -1040,6 +1047,7 @@ creating your own Awesome List by GitHub stars!
 * [jasewarner/gulp-shopify](https://github.com/jasewarner/gulp-shopify): Blank slate Shopify theme for Developers, packaged with Gulp.js for processing SCSS, JavaScript (ES6), images and fonts. Made to support Online Store 2.0 features and Shopify CLI.
 * [SirAlidadi/HackBar](https://github.com/SirAlidadi/HackBar): Hackbar Firefox Extension
 * [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData): Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
+* [koo5/hackery2](https://github.com/koo5/hackery2): notes, scripts, utilities, dotfiles, experiments, toys..
 * [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh): Hackintosh long-term maintenance model EFI and installation tutorial
 * [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon): Staggeringly powerful macOS desktop automation with Lua
 * [KURANADO2/hammerspoon-kuranado](https://github.com/KURANADO2/hammerspoon-kuranado): Hammerspoon config（Support custom shortcut keys, emoji search, application shortcut switching, real-time network speed, key echo, etc.）
@@ -1107,6 +1115,7 @@ creating your own Awesome List by GitHub stars!
 * [deseven/iCanHazShortcut](https://github.com/deseven/iCanHazShortcut): simple shortcut manager for macOS
 * [dedoussis/icloud-hide-my-email-browser-extension](https://github.com/dedoussis/icloud-hide-my-email-browser-extension): Enjoy iCloud's Hide My Email service in your favourite browser
 * [nicolodiamante/icloud-nosync](https://github.com/nicolodiamante/icloud-nosync): Take control of your iCloud Drive files with iCloud NoSync - the ultimate utility for effortless sync and management! Get the edge you need to stay organized and up-to-date.
+* [au2001/icloud-passwords-firefox](https://github.com/au2001/icloud-passwords-firefox): Firefox extension which lets you use your passwords stored on iCloud Keychain®.
 * [farnots/iCloudDownloader](https://github.com/farnots/iCloudDownloader): CLI for downloading iCloud file
 * [elrumo/icon-brew](https://github.com/elrumo/icon-brew): A free and open source icon pack. With hundreds of icons and new ones being added weekly.
 * [jenstornell/icon-flood](https://github.com/jenstornell/icon-flood): Hand picked SVG icon packs with at least 200 icons
@@ -1140,8 +1149,10 @@ creating your own Awesome List by GitHub stars!
 * [tremby/imgur.sh](https://github.com/tremby/imgur.sh): Bart's Imgur uploader bash script
 * [JayBrown/imgurAU](https://github.com/JayBrown/imgurAU): macOS one-stop shop solution for anonymous uploads to imgur with support for local files, files opened in image editors, pasteboard contents, new screenshots & web images
 * [ram-on/imgurbash2](https://github.com/ram-on/imgurbash2): A bash script that uploads images & videos to IMGUR.  It can also delete previously uploaded images/videos.
+* [igorlogius/import-urls](https://github.com/igorlogius/import-urls): Import URLs from the clipboard or a text file as tabs or bookmarks
 * [spidergears/import_chrome_bookmarks_to_pocket](https://github.com/spidergears/import_chrome_bookmarks_to_pocket): Simple chrome extension to import all your chrome bookmarks to Pocket.com account
 * [skratchdot/infinite-gradients](https://github.com/skratchdot/infinite-gradients): An HTML experiment for generating randomly created CSS3 gradients (both linear and radial)
+* [tim-we/inspector-extension](https://github.com/tim-we/inspector-extension): Inspect extensions with web-ext-inspector
 * [noahbuscher/inspire](https://github.com/noahbuscher/inspire): Collection of frontend dev and web design links :bulb:
 * [igdownloader/InstagramDownloader](https://github.com/igdownloader/InstagramDownloader): Firefox and Chrome Extention which creates an download button for instagram images and videos and videos
 * [BetterDiscord/Installer](https://github.com/BetterDiscord/Installer): A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.
@@ -1234,6 +1245,7 @@ creating your own Awesome List by GitHub stars!
 * [ndbeals/keep-exporter](https://github.com/ndbeals/keep-exporter): A command line utility to export Google Keep notes to markdown.
 * [djsudduth/keep-it-markdown](https://github.com/djsudduth/keep-it-markdown): Convert Google Keep notes dynamically to markdown for Obsidian, Logseq, Joplin and Notion using the unofficial Keep API. Also, import simple markdown notes back into Google Keep.
 * [GameXG/keep2joplin](https://github.com/GameXG/keep2joplin): 将 google keep 转换为 joplin 文件。Convert google keep to joplin file.
+* [belaviyo/keepass-macpass-helper](https://github.com/belaviyo/keepass-macpass-helper): A helper extension to use KeePass/MacPass/KeePassXC from Firefox, Opera, and Chrome browsers
 * [PhilippC/keepass2android](https://github.com/PhilippC/keepass2android): Password manager app for Android
 * [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc): KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 * [keepassxreboot/keepassxc-browser](https://github.com/keepassxreboot/keepassxc-browser): KeePassXC Browser Extension
@@ -1280,6 +1292,7 @@ creating your own Awesome List by GitHub stars!
 * [hnhx/librex](https://github.com/hnhx/librex): Framework and javascript free privacy respecting meta search engine
 * [Ahwxorg/LibreY](https://github.com/Ahwxorg/LibreY): Framework and JS free privacy respecting meta search engine
 * [Shopify/lighthouse-ci-action](https://github.com/Shopify/lighthouse-ci-action): None
+* [igorlogius/limit-active-tabs](https://github.com/igorlogius/limit-active-tabs): Limits the number of active tabs by unloading older tabs
 * [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse): The mouse and trackpad utility for Mac.
 * [ddawson/Link-Tools](https://github.com/ddawson/Link-Tools): Configurable copy and visit operations for links in Firefox
 * [apiraino/link_cleaner](https://github.com/apiraino/link_cleaner): A Firefox extension to clean urls from tracking and advertisement parameters
@@ -1287,6 +1300,7 @@ creating your own Awesome List by GitHub stars!
 * [eight04/linkify-plus-plus](https://github.com/eight04/linkify-plus-plus): A userscript/extension which can linkify almost everything. Based on Linkify Plus.
 * [eight04/linkify-plus-plus-core](https://github.com/eight04/linkify-plus-plus-core): A JavaScript library for linkification stuff. Used by linkify-plus-plus.
 * [tetsuharuohzeki/linkplaces](https://github.com/tetsuharuohzeki/linkplaces): This is a add-on for Mozilla Firefox. This provides Sidebar to display "Unsorted Bookmarks" folder in Places, as "Temporary Links".
+* [xKe00/LinkQR](https://github.com/xKe00/LinkQR): A Firefox extension that instantly converts web links into QR codes with a single click from the address bar. Easily copy or download QR codes in PNG/SVG format for seamless sharing.
 * [velvia/links](https://github.com/velvia/links): Just a bunch of useful links
 * [cloux/LinkSanitizer](https://github.com/cloux/LinkSanitizer): Browser userscript to clean up hyperlink redirections and link shims
 * [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden): ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles.
@@ -1514,6 +1528,7 @@ creating your own Awesome List by GitHub stars!
 * [nuttyartist/notes](https://github.com/nuttyartist/notes): Fast and beautiful note-taking app written in C++. Write down your thoughts.
 * [adamyi/notes_to_keep](https://github.com/adamyi/notes_to_keep): Export all your Apple iCloud Notes to your Google Keep.
 * [andersrex/notesollama](https://github.com/andersrex/notesollama): Use Ollama to talk to local LLMs in Apple Notes
+* [freaktechnik/notification-sounds](https://github.com/freaktechnik/notification-sounds): Makes a sound when a notification is shown
 * [vitorgalvao/notificator](https://github.com/vitorgalvao/notificator): Trigger macOS notifications from Alfred, using the Workflow icon
 * [MDP43140/NoTrash-PureClean-YT](https://github.com/MDP43140/NoTrash-PureClean-YT): Makes YouTube Less trashy by removing distracting features, and trash videos
 * [npmhub/npmhub](https://github.com/npmhub/npmhub): 🔎 A browser extension to explore npm dependencies on GitHub repos
@@ -1525,6 +1540,7 @@ creating your own Awesome List by GitHub stars!
 * [trafilea/nx-shopify](https://github.com/trafilea/nx-shopify): Nx plugin for developing performance-first Shopify themes 🚀
 * [dawiidio/o-menu](https://github.com/dawiidio/o-menu): Simple circular svg menu 
 * [dustinblackman/oatmeal](https://github.com/dustinblackman/oatmeal): Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
+* [nuthrash/obsidian-html-plugin](https://github.com/nuthrash/obsidian-html-plugin): This is a plugin for Obsidian (https://obsidian.md). Can open document with .html and .htm file extensions.
 * [hinterdupfinger/obsidian-ollama](https://github.com/hinterdupfinger/obsidian-ollama): None
 * [njnmco/odinochka](https://github.com/njnmco/odinochka): featherweight tab manager
 * [snte/odinochka](https://github.com/snte/odinochka): featherweight tab manager
@@ -1619,6 +1635,7 @@ creating your own Awesome List by GitHub stars!
 * [photodiode/panorama-view](https://github.com/photodiode/panorama-view): Add-on for Firefox letting you organize tabs and tab groups visually
 * [keiichi4e/paper-app](https://github.com/keiichi4e/paper-app): Unofficial Paper app for Mac
 * [vict0rsch/PaperMemory](https://github.com/vict0rsch/PaperMemory): Your browser's reference manager: automatic paper detection (Arxiv, OpenReview & more), publication venue matching and code repository discovery! Also enhances ArXiv: BibTex citation, Markdown link, direct download and more!
+* [PaperProton-Redux/PaperProton-Redux](https://github.com/PaperProton-Redux/PaperProton-Redux): A Firefox userChrome.css theme that aims to recreate the look and feel of Microsoft Edge
 * [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme): Pixel perfect icon theme for Linux
 * [Paragon-Software-Group/paragon_firewall_ce](https://github.com/Paragon-Software-Group/paragon_firewall_ce): Paragon Firewall for Mac
 * [sindresorhus/Pasteboard-Viewer](https://github.com/sindresorhus/Pasteboard-Viewer): 📋 Inspect the system pasteboards on macOS
@@ -1748,6 +1765,7 @@ creating your own Awesome List by GitHub stars!
 * [praveenravi77/prime-video-adblock](https://github.com/praveenravi77/prime-video-adblock): A simple extension to block amazon prime video ads in shows that are "Free but have ads"
 * [jhonatasrm/print-preview](https://github.com/jhonatasrm/print-preview): This add-on works by showing a preview before printing. That can be done by clicking the button on the toolbar or shortcut keys.
 * [mechagomizilla/Prism-FirefoxPhotonRecolored](https://github.com/mechagomizilla/Prism-FirefoxPhotonRecolored): Prism - Firefox Photon Recolored
+* [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings): Guide to privacy settings for most major softwares and services.
 * [Infocatcher/Private_Tab](https://github.com/Infocatcher/Private_Tab): Adds private tabs, restartless extension for Firefox (20.0+) and SeaMonkey (2.17+)
 * [xmansyx/Pro-Fox](https://github.com/xmansyx/Pro-Fox): A custome CSS Theme for firefox
 * [objective-see/ProcessMonitor](https://github.com/objective-see/ProcessMonitor): Process Monitor Library (based on Apple's new Endpoint Security Framework)
@@ -1784,6 +1802,7 @@ creating your own Awesome List by GitHub stars!
 * [Marginal/QLVideo](https://github.com/Marginal/QLVideo): This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files.
 * [srirangav/qlZipInfo](https://github.com/srirangav/qlZipInfo): MacOSX QuickLook Generator for zip, jar, tar, tar.gz (.tgz), tar.bz2 (.tbz2/.tbz), tar.Z, xar (.xar, .pkg), debian (.deb), RedHat Package Manager (.rpm), 7zip (.7z), xz, Microsoft cabinet (.cab), gzip (.gz), lha, BinHex 4.0 (.hqx), ePub (.epub), and Stuffit (.sit) archives, and ISO9660 images
 * [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes): QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
+* [monyxie/qr-lite](https://github.com/monyxie/qr-lite): A Firefox addon for generating and scanning QR codes.
 * [FrederikRogalski/QR-Reader-Mac](https://github.com/FrederikRogalski/QR-Reader-Mac): This Applescript reads QR Codes from the screen and processes them via zbar. It extracts the urls and automatically opens them in your standard browser.
 * [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp): :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 * [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy): Android real-time display control software
@@ -1942,6 +1961,7 @@ creating your own Awesome List by GitHub stars!
 * [larsow/SecurityCamera](https://github.com/larsow/SecurityCamera): Android Security Camera App
 * [rak3n/SecuritySttream](https://github.com/rak3n/SecuritySttream): an Alfred Camera like solution for motion detection and streaming based on react-native
 * [seekr-osint/seekr](https://github.com/seekr-osint/seekr): A multi-purpose OSINT toolkit with a neat web-interface.
+* [igorlogius/select-tabs-extras](https://github.com/igorlogius/select-tabs-extras): Powerful tab selection addon with a bunch of one click options but also allow the user to create custom selection rules
 * [Pitmairen/selection-search](https://github.com/Pitmairen/selection-search): Search extension for the chrome web browser
 * [emvaized/selecton-extension](https://github.com/emvaized/selecton-extension): Selecton provides popup with actions on text selection in all major browsers
 * [bitwarden/self-host](https://github.com/bitwarden/self-host): Bitwarden's self-hosted release repository
@@ -2386,6 +2406,7 @@ creating your own Awesome List by GitHub stars!
 * [dupontjoy/userChrome.js-Collections-](https://github.com/dupontjoy/userChrome.js-Collections-): UC scripts collections, include UC scripts I don't use for now and UC scripts collected from others' sharing. Just for me to find them easily in the future.
 * [tortious/userChrome.js-userChrome.css-Favorites](https://github.com/tortious/userChrome.js-userChrome.css-Favorites): None
 * [k08045kk/userChrome.menus.css](https://github.com/k08045kk/userChrome.menus.css): None
+* [VicDobrov/UserChromeFiles](https://github.com/VicDobrov/UserChromeFiles): UserChromeFiles © Vitaliy V.
 * [feiruo/userChromeJS](https://github.com/feiruo/userChromeJS): Firefox userChromeJS
 * [harv/userChromeJS](https://github.com/harv/userChromeJS): My userChromeJS scripts!
 * [jikamens/userChromeJS](https://github.com/jikamens/userChromeJS): Re-implementation of the userChromeJS add-on for Thunderbird 60+
@@ -2395,6 +2416,7 @@ creating your own Awesome List by GitHub stars!
 * [t0xk/username-generator](https://github.com/t0xk/username-generator): A username generator written in JavaScript
 * [erdidogan/username-scanner](https://github.com/erdidogan/username-scanner): Fast & Accurate Username Scanner (Frontend)
 * [Yuhanawa/UserScript](https://github.com/Yuhanawa/UserScript): 搜索引擎(百度/必应/谷歌)优化美化\快速切换|哔哩哔哩(bilibili)美化\移除评论区关键字搜索蓝字|CSDN 增强\极简化\沉浸式阅读\免登录复制|推特屏蔽过滤器|黄推屏蔽器|GreasyFork脚本页面👇
+* [cyfung1031/userscript-supports](https://github.com/cyfung1031/userscript-supports): This is for the userscripts created on GreasyFork.org. 
 * [Trinovantes/userscript-youtube-playlist-organizer](https://github.com/Trinovantes/userscript-youtube-playlist-organizer): Drag and drop interface to organize playlists on YouTube
 * [Infocatcher/UserScripts](https://github.com/Infocatcher/UserScripts): UserScripts for Firefox with Greasemonkey extension and (may be) for other browsers with user.js support
 * [danydodson/userscripts](https://github.com/danydodson/userscripts):  🪚 Collection of UserScripts.
@@ -2431,6 +2453,7 @@ creating your own Awesome List by GitHub stars!
 * [amix/vimrc](https://github.com/amix/vimrc): The ultimate Vim configuration (vimrc)
 * [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey): Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 * [sanderdebr/visited-places-api](https://github.com/sanderdebr/visited-places-api): Full-stack App - user generated map of visited places. Where have you been to?
+* [VitaliyVstyle/VitaliyVstyle.github.io](https://github.com/VitaliyVstyle/VitaliyVstyle.github.io): UserChromeFiles, Webextensions Experiments
 * [nt1m/vivaldi-fox](https://github.com/nt1m/vivaldi-fox): An add-on that aims to add Vivaldi style toolbar colouring to the Firefox UI
 * [sharkdp/vivid](https://github.com/sharkdp/vivid): A themeable LS_COLORS generator with a rich filetype datebase
 * [muhummadPatel/vLoader](https://github.com/muhummadPatel/vLoader): An extremely simple, no frills, GUI-based video downloader
@@ -2485,6 +2508,7 @@ creating your own Awesome List by GitHub stars!
 * [Shopify/web-configs](https://github.com/Shopify/web-configs): Common configurations for building web apps at Shopify
 * [jamesqquick/Web-Development-Essentials-Extension-Pack](https://github.com/jamesqquick/Web-Development-Essentials-Extension-Pack): This an extension pack for Visual Studio Code with extensions that are extremely helpful for Web Developers!
 * [mozilla/web-ext](https://github.com/mozilla/web-ext): A command line tool to help build, run, and test web extensions
+* [tim-we/web-ext-inspector](https://github.com/tim-we/web-ext-inspector): Website for inspecting the contents of web extensions
 * [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter): 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
 * [BCIT-DDC/web-extension-ts-starter](https://github.com/BCIT-DDC/web-extension-ts-starter): 🚀 A web extension starter built with React, Typescript, and Tailwind CSS. Build once, and run on multiple browsers: Google Chrome, Mozilla Firefox, Microsoft Edge, Brave, and Opera.
 * [usc-isi-i2/Web-Karma](https://github.com/usc-isi-i2/Web-Karma): Information Integration Tool
@@ -2502,6 +2526,7 @@ creating your own Awesome List by GitHub stars!
 * [webpack/webpack-dev-server](https://github.com/webpack/webpack-dev-server): Serves a webpack app. Updates the browser on changes. Documentation https://webpack.js.org/configuration/dev-server/.
 * [kpriyanshu256/Webpage_hosting_from_google_drive](https://github.com/kpriyanshu256/Webpage_hosting_from_google_drive): Easy way of hosting webpages using a Google Drive Account
 * [emin/WebPQuickLook](https://github.com/emin/WebPQuickLook): Mac OS X QuickLook plugin for WebP image files
+* [Sav22999/websites-notes](https://github.com/Sav22999/websites-notes): Take notes on every website in a smart and simple way!
 * [aclap-dev/weh](https://github.com/aclap-dev/weh): Toolkit to save time when developing a browser add-on for Firefox, Chrome, Edge, Opera and Vivaldi
 * [oOthkOo/whatsapp-desktop](https://github.com/oOthkOo/whatsapp-desktop): Unofficial WhatsApp Desktop Client for OSX, Linux and Windows. Build with Electron.
 * [Ekultek/WhatWaf](https://github.com/Ekultek/WhatWaf): Detect and bypass web application firewalls and protection systems
