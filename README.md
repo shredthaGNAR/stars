@@ -110,7 +110,7 @@ creating your own Awesome List by GitHub stars!
 * [learn-anything/alfred-workflows](https://github.com/learn-anything/alfred-workflows): Amazing Alfred Workflows
 * [rknightuk/alfred-workflows](https://github.com/rknightuk/alfred-workflows): My Alfred Workflows
 * [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows): Collection of Alfred workflows
-* [zeitlings/alfred-workflows](https://github.com/zeitlings/alfred-workflows): Collected Alfred Workflows & Proofs of Concept
+* [zeitlings/alfred-workflows](https://github.com/zeitlings/alfred-workflows): Collected Alfred Workflows & Proof of Concept
 * [jenslys/alfred-youtube-downloader](https://github.com/jenslys/alfred-youtube-downloader): Alfred Workflow to download YouTube videos
 * [simonbs/alfred-youtube-workflow](https://github.com/simonbs/alfred-youtube-workflow): A workflow for Alfred 2.0 which lets the user search for YouTube videos and have them returned to Alfred.
 * [willfarrell/alfred-youtube-workflow](https://github.com/willfarrell/alfred-youtube-workflow): Search and Download YouTube Videos
@@ -1421,7 +1421,7 @@ creating your own Awesome List by GitHub stars!
 * [mhogomchungu/media-downloader](https://github.com/mhogomchungu/media-downloader): Media Downloader is a Qt/C++ front end to yt-dlp, youtube-dl, gallery-dl, lux, you-get, svtplay-dl, aria2c, wget and safari books..
 * [tillig/mediacenter](https://github.com/tillig/mediacenter): Documentation/info on my media center setup.
 * [sbarex/MediaInfo](https://github.com/sbarex/MediaInfo): MacOS Finder Extension to show information about media files (images, video and audio), PDF and Office files on the contextual menu. 
-* [google/mediapipe](https://github.com/google/mediapipe): Cross-platform, customizable ML solutions for live and streaming media.
+* [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe): Cross-platform, customizable ML solutions for live and streaming media.
 * [manojVivek/medium-unlimited](https://github.com/manojVivek/medium-unlimited): A browser extension to read medium.com articles for free without membership.
 * [und3fined/medium-unlocker](https://github.com/und3fined/medium-unlocker): Read Medium content without limit!
 * [yousseb/meld](https://github.com/yousseb/meld): Meld for macOS
@@ -1635,7 +1635,6 @@ creating your own Awesome List by GitHub stars!
 * [photodiode/panorama-view](https://github.com/photodiode/panorama-view): Add-on for Firefox letting you organize tabs and tab groups visually
 * [keiichi4e/paper-app](https://github.com/keiichi4e/paper-app): Unofficial Paper app for Mac
 * [vict0rsch/PaperMemory](https://github.com/vict0rsch/PaperMemory): Your browser's reference manager: automatic paper detection (Arxiv, OpenReview & more), publication venue matching and code repository discovery! Also enhances ArXiv: BibTex citation, Markdown link, direct download and more!
-* [PaperProton-Redux/PaperProton-Redux](https://github.com/PaperProton-Redux/PaperProton-Redux): A Firefox userChrome.css theme that aims to recreate the look and feel of Microsoft Edge
 * [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme): Pixel perfect icon theme for Linux
 * [Paragon-Software-Group/paragon_firewall_ce](https://github.com/Paragon-Software-Group/paragon_firewall_ce): Paragon Firewall for Mac
 * [sindresorhus/Pasteboard-Viewer](https://github.com/sindresorhus/Pasteboard-Viewer): 📋 Inspect the system pasteboards on macOS
@@ -2542,7 +2541,7 @@ creating your own Awesome List by GitHub stars!
 * [Wingtwz/Window-Title-Hider](https://github.com/Wingtwz/Window-Title-Hider): Webextension that hides the current tab title from the window shown on the task bar (shows browser name first)
 * [dralletje/Windowed](https://github.com/dralletje/Windowed): Chrome extension to keep fullscreen windows contained
 * [drcheap/WindowSizer](https://github.com/drcheap/WindowSizer): WebExtension to quickly resize the window to one of your favorite sizes
-* [l10nelw/winger](https://github.com/l10nelw/winger): Window Manager: A Firefox web extension for switching windows and moving tabs between windows
+* [l10nelw/winger](https://github.com/l10nelw/winger): Window Manager: A Firefox web extension for switching windows, moving tabs between windows, and more
 * [shredthaGNAR/wokiee](https://github.com/shredthaGNAR/wokiee): None
 * [teamniteo/work-hours-mac](https://github.com/teamniteo/work-hours-mac): Simple app that tracks your work hours from the status bar.
 * [utkarshsingh99/Workspace-Manager](https://github.com/utkarshsingh99/Workspace-Manager): A Firefox extension to save frequently used tabs as Workspaces
