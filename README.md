@@ -1768,6 +1768,7 @@ creating your own Awesome List by GitHub stars!
 * [jhonatasrm/print-preview](https://github.com/jhonatasrm/print-preview): This add-on works by showing a preview before printing. That can be done by clicking the button on the toolbar or shortcut keys.
 * [mechagomizilla/Prism-FirefoxPhotonRecolored](https://github.com/mechagomizilla/Prism-FirefoxPhotonRecolored): Prism - Firefox Photon Recolored
 * [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings): Guide to privacy settings for most major softwares and services.
+* [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt): Interact with your documents using the power of GPT, 100% privately, no data leaks
 * [Infocatcher/Private_Tab](https://github.com/Infocatcher/Private_Tab): Adds private tabs, restartless extension for Firefox (20.0+) and SeaMonkey (2.17+)
 * [xmansyx/Pro-Fox](https://github.com/xmansyx/Pro-Fox): A custome CSS Theme for firefox
 * [objective-see/ProcessMonitor](https://github.com/objective-see/ProcessMonitor): Process Monitor Library (based on Apple's new Endpoint Security Framework)
@@ -1988,7 +1989,7 @@ creating your own Awesome List by GitHub stars!
 * [marcosdiez/shareviahttp](https://github.com/marcosdiez/shareviahttp): Share Via Http - Android
 * [jlord/sheetsee-pocket](https://github.com/jlord/sheetsee-pocket): A website for your Pocket article archive. Fork-n-Go!
 * [koalaman/shellcheck](https://github.com/koalaman/shellcheck): ShellCheck, a static analysis tool for shell scripts
-* [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock): 🔎 Hunt down social media accounts by username across social networks
+* [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock): Hunt down social media accounts by username across social networks
 * [FH-Potsdam/shifted-maps](https://github.com/FH-Potsdam/shifted-maps): Shifted Maps visualizes personal movement data as a network of map extracts showing visited places.
 * [fikovnik/ShiftIt](https://github.com/fikovnik/ShiftIt): Managing windows size and position in OSX
 * [go-shiori/shiori](https://github.com/go-shiori/shiori): Simple bookmark manager built with Go
