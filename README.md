@@ -341,6 +341,7 @@ creating your own Awesome List by GitHub stars!
 * [twolfson/bookmarks](https://github.com/twolfson/bookmarks): Webpage representing a collection of bookmarks
 * [brian-girko/bookmarks-commander](https://github.com/brian-girko/bookmarks-commander): A two-panel bookmarks manager which is similar to the well-known Total Commander.
 * [radam9/bookmarks-converter](https://github.com/radam9/bookmarks-converter): Parse db/html/json bookmarks file from (Chrome - Firefox - Custom source) and convert it to db/html/json format.
+* [abhn/Bookmarks-For-Obsidian](https://github.com/abhn/Bookmarks-For-Obsidian): Firefox add-on to add current tab URL and title to markdown files 🔥🦊
 * [atkinsio/bookmarks-html-generator](https://github.com/atkinsio/bookmarks-html-generator): A tool which allows you to convert a list of URLs into Bookmarks for use with all major browsers.
 * [scraggo/bookmarks-markdown-utils](https://github.com/scraggo/bookmarks-markdown-utils): Collection of command-line tools for Chrome, OneTab, Evernote, and FireFox bookmark management. The tools are mostly to convert proprietary formats to markdown and organizing and add tags.
 * [cadeyrn/bookmarks-organizer](https://github.com/cadeyrn/bookmarks-organizer): With the Bookmarks Organizer it's easy to put order in your bookmarks. The Bookmarks Organizer finds no longer working bookmarks, redirects, duplicates and more!
@@ -723,6 +724,7 @@ creating your own Awesome List by GitHub stars!
 * [mkaply/extended_color_management](https://github.com/mkaply/extended_color_management): None
 * [Pocket/extension-save-to-pocket](https://github.com/Pocket/extension-save-to-pocket): Save to Pocket is a browser extension that is used to save pages to a connected Pocket account
 * [namukang/extension-starter-kit](https://github.com/namukang/extension-starter-kit): Starter kit for building Chrome/Firefox extensions
+* [cezaraugusto/extension.js](https://github.com/cezaraugusto/extension.js): 🧩 Plug-and-play, zero-config, cross-browser extension development tool. 
 * [raycast/extensions](https://github.com/raycast/extensions): Everything you need to extend Raycast.
 * [andy-portmen/external-application-button](https://github.com/andy-portmen/external-application-button): Communicate with external applications of your OS through a toolbar button or context menu item.
 * [researchdepartment/external-application-button-youtube-dl-macos-shortcut](https://github.com/researchdepartment/external-application-button-youtube-dl-macos-shortcut): this was a triumph (i couldn't get the command variant listed in the FAQs to work so i made this)
@@ -815,6 +817,7 @@ creating your own Awesome List by GitHub stars!
 * [nathandaven/firefox-paradise-theme](https://github.com/nathandaven/firefox-paradise-theme): My custom Firefox userChrome profile, setup with right handed vertical tabs, compact layout, and MacOS/Paradise theming. Also works on Windows!
 * [junocomp/firefox-phosh-theme](https://github.com/junocomp/firefox-phosh-theme): None
 * [amnweb/firefox-plus](https://github.com/amnweb/firefox-plus): CSS tweaks for Firefox
+* [cat-in-136/firefox-prefjs-surveyer](https://github.com/cat-in-136/firefox-prefjs-surveyer): A quick-and-dirty tool of Firefox pref.js survey
 * [nt0g/firefox-profile-stuff](https://github.com/nt0g/firefox-profile-stuff): As advertised on TV !
 * [LRDN/firefox-proton-custom](https://github.com/LRDN/firefox-proton-custom): Firefox default theme customization that replaces the floating tabs with a more conventional, cleaner interface.
 * [leadweedy/Firefox-Proton-Square](https://github.com/leadweedy/Firefox-Proton-Square): Makes Firefox Proton UI square again
@@ -1269,6 +1272,7 @@ creating your own Awesome List by GitHub stars!
 * [kondasoft/ks-bootshop](https://github.com/kondasoft/ks-bootshop): Our Free Shopify Theme focused on simplicity, speed, and user experience. Download it today and finish your Shopify store within days, not months. Powered by Bootstrap v5 framework and 15+ years of coding experience.
 * [lando/lando](https://github.com/lando/lando): A development tool for all your projects that is fast, easy, powerful and liberating
 * [LANDrop/LANDrop](https://github.com/LANDrop/LANDrop): Drop any files to any devices on your LAN.
+* [langchain-ai/langchain](https://github.com/langchain-ai/langchain): 🦜🔗 Build context-aware reasoning applications
 * [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool): Style and Grammar Checker for 25+ Languages
 * [stuyam/laravel-phone-validator](https://github.com/stuyam/laravel-phone-validator): A phone validator for Laravel using the free Twilio phone lookup service.
 * [alfredapp/launch-url-in-3-browsers-workflow](https://github.com/alfredapp/launch-url-in-3-browsers-workflow): Launch a URL in 3 different browsers at once to speed up website testing
@@ -1543,6 +1547,7 @@ creating your own Awesome List by GitHub stars!
 * [trafilea/nx-shopify](https://github.com/trafilea/nx-shopify): Nx plugin for developing performance-first Shopify themes 🚀
 * [dawiidio/o-menu](https://github.com/dawiidio/o-menu): Simple circular svg menu 
 * [dustinblackman/oatmeal](https://github.com/dustinblackman/oatmeal): Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
+* [Vinzent03/obsidian-advanced-uri](https://github.com/Vinzent03/obsidian-advanced-uri): Advanced modes for Obsidian URI
 * [nuthrash/obsidian-html-plugin](https://github.com/nuthrash/obsidian-html-plugin): This is a plugin for Obsidian (https://obsidian.md). Can open document with .html and .htm file extensions.
 * [hinterdupfinger/obsidian-ollama](https://github.com/hinterdupfinger/obsidian-ollama): None
 * [njnmco/odinochka](https://github.com/njnmco/odinochka): featherweight tab manager
@@ -1597,6 +1602,7 @@ creating your own Awesome List by GitHub stars!
 * [open-pocket/open-pocket](https://github.com/open-pocket/open-pocket): Building a 'clean room' open-source implementation of Pocket
 * [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps): 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 * [honsiorovskyi/open-url-in-container](https://github.com/honsiorovskyi/open-url-in-container): Firefox extension to open external links in a specific container
+* [open-webui/open-webui](https://github.com/open-webui/open-webui): User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 * [openai/openai-cookbook](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
 * [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator): OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 * [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop): An open Apple AirDrop implementation written in Python
