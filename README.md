@@ -2166,7 +2166,6 @@ creating your own Awesome List by GitHub stars!
 * [maizzle/starter-markdown](https://github.com/maizzle/starter-markdown): Generate HTML emails from Markdown files
 * [actions/starter-workflows](https://github.com/actions/starter-workflows): Accelerating new GitHub Actions workflows 
 * [darekkay/static-marks](https://github.com/darekkay/static-marks): Shareable bookmarks
-* [ksclarke/static-marks-action](https://github.com/ksclarke/static-marks-action): A GitHub Action wrapper for the static-marks project
 * [darekkay/static-marks-app](https://github.com/darekkay/static-marks-app): Frontend part of the Static Marks project
 * [gaerfield/static-marks-docker](https://github.com/gaerfield/static-marks-docker): Containerized static-marks to convert plain yaml bookmark files into a static web app.
 * [shredthaGNAR/static-marks-docker](https://github.com/shredthaGNAR/static-marks-docker): Containerized static-marks to convert plain yaml bookmark files into a static web app.
@@ -2184,7 +2183,7 @@ creating your own Awesome List by GitHub stars!
 * [erosman/support](https://github.com/erosman/support): Support Location for all my extensions
 * [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys): Map your keys for web surfing, expand your browser with javascript and keyboard.
 * [jekyllt/sustain](https://github.com/jekyllt/sustain): 🎹 Personal blog powered by Jekyll
-* [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler): Open source browser extension that makes designing and developing easier by finding, processing, exporting, optimizing, and managing SVG content.
+* [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler): Open source browser extension for finding, processing, exporting, optimizing, and managing SVG content.
 * [leungwensen/svg-icon](https://github.com/leungwensen/svg-icon): An ultimate SVG icons collection DONE RIGHT, with over 10,000 SVG icons out of the box.
 * [net00-1/SW-DLT](https://github.com/net00-1/SW-DLT): SW-DLT: a front end iOS Shortcut for yt-dlp & gallery-dl. Repository for code, feature requests and bug reports.
 * [iShopifyExpert/swatches-color-settings-section](https://github.com/iShopifyExpert/swatches-color-settings-section): None
