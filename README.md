@@ -1247,7 +1247,6 @@ creating your own Awesome List by GitHub stars!
 * [lukassr/keep-desktop](https://github.com/lukassr/keep-desktop): Google Keep Dark: Desktop application for Windows, Mac and Linux with Dark Theme.
 * [ndbeals/keep-exporter](https://github.com/ndbeals/keep-exporter): A command line utility to export Google Keep notes to markdown.
 * [djsudduth/keep-it-markdown](https://github.com/djsudduth/keep-it-markdown): Convert Google Keep notes dynamically to markdown for Obsidian, Logseq, Joplin and Notion using the unofficial Keep API. Also, import simple markdown notes back into Google Keep.
-* [GameXG/keep2joplin](https://github.com/GameXG/keep2joplin): 将 google keep 转换为 joplin 文件。Convert google keep to joplin file.
 * [belaviyo/keepass-macpass-helper](https://github.com/belaviyo/keepass-macpass-helper): A helper extension to use KeePass/MacPass/KeePassXC from Firefox, Opera, and Chrome browsers
 * [PhilippC/keepass2android](https://github.com/PhilippC/keepass2android): Password manager app for Android
 * [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc): KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
@@ -1958,7 +1957,7 @@ creating your own Awesome List by GitHub stars!
 * [qbittorrent/search-plugins](https://github.com/qbittorrent/search-plugins): Search plugins for the search feature
 * [meanii/Search4](https://github.com/meanii/Search4): Search people on the Internet.
 * [diegov/searchbox](https://github.com/diegov/searchbox): Personal crawling and indexing
-* [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper): Yet another awesome web extension for switching search engines, can also search anything (selection text / image / link / find in page) on any engine with a simple right click or a variety of menus and shortcuts. Build with React & Material-UI. (WIP). 搜索酱/搜尋醬
+* [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper): Yet another awesome web extension for switching search engines, can also search anything (selection text / image / link / find in page) on any engine with a simple right click or a variety of menus and shortcuts. Build with React & Material-UI. (WIP). 搜索酱 / 搜尋醬
 * [ttscoff/searchlink](https://github.com/ttscoff/searchlink): None
 * [ttscoff/searchlink-plugins](https://github.com/ttscoff/searchlink-plugins): None
 * [EmySaulIntec/SearchPeople](https://github.com/EmySaulIntec/SearchPeople): Search images in your phone based in three photo of a person
