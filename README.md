@@ -1029,7 +1029,7 @@ creating your own Awesome List by GitHub stars!
 * [scrapewalrus/Google-Shopping-Scraper](https://github.com/scrapewalrus/Google-Shopping-Scraper): This is a python Google Shopping scraper that can scrape all the products by searching for a keyword.
 * [Ibit-to/google-unlocked](https://github.com/Ibit-to/google-unlocked): Google Unlocked browser extension uncensor google search results
 * [milosbunijevac/GoogleDownloader](https://github.com/milosbunijevac/GoogleDownloader): Python: Opens a google search to get the first 10 4k images of the person you enter. Downloads images to new folder named after search.
-* [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt): 🤖 Bring the magic of ChatGPT to Google Search (powered by GPT-4o!)
+* [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt): 🤖 Bring the magic of ChatGPT to Google Search (powered by Google Gemma + GPT-4o!)
 * [fanfare/googleimagesrestored](https://github.com/fanfare/googleimagesrestored): This extension attempts to make Google Images look and feel like it did before they changed everything on August 6th, 2019.
 * [anselm94/googlekeepclone](https://github.com/anselm94/googlekeepclone): A clone of Google Keep with its original Material Design aesthetics
 * [spmbt/googleSearchExtraButtons](https://github.com/spmbt/googleSearchExtraButtons): Google Search Extra Buttons
@@ -1118,7 +1118,7 @@ creating your own Awesome List by GitHub stars!
 * [potsky/iajai-email-signature](https://github.com/potsky/iajai-email-signature): None
 * [deseven/iCanHazShortcut](https://github.com/deseven/iCanHazShortcut): simple shortcut manager for macOS
 * [dedoussis/icloud-hide-my-email-browser-extension](https://github.com/dedoussis/icloud-hide-my-email-browser-extension): Enjoy iCloud's Hide My Email service in your favourite browser
-* [nicolodiamante/icloud-nosync](https://github.com/nicolodiamante/icloud-nosync): Take control of your iCloud Drive files with iCloud NoSync - the ultimate utility for effortless sync and management! Get the edge you need to stay organized and up-to-date.
+* [nicolodiamante/icloud-nosync](https://github.com/nicolodiamante/icloud-nosync): Take control of your iCloud Drive files with iCloud NoSync—the ultimate utility for effortless sync and management! Get the edge you need to stay organised and up–to–date.
 * [au2001/icloud-passwords-firefox](https://github.com/au2001/icloud-passwords-firefox): Firefox extension which lets you use your passwords stored on iCloud Keychain®.
 * [farnots/iCloudDownloader](https://github.com/farnots/iCloudDownloader): CLI for downloading iCloud file
 * [elrumo/icon-brew](https://github.com/elrumo/icon-brew): A free and open source icon pack. With hundreds of icons and new ones being added weekly.
