@@ -410,6 +410,7 @@ creating your own Awesome List by GitHub stars!
 * [cardrank/cardrank](https://github.com/cardrank/cardrank): Go types, funcs, and utilities for working with cards, decks, and evaluating poker hands (Holdem, Omaha, Stud, more)
 * [jacklukem/CatalinaOTAswufix](https://github.com/jacklukem/CatalinaOTAswufix): None
 * [cerpow/catapult](https://github.com/cerpow/catapult): Access your workspace on the fly.
+* [marekbrze/categorized-raycast-extensions](https://github.com/marekbrze/categorized-raycast-extensions): Easily find Raycast Extensions!🚀
 * [quiteconfused/CatImageInfo](https://github.com/quiteconfused/CatImageInfo): Image Recognition through known Social Media also known as "Search by Image or Google Goggles". Tools to dynamically identify and rename images based on image content in a directory or in a tcpdump'ish fashion
 * [CaptainN/cbyge](https://github.com/CaptainN/cbyge): Reverse engineering Cync (formerly "C by GE") WiFi devices
 * [robaston9/cbyge](https://github.com/robaston9/cbyge): Reverse engineering Cync (formerly "C by GE") WiFi devices
@@ -1042,6 +1043,7 @@ creating your own Awesome List by GitHub stars!
 * [GPortfolio/GPortfolio](https://github.com/GPortfolio/GPortfolio): Creating an automatic portfolio based on Github profile
 * [giosilvi/GPT-Prompter](https://github.com/giosilvi/GPT-Prompter): Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3, GPT-4 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons
 * [nicolaballotta/gpt3-wordpress-post-generator](https://github.com/nicolaballotta/gpt3-wordpress-post-generator): A simple cli to generate WordPress posts using Gpt3 starting from a topic.
+* [xtekky/gpt4free](https://github.com/xtekky/gpt4free): The official gpt4free repository | various collection of powerful language models
 * [tg12/gpt_jailbreak_status](https://github.com/tg12/gpt_jailbreak_status): This is a repository that aims to provide updates on the status of jailbreaking the OpenAI GPT language model.
 * [zenangst/Gray](https://github.com/zenangst/Gray):  :first_quarter_moon: Tailor your macOS Mojave experience
 * [vitalif/grive2](https://github.com/vitalif/grive2): Google Drive client with support for new Drive REST API and partial sync
@@ -1426,6 +1428,7 @@ creating your own Awesome List by GitHub stars!
 * [lightward/mechanic-tasks](https://github.com/lightward/mechanic-tasks): Public task repository for Mechanic (https://mechanic.dev)
 * [mhogomchungu/media-downloader](https://github.com/mhogomchungu/media-downloader): Media Downloader is a Qt/C++ front end to yt-dlp, youtube-dl, gallery-dl, lux, you-get, svtplay-dl, aria2c, wget and safari books..
 * [tillig/mediacenter](https://github.com/tillig/mediacenter): Documentation/info on my media center setup.
+* [MediaArea/MediaInfo](https://github.com/MediaArea/MediaInfo): Convenient unified display of the most relevant technical and tag data for video and audio files.
 * [sbarex/MediaInfo](https://github.com/sbarex/MediaInfo): MacOS Finder Extension to show information about media files (images, video and audio), PDF and Office files on the contextual menu. 
 * [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe): Cross-platform, customizable ML solutions for live and streaming media.
 * [manojVivek/medium-unlimited](https://github.com/manojVivek/medium-unlimited): A browser extension to read medium.com articles for free without membership.
@@ -1831,6 +1834,7 @@ creating your own Awesome List by GitHub stars!
 * [LoneWanderer-GH/RaspiVWS](https://github.com/LoneWanderer-GH/RaspiVWS): Raspberry Pi Webcam Streaming with Logitech C920 and VLC
 * [DEgITx/rats-search](https://github.com/DEgITx/rats-search): BitTorrent P2P multi-platform search engine for Desktop and Web servers with integrated torrent client.
 * [isheeze/rawalpindis](https://github.com/isheeze/rawalpindis): Shopify os 2.0 first theme of mine
+* [XInTheDark/raycast-g4f](https://github.com/XInTheDark/raycast-g4f): Raycast extension to use GPT-4, Llama-3, and more... all for FREE. No API Key required!
 * [MassimilianoPasquini97/raycast_ollama](https://github.com/MassimilianoPasquini97/raycast_ollama): Raycast extention for Ollama
 * [rbenv/rbenv](https://github.com/rbenv/rbenv): Manage your app's Ruby environment
 * [rclone/rclone](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
