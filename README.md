@@ -461,7 +461,7 @@ creating your own Awesome List by GitHub stars!
 * [DevNurAlam/ClickableEmailSignatureDesign-2](https://github.com/DevNurAlam/ClickableEmailSignatureDesign-2): None
 * [pietervanheijningen/clickbait-remover-for-youtube](https://github.com/pietervanheijningen/clickbait-remover-for-youtube): Replaces thumbnails and modifies titles of videos on youtube.com
 * [Wilbird/clickToPrivate](https://github.com/Wilbird/clickToPrivate): Firefox add-on to open links or current page in private mode
-* [bitwarden/clients](https://github.com/bitwarden/clients): Bitwarden client applications (web, browser extension, desktop, and cli)
+* [bitwarden/clients](https://github.com/bitwarden/clients): Bitwarden client apps (web, browser extension, desktop, and cli).
 * [xiaohk/clip2imgur](https://github.com/xiaohk/clip2imgur): A simple macOS command line tool for uploading your screenshots from clipboard to Imgur
 * [clipboard2file/clipboard2file](https://github.com/clipboard2file/clipboard2file): WebExtension for using images on the clipboard as files
 * [aecreations/clippings](https://github.com/aecreations/clippings): Clippings: an extension for Mozilla Firefox
@@ -659,7 +659,7 @@ creating your own Awesome List by GitHub stars!
 * [aptonic/dropzone4-actions](https://github.com/aptonic/dropzone4-actions): Add-on actions and API Docs for Dropzone 4
 * [aptonic/dropzone4-actions-zipped](https://github.com/aptonic/dropzone4-actions-zipped): Add-on actions for Dropzone 4
 * [sjackwu/DualFinder](https://github.com/sjackwu/DualFinder): Make Finder a two-pane file manager on Mac OS X
-* [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt): 🐤 DuckDuckGo add-on that brings the magic of ChatGPT to search results (powered by GPT-4o!)
+* [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt): 🐤 Adds AI to DuckDuckGo. Ask from any site. Powered by GPT-4o!
 * [notable/dumper](https://github.com/notable/dumper): Library for extracting attachments, notes and metadata out of formats used by popular note-taking apps.
 * [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru): Find duplicate files
 * [Peuj/duplicate-tabs-closer](https://github.com/Peuj/duplicate-tabs-closer): Duplicate Tabs Closer  - Detects and closes duplicate tabs for Chrome and Firefox.
@@ -1030,12 +1030,12 @@ creating your own Awesome List by GitHub stars!
 * [scrapewalrus/Google-Shopping-Scraper](https://github.com/scrapewalrus/Google-Shopping-Scraper): This is a python Google Shopping scraper that can scrape all the products by searching for a keyword.
 * [Ibit-to/google-unlocked](https://github.com/Ibit-to/google-unlocked): Google Unlocked browser extension uncensor google search results
 * [milosbunijevac/GoogleDownloader](https://github.com/milosbunijevac/GoogleDownloader): Python: Opens a google search to get the first 10 4k images of the person you enter. Downloads images to new folder named after search.
-* [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt): 🤖 Bring the magic of ChatGPT to Google Search (powered by Google Gemma + GPT-4o!)
+* [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt): 🤖 Adds AI to Google Search. Ask from any site. Powered by Google Gemma + GPT-4o!
 * [fanfare/googleimagesrestored](https://github.com/fanfare/googleimagesrestored): This extension attempts to make Google Images look and feel like it did before they changed everything on August 6th, 2019.
 * [anselm94/googlekeepclone](https://github.com/anselm94/googlekeepclone): A clone of Google Keep with its original Material Design aesthetics
 * [spmbt/googleSearchExtraButtons](https://github.com/spmbt/googleSearchExtraButtons): Google Search Extra Buttons
 * [sunlightworks/gosun_dev](https://github.com/sunlightworks/gosun_dev): Built for GoSun (gosun.co). Made with ♥ by Latimer Design. 
-* [privacy-tech-lab/gpc-optmeowt](https://github.com/privacy-tech-lab/gpc-optmeowt): Browser extension for opting out from web tracking via GPC
+* [privacy-tech-lab/gpc-optmeowt](https://github.com/privacy-tech-lab/gpc-optmeowt): Privacy browser extension for opting out from web tracking via GPC
 * [saturneric/GpgFrontend](https://github.com/saturneric/GpgFrontend): A free, open-source, robust yet user-friendly, compact and cross-platform tool for OpenPGP encryption. It stands out as an exceptional GUI frontend for the modern GnuPG (gpg).
 * [gphoto/gphoto2](https://github.com/gphoto/gphoto2): The gphoto2 commandline tool for accessing and controlling digital cameras.
 * [yinthewind/GPHud](https://github.com/yinthewind/GPHud): None
@@ -1043,6 +1043,7 @@ creating your own Awesome List by GitHub stars!
 * [GPortfolio/GPortfolio](https://github.com/GPortfolio/GPortfolio): Creating an automatic portfolio based on Github profile
 * [giosilvi/GPT-Prompter](https://github.com/giosilvi/GPT-Prompter): Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3, GPT-4 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons
 * [nicolaballotta/gpt3-wordpress-post-generator](https://github.com/nicolaballotta/gpt3-wordpress-post-generator): A simple cli to generate WordPress posts using Gpt3 starting from a topic.
+* [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all): GPT4All: Chat with Local LLMs on Any Device
 * [xtekky/gpt4free](https://github.com/xtekky/gpt4free): The official gpt4free repository | various collection of powerful language models
 * [tg12/gpt_jailbreak_status](https://github.com/tg12/gpt_jailbreak_status): This is a repository that aims to provide updates on the status of jailbreaking the OpenAI GPT language model.
 * [zenangst/Gray](https://github.com/zenangst/Gray):  :first_quarter_moon: Tailor your macOS Mojave experience
@@ -2477,7 +2478,7 @@ creating your own Awesome List by GitHub stars!
 * [danileao/vscode-css-variables-autocomplete](https://github.com/danileao/vscode-css-variables-autocomplete): None
 * [willofindie/vscode-cssvar](https://github.com/willofindie/vscode-cssvar): VSCode extension to support CSS Variables Intellisense
 * [be5invis/vscode-custom-css](https://github.com/be5invis/vscode-custom-css): Custom CSS Plugin for Visual Studio Code. Based on vscode-icon
-* [idbartosz/vscode-darkpp-italic](https://github.com/idbartosz/vscode-darkpp-italic): Enhanced VScode Dark+ theme with support for Fira Code iScript and Fira Code + Operator Mono fonts.
+* [idbartosz/vscode-darkpp-italic](https://github.com/idbartosz/vscode-darkpp-italic): Enhanced VSCode Dark+ theme with italic support for Fira Code iScript, Fira Code + Operator Mono fonts, and Copilot hints!
 * [jianbingfang/vscode-dup-checker](https://github.com/jianbingfang/vscode-dup-checker): vscode extension to check and dedup duplicate lines
 * [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples): Sample code illustrating the VS Code extension API.
 * [kenhowardpdx/vscode-gist](https://github.com/kenhowardpdx/vscode-gist): vscode extension for quick gists
