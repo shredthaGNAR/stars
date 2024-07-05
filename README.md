@@ -972,7 +972,6 @@ creating your own Awesome List by GitHub stars!
 * [alexmdodge/github-diff-explorer](https://github.com/alexmdodge/github-diff-explorer): The GitHub Diff Explorer is a Chrome/Firefox extension that generates a seamless file explorer with a minimalist focus.
 * [homerchen19/github-file-icons](https://github.com/homerchen19/github-file-icons): 🌈 🗂 A browser extension which gives different filetypes different icons to GitHub, GitLab, gitea and gogs.
 * [othyn/github-folder-icon-macOS](https://github.com/othyn/github-folder-icon-macOS): GitHub folder icon for use in macOS. Made so that it fits nicely alongside all the others inside your home directory. Mac OS X 10.5 (Leopard) through to macOS 13 (Ventura).
-* [Claudiohbsantos/github-material-icons-extension](https://github.com/Claudiohbsantos/github-material-icons-extension): None
 * [quantleaf/github-natural-advanced-search](https://github.com/quantleaf/github-natural-advanced-search): None
 * [skills/github-pages](https://github.com/skills/github-pages): Create a site or blog from your GitHub repositories with GitHub Pages.
 * [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator): 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
@@ -1357,7 +1356,7 @@ creating your own Awesome List by GitHub stars!
 * [p0deje/Maccy](https://github.com/p0deje/Maccy): Lightweight clipboard manager for macOS
 * [jonbeebe/MacDynamicWallpaper](https://github.com/jonbeebe/MacDynamicWallpaper): Mojave-style dynamic wallpapers for macOS.
 * [MacEnhance/MacForge](https://github.com/MacEnhance/MacForge): 📦 Plugin, App, and Theme store which includes plugin injection for macOS
-* [d0sse/macFox-theme](https://github.com/d0sse/macFox-theme): macOS minimalistic theme for firefox
+* [d0sse/macFox-theme](https://github.com/d0sse/macFox-theme): macOS safari style minimalistic theme for firefox
 * [maccman/macgap-rb](https://github.com/maccman/macgap-rb): Generator for MacGap
 * [darkbrow/macgap2_google_keep](https://github.com/darkbrow/macgap2_google_keep): None
 * [MacGesture/MacGesture](https://github.com/MacGesture/MacGesture): Global mouse gestures for macOS
@@ -1420,6 +1419,7 @@ creating your own Awesome List by GitHub stars!
 * [massCodeIO/massCode](https://github.com/massCodeIO/massCode): A free and open source code snippets manager for developers
 * [material-components/material-components-web](https://github.com/material-components/material-components-web): Modular and customizable Material Design UI components for the web
 * [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated): Firefox theme looks similar to Chrome
+* [material-extensions/material-icons-browser-extension](https://github.com/material-extensions/material-icons-browser-extension): Browser Addon that enhances file browsers of version controls with material icons.
 * [fmeyertoens/MaterialFox](https://github.com/fmeyertoens/MaterialFox): A Material Design-inspired userChrome.css theme for Firefox
 * [te6-in/MaterialFox-BigSur](https://github.com/te6-in/MaterialFox-BigSur): 🦊 A cleaner, more refined userChrome.css theme for Firefox—forked from MaterialFox
 * [typeling1578/MaterialFox-Plus](https://github.com/typeling1578/MaterialFox-Plus): A Material Design-inspired userChrome.css theme for Firefox. This repository is a Fork of muckSponge/MaterialFox.
@@ -1569,7 +1569,7 @@ creating your own Awesome List by GitHub stars!
 * [tom-james-watson/old-reddit-redirect](https://github.com/tom-james-watson/old-reddit-redirect): Ensure Reddit always loads the old design
 * [ollama/ollama](https://github.com/ollama/ollama): Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
 * [ollama-ui/ollama-ui](https://github.com/ollama-ui/ollama-ui): Simple HTML UI for Ollama
-* [kevinhermawan/Ollamac](https://github.com/kevinhermawan/Ollamac): A macOS app for interacting with the Ollama models
+* [kevinhermawan/Ollamac](https://github.com/kevinhermawan/Ollamac): Mac app for Ollama
 * [quanm/Omaha-Poker](https://github.com/quanm/Omaha-Poker): None
 * [alyssaxuu/omni](https://github.com/alyssaxuu/omni): The all-in-one tool to supercharge your productivity ⌨️
 * [InQuest/omnibus](https://github.com/InQuest/omnibus): The OSINT Omnibus (beta release)
@@ -2230,7 +2230,7 @@ creating your own Awesome List by GitHub stars!
 * [MonterraByte/tab_move](https://github.com/MonterraByte/tab_move): Firefox addon that lets you move a tab to the start or the end of the tab bar
 * [menhera-org/TabArray](https://github.com/menhera-org/TabArray): Chrome-like tab groups using private and isolated containers: The ultimate tab manager and groups for Firefox.
 * [Bill13579/tabby](https://github.com/Bill13579/tabby): A web extension for managing great amounts of windows and tabs at ease.
-* [tabler/tabler-icons](https://github.com/tabler/tabler-icons): A set of over 5200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+* [tabler/tabler-icons](https://github.com/tabler/tabler-icons): A set of over 5300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 * [jakob/TableTool](https://github.com/jakob/TableTool): A simple CSV editor for the Mac
 * [lbragile/TabMerger](https://github.com/lbragile/TabMerger): TabMerger is a cross-browser extension that stores your tabs in a single place to save memory usage and increase your productivity.
 * [onemen/TabMixPlus](https://github.com/onemen/TabMixPlus): New Tab mix plus for modern Firefox
