@@ -3164,6 +3164,9 @@
     "dnnsmnstrr/HydroTouch": [
         "Other"
     ],
+    "dnnsmnstrr/alfred-btt": [
+        "Other"
+    ],
     "dnomd343/alltube-docker": [
         "Other"
     ],
@@ -4122,9 +4125,6 @@
         "Other"
     ],
     "igorlogius/show-qrcode": [
-        "Other"
-    ],
-    "igorlogius/unlisted": [
         "Other"
     ],
     "iina/iina": [
@@ -6087,6 +6087,9 @@
         "Other"
     ],
     "quenhus/uBlock-Origin-dev-filter": [
+        "Other"
+    ],
+    "quexten/goldwarden": [
         "Other"
     ],
     "quicksilver/Quicksilver": [

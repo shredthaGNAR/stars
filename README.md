@@ -84,6 +84,7 @@ creating your own Awesome List by GitHub stars!
 * [kevin-funderburg/alfred-bettertouchtool-gestures](https://github.com/kevin-funderburg/alfred-bettertouchtool-gestures): Use Alfred to quickly search through all the trackpad gestures within BetterTouchTool
 * [trietsch/alfred-bluetooth-connector](https://github.com/trietsch/alfred-bluetooth-connector): Alfred workflow for listing known Bluetooth devices and (dis)connecting to them -> NOT MAINTAINED ANYMORE, work is merged into https://github.com/tilmanginzel/alfred-bluetooth-workflow
 * [tilmanginzel/alfred-bluetooth-workflow](https://github.com/tilmanginzel/alfred-bluetooth-workflow): Yet another Alfred workflow to connect / disconnect Bluetooth devices
+* [dnnsmnstrr/alfred-btt](https://github.com/dnnsmnstrr/alfred-btt): Alfred workflow to run named triggers and actions in BetterTouchTool
 * [CacherApp/alfred-cacher](https://github.com/CacherApp/alfred-cacher): Alfred workflow for finding a Cacher snippet.
 * [msoedov/Alfred-collection](https://github.com/msoedov/Alfred-collection): A collection of all known Alfred3 workflows
 * [deanishe/alfred-convert](https://github.com/deanishe/alfred-convert): Convert between different units in Alfred
@@ -1015,6 +1016,7 @@ creating your own Awesome List by GitHub stars!
 * [yqrashawn/GokuRakuJoudo](https://github.com/yqrashawn/GokuRakuJoudo): config karabiner with ease
 * [GoldenChaos/GoldenChaos-BTT](https://github.com/GoldenChaos/GoldenChaos-BTT): The complete Touch Bar UI replacement for BetterTouchTool
 * [min-uuu/GoldenRabbit-BTT](https://github.com/min-uuu/GoldenRabbit-BTT): MacBook Pro touchbar custom. Perfectly Optimized BTT(Better Touch Tool) Preset.
+* [quexten/goldwarden](https://github.com/quexten/goldwarden): A feature-packed Bitwarden compatible desktop client
 * [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds): None
 * [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey): Turn (almost) any Python command line program into a full GUI application with one line
 * [zanonmark/Google-4-TbSync](https://github.com/zanonmark/Google-4-TbSync): This provider add-on adds Google synchronization capabilities to TbSync. Only contacts and contact groups are currently managed, using Google's People API.
@@ -2397,7 +2399,6 @@ creating your own Awesome List by GitHub stars!
 * [LAX18/Unichat-Firefox-Extension](https://github.com/LAX18/Unichat-Firefox-Extension): The repo for the firefox port of the Unichat Chrome Extension
 * [jeffreytram/UniDrive](https://github.com/jeffreytram/UniDrive): 🗄 Access, organize, and manage several Google Drive accounts in one place.
 * [winder/Universal-G-Code-Sender](https://github.com/winder/Universal-G-Code-Sender): A cross-platform G-Code sender for GRBL, Smoothieware, TinyG and G2core.
-* [igorlogius/unlisted](https://github.com/igorlogius/unlisted): Addons not listed on AMO
 * [zhuozhiyongde/Unlocking-Raycast-With-Surge](https://github.com/zhuozhiyongde/Unlocking-Raycast-With-Surge): Utilize Surge's MiTM capability to intercept requests and leverage Docker services to emulate backend operations, enabling the activation of Raycast.
 * [ourresearch/unpaywall-extension](https://github.com/ourresearch/unpaywall-extension): Firefox/Chrome extension that gives you a link to a free PDF when you view scholarly articles
 * [aahung/Unshaky](https://github.com/aahung/Unshaky): A software attempt to address the "double key press" issue on Apple's butterfly keyboard [not actively maintained]
