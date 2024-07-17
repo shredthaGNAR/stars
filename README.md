@@ -1674,6 +1674,7 @@ creating your own Awesome List by GitHub stars!
 * [shash007/People-Search-on-Social-Networks-using-Face-Recognition](https://github.com/shash007/People-Search-on-Social-Networks-using-Face-Recognition): Searching people on social networking sites using Face Recognition
 * [preetmodh/PeopleConnect](https://github.com/preetmodh/PeopleConnect): A Social Media Web application made using the Django rest framework (for API endpoints) and reactjs where users can chat in real-time(using channels and signals), post their updates, like, comment and view other users’ posts & profiles, search users & follow-unfollow them and get notified about activities on their profile.
 * [ChanChunCheong/PeopleSearch](https://github.com/ChanChunCheong/PeopleSearch): DSO Summer Internship-People Search Aggregator web application which use data analytics and artificial intelligence libraries, to simultaneously search social media profiles from various platforms, processes, and then rank the search results based on name, location, keywords and image matching
+* [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica): Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 * [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis): Persepolis Download Manager is a GUI for aria2.
 * [github/personal-website](https://github.com/github/personal-website): Code that'll help you kickstart a personal website that showcases your work as a software developer.
 * [nimit95/Personal-Website](https://github.com/nimit95/Personal-Website): My Personal Website in React, Material UI, React Spring. Contents can be modified via single JSON.
@@ -2014,6 +2015,7 @@ creating your own Awesome List by GitHub stars!
 * [jcz530/shadows](https://github.com/jcz530/shadows): A CSS Box-Shadow generator.It allows multiple shadow layers and preview customization.
 * [shahasad78/shahdevthemecourse2-0](https://github.com/shahasad78/shahdevthemecourse2-0): None
 * [navchandar/Share-Less](https://github.com/navchandar/Share-Less): Share Less - URL tracking remover
+* [reorx/Share-to-ChatGPT-Shortcut](https://github.com/reorx/Share-to-ChatGPT-Shortcut): An Apple Shortcut for sharing text to ChatGPT using personalized prompts
 * [szimek/sharedrop](https://github.com/szimek/sharedrop): Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 * [jimmod/ShareToComputer](https://github.com/jimmod/ShareToComputer): None
 * [marcosdiez/shareviahttp](https://github.com/marcosdiez/shareviahttp): Share Via Http - Android
@@ -2243,7 +2245,7 @@ creating your own Awesome List by GitHub stars!
 * [MonterraByte/tab_move](https://github.com/MonterraByte/tab_move): Firefox addon that lets you move a tab to the start or the end of the tab bar
 * [menhera-org/TabArray](https://github.com/menhera-org/TabArray): Chrome-like tab groups using private and isolated containers: The ultimate tab manager and groups for Firefox.
 * [Bill13579/tabby](https://github.com/Bill13579/tabby): A web extension for managing great amounts of windows and tabs at ease.
-* [tabler/tabler-icons](https://github.com/tabler/tabler-icons): A set of over 5300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+* [tabler/tabler-icons](https://github.com/tabler/tabler-icons): A set of over 5400 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 * [jakob/TableTool](https://github.com/jakob/TableTool): A simple CSV editor for the Mac
 * [lbragile/TabMerger](https://github.com/lbragile/TabMerger): TabMerger is a cross-browser extension that stores your tabs in a single place to save memory usage and increase your productivity.
 * [onemen/TabMixPlus](https://github.com/onemen/TabMixPlus): New Tab mix plus for modern Firefox
