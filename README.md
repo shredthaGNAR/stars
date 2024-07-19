@@ -57,6 +57,7 @@ creating your own Awesome List by GitHub stars!
 * [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters): AdGuard Content Blocking Filters
 * [AdguardTeam/AdGuardForSafari](https://github.com/AdguardTeam/AdGuardForSafari): AdGuard for Safari app extension
 * [CleanMachine1/AdlistTXTS](https://github.com/CleanMachine1/AdlistTXTS): A repository dedicated to mirroring some block-lists into 1 file for ease of use
+* [FlickyOs/Adobe-Debloater](https://github.com/FlickyOs/Adobe-Debloater): Adobe Deloater
 * [chiumax/adobe-font-scraper](https://github.com/chiumax/adobe-font-scraper): 💢 don't have adobe plan and want their fonts? no need to worry! download from us ;)
 * [baileylatimer/adobe-illustrator](https://github.com/baileylatimer/adobe-illustrator): None
 * [Drovosek01/adobe-packager](https://github.com/Drovosek01/adobe-packager): Script that allows to download portable installers of different versions Adobe software for macOS
@@ -454,6 +455,7 @@ creating your own Awesome List by GitHub stars!
 * [actions/checkout](https://github.com/actions/checkout): Action for checking out a repo
 * [adamschwartz/chrome-desaturate-favicons](https://github.com/adamschwartz/chrome-desaturate-favicons): Desaturate the favicons of all inactive tabs.
 * [foray1010/chrome-manifest-loader](https://github.com/foray1010/chrome-manifest-loader): Chrome manifest loader for webpack
+* [AmiaaaZ/chrome-read-later](https://github.com/AmiaaaZ/chrome-read-later): A temporary bookmark focuses on reading later, rather than closing and removing, with several Vim keybindings!
 * [willbchang/chrome-read-later](https://github.com/willbchang/chrome-read-later): A temporary bookmark focuses on reading later, rather than closing and removing, with several Vim keybindings!
 * [elgervb/chrome-readinglist2](https://github.com/elgervb/chrome-readinglist2): None
 * [Noitidart/Chrome-Store-Foxified](https://github.com/Noitidart/Chrome-Store-Foxified): Point and click to install extensions into your browser from the AMO, Chrome Web Store, Microsoft Store, or Opera Addons websites.
@@ -592,7 +594,6 @@ creating your own Awesome List by GitHub stars!
 * [b-inary/desktop-postflop](https://github.com/b-inary/desktop-postflop): [Development suspended] Advanced open-source Texas Hold'em GTO solver with optimized performance
 * [scriptingosx/desktoppr](https://github.com/scriptingosx/desktoppr): Simple command line tool to set the desktop picture on macOS
 * [TASEmulators/desmume](https://github.com/TASEmulators/desmume): DeSmuME is a Nintendo DS emulator
-* [shredthaGNAR/dev-new](https://github.com/shredthaGNAR/dev-new): None
 * [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup): macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.
 * [0xdevalias/devalias.net](https://github.com/0xdevalias/devalias.net): Source for devalias.net
 * [thunderbird/developer-docs](https://github.com/thunderbird/developer-docs): Developer documentation for Thunderbird contributors.
@@ -1186,7 +1187,6 @@ creating your own Awesome List by GitHub stars!
 * [sindresorhus/iterm2-snazzy](https://github.com/sindresorhus/iterm2-snazzy): Elegant iTerm2 theme with bright colors
 * [Jackett/Jackett](https://github.com/Jackett/Jackett): API Support for your favorite torrent trackers
 * [jarrekk/Jalpc](https://github.com/jarrekk/Jalpc): 🍎Jalpc -- A flexible Jekyll theme, 3 steps to build your website. 
-* [quedayone/jamf-pro-scripts](https://github.com/quedayone/jamf-pro-scripts): Scripts that I use in my JSS.
 * [kumarram1011/Jan22_Q3](https://github.com/kumarram1011/Jan22_Q3): The candidate should ensure the availability of Git, Python and Django on their system as part of the setup exercise.. Preferred IDE is PyCharm to import the project directly. Postman tool to test the REST APIs and git.  Problem Breakdown  To start the development a skeleton repo for the project is provided at the github link – https://github.com/kumarram1011/Jan22_Q2   (master branch)  Then repo can be cloned into their local system through HTTPs or SSH. After cloning the project at your location, follow the below points:  Create Virtual env (ubuntu) 1. sudo apt install python3-venv 2. python3 -m venv relevel_env 3. cd relevel_env/ 4. source bin/activate Now quit this env location and jump to your working location/ Parent directory  Install all dependencies using ‘pip install -r requirements.txt’ Now run your initial migrations with the command as: 1. python manage.py makemigrations 2. python manage.py migrate  Note :-  A. Initially there is no any model in your projects so the 1st command will give you the response has "NO changes" but the 2nd command will configure you all initial settings like DB and all. B. At every stage while developing/implementing the features please use both of the above commands to reflect your changes in the running/development server.  Run ‘python manage.py runserver’ to start the development server. The hosted app can be checked on http://localhost:8000 on the browser.  Submission Instructions  Code Submission: Compress the code on the local system in the form of a *.zip file. Upload the code on your personal google drive in a folder titled - “Name_BD_ Code Base” Don’t forget to change the permissions of the folder to ‘Anyone with the link can edit’.  Loom video submission: Create an account on Loom. Go through the quick tutorial on how to record loom videos. Create a Loom video (while screen sharing) covering the following points: Show the functionality of the app you have created i.e demo of the working APIs through a command line. (1 min) Run through the key parts of your code explaining the core logic and how you organized the code. (2 min) Explain your problem-solving approach (what logic you have used and why). (2 min) Please keep your explanation to under 5 mins only. Avoid too much jargon and explain your app in a simple and clear manner.
 * [tsmdt/janus-for-alfred](https://github.com/tsmdt/janus-for-alfred): Create random usernames in Alfred
 * [jeeliz/jeelizFaceFilter](https://github.com/jeeliz/jeelizFaceFilter): Javascript/WebGL lightweight face tracking library designed for augmented reality webcam filters. Features : multiple faces detection, rotation, mouth opening. Various integration examples are provided (Three.js, Babylon.js, FaceSwap, Canvas2D, CSS3D...). 
@@ -1328,6 +1328,7 @@ creating your own Awesome List by GitHub stars!
 * [EvgeniyMukhamedjanov/liquid-ajax-cart](https://github.com/EvgeniyMukhamedjanov/liquid-ajax-cart): Build a Shopify Ajax-cart without JavaScript coding
 * [harttle/liquidjs](https://github.com/harttle/liquidjs): A simple, expressive, safe and Shopify compatible template engine in pure JavaScript.
 * [fregante/list-github-dir-content](https://github.com/fregante/list-github-dir-content): List all the files in a GitHub repo’s directory
+* [blocklistproject/Lists](https://github.com/blocklistproject/Lists): Primary Block Lists
 * [webextensions/live-css-editor](https://github.com/webextensions/live-css-editor): Source code for Chrome/Edge/Firefox/Opera extension Magic CSS (Live editor for CSS, Less & Sass)
 * [nt1m/livemarks](https://github.com/nt1m/livemarks): Extension that restores RSS Feed Livemarks in Firefox. 
 * [ex3ndr/llama-coder](https://github.com/ex3ndr/llama-coder): Replace Copilot local AI
@@ -2404,7 +2405,7 @@ creating your own Awesome List by GitHub stars!
 * [zhuozhiyongde/Unlocking-Raycast-With-Surge](https://github.com/zhuozhiyongde/Unlocking-Raycast-With-Surge): Utilize Surge's MiTM capability to intercept requests and leverage Docker services to emulate backend operations, enabling the activation of Raycast.
 * [ourresearch/unpaywall-extension](https://github.com/ourresearch/unpaywall-extension): Firefox/Chrome extension that gives you a link to a free PDF when you view scholarly articles
 * [aahung/Unshaky](https://github.com/aahung/Unshaky): A software attempt to address the "double key press" issue on Apple's butterfly keyboard [not actively maintained]
-* [UnstoppableSwap/unstoppableswap-gui](https://github.com/UnstoppableSwap/unstoppableswap-gui): XMR<>BTC Atomic Swaps GUI
+* [UnstoppableSwap/unstoppableswap-gui](https://github.com/UnstoppableSwap/unstoppableswap-gui):  Graphical User Interface (GUI) For Trustless Cross-Chain XMR<>BTC Atomic Swaps 
 * [blenderskool/untab](https://github.com/blenderskool/untab): 🔍 A productivity tool to boost your browser workflow!
 * [TheLoserCoder/unvisited_tabs_indicator](https://github.com/TheLoserCoder/unvisited_tabs_indicator): None
 * [alfredapp/update-automation-tasks-workflow](https://github.com/alfredapp/update-automation-tasks-workflow): Update Automation Tasks During Alfred 5 Early Access
@@ -2438,6 +2439,7 @@ creating your own Awesome List by GitHub stars!
 * [tkhquang/userChrome.js](https://github.com/tkhquang/userChrome.js): userChrome.js for Firefox
 * [typeling1578/userChrome.js](https://github.com/typeling1578/userChrome.js): None
 * [dupontjoy/userChrome.js-Collections-](https://github.com/dupontjoy/userChrome.js-Collections-): UC scripts collections, include UC scripts I don't use for now and UC scripts collected from others' sharing. Just for me to find them easily in the future.
+* [benzBrake/userChrome.js-Loader](https://github.com/benzBrake/userChrome.js-Loader): None
 * [tortious/userChrome.js-userChrome.css-Favorites](https://github.com/tortious/userChrome.js-userChrome.css-Favorites): None
 * [k08045kk/userChrome.menus.css](https://github.com/k08045kk/userChrome.menus.css): None
 * [VicDobrov/UserChromeFiles](https://github.com/VicDobrov/UserChromeFiles): UserChromeFiles © Vitaliy V.
