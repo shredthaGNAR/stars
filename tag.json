@@ -1496,6 +1496,9 @@
     "SideStore/SideStore": [
         "Other"
     ],
+    "SillyTavern/SillyTavern-Launcher": [
+        "Other"
+    ],
     "SimonSiefke/vscode-html-missing-features": [
         "Other"
     ],
@@ -2747,6 +2750,9 @@
     "charlieMonroe/DownieExtensions": [
         "Other"
     ],
+    "chatanywhere/GPT_API_free": [
+        "Other"
+    ],
     "chathub-dev/chathub": [
         "Other"
     ],
@@ -2882,6 +2888,9 @@
     "containers/podman": [
         "Other"
     ],
+    "continuedev/continue": [
+        "Other"
+    ],
     "coolaj86/dropshare": [
         "Other"
     ],
@@ -2931,6 +2940,9 @@
         "Other"
     ],
     "ctrlxc/copyaddrs": [
+        "Other"
+    ],
+    "curtisgray/wingman": [
         "Other"
     ],
     "cweirup/JoplinSafariWebClipper": [
@@ -3108,9 +3120,6 @@
         "Other"
     ],
     "deniszanin/tabs2text": [
-        "Other"
-    ],
-    "denizjcan/Firefox-Safari-15-Theme": [
         "Other"
     ],
     "derickfay/tag-services": [
@@ -3366,6 +3375,9 @@
         "Other"
     ],
     "eebmagic/pocket-pull": [
+        "Other"
+    ],
+    "egoist/chatkit-desktop": [
         "Other"
     ],
     "eight04/image-picka": [
@@ -3720,6 +3732,9 @@
         "Other"
     ],
     "gdepourtales/custom-tab-title-favicon": [
+        "Other"
+    ],
+    "geeker-ai/geek_chat": [
         "Other"
     ],
     "geerlingguy/mac-dev-playbook": [
@@ -6002,6 +6017,9 @@
     "pooja-v-dev/php-drive-s3": [
         "Other"
     ],
+    "popjane/free_chatgpt_api": [
+        "Other"
+    ],
     "potsky/iajai-email-signature": [
         "Other"
     ],
@@ -6791,9 +6809,6 @@
     "solodev/email-signature": [
         "Other"
     ],
-    "songhao/BetterAndBetter": [
-        "Other"
-    ],
     "songquanpeng/one-api": [
         "Other"
     ],
@@ -7005,6 +7020,9 @@
         "Other"
     ],
     "syphon-org/syphon": [
+        "Other"
+    ],
+    "szczyglis-dev/py-gpt": [
         "Other"
     ],
     "szimek/sharedrop": [
