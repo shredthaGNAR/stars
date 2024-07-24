@@ -249,20 +249,24 @@ creating your own Awesome List by GitHub stars!
 * [yjose/awesome-new](https://github.com/yjose/awesome-new): A list of `.new` domains to perform online actions in one quick action.
 * [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian): 🕶️ Awesome stuff for Obsidian
 * [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint): :scream: A curated list of amazingly awesome OSINT
+* [Astrosp/Awesome-OSINT-For-Everything](https://github.com/Astrosp/Awesome-OSINT-For-Everything): OSINT tools for Information gathering, Cybersecurity, Reverse searching, bugbounty, trust and safety, red team oprations and more.
 * [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy): A curated list of awesome warez and piracy links
 * [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts): Collection of awesome podcasts
 * [apehex/awesome-poker](https://github.com/apehex/awesome-poker): :spades: :hearts: :clubs: :diamonds: A curated list of awesome poker resources & tools to improve your game.
 * [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy): Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 * [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering): This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc 
 * [o19s/awesome-search-relevance](https://github.com/o19s/awesome-search-relevance): Tools and other things for people who work on search relevance & information retrieval
+* [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted): A list of Free Software network services and web applications which can be hosted on your own servers
 * [LeCoupa/awesome-shopify](https://github.com/LeCoupa/awesome-shopify): 👩‍🎓👨‍🎓 Must-read articles, videos and books for store owners, app and theme developers.
 * [julionc/awesome-shopify](https://github.com/julionc/awesome-shopify): 📌✨A curated list of awesome Shopify resources, libraries and open source projects.
 * [abhijithvijayan/awesome-stars](https://github.com/abhijithvijayan/awesome-stars): A curated list of my GitHub stars by stargazed
 * [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars): My Awesome List
 * [vintagesucks/awesome-stars](https://github.com/vintagesucks/awesome-stars): :star: A curated list of my GitHub stars
+* [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators): A curated list of static web site generators.
 * [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts): 📖  A curated list of Awesome Userscripts.
 * [lkrjangid1/Awesome-Warez](https://github.com/lkrjangid1/Awesome-Warez): All your base are belong to us!
 * [nicolesaidy/awesome-web-design](https://github.com/nicolesaidy/awesome-web-design): 🎨 A curated list of awesome resources for digital designers.
+* [nuhmanpk/Awesome-Web-Hosting](https://github.com/nuhmanpk/Awesome-Web-Hosting): A curated list of free hosting providers for developers to deploy and manage web projects effortlessly. These platforms offer various features, including serverless functions, Git integration, unlimited bandwidth, and more.
 * [fregante/Awesome-WebExtensions](https://github.com/fregante/Awesome-WebExtensions): A curated list of awesome resources for WebExtensions development.
 * [miziomon/awesome-wordpress](https://github.com/miziomon/awesome-wordpress): A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. Inspired by awesome-php. 
 * [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins): A collection of ZSH frameworks, plugins, themes and tutorials.
@@ -573,8 +577,10 @@ creating your own Awesome List by GitHub stars!
 * [mitchuman/danshari](https://github.com/mitchuman/danshari): A blank slate theme for Shopify 2.0
 * [dagware/DanThomas](https://github.com/dagware/DanThomas): Dan Thomas' stuff
 * [daprofiler/DaProfiler](https://github.com/daprofiler/DaProfiler): DaProfiler is an OSINT tool allowing you to collect certain information about yourself in order to rectify by rgpd requests the traces you may have left on the net. DaProfiler is indeed able to recover: Addresses, Social media accounts, e-mail addresses, mobile / landline number, jobs.
+* [JarryShaw/darc](https://github.com/JarryShaw/darc): Darkweb Crawler Project
 * [m-khvoinitsky/dark-background-light-text-extension](https://github.com/m-khvoinitsky/dark-background-light-text-extension): Firefox addon that turns every page colors into "light text on dark background"
 * [FilkCH/dark-filk-theme](https://github.com/FilkCH/dark-filk-theme): Visual Studio Code theme inspired by Monokai.
+* [apurvsinghgautam/dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools): OSINT Tools for the Dark Web
 * [fastaddons/Darko](https://github.com/fastaddons/Darko): None
 * [darkreader/darkreader](https://github.com/darkreader/darkreader): Dark Reader Chrome and Firefox extension
 * [uso-archive/data](https://github.com/uso-archive/data): Full mirror of UserStyles.org
@@ -704,6 +710,7 @@ creating your own Awesome List by GitHub stars!
 * [Zonnev/elementaryos-firefox-theme](https://github.com/Zonnev/elementaryos-firefox-theme): This theme for Firefox supports all the window buttons layouts from Tweaks and it blends into the elementary OS user interface.
 * [Zonnev/elementaryos5-firefox-theme](https://github.com/Zonnev/elementaryos5-firefox-theme): This theme for Firefox supports all the window buttons layouts from Tweaks and it blends into the elementary OS 5 (Hera) user interface.
 * [11ty/eleventy-base-blog](https://github.com/11ty/eleventy-base-blog): A starter repository for a blog web site using the Eleventy static site generator.
+* [jmathai/elodie](https://github.com/jmathai/elodie): An EXIF-based photo assistant, organizer  and workflow automation tool.
 * [glennjones/elsewhere-mapper](https://github.com/glennjones/elsewhere-mapper): Social media profile endpoint mapper for node.js
 * [regnull/email-autodiscover](https://github.com/regnull/email-autodiscover): Autodiscover email configuration for popular email clients
 * [g13nn/Email-Framework](https://github.com/g13nn/Email-Framework): Responsive HTML Email Framework
@@ -731,7 +738,6 @@ creating your own Awesome List by GitHub stars!
 * [essandess/etv-comskip](https://github.com/essandess/etv-comskip): Commercial Marking and Skipping for EyeTV and iTunes Exports
 * [gao-sun/eul](https://github.com/gao-sun/eul): 🖥️ macOS status monitoring app written in SwiftUI.
 * [billmei/every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui): Every front-end GUI client for ChatGPT
-* [An0nUD4Y/evilginx2](https://github.com/An0nUD4Y/evilginx2): Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
 * [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2): Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
 * [SoldierInFaith14/excel_automation](https://github.com/SoldierInFaith14/excel_automation): Python script that modifies Shopify spreadsheet exports of order details.
 * [KhashayarKhm/export-tabs-urls](https://github.com/KhashayarKhm/export-tabs-urls): https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
@@ -925,6 +931,7 @@ creating your own Awesome List by GitHub stars!
 * [psugihara/FreeChat](https://github.com/psugihara/FreeChat): llama.cpp based AI chat app for macOS
 * [jeromelachaud/freelancer-theme](https://github.com/jeromelachaud/freelancer-theme): Jekyll theme based on Freelancer Start Bootstrap theme
 * [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube): An Open Source YouTube app for privacy
+* [miten5/FreeWebHosting](https://github.com/miten5/FreeWebHosting): A list of free web hosting websites for developers.
 * [Mandrenkov/FreshView](https://github.com/Mandrenkov/FreshView): Browser extension that hides watched YouTube™ videos.
 * [tortious/FrozenFox](https://github.com/tortious/FrozenFox): A personal hodgepodge of css and js hacks to firefox that I personally enjoy. Strong emphasis on a blend of minimalism and functionality.
 * [bogachenko/fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock): Filters for blocking mining, pop-ups and anti-adblock bypass.
@@ -1591,6 +1598,7 @@ creating your own Awesome List by GitHub stars!
 * [katrinleinweber/oh-my-zsh-youtube-dl-aliases](https://github.com/katrinleinweber/oh-my-zsh-youtube-dl-aliases): Custom plugin for Oh My Zsh with youtube-dl aliases
 * [3ter/Ohmine-Dark-Theme-For-Joplin](https://github.com/3ter/Ohmine-Dark-Theme-For-Joplin): This is a custom CSS theme for the opensource note-taking app Joplin.
 * [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+* [OhShINT/ohshint.gitbook.io](https://github.com/OhShINT/ohshint.gitbook.io): So what is this all about? Yep, its an OSINT blog and a collection of OSINT resources and tools. Suggestions for new OSINT resources is always welcomed.
 * [cbuijs/oisd](https://github.com/cbuijs/oisd): Optimized version of OISD BlockLists
 * [tom-james-watson/old-reddit-redirect](https://github.com/tom-james-watson/old-reddit-redirect): Ensure Reddit always loads the old design
 * [ollama/ollama](https://github.com/ollama/ollama): Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
@@ -1701,8 +1709,10 @@ creating your own Awesome List by GitHub stars!
 * [kasper/phoenix](https://github.com/kasper/phoenix): A lightweight macOS window and app manager scriptable with JavaScript
 * [phcode-dev/phoenix](https://github.com/phcode-dev/phoenix): Phoenix is a modern open-source Code Editor for the web, built for the browser. 
 * [garrow/phoenix-configurations](https://github.com/garrow/phoenix-configurations): My custom configurations for the Phoenix macOS window Manager, ( https://github.com/kasper/phoenix )
+* [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga): Information gathering framework for phone numbers
 * [FranklinDM/Phosphor](https://github.com/FranklinDM/Phosphor): Relive the monochrome screens of yesterday.
 * [DhruvRoy247/Photo-Trans](https://github.com/DhruvRoy247/Photo-Trans): Image Search Web Application
+* [s0md3v/Photon](https://github.com/s0md3v/Photon): Incredibly fast crawler designed for OSINT.
 * [wilfredwee/photon-australis](https://github.com/wilfredwee/photon-australis): Bringing sexy curves back to Firefox Photon.
 * [eszdman/PhotonCamera](https://github.com/eszdman/PhotonCamera): Android Camera that uses Enhanced image processing
 * [photoprism/photoprism](https://github.com/photoprism/photoprism): AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -2021,6 +2031,7 @@ creating your own Awesome List by GitHub stars!
 * [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide): Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
 * [pluja/Selfhosted-Google-Photos-Alternative](https://github.com/pluja/Selfhosted-Google-Photos-Alternative): A complete guide on exiting Google, Amazon or any proprietary service Photos storage with all the features you would want.
 * [umbrae/Serendipity](https://github.com/umbrae/Serendipity): /r/serendipity is a meta-subreddit meant to broaden the perspective of its subscribers. It takes a popular entry from a random subreddit and posts it every few hours. If you want to increase your exposure to niche subreddits, or just your perspective on things on the web in general, serendipity might help you do that. But it might not. It's a bot, after all.
+* [d-evil0per/serverless-hosting](https://github.com/d-evil0per/serverless-hosting): How to host websites using free cloud storage
 * [LeeluPradhan/Service-accounts-seperator-AutoRclone](https://github.com/LeeluPradhan/Service-accounts-seperator-AutoRclone): To split google service accounts after 10 accounts, to add in google group easily and use autorclone!
 * [aderyabin/ServPane](https://github.com/aderyabin/ServPane): A launchd menu bar app for Mac
 * [oxen-io/session-android](https://github.com/oxen-io/session-android): A private messenger for Android.
@@ -2203,6 +2214,7 @@ creating your own Awesome List by GitHub stars!
 * [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh): Make images smaller using best-in-class codecs, right in the browser.
 * [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui): Stable Diffusion web UI
 * [AUTOMATIC1111/stable-diffusion-webui-aesthetic-gradients](https://github.com/AUTOMATIC1111/stable-diffusion-webui-aesthetic-gradients): Aesthetic gradients extension for web ui
+* [255kb/stack-on-a-budget](https://github.com/255kb/stack-on-a-budget): A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
 * [rchern/StackExchangeScripts](https://github.com/rchern/StackExchangeScripts): A collection of user scripts for StackExchange sites 
 * [abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed): 📋 Creating your own Awesome List of GitHub stars! 
 * [sagars007/starry-fox](https://github.com/sagars007/starry-fox): Firefox css stylesheets for the dark space theme. Matching more UI elements with the theme.
@@ -2309,6 +2321,7 @@ creating your own Awesome List by GitHub stars!
 * [balvin-perrie/the-pirate-bay-torrent-search](https://github.com/balvin-perrie/the-pirate-bay-torrent-search): A browser extension to search for magnet links from The Pirate Bay directly from a popup toolbar
 * [MorganJay/TheBox](https://github.com/MorganJay/TheBox): A responsive, asymmetrical design with HTML & CSS - Firefox!
 * [TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection): The ultimate collection of scripts for YouTube-DL.
+* [laramies/theHarvester](https://github.com/laramies/theHarvester): E-mails, subdomains and names Harvester - OSINT 
 * [drsjb80/thematic](https://github.com/drsjb80/thematic): Now the official repo for the FF/TB Thematic extension.
 * [saadeghi/theme-change](https://github.com/saadeghi/theme-change): Change CSS theme with toggle, buttons or select using CSS custom properties and localStorage
 * [Shopify/theme-check](https://github.com/Shopify/theme-check): The Ultimate Shopify Theme Linter
