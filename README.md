@@ -144,6 +144,7 @@ creating your own Awesome List by GitHub stars!
 * [kevalpatel2106/android-ringtone-picker](https://github.com/kevalpatel2106/android-ringtone-picker): Simple Ringtone Picker dialog which allows you to pick different sounds from ringtone, alarm tone, notification tone and music from external storage.
 * [mortenjust/androidtool-mac](https://github.com/mortenjust/androidtool-mac): One-click screenshots, video recordings, app installation for iOS and Android
 * [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod): A podcast manager for Android
+* [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm): The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.
 * [amugofjava/anytime_podcast_player](https://github.com/amugofjava/anytime_podcast_player): Simple, easy to use Podcast player app written in Flutter and Dart.
 * [drcika/apc-extension](https://github.com/drcika/apc-extension): None
 * [wulkano/Aperture](https://github.com/wulkano/Aperture): Record the screen on macOS
@@ -242,6 +243,7 @@ creating your own Awesome List by GitHub stars!
 * [vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons): A curated list of awesome Web Font Icons
 * [Cyanhall/awesome-javascript](https://github.com/Cyanhall/awesome-javascript): Better Awesome JavaScript List with 🔥 Stars 🌐 Dependent Packages 📝 Last Commit
 * [kot-behemoth/awesome-joplin](https://github.com/kot-behemoth/awesome-joplin): 📒 A curated list of awesome Joplin themes and tools.
+* [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM): Awesome-LLM: a curated list of Large Language Model
 * [HoMeCracKeR/awesome-mac](https://github.com/HoMeCracKeR/awesome-mac):  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 * [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac):  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 * [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS):   A curated list of awesome applications, softwares, tools and shiny things for macOS.
@@ -1358,6 +1360,7 @@ creating your own Awesome List by GitHub stars!
 * [run-llama/llama_index](https://github.com/run-llama/llama_index): LlamaIndex is a data framework for your LLM applications
 * [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile): Distribute and run LLMs with a single file.
 * [lliurex/lliurex-gdrive](https://github.com/lliurex/lliurex-gdrive): App to manage google drive accounts
+* [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library): Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for Siri, GPT-4o, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
 * [igorlogius/load-background-tabs-on-select](https://github.com/igorlogius/load-background-tabs-on-select): Prevents tabs which are opend in the background from loading until they have been manually activated
 * [cleidigh/Localfolder-TB](https://github.com/cleidigh/Localfolder-TB): Thunderbird Add-On to add additional local folders to accounts
 * [TCB13/LoFloccus](https://github.com/TCB13/LoFloccus): Sync Floccus' browser bookmarks to a local folder / any cloud.
@@ -1655,6 +1658,7 @@ creating your own Awesome List by GitHub stars!
 * [Lab0ne/openholdembot](https://github.com/Lab0ne/openholdembot): OpenHoldem Poker Bot (free, open-source poker-bot for Texas Hold'em and Omaha)   Please click the link below or Forum news.
 * [sozercan/OpenInCode](https://github.com/sozercan/OpenInCode): :open_file_folder: macOS Finder toolbar app to open current folder in Visual Studio Code
 * [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal): ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
+* [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM): Run any open-source LLMs, such as Llama 3.1, Gemma, as OpenAI compatible API endpoint in the cloud.
 * [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp): OpenMTP  - Advanced Android File Transfer Application for macOS
 * [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt): An Open-Source Framework for Prompt-Learning.
 * [lukakerr/OpenQuickly](https://github.com/lukakerr/OpenQuickly): A custom 'open quickly' window that imitates macOS' Spotlight
@@ -2316,6 +2320,7 @@ creating your own Awesome List by GitHub stars!
 * [ncyhere/test-shopify-bloomandgrow](https://github.com/ncyhere/test-shopify-bloomandgrow): A Gatsby starter using the latest Shopify plugin showcasing a store with product overview, individual product pages, and a cart
 * [bupticybee/TexasHoldemSolverJava](https://github.com/bupticybee/TexasHoldemSolverJava): A Java implemented Texas holdem and short deck Solver
 * [bupticybee/TexasSolver](https://github.com/bupticybee/TexasSolver): 🚀 A very efficient Texas Holdem GTO solver :spades::hearts::clubs::diamonds:
+* [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui): A Gradio web UI for Large Language Models.
 * [piroor/textlink](https://github.com/piroor/textlink): Text Link, Allows URI texts written in webpages to be loaded by double clicks.
 * [beowulf518/textnow-automation](https://github.com/beowulf518/textnow-automation): creating textnow account with temp email
 * [balvin-perrie/the-pirate-bay-torrent-search](https://github.com/balvin-perrie/the-pirate-bay-torrent-search): A browser extension to search for magnet links from The Pirate Bay directly from a popup toolbar
