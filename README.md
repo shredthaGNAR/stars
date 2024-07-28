@@ -61,6 +61,7 @@ creating your own Awesome List by GitHub stars!
 * [chiumax/adobe-font-scraper](https://github.com/chiumax/adobe-font-scraper): 💢 don't have adobe plan and want their fonts? no need to worry! download from us ;)
 * [baileylatimer/adobe-illustrator](https://github.com/baileylatimer/adobe-illustrator): None
 * [Drovosek01/adobe-packager](https://github.com/Drovosek01/adobe-packager): Script that allows to download portable installers of different versions Adobe software for macOS
+* [Ruddernation-Designs/Adobe-URL-Block-List](https://github.com/Ruddernation-Designs/Adobe-URL-Block-List): This is the Adobe URL/IP block list for the Hosts file.
 * [adsbypasser/adsbypasser](https://github.com/adsbypasser/adsbypasser): Bypass ad counter if possible.
 * [adsbypasser/adsbypasser.github.io](https://github.com/adsbypasser/adsbypasser.github.io): None
 * [polywock/advanced-image-search](https://github.com/polywock/advanced-image-search): An extension to search Google images. 
@@ -1308,6 +1309,7 @@ creating your own Awesome List by GitHub stars!
 * [gnonio/korporize](https://github.com/gnonio/korporize): OCR - Object Character Recognition for any image you browse upon
 * [onekiloparsec/KPCTabsControl](https://github.com/onekiloparsec/KPCTabsControl): A macOS control for tabs with enhanced capabilities, and styles: Safari, Chrome and custom ones.
 * [kondasoft/ks-bootshop](https://github.com/kondasoft/ks-bootshop): Our Free Shopify Theme focused on simplicity, speed, and user experience. Download it today and finish your Shopify store within days, not months. Powered by Bootstrap v5 framework and 15+ years of coding experience.
+* [leshiy585/L1ghtroom2024](https://github.com/leshiy585/L1ghtroom2024): adobe lightroom full version download  adobe lightroom-cracked adobe lightroom download adobe lightroom free adobe lightroom activation adobe lightroom license key adobe lightroom scripts adobe lightroom-crack adobe lightroom keygen adobe lightroom-crack-tool adobe lightroom activate script adobe lightroom generator adobe lightroom
 * [lando/lando](https://github.com/lando/lando): A development tool for all your projects that is fast, easy, powerful and liberating
 * [LANDrop/LANDrop](https://github.com/LANDrop/LANDrop): Drop any files to any devices on your LAN.
 * [langchain-ai/langchain](https://github.com/langchain-ai/langchain): 🦜🔗 Build context-aware reasoning applications
@@ -1890,6 +1892,7 @@ creating your own Awesome List by GitHub stars!
 * [ZhouXiaolin/raycast-ai-proxy](https://github.com/ZhouXiaolin/raycast-ai-proxy): a simple raycast ai proxy by rust
 * [XInTheDark/raycast-g4f](https://github.com/XInTheDark/raycast-g4f): Raycast extension to use GPT-4, Llama-3, and more... all for FREE. No API Key required!
 * [wibus-wee/raycast-unblock](https://github.com/wibus-wee/raycast-unblock): Unblock all features in Raycast Pro Plan with implementing similar functions in other ways
+* [yufeikang/raycast_api_proxy](https://github.com/yufeikang/raycast_api_proxy): None
 * [MassimilianoPasquini97/raycast_ollama](https://github.com/MassimilianoPasquini97/raycast_ollama): Raycast extention for Ollama
 * [rbenv/rbenv](https://github.com/rbenv/rbenv): Manage your app's Ruby environment
 * [rclone/rclone](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
