@@ -40,6 +40,7 @@ creating your own Awesome List by GitHub stars!
 * [pgrimaud/action-shopify](https://github.com/pgrimaud/action-shopify): Deploy Shopify theme with Theme Kit on GitHub Actions
 * [sindresorhus/Actions](https://github.com/sindresorhus/Actions): ⚙️ Supercharge your shortcuts
 * [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages): GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
+* [wibus-wee/activation-script](https://github.com/wibus-wee/activation-script): A script designed to generate configuration files and activate software for the Surge
 * [techgaun/active-forks](https://github.com/techgaun/active-forks): Find active github forks of a repo https://git.io/vSnrC
 * [easonwong-de/Adaptive-Tab-Bar-Colour](https://github.com/easonwong-de/Adaptive-Tab-Bar-Colour): Changes the colour of Firefox tab bar to match the website theme.
 * [AdAway/AdAway](https://github.com/AdAway/AdAway): AdAway is a free and open source ad blocker for Android. 
@@ -1727,7 +1728,7 @@ creating your own Awesome List by GitHub stars!
 * [antipalindrome/Photoshop-Export-Layers-to-Files-Fast](https://github.com/antipalindrome/Photoshop-Export-Layers-to-Files-Fast): This script allows you to export your layers as individual files at a speed much faster than the built-in script from Adobe.
 * [dermesser/photosync](https://github.com/dermesser/photosync): Now that Google deprecated the Photos<->Drive synchronization, I need another way to back up my photos locally. This program downloads all photos from your Google Photos account and organizes them locally. It is not very user friendly yet, but definitely usable
 * [pooja-v-dev/php-drive-s3](https://github.com/pooja-v-dev/php-drive-s3): Read a Google Drive account, list files in a folder and move selected file to S3.
-* [YukisCoffee/phroton](https://github.com/YukisCoffee/phroton): Firefox Proton userChrome.css for an accurate Photon theme.
+* [YukisCoffee/phroton-legacy](https://github.com/YukisCoffee/phroton-legacy): Firefox Proton userChrome.css for an accurate Photon theme.
 * [bltavares/pickpocket](https://github.com/bltavares/pickpocket): Pocket CLI management tools
 * [ppati000/pickpocket](https://github.com/ppati000/pickpocket): Pickpocket imports Pocket links to Safari reading list. 
 * [RooneyMcNibNug/pihole-stuff](https://github.com/RooneyMcNibNug/pihole-stuff): blocklists, scripts, etc.

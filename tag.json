@@ -1871,7 +1871,7 @@
     "Yuki2718/adblock": [
         "Other"
     ],
-    "YukisCoffee/phroton": [
+    "YukisCoffee/phroton-legacy": [
         "Other"
     ],
     "Zabakes/export-tabs-urls": [
@@ -7731,6 +7731,9 @@
         "Other"
     ],
     "whitelightning76/Firefox-dark-theme": [
+        "Other"
+    ],
+    "wibus-wee/activation-script": [
         "Other"
     ],
     "wibus-wee/raycast-unblock": [
