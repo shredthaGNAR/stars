@@ -67,6 +67,7 @@ creating your own Awesome List by GitHub stars!
 * [adsbypasser/adsbypasser.github.io](https://github.com/adsbypasser/adsbypasser.github.io): None
 * [polywock/advanced-image-search](https://github.com/polywock/advanced-image-search): An extension to search Google images. 
 * [cipher387/Advanced-search-operators-list](https://github.com/cipher387/Advanced-search-operators-list): List of the links to the docs for different services, which explain using of advanced search operators
+* [Levi2288/AdvancedBlockList](https://github.com/Levi2288/AdvancedBlockList): Block list for PI hole 
 * [117649/AdvancedLocationbar2](https://github.com/117649/AdvancedLocationbar2): None
 * [Czarto/Adwords-Scripts](https://github.com/Czarto/Adwords-Scripts): Google Ads Bidding scripts
 * [unify-ui-dev/agency-landing-page-Astrojs](https://github.com/unify-ui-dev/agency-landing-page-Astrojs): A simple agency landing page made with astrojs and tailwindcss
@@ -1553,6 +1554,7 @@ creating your own Awesome List by GitHub stars!
 * [nativefier/nativefier](https://github.com/nativefier/nativefier): Make any web page a desktop application
 * [Federico-Ciuffardi/nay-dotfiles](https://github.com/Federico-Ciuffardi/nay-dotfiles): None
 * [kyleskom/NBA-Machine-Learning-Sports-Betting](https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting): NBA sports betting using machine learning
+* [grishka/NearDrop](https://github.com/grishka/NearDrop): An unofficial Google Nearby Share/Quick Share app for macOS
 * [feilvan/neatly](https://github.com/feilvan/neatly): None
 * [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch): 🖼️  A command-line system information tool written in bash 3.2+
 * [yiiyahui/Neptune-Firefox](https://github.com/yiiyahui/Neptune-Firefox): A clean and compact Firefox theme.
@@ -1680,6 +1682,7 @@ creating your own Awesome List by GitHub stars!
 * [rly0nheart/osinteye](https://github.com/rly0nheart/osinteye): Username enumeration & reconnaisance suite
 * [awareseven/OSINTsources](https://github.com/awareseven/OSINTsources): This is a repo containing several osint sources
 * [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo): Turn GitHub into a bookmark manager
+* [ashishb/osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome): OSX and iOS related security tools
 * [caballerofelipe/osx-automator-services](https://github.com/caballerofelipe/osx-automator-services): Some services meant to make life a little easier
 * [olafhartong/osx-defaults](https://github.com/olafhartong/osx-defaults): All my default config stuff for mac
 * [msikma/osx-folder-icons](https://github.com/msikma/osx-folder-icons): Colorful folder icons for macOS to help you organize your projects
@@ -1840,6 +1843,7 @@ creating your own Awesome List by GitHub stars!
 * [progit/progit2](https://github.com/progit/progit2): Pro Git 2nd Edition
 * [ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts): This is a collection of programming fonts, just share this with the programmers. Now there are 108 kinds of fantastic fonts!
 * [corpnewt/ProperTree](https://github.com/corpnewt/ProperTree): Cross platform GUI plist editor written in python.
+* [vlvagerviwager/protect-your-privacy](https://github.com/vlvagerviwager/protect-your-privacy): Privacy resources for the layperson. Highlights resources, tools, VPNs, search engines, articles, books, and dark patterns. 
 * [ProtonMail/proton-mail](https://github.com/ProtonMail/proton-mail): React web application to manage ProtonMail 
 * [sagars007/Proton-UI-connected-rounded-tabs](https://github.com/sagars007/Proton-UI-connected-rounded-tabs): Firefox Proton UI minimal changes with nav-bar-connected rounded tabs, reduced compact mode, nightly color gradient accents etc..
 * [steccas/ProtonClient](https://github.com/steccas/ProtonClient): An unofficial desktop client for ProtonMail done with electron nativefier
@@ -2239,12 +2243,14 @@ creating your own Awesome List by GitHub stars!
 * [gaerfield/static-marks-github-pages](https://github.com/gaerfield/static-marks-github-pages): static-marks automatically deployed to github-pages
 * [aerobless/static-marks-raycast](https://github.com/aerobless/static-marks-raycast): None
 * [vipintom/stealthFox](https://github.com/vipintom/stealthFox): Clean and minimal set of changes to get Vertical Tabs in Firefox
+* [mikropsoft/StevenBlock](https://github.com/mikropsoft/StevenBlock): Advertising & Malware Blocking Module for Android (Magisk - KernelSU - APatch)
 * [Shopify/storefront-api-feedback](https://github.com/Shopify/storefront-api-feedback): The home of discussions and feedback surrounding the evolution of Shopify's Storefront API.
 * [streamlink/streamlink](https://github.com/streamlink/streamlink): Streamlink is a CLI utility which pipes video streams from various services into a video player
 * [openstyles/stylus](https://github.com/openstyles/stylus): Stylus - Userstyles Manager
 * [jonschlinkert/sublime-monokai-extended](https://github.com/jonschlinkert/sublime-monokai-extended): Extends Monokai from Soda with additional syntax highlighting for Markdown, LESS, HTML, Handlebars and more.
 * [artginzburg/sudo-touchid](https://github.com/artginzburg/sudo-touchid):  Permanent TouchID support 👆 for `sudo`.
 * [Suffuse-Team/suffuse-team.github.io](https://github.com/Suffuse-Team/suffuse-team.github.io): Website for Suffuse
+* [NotaInutilis/Super-SEO-Spam-Suppressor](https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor): An anticapitalist blocklist targeting websites abusing SEO tactics to spam web searches with data pollution and security risks: content farms, scrapers, copycats, generative AIs, scams, advertisements, malwares, and useless wasteful garbage in general. It is best used with uBlacklist.
 * [universalbyte/Superfox](https://github.com/universalbyte/Superfox): Silence Firefox from contacting MOZILLA , GOOGLE and other Servers. 700+ privacy features !
 * [FarisHijazi/SuperGoogleImages](https://github.com/FarisHijazi/SuperGoogleImages): Userscript to Super-charge Google images with rich features, like: download all full-resolution images, replace thumbnails with full-res images, add "view image" and "download" buttons and much more
 * [erosman/support](https://github.com/erosman/support): Support Location for all my extensions
