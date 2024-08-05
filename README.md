@@ -779,6 +779,7 @@ creating your own Awesome List by GitHub stars!
 * [ColdSpirit0/FastCopyLinks](https://github.com/ColdSpirit0/FastCopyLinks): Firefox addon, copies hovered links on Ctrl+C.
 * [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward): Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
 * [CleanCocoa/FatSidebar](https://github.com/CleanCocoa/FatSidebar): Custom vertical button toolbar for macOS
+* [guanguans/favorite-link](https://github.com/guanguans/favorite-link): ❤️ 每天收集喜欢的开源项目。
 * [ownaginatious/fbchat-archive-parser](https://github.com/ownaginatious/fbchat-archive-parser): An application for parsing chat history from a Facebook data archive.
 * [sharkdp/fd](https://github.com/sharkdp/fd): A simple, fast and user-friendly alternative to 'find'
 * [feather-wallet/feather](https://github.com/feather-wallet/feather): A free and open-source Monero desktop wallet.
@@ -1759,6 +1760,7 @@ creating your own Awesome List by GitHub stars!
 * [cshtdd/pocket-data-exporter](https://github.com/cshtdd/pocket-data-exporter): Export your pocket data
 * [kevinpollet/pocket-deduper](https://github.com/kevinpollet/pocket-deduper): Remove duplicates from your Pocket list.
 * [k5md/Pocket-Editor-webextension](https://github.com/k5md/Pocket-Editor-webextension): A sidebar text-editing addon for firefox
+* [cookie-s/pocket-export](https://github.com/cookie-s/pocket-export): https://qiita.com/cookies/items/db1af01e4a07b89a7e18
 * [krewast/pocket-export-chrome-import-converter](https://github.com/krewast/pocket-export-chrome-import-converter): Export bookmarks from Pocket and import them into Chrome
 * [rtward/pocket-import](https://github.com/rtward/pocket-import): A small script to upload a list of URLs into pocket
 * [haroldo-ok/pocket-platformer-exporter](https://github.com/haroldo-ok/pocket-platformer-exporter): Converts html files exported by pocket-platformer (https://the-l0bster.itch.io/pocket-platformer) into formats that should be more easily exported to other engines.
@@ -2164,6 +2166,7 @@ creating your own Awesome List by GitHub stars!
 * [david-littlefield/SingleFileMac](https://github.com/david-littlefield/SingleFileMac): A Mac application that uses the SingleFile repository.
 * [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ): Web Extension to save a faithful copy of an entire web page in a self-extracting ZIP file 
 * [pellaeon/SingleFileZ](https://github.com/pellaeon/SingleFileZ): MultiFile is a fork of gildas-lormeau/SingleFileZ that allows you to save a webpage as as one main HTML file plus original resource files (images, fonts, stylesheets and frames) in different folders.
+* [kewld00d/SingleFileZ-Archives](https://github.com/kewld00d/SingleFileZ-Archives): My repo archive of my collection of saved webpages , to read later + etc etc. Archive was created using SingleFile extension, which is able to save and compress webpages in a self-contained and cool self extracting zip file  but is just an easy to use html file  that enables good viewing and archiving of websites  with the added bonus of small file sizes and no folders or other files: just 1  html file per save or zip auto uploaded to this Github repo 
 * [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar): A highly customizable macOS status bar replacement
 * [koekeishiya/skhd](https://github.com/koekeishiya/skhd):  Simple hotkey daemon for macOS
 * [ivarbrandt/skin.fentastic](https://github.com/ivarbrandt/skin.fentastic): None
@@ -2503,7 +2506,7 @@ creating your own Awesome List by GitHub stars!
 * [RJ-Infinity/UserChromeScriptLoader](https://github.com/RJ-Infinity/UserChromeScriptLoader): None
 * [t0xk/username-generator](https://github.com/t0xk/username-generator): A username generator written in JavaScript
 * [erdidogan/username-scanner](https://github.com/erdidogan/username-scanner): Fast & Accurate Username Scanner (Frontend)
-* [Yuhanawa/UserScript](https://github.com/Yuhanawa/UserScript): CSDN 增强\极简化\沉浸式阅读\免登录复制|哔哩哔哩(bilibili)美化\移除评论区关键字搜索蓝字|推特屏蔽过滤器|黄推屏蔽器|GreasyFork脚本页面👇
+* [Yuhanawa/UserScript](https://github.com/Yuhanawa/UserScript): CSDN 极简\沉浸式阅读\免登录复制 | 博客园美化 | 哔哩哔哩美化 | GreasyFork脚本页面👇
 * [cyfung1031/userscript-supports](https://github.com/cyfung1031/userscript-supports): This is for the userscripts created on GreasyFork.org. 
 * [Trinovantes/userscript-youtube-playlist-organizer](https://github.com/Trinovantes/userscript-youtube-playlist-organizer): Drag and drop interface to organize playlists on YouTube
 * [Infocatcher/UserScripts](https://github.com/Infocatcher/UserScripts): UserScripts for Firefox with Greasemonkey extension and (may be) for other browsers with user.js support
@@ -2636,6 +2639,7 @@ creating your own Awesome List by GitHub stars!
 * [utkarshsingh99/Workspace-Manager](https://github.com/utkarshsingh99/Workspace-Manager): A Firefox extension to save frequently used tabs as Workspaces
 * [rtfcv/worse-onetab](https://github.com/rtfcv/worse-onetab): None
 * [yjmp14/wulingate](https://github.com/yjmp14/wulingate): A Cross-Platform Files Transfer Web App. 
+* [matryer/xbar](https://github.com/matryer/xbar): Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 * [matryer/xbar-plugins](https://github.com/matryer/xbar-plugins): Plugin repository for xbar (the BitBar reboot)
 * [benibela/xidel](https://github.com/benibela/xidel): Command line tool to download and extract data from HTML/XML pages or JSON-APIs, using CSS, XPath 3.0, XQuery 3.0, JSONiq or pattern matching.  It can also create new or transformed XML/HTML/JSON documents.
 * [StigNygaard/xIFr](https://github.com/StigNygaard/xIFr): Exif viewer WebExtension for Firefox and compatible webbrowsers
