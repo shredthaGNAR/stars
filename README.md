@@ -178,7 +178,7 @@ creating your own Awesome List by GitHub stars!
 * [axross/aqua](https://github.com/axross/aqua):  ♠️ Beautiful iOS/Android poker odds calculator app made of Flutter.
 * [yuuiko/AquaTouch](https://github.com/yuuiko/AquaTouch): Dynamic Custom Macros for your MacBook TouchBar! (Supports 40+ Apps and Websites)
 * [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox): 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
-* [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF): A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work even if your processor doesn't support BMI2 instruction set  ✨
+* [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF): A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work with all processor generation, even if yours doesn't support BMI2 instruction set  ✨
 * [aria2/aria2](https://github.com/aria2/aria2): aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 * [trmckay/article-export](https://github.com/trmckay/article-export): Export Pocket list as CSV!
 * [TKOxff/ASAP](https://github.com/TKOxff/ASAP): The Global Shortcuts for macOS, to launch any apps
@@ -1560,6 +1560,7 @@ creating your own Awesome List by GitHub stars!
 * [kyleskom/NBA-Machine-Learning-Sports-Betting](https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting): NBA sports betting using machine learning
 * [grishka/NearDrop](https://github.com/grishka/NearDrop): An unofficial Google Nearby Share/Quick Share app for macOS
 * [feilvan/neatly](https://github.com/feilvan/neatly): None
+* [neodevpro/neodevhost](https://github.com/neodevpro/neodevhost):  The Powerful Friendly Uptodate AD Blocking Hosts  最新强大而友善的去广告
 * [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch): 🖼️  A command-line system information tool written in bash 3.2+
 * [yiiyahui/Neptune-Firefox](https://github.com/yiiyahui/Neptune-Firefox): A clean and compact Firefox theme.
 * [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts): Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -1969,7 +1970,7 @@ creating your own Awesome List by GitHub stars!
 * [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches): 🧩 Patches for ReVanced
 * [anddea/revanced-patches](https://github.com/anddea/revanced-patches): 🧩 Patches for ReVanced
 * [inotia00/revanced-patches](https://github.com/inotia00/revanced-patches): 🧩 Patches for ReVanced
-* [ReVanced/revanced-patches-template](https://github.com/ReVanced/revanced-patches-template): 👋🧩ReVanced Patches template
+* [ReVanced/revanced-patches-template](https://github.com/ReVanced/revanced-patches-template): 👋🧩Template repository for ReVanced Patches
 * [inotia00/ReVanced_Extended](https://github.com/inotia00/ReVanced_Extended): ReVanced Extended Issues/Request repo
 * [SinTan1729/ReVancedBuilder](https://github.com/SinTan1729/ReVancedBuilder): A script to automatically build latest releases of ReVanced apps
 * [shekhawat2/RevancedYT](https://github.com/shekhawat2/RevancedYT): None
