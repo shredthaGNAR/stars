@@ -365,6 +365,7 @@ creating your own Awesome List by GitHub stars!
 * [cadeyrn/bookmarks-organizer](https://github.com/cadeyrn/bookmarks-organizer): With the Bookmarks Organizer it's easy to put order in your bookmarks. The Bookmarks Organizer finds no longer working bookmarks, redirects, duplicates and more!
 * [dvdn/bookmarks-reader](https://github.com/dvdn/bookmarks-reader): Display all your bookmarks files on a webpage
 * [mabdelaal86/bookmarks_gkeep](https://github.com/mabdelaal86/bookmarks_gkeep): Copy bookmarks from Google Keep into Pocket/Instapaper
+* [frederikb/bookmarksync](https://github.com/frederikb/bookmarksync): Synchronize your browser bookmarks from a GitHub repository
 * [VienDinhCom/bootstrap-shopify-theme](https://github.com/VienDinhCom/bootstrap-shopify-theme): 🛍 A free Shopify Theme built with Bootstrap, BEM, Liquid, Sass, ESNext, Theme Tools, ... and Webpack.
 * [dreadnaut/bordercolors-d](https://github.com/dreadnaut/bordercolors-d): A Thunderbird add-on to color-code the compose window based on the selected identity.
 * [lazarnarcis/box-shadow-generator](https://github.com/lazarnarcis/box-shadow-generator): You can use this web application to more easily generate Box Shadow CSS!
@@ -919,6 +920,7 @@ creating your own Awesome List by GitHub stars!
 * [dannycandle/FluidFox](https://github.com/dannycandle/FluidFox): A custom Firefox userChrome for mac OS.
 * [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet): Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
 * [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox): An opinionated set of configurations for firefox.
+* [fmhy/FMHYFilterlist](https://github.com/fmhy/FMHYFilterlist): FMHY Filterlist
 * [avindra/fndr](https://github.com/avindra/fndr): An Internet helper to wrangle multiple search providers, extract social media ids, perform reverse image search and more.
 * [VigoKrumins/folder-icons](https://github.com/VigoKrumins/folder-icons): Custom folder icons for macOS & Windows
 * [lgarron/folderify](https://github.com/lgarron/folderify): :file_folder: Generate pixel-perfect macOS folder icons in the native style.
@@ -2044,7 +2046,7 @@ creating your own Awesome List by GitHub stars!
 * [larsow/SecurityCamera](https://github.com/larsow/SecurityCamera): Android Security Camera App
 * [rak3n/SecuritySttream](https://github.com/rak3n/SecuritySttream): an Alfred Camera like solution for motion detection and streaming based on react-native
 * [seekr-osint/seekr](https://github.com/seekr-osint/seekr): A multi-purpose OSINT toolkit with a neat web-interface.
-* [igorlogius/select-tabs-extras](https://github.com/igorlogius/select-tabs-extras): Powerful tab selection addon with a bunch of one click options but also allow the user to create custom selection rules
+* [igorlogius/select-tabs-ext](https://github.com/igorlogius/select-tabs-ext): Powerful tab selection addon with a bunch of one click options but also allow the user to create custom selection rules
 * [Pitmairen/selection-search](https://github.com/Pitmairen/selection-search): Search extension for the chrome web browser
 * [emvaized/selecton-extension](https://github.com/emvaized/selecton-extension): Selecton provides popup with actions on text selection in all major browsers
 * [bitwarden/self-host](https://github.com/bitwarden/self-host): Bitwarden's self-hosted release repository
