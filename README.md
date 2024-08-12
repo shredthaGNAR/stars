@@ -1585,6 +1585,7 @@ creating your own Awesome List by GitHub stars!
 * [Bellisario/node-snapdrop](https://github.com/Bellisario/node-snapdrop): Node.js version of the original Snapdrop
 * [nodegui/nodegui](https://github.com/nodegui/nodegui): A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
 * [lencx/nofwl](https://github.com/lencx/nofwl): NoFWL Desktop Application
+* [lencx/Noi](https://github.com/lencx/Noi): 🚀 Power Your World with AI - Explore, Extend, Empower.
 * [speedball2001/nompsort-mx](https://github.com/speedball2001/nompsort-mx): A mailextension for Thunderbird that prevents accidental message sorting.
 * [dynobo/normcap](https://github.com/dynobo/normcap): OCR powered screen-capture tool to capture information instead of images
 * [opto/nostalgy-xpi](https://github.com/opto/nostalgy-xpi): nostalgy addon updated for Thunderbird 68 and now Thunderbird 78 - 115. Original code  by Alain Frisch.
@@ -1956,7 +1957,7 @@ creating your own Awesome List by GitHub stars!
 * [cerealkella/rest-uploader](https://github.com/cerealkella/rest-uploader): REST API File Uploader
 * [hanacchi/RestoreFirefoxJS](https://github.com/hanacchi/RestoreFirefoxJS): userChromeJS scripts to restore Firefox features that have been removed or changed
 * [briangershon/retrieve-pocket-bookmarks](https://github.com/briangershon/retrieve-pocket-bookmarks): Retrieves your bookmarks and meta data from Pocket API (via https://getpocket.com/developer/docs/v3/retrieve)
-* [cormiertyshawn895/Retroactive](https://github.com/cormiertyshawn895/Retroactive): Retroactive only receives limited support. Run Aperture, iPhoto, and iTunes on macOS Sonoma, macOS Ventura, macOS Monterey, macOS Big Sur, and macOS Catalina. Xcode 11.7 on macOS Mojave. Final Cut Pro 7, Logic Pro 9, and iWork ’09 on macOS Mojave or macOS High Sierra.
+* [cormiertyshawn895/Retroactive](https://github.com/cormiertyshawn895/Retroactive): Retroactive has been discontinued. You should transition from Retroactive to supported apps such as Music, iTunes for Windows, iMazing, Photos, Darktable, Lightroom Classic, and DaVinci Resolve.
 * [NoName-exe/revanced](https://github.com/NoName-exe/revanced): ReVanced YT and YT-M for both root and non-root users.
 * [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root): Real-time repository build Revanced and Revanced Extended about 5 minutes after patch release
 * [n0k0m3/revanced-build-template](https://github.com/n0k0m3/revanced-build-template): Github Template for building Revanced
