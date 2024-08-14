@@ -462,6 +462,7 @@ creating your own Awesome List by GitHub stars!
 * [swyxio/chatgpt-mac](https://github.com/swyxio/chatgpt-mac): ChatGPT for Mac, living in your menubar.
 * [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac): ChatGPT for Mac, living in your menubar.
 * [yokoffing/ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts): ChatGPT and Bing AI prompt curation
+* [abielzulio/chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast): ChatGPT raycast extension
 * [josStorer/chatGPT-search-engine-extension](https://github.com/josStorer/chatGPT-search-engine-extension): A browser extension to display ChatGPT response alongside Search Engine results
 * [SingularityLabs-ai/ChatGPT-Tool-List](https://github.com/SingularityLabs-ai/ChatGPT-Tool-List): Bots To be added
 * [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js): 🤖 A powerful, open source client-side JavaScript library for ChatGPT
@@ -1088,6 +1089,7 @@ creating your own Awesome List by GitHub stars!
 * [nicolaballotta/gpt3-wordpress-post-generator](https://github.com/nicolaballotta/gpt3-wordpress-post-generator): A simple cli to generate WordPress posts using Gpt3 starting from a topic.
 * [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all): GPT4All: Chat with Local LLMs on Any Device
 * [CryptoMonkey21/gpt4free](https://github.com/CryptoMonkey21/gpt4free): The official gpt4free repository | various collection of powerful language models
+* [Linhvjc/gpt4free](https://github.com/Linhvjc/gpt4free): None
 * [xtekky/gpt4free](https://github.com/xtekky/gpt4free): The official gpt4free repository | various collection of powerful language models
 * [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free): Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
 * [tg12/gpt_jailbreak_status](https://github.com/tg12/gpt_jailbreak_status): This is a repository that aims to provide updates on the status of jailbreaking the OpenAI GPT language model.
@@ -1222,6 +1224,7 @@ creating your own Awesome List by GitHub stars!
 * [sindresorhus/iterm2-snazzy](https://github.com/sindresorhus/iterm2-snazzy): Elegant iTerm2 theme with bright colors
 * [Jackett/Jackett](https://github.com/Jackett/Jackett): API Support for your favorite torrent trackers
 * [jarrekk/Jalpc](https://github.com/jarrekk/Jalpc): 🍎Jalpc -- A flexible Jekyll theme, 3 steps to build your website. 
+* [janhq/jan](https://github.com/janhq/jan): Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)
 * [kumarram1011/Jan22_Q3](https://github.com/kumarram1011/Jan22_Q3): The candidate should ensure the availability of Git, Python and Django on their system as part of the setup exercise.. Preferred IDE is PyCharm to import the project directly. Postman tool to test the REST APIs and git.  Problem Breakdown  To start the development a skeleton repo for the project is provided at the github link – https://github.com/kumarram1011/Jan22_Q2   (master branch)  Then repo can be cloned into their local system through HTTPs or SSH. After cloning the project at your location, follow the below points:  Create Virtual env (ubuntu) 1. sudo apt install python3-venv 2. python3 -m venv relevel_env 3. cd relevel_env/ 4. source bin/activate Now quit this env location and jump to your working location/ Parent directory  Install all dependencies using ‘pip install -r requirements.txt’ Now run your initial migrations with the command as: 1. python manage.py makemigrations 2. python manage.py migrate  Note :-  A. Initially there is no any model in your projects so the 1st command will give you the response has "NO changes" but the 2nd command will configure you all initial settings like DB and all. B. At every stage while developing/implementing the features please use both of the above commands to reflect your changes in the running/development server.  Run ‘python manage.py runserver’ to start the development server. The hosted app can be checked on http://localhost:8000 on the browser.  Submission Instructions  Code Submission: Compress the code on the local system in the form of a *.zip file. Upload the code on your personal google drive in a folder titled - “Name_BD_ Code Base” Don’t forget to change the permissions of the folder to ‘Anyone with the link can edit’.  Loom video submission: Create an account on Loom. Go through the quick tutorial on how to record loom videos. Create a Loom video (while screen sharing) covering the following points: Show the functionality of the app you have created i.e demo of the working APIs through a command line. (1 min) Run through the key parts of your code explaining the core logic and how you organized the code. (2 min) Explain your problem-solving approach (what logic you have used and why). (2 min) Please keep your explanation to under 5 mins only. Avoid too much jargon and explain your app in a simple and clear manner.
 * [tsmdt/janus-for-alfred](https://github.com/tsmdt/janus-for-alfred): Create random usernames in Alfred
 * [jeeliz/jeelizFaceFilter](https://github.com/jeeliz/jeelizFaceFilter): Javascript/WebGL lightweight face tracking library designed for augmented reality webcam filters. Features : multiple faces detection, rotation, mouth opening. Various integration examples are provided (Three.js, Babylon.js, FaceSwap, Canvas2D, CSS3D...). 
@@ -1723,6 +1726,8 @@ creating your own Awesome List by GitHub stars!
 * [ChanChunCheong/PeopleSearch](https://github.com/ChanChunCheong/PeopleSearch): DSO Summer Internship-People Search Aggregator web application which use data analytics and artificial intelligence libraries, to simultaneously search social media profiles from various platforms, processes, and then rank the search results based on name, location, keywords and image matching
 * [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica): Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 * [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis): Persepolis Download Manager is a GUI for aria2.
+* [juyomay21/personal-site](https://github.com/juyomay21/personal-site): My personal website - built with React, React-Router, React-Snap for Static-Export, and GitHub Pages.
+* [mldangelo/personal-site](https://github.com/mldangelo/personal-site): My personal website - built with React, React-Router, React-Snap for Static-Export, and GitHub Pages.
 * [github/personal-website](https://github.com/github/personal-website): Code that'll help you kickstart a personal website that showcases your work as a software developer.
 * [nimit95/Personal-Website](https://github.com/nimit95/Personal-Website): My Personal Website in React, Material UI, React Spring. Contents can be modified via single JSON.
 * [umutxyp/Personal-Website](https://github.com/umutxyp/Personal-Website): It is a quality portfolio site with a beautiful and simple design that you can personalize for yourself.
@@ -1830,6 +1835,7 @@ creating your own Awesome List by GitHub stars!
 * [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas): A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜 
 * [SofiDevO/portfolio-sofidev-garrux](https://github.com/SofiDevO/portfolio-sofidev-garrux): Primer blog con astro
 * [AnuV6/portfolio-v2](https://github.com/AnuV6/portfolio-v2): This repository showcases my web portfolio, built using a modern tech stack: React for a smooth user interface, Next.js for enhanced performance and SEO, and Firebase for effortless deployment. Explore my skills and projects in a user-friendly and responsive format.
+* [AlpayC/portfolio_site](https://github.com/AlpayC/portfolio_site): My Portfolio website based on react, typescript and tailwind. 
 * [husseyexplores/poshify-utilities](https://github.com/husseyexplores/poshify-utilities): Some posh utilities for Shopify developers and merchants packaged as a browser extension 🎉
 * [fboulnois/positron-ui-firefox](https://github.com/fboulnois/positron-ui-firefox): A simple userChrome for Firefox that restores connected tabs, visual dividers, and the focused tab highlight.
 * [Century300/powerlevel10k](https://github.com/Century300/powerlevel10k): fast install powerlevel10k theme
@@ -1895,6 +1901,7 @@ creating your own Awesome List by GitHub stars!
 * [jackyzha0/quartz](https://github.com/jackyzha0/quartz): 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 * [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins): List of useful Quick Look plugins for developers
 * [evanca/quick-portfolio](https://github.com/evanca/quick-portfolio): Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+* [ololx/quick-symlink](https://github.com/ololx/quick-symlink): Quick Symlink is a Finder extension, which allows to quickly create a new symbolic links for the selected folders or files using mouse right-click. There is an alternative https://github.com/ololx/create-symlink
 * [RealRaven2000/quickFilters](https://github.com/RealRaven2000/quickFilters): Thunderbird Add-on: quickFilters 
 * [RealRaven2000/QuickFolders](https://github.com/RealRaven2000/QuickFolders): Thunderbird Add-on: QuickFolders
 * [quicksilver/Quicksilver](https://github.com/quicksilver/Quicksilver): Quicksilver Project Source
@@ -1913,6 +1920,7 @@ creating your own Awesome List by GitHub stars!
 * [wibus-wee/raycast-unblock](https://github.com/wibus-wee/raycast-unblock): Unblock all features in Raycast Pro Plan with implementing similar functions in other ways
 * [yufeikang/raycast_api_proxy](https://github.com/yufeikang/raycast_api_proxy): None
 * [MassimilianoPasquini97/raycast_ollama](https://github.com/MassimilianoPasquini97/raycast_ollama): Raycast extention for Ollama
+* [VaalaCat/raychat](https://github.com/VaalaCat/raychat): turn your Raycast pro AI to OpenAI API Compatible API server
 * [rbenv/rbenv](https://github.com/rbenv/rbenv): Manage your app's Ruby environment
 * [rclone/rclone](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 * [iampueroo/rComments](https://github.com/iampueroo/rComments): Chrome and Firefox extension for quickly exploring Reddit comments and replies without having to click through to the post!
@@ -2722,6 +2730,7 @@ creating your own Awesome List by GitHub stars!
 * [li-zyang/zScripts](https://github.com/li-zyang/zScripts): Repository of my userscripts
 * [zsh-users/zsh](https://github.com/zsh-users/zsh): Mirror of the Z shell source code repository.
 * [DarrinTisdale/zsh-aliases-exa](https://github.com/DarrinTisdale/zsh-aliases-exa): zsh plugin adding aliases for the exa command-line tool
+* [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions): Fish-like autosuggestions for zsh
 * [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions): Additional completion definitions for Zsh.
 * [zsh-users/zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search): 🐠 ZSH port of Fish history search (up arrow)
 * [mrjohannchang/zsh-interactive-cd](https://github.com/mrjohannchang/zsh-interactive-cd): Fish like interactive tab completion for cd in zsh
