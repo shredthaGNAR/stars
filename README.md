@@ -185,6 +185,7 @@ creating your own Awesome List by GitHub stars!
 * [GSA/asis](https://github.com/GSA/asis): ASIS (Advanced Social Image Search) indexes Flickr and MRSS images and provides a search API across both indexes.
 * [phguo/AskGPT](https://github.com/phguo/AskGPT): AskGPT: an Alfred Workflow that enables you to ask ChatGPT from anywhere while typing.
 * [withastro/astro](https://github.com/withastro/astro): The web framework for content-driven websites. ⭐️ Star to support our work!
+* [Ladvace/astro-bento-portfolio](https://github.com/Ladvace/astro-bento-portfolio): Astro-bento-portfolio is a minimal bento-like (almost) single page portfolio website made in Astro
 * [ixartz/Astro-boilerplate](https://github.com/ixartz/Astro-boilerplate): 🚀 Astro boilerplate with responsive blog and portfolio template using TypeScript and React styled with Tailwind CSS ⚡️ Made with developer experience first: TypeScript + ESLint + Prettier + Husky + Lint-Staged + Commitlint + VSCode
 * [dofbi/astro-cv-theme](https://github.com/dofbi/astro-cv-theme): CV theme for Astro 🚀
 * [uzzii-21/astro-portfolio](https://github.com/uzzii-21/astro-portfolio): This repo contains the source code for a personal portfolio website built with Astro, a framework for building fast and modern websites with your favorite frontend tools. The website showcases the developer's skills, projects, and contact information. The website is responsive, accessible, and SEO-friendly.
@@ -287,6 +288,7 @@ creating your own Awesome List by GitHub stars!
 * [hachikoharuno/Beautiful-newtab-Firefox](https://github.com/hachikoharuno/Beautiful-newtab-Firefox): Beautiful design for firefox new tab
 * [shredthaGNAR/beautiiful-jekyl](https://github.com/shredthaGNAR/beautiiful-jekyl): ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 * [NicolaeNMV/BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay): One button to close any overlay on any website
+* [apdev95/bento-portfolio-nuxt](https://github.com/apdev95/bento-portfolio-nuxt): Bento-portfolio is a minimal bento-like (almost) single page portfolio website made with Nuxt
 * [themeselection/best-chrome-extensions](https://github.com/themeselection/best-chrome-extensions): A curated list of Best Awesome Chrome Extensions to boost your productivity in your Browsers
 * [tomhaydn/BetArbit](https://github.com/tomhaydn/BetArbit): Sports betting arbitrage algorithm
 * [dashee87/betScrapeR](https://github.com/dashee87/betScrapeR): R package to scrape live sports betting odds
@@ -403,6 +405,7 @@ creating your own Awesome List by GitHub stars!
 * [elv1n/btt-window-manager-preset](https://github.com/elv1n/btt-window-manager-preset): Simple and powerful BetterTouchTool Window Manager Preset
 * [noonchen/BTT_AppleWirelessHeadphone](https://github.com/noonchen/BTT_AppleWirelessHeadphone): Toggle and display battery info of apple wireless headphones on the touch bar
 * [noonchen/BTT_NightShiftSlider](https://github.com/noonchen/BTT_NightShiftSlider): A BetterTouchTool widget to control Night Shift strength
+* [dyobi/btt_preset](https://github.com/dyobi/btt_preset): None
 * [ganapativs/bttn.css](https://github.com/ganapativs/bttn.css): Awesome buttons for awesome projects!
 * [p-x9/BTTPluginHeadLineNews](https://github.com/p-x9/BTTPluginHeadLineNews): Headline News Widget for Better Touch Tool. You can display the articles fetched by rss.
 * [revanced-apks/build-apps](https://github.com/revanced-apks/build-apps): The ReVanced APKs
@@ -961,6 +964,7 @@ creating your own Awesome List by GitHub stars!
 * [mrjohannchang/fz.sh](https://github.com/mrjohannchang/fz.sh): Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
 * [junegunn/fzf](https://github.com/junegunn/fzf): :cherry_blossom: A command-line fuzzy finder
 * [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab): Replace zsh's default completion selection menu with fzf!
+* [sted9000/gambit](https://github.com/sted9000/gambit): Learn Pot Limit Omaha Starting Ranges
 * [perXautomatik/GAS-OneTabExportOrganizer](https://github.com/perXautomatik/GAS-OneTabExportOrganizer): OneTab -> googleSheets -> Clustering datasheet
 * [tssandor/gasbar](https://github.com/tssandor/gasbar): Ethereum Gas Fee for the MacBook Pro touchbar (using BetterTouchTool)
 * [2ndalpha/gasmask](https://github.com/2ndalpha/gasmask): Hosts file manager for OS X
@@ -1037,6 +1041,7 @@ creating your own Awesome List by GitHub stars!
 * [mr-feek/global-poker-hand-history-converter](https://github.com/mr-feek/global-poker-hand-history-converter): :spades: :clubs: Convert Global Poker hand histories to PokerStars format :hearts: :diamonds:
 * [mr-feek/global-poker-hand-history-converter-chrome-extension](https://github.com/mr-feek/global-poker-hand-history-converter-chrome-extension): Chrome Extension for fetching Global Poker hand histories and converting them to poker stars format.
 * [dartagnanjacobson/global_poker_scraper](https://github.com/dartagnanjacobson/global_poker_scraper): Global Poker Hand History Scraper
+* [szge/globalpokercalc](https://github.com/szge/globalpokercalc): calculate total playthough for globalpoker.com blackjack
 * [jabiddle/GlobalPokerExt](https://github.com/jabiddle/GlobalPokerExt): A Chrome extension that adds automation and statistic collection to GlobalPoker.
 * [yinthewind/GlobalPokerHandTracker](https://github.com/yinthewind/GlobalPokerHandTracker): None
 * [tomatopickle/Glox](https://github.com/tomatopickle/Glox): A glassmorphistic Firefox skin, also has round elements
@@ -1093,6 +1098,7 @@ creating your own Awesome List by GitHub stars!
 * [xtekky/gpt4free](https://github.com/xtekky/gpt4free): The official gpt4free repository | various collection of powerful language models
 * [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free): Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
 * [tg12/gpt_jailbreak_status](https://github.com/tg12/gpt_jailbreak_status): This is a repository that aims to provide updates on the status of jailbreaking the OpenAI GPT language model.
+* [Zaki-1052/GPTPortal](https://github.com/Zaki-1052/GPTPortal): A feature-rich portal to chat with GPT-4, Claude, Gemini, Mistral, & OpenAI Assistant APIs via a lightweight Node.js web app; supports customizable multimodality for voice, images, & files.
 * [zenangst/Gray](https://github.com/zenangst/Gray):  :first_quarter_moon: Tailor your macOS Mojave experience
 * [vitalif/grive2](https://github.com/vitalif/grive2): Google Drive client with support for new Drive REST API and partial sync
 * [tardisx/gropple](https://github.com/tardisx/gropple): Server and bookmarklet to download files via youtube-dl directly from your browser. Cross platform single binary installation, web browser configurable.
@@ -1105,6 +1111,9 @@ creating your own Awesome List by GitHub stars!
 * [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon): Staggeringly powerful macOS desktop automation with Lua
 * [KURANADO2/hammerspoon-kuranado](https://github.com/KURANADO2/hammerspoon-kuranado): Hammerspoon config（Support custom shortcut keys, emoji search, application shortcut switching, real-time network speed, key echo, etc.）
 * [peterklijn/hammerspoon-shiftit](https://github.com/peterklijn/hammerspoon-shiftit): A ShiftIt like Hammerspoon window management configuration
+* [poker-apprentice/hand-evaluator](https://github.com/poker-apprentice/hand-evaluator): Evaluate the strength of a hand of poker
+* [poker-apprentice/hand-history-analyzer](https://github.com/poker-apprentice/hand-history-analyzer): Extract helpful statistics about a poker player's tendencies from a hand history
+* [poker-apprentice/hand-history-parser](https://github.com/poker-apprentice/hand-history-parser): Parse hand histories from online poker sites
 * [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake): HandBrake's main development repository 
 * [jgressmann/harbour-vodman](https://github.com/jgressmann/harbour-vodman): Vodman lets you download videos (VODs) from the internet to your SailfishOS device
 * [claytonjn/hass-circadian_lighting](https://github.com/claytonjn/hass-circadian_lighting): Circadian Lighting custom component for Home Assistant
@@ -1546,6 +1555,7 @@ creating your own Awesome List by GitHub stars!
 * [mozilla/multi-account-containers](https://github.com/mozilla/multi-account-containers): Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
 * [TheCaduceus/Multi-Cloud-Transfer-Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool): The most advanced yet simple Jupyter Notebook to transfer/manage your data from/to any cloud remotely based on Rclone and other engines.⚡
 * [Javojav/Multi-engine-search](https://github.com/Javojav/Multi-engine-search): This Firefox extension allows you to use multiple of your installed search engines at once.
+* [Ioannis-Peridis/Multiagent-Systems-and-Game-Theory-PLH512](https://github.com/Ioannis-Peridis/Multiagent-Systems-and-Game-Theory-PLH512):  Implementation in Java: POWER-TAC global competition advanced Broker implementation (Monte Carlo Tree Search Algorithm), Game Theory exercises and Approximating Game-Theoretic Optimal Strategies for Full-scale Poker papper summary
 * [wantora/multiple-paste-and-go-button](https://github.com/wantora/multiple-paste-and-go-button): This add-on provides a button to open multiple URLs from clipboard.
 * [rxhanson/Multitouch-Community](https://github.com/rxhanson/Multitouch-Community): Issue and feature request tracking for the Multitouch app
 * [shredthaGNAR/my-awesome-starred](https://github.com/shredthaGNAR/my-awesome-starred): None
@@ -1625,7 +1635,10 @@ creating your own Awesome List by GitHub stars!
 * [ollama/ollama](https://github.com/ollama/ollama): Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
 * [ollama-ui/ollama-ui](https://github.com/ollama-ui/ollama-ui): Simple HTML UI for Ollama
 * [kevinhermawan/Ollamac](https://github.com/kevinhermawan/Ollamac): Mac app for Ollama
+* [Sine-Of-Time/Omaha-Poker](https://github.com/Sine-Of-Time/Omaha-Poker):  A program that evaluates the winner of a 2-player Omaha-High Hold’em poker game.
 * [quanm/Omaha-Poker](https://github.com/quanm/Omaha-Poker): None
+* [nguidice/omahaPoker](https://github.com/nguidice/omahaPoker): Program that evaluates the winner of a 2-player Omaha-High Hold’em poker game (also known as pot-limit Omaha).
+* [ksoeze/OmahaRangeExplorer](https://github.com/ksoeze/OmahaRangeExplorer): Omaha Range Explorer is a Python-based tool designed to evaluate and analyze Omaha 4-card, 5-card, and HILO poker hands and ranges. The tool allows users to construct in-game ranges over multiple streets using smart syntax, run equity and hand rank calculations, and perform basic EV estimations.
 * [alyssaxuu/omni](https://github.com/alyssaxuu/omni): The all-in-one tool to supercharge your productivity ⌨️
 * [InQuest/omnibus](https://github.com/InQuest/omnibus): The OSINT Omnibus (beta release)
 * [omnixent/omnixent](https://github.com/omnixent/omnixent): 👀 A simple API that allows you to understand what people search on search engines, social networks, etc.
@@ -1748,6 +1761,7 @@ creating your own Awesome List by GitHub stars!
 * [dermesser/photosync](https://github.com/dermesser/photosync): Now that Google deprecated the Photos<->Drive synchronization, I need another way to back up my photos locally. This program downloads all photos from your Google Photos account and organizes them locally. It is not very user friendly yet, but definitely usable
 * [pooja-v-dev/php-drive-s3](https://github.com/pooja-v-dev/php-drive-s3): Read a Google Drive account, list files in a folder and move selected file to S3.
 * [YukisCoffee/phroton-legacy](https://github.com/YukisCoffee/phroton-legacy): Firefox Proton userChrome.css for an accurate Photon theme.
+* [uoftcprg/phs-dataset](https://github.com/uoftcprg/phs-dataset): A dataset of poker hand strengths
 * [bltavares/pickpocket](https://github.com/bltavares/pickpocket): Pocket CLI management tools
 * [ppati000/pickpocket](https://github.com/ppati000/pickpocket): Pickpocket imports Pocket links to Safari reading list. 
 * [RooneyMcNibNug/pihole-stuff](https://github.com/RooneyMcNibNug/pihole-stuff): blocklists, scripts, etc.
@@ -1816,8 +1830,11 @@ creating your own Awesome List by GitHub stars!
 * [siavashg87/poker-odds-calc](https://github.com/siavashg87/poker-odds-calc): Fastest and most accurate node module for calculating odds of poker games Texas Hold'em, Texas Shortdeck/Sixplus and Omaha.
 * [emileindik/poker-odds-machine](https://github.com/emileindik/poker-odds-machine): None
 * [surbhitrao/poker-odds-omaha5](https://github.com/surbhitrao/poker-odds-omaha5): Fastest and most accurate node module for calculating odds of poker games Texas Hold'em, and Omaha 5 card.
+* [Twenty20Twenty/Poker-Omaha-JavaFX](https://github.com/Twenty20Twenty/Poker-Omaha-JavaFX): None
 * [sdeep27/poker-simulator](https://github.com/sdeep27/poker-simulator): simulates starting hands and flop, turn, river for tournies and cash games in omaha and hold'em poker
+* [Stiff-2904/Poker_Omaha-Hi](https://github.com/Stiff-2904/Poker_Omaha-Hi): Juego de poker Omaha Hi
 * [400yk/PokerBotMac](https://github.com/400yk/PokerBotMac): Mac version of pokerbot project by Dick Neutral
+* [FranTheHuman/PokerHand](https://github.com/FranTheHuman/PokerHand): Functional exercise in Scala.
 * [HenryRLee/PokerHandEvaluator](https://github.com/HenryRLee/PokerHandEvaluator): Poker-Hand-Evaluator: An efficient poker hand evaluation algorithm and its implementation, supporting 7-card poker and Omaha poker evaluation
 * [forestturner/PokerHandRangeCalc](https://github.com/forestturner/PokerHandRangeCalc): Poker Hand Range Calculator
 * [uoftcprg/pokerkit](https://github.com/uoftcprg/pokerkit): An open-source Python library for poker game simulations, hand evaluations, and statistical analysis
@@ -1825,6 +1842,7 @@ creating your own Awesome List by GitHub stars!
 * [EricSteinberger/PokerRL](https://github.com/EricSteinberger/PokerRL): Framework for Multi-Agent Deep Reinforcement Learning in Poker
 * [diditforlulz273/PokerRL-Omaha](https://github.com/diditforlulz273/PokerRL-Omaha): Omaha Poker functionality+some features for PokerRL Reinforcement Learning card framwork
 * [goldfire/pokersolver](https://github.com/goldfire/pokersolver): Javascript poker hand solver.
+* [Jantero93/pokerstars-statistics-script](https://github.com/Jantero93/pokerstars-statistics-script): Script for tracking history on PokerStars
 * [andrewprock/pokerstove](https://github.com/andrewprock/pokerstove): poker evaluation and enumeration software
 * [pilotmoon/PopClip-Extensions](https://github.com/pilotmoon/PopClip-Extensions): Source code for extensions in the official PopClip Extensions directory.
 * [iSapozhnik/Popover](https://github.com/iSapozhnik/Popover): Custom macOS Popover 💬
@@ -1835,6 +1853,7 @@ creating your own Awesome List by GitHub stars!
 * [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas): A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜 
 * [SofiDevO/portfolio-sofidev-garrux](https://github.com/SofiDevO/portfolio-sofidev-garrux): Primer blog con astro
 * [AnuV6/portfolio-v2](https://github.com/AnuV6/portfolio-v2): This repository showcases my web portfolio, built using a modern tech stack: React for a smooth user interface, Next.js for enhanced performance and SEO, and Firebase for effortless deployment. Explore my skills and projects in a user-friendly and responsive format.
+* [jigar-sable/Portfolio-Website](https://github.com/jigar-sable/Portfolio-Website): Portfolio Website built using HTML5, CSS3, JavaScript and jQuery
 * [AlpayC/portfolio_site](https://github.com/AlpayC/portfolio_site): My Portfolio website based on react, typescript and tailwind. 
 * [husseyexplores/poshify-utilities](https://github.com/husseyexplores/poshify-utilities): Some posh utilities for Shopify developers and merchants packaged as a browser extension 🎉
 * [fboulnois/positron-ui-firefox](https://github.com/fboulnois/positron-ui-firefox): A simple userChrome for Firefox that restores connected tabs, visual dividers, and the focused tab highlight.
