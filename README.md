@@ -782,6 +782,7 @@ creating your own Awesome List by GitHub stars!
 * [vikas5914/Facebook-Video-Downloader](https://github.com/vikas5914/Facebook-Video-Downloader): Facebook Video Downloader in PHP 
 * [facebookresearch/faiss](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors.
 * [FakeFiller/fake-filler-extension](https://github.com/FakeFiller/fake-filler-extension): A browser extension for Chrome, Edge and Firefox that fills dummy text in all input fields in a page.
+* [busiyiworld/fake-raycast-backend](https://github.com/busiyiworld/fake-raycast-backend): A fake Raycast backend that can be deployed to Vercel in just one step.
 * [dumbmatter/fakeIndexedDB](https://github.com/dumbmatter/fakeIndexedDB): A pure JS in-memory implementation of the IndexedDB API
 * [ColdSpirit0/FastCopyLinks](https://github.com/ColdSpirit0/FastCopyLinks): Firefox addon, copies hovered links on Ctrl+C.
 * [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward): Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
@@ -1167,6 +1168,7 @@ creating your own Awesome List by GitHub stars!
 * [theocjr/hugo-academic-bookmarks](https://github.com/theocjr/hugo-academic-bookmarks): Bookmarks content section for the Academic theme (Hugo framework).
 * [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder): 🚨 GROW YOUR AUDIENCE WITH HUGOBLOX! 🚀 HugoBlox is an easy, fast no-code website builder for researchers, entrepreneurs, data scientists, and developers. Build stunning sites in minutes. 适合研究人员、企业家、数据科学家和开发者的简单快速无代码网站构建器。用拖放功能、可定制模板和内置SEO工具快速创建精美网站！
 * [craftsmandigital/hugo-get-pocket](https://github.com/craftsmandigital/hugo-get-pocket): This is a Hugo project that view bookmars from my get-pocket app. Using get-pocket api to generate json to use in website.
+* [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile): A highly customizable and mobile first Hugo template for personal portfolio and blog.
 * [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack): Card-style Hugo theme designed for bloggers
 * [spaghettiwews/hugonews](https://github.com/spaghettiwews/hugonews): hugo theme (based on https://news.ycombinator.com) for https://bookmarks.wews.co.zw
 * [hunspell/hunspell](https://github.com/hunspell/hunspell): The most popular spellchecking library.
@@ -1372,7 +1374,7 @@ creating your own Awesome List by GitHub stars!
 * [koukaku01/LinkQR](https://github.com/koukaku01/LinkQR): A Firefox extension that instantly converts web links into QR codes with a single click from the address bar. Easily copy or download QR codes in PNG/SVG format for seamless sharing.
 * [velvia/links](https://github.com/velvia/links): Just a bunch of useful links
 * [cloux/LinkSanitizer](https://github.com/cloux/LinkSanitizer): Browser userscript to clean up hyperlink redirections and link shims
-* [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden): ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles.
+* [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden): ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...
 * [Shopify/liquid](https://github.com/Shopify/liquid): Liquid markup language. Safe, customer facing template language for flexible web apps. 
 * [EvgeniyMukhamedjanov/liquid-ajax-cart](https://github.com/EvgeniyMukhamedjanov/liquid-ajax-cart): Build a Shopify Ajax-cart without JavaScript coding
 * [harttle/liquidjs](https://github.com/harttle/liquidjs): A simple, expressive, safe and Shopify compatible template engine in pure JavaScript.
@@ -1901,7 +1903,7 @@ creating your own Awesome List by GitHub stars!
 * [WaldiPL/purplePrivateWindows](https://github.com/WaldiPL/purplePrivateWindows):  Extension for Firefox
 * [drduh/Purse](https://github.com/drduh/Purse): GnuPG asymmetric password manager
 * [filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox): A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
-* [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt): Desktop AI Assistant powered by GPT-4, GPT-4 Vision, GPT-3.5, DALL-E 3, Langchain, Llama-index, chat, vision, voice control, image generation and analysis, autonomous agents, code and command execution, file upload and download, speech synthesis and recognition, access to Web, memory, prompt presets, plugins, assistants & more. Linux, Windows, Mac.
+* [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt): Desktop AI Assistant powered by GPT-4, GPT-4 Vision, GPT-3.5, Gemini, Claude, Llama3, DALL-E 3, Langchain, Llama-index, chat, vision, voice control, image generation and analysis, autonomous agents, code/command execution, file upload/download, speech synthesis and recognition, access to Web, memory, presets, plugins, assistants. Linux, Windows, Ma
 * [kevinschaich/py-imessage-shortcuts](https://github.com/kevinschaich/py-imessage-shortcuts): 💬 Send iMessages using Python through the Shortcuts app.
 * [glowinthedark/pylaunchd](https://github.com/glowinthedark/pylaunchd): MacOS launchd/launchctl GUI
 * [e-alizadeh/PyPocket](https://github.com/e-alizadeh/PyPocket): A Python Wrapper (Unofficial) for GetPocket (https://getpocket.com)
@@ -2478,7 +2480,7 @@ creating your own Awesome List by GitHub stars!
 * [JustOff/ublock0-updater](https://github.com/JustOff/ublock0-updater): Keep uBlock Origin up to date using the latest XUL-compatible release from GitHub
 * [jeremyperkin/uBlockdark](https://github.com/jeremyperkin/uBlockdark): Dark theme for uBlock Origin
 * [LanikSJ/ubo-filters](https://github.com/LanikSJ/ubo-filters): uBlock Origin Filters
-* [uBlockO/uBO-Personal-Filters](https://github.com/uBlockO/uBO-Personal-Filters): A personal filterlist of mine with additional filters for uBlock Origin to block third-party, tracking, annoyances, anti-adblock, resource-abuse and all other unwarranted resources from loading.
+* [uBlockO/uBO-Filters](https://github.com/uBlockO/uBO-Filters): A filterlist with additional filters for uBlock Origin to block third-party, tracking, annoyances, anti-adblock, resource-abuse and all other unwarranted resources from loading.
 * [avotoko/ubo-resource](https://github.com/avotoko/ubo-resource): uBlock Origin Experimental Scriptlets Resource
 * [uBlockO/uBO-Scriptlets](https://github.com/uBlockO/uBO-Scriptlets): A custom arsenal of scriptlets to be used for injecting userscripts via uBlock Origin.
 * [aminomancer/uc.css.js](https://github.com/aminomancer/uc.css.js): A dark indigo CSS theme for Firefox and a large collection of privileged scripts to add new buttons, menus, and behaviors and eliminate nuisances. The theme is similar to other userChrome stylesheets, but it's intended for use with an autoconfig loader like fx-autoconfig, since it uses JavaScript to implement its more functional features.
