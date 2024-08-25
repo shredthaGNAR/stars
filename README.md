@@ -638,6 +638,7 @@ creating your own Awesome List by GitHub stars!
 * [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim): Dim, a media manager fueled by dark forces.
 * [nokeya/direct-links-out](https://github.com/nokeya/direct-links-out): Removes all "You are leaving our site" stuff from links
 * [zanetu/direct_google_images](https://github.com/zanetu/direct_google_images): Direct Google Images
+* [bluppus20/Disable-Gatekeeper-macOS-Sequoia-beta-3](https://github.com/bluppus20/Disable-Gatekeeper-macOS-Sequoia-beta-3):  Disable Gatekeeper macOS Sequoia beta 3 
 * [Homebrew/discussions](https://github.com/Homebrew/discussions): 🗣 Public open-ended discussions. Replacement for our Discourse.
 * [disposable/disposable-email-domains](https://github.com/disposable/disposable-email-domains): Daily updated repository for https://github.com/disposable/disposable
 * [tapans/DIY-Surveillance-with-Smartphones](https://github.com/tapans/DIY-Surveillance-with-Smartphones): DIY hack for a complete CCTV solution using open source software and smartphones. 
@@ -1095,7 +1096,7 @@ creating your own Awesome List by GitHub stars!
 * [GPortfolio/GPortfolio](https://github.com/GPortfolio/GPortfolio): Creating an automatic portfolio based on Github profile
 * [giosilvi/GPT-Prompter](https://github.com/giosilvi/GPT-Prompter): Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3, GPT-4 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons
 * [nicolaballotta/gpt3-wordpress-post-generator](https://github.com/nicolaballotta/gpt3-wordpress-post-generator): A simple cli to generate WordPress posts using Gpt3 starting from a topic.
-* [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all): GPT4All: Chat with Local LLMs on Any Device
+* [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all): GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 * [CryptoMonkey21/gpt4free](https://github.com/CryptoMonkey21/gpt4free): The official gpt4free repository | various collection of powerful language models
 * [Linhvjc/gpt4free](https://github.com/Linhvjc/gpt4free): None
 * [xtekky/gpt4free](https://github.com/xtekky/gpt4free): The official gpt4free repository | various collection of powerful language models
@@ -1774,7 +1775,7 @@ creating your own Awesome List by GitHub stars!
 * [bltavares/pickpocket](https://github.com/bltavares/pickpocket): Pocket CLI management tools
 * [ppati000/pickpocket](https://github.com/ppati000/pickpocket): Pickpocket imports Pocket links to Safari reading list. 
 * [RooneyMcNibNug/pihole-stuff](https://github.com/RooneyMcNibNug/pihole-stuff): blocklists, scripts, etc.
-* [justbhoot/pin-unpin-tab](https://github.com/justbhoot/pin-unpin-tab): Firefox add-on to pin or unpin current tab in more efficient ways.
+* [jbhoot/pin-unpin-tab](https://github.com/jbhoot/pin-unpin-tab): Firefox add-on to pin or unpin current tab in more efficient ways.
 * [pinterest/PINCache](https://github.com/pinterest/PINCache): Fast, non-deadlocking parallel object cache for iOS, tvOS and OS X
 * [gocom/pinceau](https://github.com/gocom/pinceau): Personal Firefox userChrome and preference customizations
 * [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic): Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
@@ -1797,6 +1798,7 @@ creating your own Awesome List by GitHub stars!
 * [k5md/Pocket-Editor-webextension](https://github.com/k5md/Pocket-Editor-webextension): A sidebar text-editing addon for firefox
 * [cookie-s/pocket-export](https://github.com/cookie-s/pocket-export): https://qiita.com/cookies/items/db1af01e4a07b89a7e18
 * [krewast/pocket-export-chrome-import-converter](https://github.com/krewast/pocket-export-chrome-import-converter): Export bookmarks from Pocket and import them into Chrome
+* [brpaz/pocket-exporter](https://github.com/brpaz/pocket-exporter): Command line tool that allows to export your Pocket articles in a json file.
 * [rtward/pocket-import](https://github.com/rtward/pocket-import): A small script to upload a list of URLs into pocket
 * [haroldo-ok/pocket-platformer-exporter](https://github.com/haroldo-ok/pocket-platformer-exporter): Converts html files exported by pocket-platformer (https://the-l0bster.itch.io/pocket-platformer) into formats that should be more easily exported to other engines.
 * [mmagnus/Pocket-Plus-Calibre-Plugin](https://github.com/mmagnus/Pocket-Plus-Calibre-Plugin): 📚 Modified version of the Calibre plugin for Pocket. Now, you get your articles organized by your Pocket tags, and more!
