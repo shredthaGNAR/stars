@@ -581,6 +581,7 @@ creating your own Awesome List by GitHub stars!
 * [Infocatcher/Custom_Buttons](https://github.com/Infocatcher/Custom_Buttons): Buttons for Custom Buttons extension for Firefox (and other Gecko-based applications)
 * [MrOtherGuy/custom_captions_webExt](https://github.com/MrOtherGuy/custom_captions_webExt): None
 * [Aris-t2/CustomCSSforFx](https://github.com/Aris-t2/CustomCSSforFx): Custom CSS tweaks for Firefox
+* [EvanKirshenbaum/CustomCSSforFx](https://github.com/EvanKirshenbaum/CustomCSSforFx): Custom CSS tweaks for Firefox Quantum (57+)
 * [Aris-t2/CustomCSSforTb](https://github.com/Aris-t2/CustomCSSforTb): Custom user styles for Thunderbird
 * [FrancesCoronel/customize-icons](https://github.com/FrancesCoronel/customize-icons): Customize your icons on macOS 🔧
 * [Aris-t2/CustomizeMyBird](https://github.com/Aris-t2/CustomizeMyBird): Customize Thunderbird 52-60.x (no support for Thunderbird 68+)
@@ -630,6 +631,7 @@ creating your own Awesome List by GitHub stars!
 * [said7388/developer-portfolio](https://github.com/said7388/developer-portfolio): Software Developer Portfolio Website built with next.js and tailwind CSS that helps you showcase your work and skills as a software developer.
 * [matomo-org/device-detector](https://github.com/matomo-org/device-detector): The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model. 
 * [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll): (FREE SITE GENERATOR) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS :rocket: in minutes built for developers. (with CMS) ✨
+* [devaradise/devolio](https://github.com/devaradise/devolio): A Simple Astro Portfolio & Blog Template for Developers
 * [BrettHuang2019/devportfolio](https://github.com/BrettHuang2019/devportfolio): A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 * [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio): A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 * [DevUtilsApp/DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app): All-in-one Toolbox for Developers. Native macOS app.
@@ -813,6 +815,7 @@ creating your own Awesome List by GitHub stars!
 * [Hussseinkizz/FiraCodeiScript](https://github.com/Hussseinkizz/FiraCodeiScript): Mashup Font of FiraCode and Script12
 * [kencrocken/FiraCodeiScript](https://github.com/kencrocken/FiraCodeiScript): Mashup Font of FiraCode and Script12
 * [bennypowers/fireblocks](https://github.com/bennypowers/fireblocks): Chonky Firefox tabs for square developers
+* [Explosion-Scratch/firebuilder](https://github.com/Explosion-Scratch/firebuilder): A comprehensive firefox profile, themes, userCSS and userChrome builder
 * [Thomashighbaugh/firefox](https://github.com/Thomashighbaugh/firefox): Torturing Firefox with userchrome.js and userchrome.css in response to Mozilla's successive degradation of the browser window. 
 * [awesome-windows11/firefox](https://github.com/awesome-windows11/firefox): 🦊 Awesome Firefox
 * [bolucat/Firefox](https://github.com/bolucat/Firefox): The Source Code of Firefox on Desktop
@@ -829,6 +832,7 @@ creating your own Awesome List by GitHub stars!
 * [vallovic/firefox-colorize-container-toolbar](https://github.com/vallovic/firefox-colorize-container-toolbar): Firefox extension to automatically colorize browser toolbar by matching the color of the active container tab
 * [Mrbigdog99/Firefox-compact](https://github.com/Mrbigdog99/Firefox-compact): Compact userChrome for Firefox Proton
 * [krathalan/firefox-complement](https://github.com/krathalan/firefox-complement): None
+* [TanvirOnGH/firefox-config](https://github.com/TanvirOnGH/firefox-config): Personal Firefox Browser Configuration
 * [nightnoryu/firefox-config](https://github.com/nightnoryu/firefox-config): My Firefox configuration
 * [HamletDuFromage/firefox-css](https://github.com/HamletDuFromage/firefox-css): None
 * [Shadow-of-Colossus/Firefox-CSS](https://github.com/Shadow-of-Colossus/Firefox-CSS): A mish mash of css files to change Firefox appearance, more of old style
@@ -1102,6 +1106,7 @@ creating your own Awesome List by GitHub stars!
 * [xtekky/gpt4free](https://github.com/xtekky/gpt4free): The official gpt4free repository | various collection of powerful language models
 * [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free): Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
 * [tg12/gpt_jailbreak_status](https://github.com/tg12/gpt_jailbreak_status): This is a repository that aims to provide updates on the status of jailbreaking the OpenAI GPT language model.
+* [Taewan-P/gpt_mobile](https://github.com/Taewan-P/gpt_mobile): Chat app for Android that supports answers from multiple LLMs at once. Designed with Material3 & Compose.
 * [Zaki-1052/GPTPortal](https://github.com/Zaki-1052/GPTPortal): A feature-rich portal to chat with GPT-4, Claude, Gemini, Mistral, & OpenAI Assistant APIs via a lightweight Node.js web app; supports customizable multimodality for voice, images, & files.
 * [zenangst/Gray](https://github.com/zenangst/Gray):  :first_quarter_moon: Tailor your macOS Mojave experience
 * [vitalif/grive2](https://github.com/vitalif/grive2): Google Drive client with support for new Drive REST API and partial sync
@@ -1359,7 +1364,7 @@ creating your own Awesome List by GitHub stars!
 * [letsblockit/letsblockit](https://github.com/letsblockit/letsblockit): Remove low-quality content and useless nags, focus on what matters. A community-maintained uBlock Origin filter set.
 * [poochinski9/libgen-calibre-store-plugin](https://github.com/poochinski9/libgen-calibre-store-plugin): Calibre plugin for Library Genesis
 * [gphoto/libgphoto2](https://github.com/gphoto/libgphoto2): The libgphoto2 camera access and control library.
-* [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat): Enhanced ChatGPT Clone: Features Anthropic, OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. Actively in public development.
+* [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat): Enhanced ChatGPT Clone: Features Anthropic, OpenAI, Assistants API, Azure, Groq, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. Actively in public development.
 * [libreddit/libreddit](https://github.com/libreddit/libreddit): Private front-end for Reddit
 * [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube): An alternative frontend for YouTube, for Android.
 * [hnhx/librex](https://github.com/hnhx/librex): Framework and javascript free privacy respecting meta search engine
@@ -1798,6 +1803,7 @@ creating your own Awesome List by GitHub stars!
 * [cookie-s/pocket-export](https://github.com/cookie-s/pocket-export): https://qiita.com/cookies/items/db1af01e4a07b89a7e18
 * [krewast/pocket-export-chrome-import-converter](https://github.com/krewast/pocket-export-chrome-import-converter): Export bookmarks from Pocket and import them into Chrome
 * [brpaz/pocket-exporter](https://github.com/brpaz/pocket-exporter): Command line tool that allows to export your Pocket articles in a json file.
+* [crhuber/pocket-exporter](https://github.com/crhuber/pocket-exporter): Export your Pocket archive to file
 * [rtward/pocket-import](https://github.com/rtward/pocket-import): A small script to upload a list of URLs into pocket
 * [haroldo-ok/pocket-platformer-exporter](https://github.com/haroldo-ok/pocket-platformer-exporter): Converts html files exported by pocket-platformer (https://the-l0bster.itch.io/pocket-platformer) into formats that should be more easily exported to other engines.
 * [mmagnus/Pocket-Plus-Calibre-Plugin](https://github.com/mmagnus/Pocket-Plus-Calibre-Plugin): 📚 Modified version of the Calibre plugin for Pocket. Now, you get your articles organized by your Pocket tags, and more!
@@ -2526,6 +2532,8 @@ creating your own Awesome List by GitHub stars!
 * [annoyatron255/Userchrome](https://github.com/annoyatron255/Userchrome): My Firefox Userchrome Config
 * [p9n/userchrome](https://github.com/p9n/userchrome): userchrome.css/.js for firefox >= 57
 * [Joolee/userchrome-toggle](https://github.com/Joolee/userchrome-toggle): A Firefox extension to allow a user to toggle custom userchrome styles
+* [Naezr/userchrome-toggle-extended](https://github.com/Naezr/userchrome-toggle-extended): A Firefox extension to allow a user to toggle custom userchrome styles
+* [Naezr/userchrome-toggle-extended-2](https://github.com/Naezr/userchrome-toggle-extended-2): This Firefox extension allows you to toggle css styles on the fly
 * [Timvde/UserChrome-Tweaks](https://github.com/Timvde/UserChrome-Tweaks): A community maintained repository of userChrome.css tweaks for Firefox
 * [benman604/userChrome.css](https://github.com/benman604/userChrome.css): None
 * [entepe85/userChrome.css](https://github.com/entepe85/userChrome.css): Firefox customizations to make Proton bearable (imho, of course)
