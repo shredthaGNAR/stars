@@ -789,6 +789,7 @@ creating your own Awesome List by GitHub stars!
 * [FakeFiller/fake-filler-extension](https://github.com/FakeFiller/fake-filler-extension): A browser extension for Chrome, Edge and Firefox that fills dummy text in all input fields in a page.
 * [busiyiworld/fake-raycast-backend](https://github.com/busiyiworld/fake-raycast-backend): A fake Raycast backend that can be deployed to Vercel in just one step.
 * [dumbmatter/fakeIndexedDB](https://github.com/dumbmatter/fakeIndexedDB): A pure JS in-memory implementation of the IndexedDB API
+* [nightmare-space/fast_share](https://github.com/nightmare-space/fast_share): Speed Share is a highly available file sharing terminal on LAN(local area network) like airdrop developed by flutter framework.
 * [ColdSpirit0/FastCopyLinks](https://github.com/ColdSpirit0/FastCopyLinks): Firefox addon, copies hovered links on Ctrl+C.
 * [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward): Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
 * [CleanCocoa/FatSidebar](https://github.com/CleanCocoa/FatSidebar): Custom vertical button toolbar for macOS
@@ -1905,7 +1906,7 @@ creating your own Awesome List by GitHub stars!
 * [Dan-Q/ProtonMail-Encryption-Indicators-for-Thunderbird](https://github.com/Dan-Q/ProtonMail-Encryption-Indicators-for-Thunderbird): Thunderbird plugin to show E2E-encryption status for ProtonMail Bridge emails.
 * [marpies/protonmail-macos](https://github.com/marpies/protonmail-macos): Experimental email client for the ProtonMail service written in Swift.
 * [bpwned/protovibrant](https://github.com/bpwned/protovibrant): None
-* [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr): None
+* [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr): Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
 * [psd-tools/psd-tools](https://github.com/psd-tools/psd-tools): Python package for reading Adobe Photoshop PSD files
 * [psequel/psequel](https://github.com/psequel/psequel): Free PostgreSQL GUI tool for macOS.
 * [ongots/pseudo-fullscreen-firefox](https://github.com/ongots/pseudo-fullscreen-firefox): Hides and improves Firefox and YouTube UI, giving maximum space for content and aiding concentration
@@ -2264,7 +2265,6 @@ creating your own Awesome List by GitHub stars!
 * [cmacrae/spacebar](https://github.com/cmacrae/spacebar): A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
 * [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt): :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
 * [friedPotat0/Spam-Scores](https://github.com/friedPotat0/Spam-Scores): Thunderbird add-on to display spam scores according to mail headers. Supports spam/ham score headers of Rspamd and SpamAssassin. The add-on adds a column with the overall spam score to the mail list view and shows details of any matched spam/ham rule.
-* [nightmare-space/speed_share](https://github.com/nightmare-space/speed_share): Speed Share is a highly available file sharing terminal on LAN(local area network) like airdrop developed by flutter framework.
 * [librespeed/speedtest](https://github.com/librespeed/speedtest): Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 * [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli): Command line interface for testing internet bandwidth using speedtest.net
 * [CharlieS1103/spicetify-extensions](https://github.com/CharlieS1103/spicetify-extensions): extensions for spotify  i'm creating
