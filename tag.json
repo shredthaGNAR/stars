@@ -917,6 +917,9 @@
     "Kocal/vue-web-extension": [
         "Other"
     ],
+    "Korveld/Adobe-URL-Block-List": [
+        "Other"
+    ],
     "KudoAI/chatgpt.js": [
         "Other"
     ],
@@ -990,6 +993,9 @@
         "Other"
     ],
     "Linhvjc/gpt4free": [
+        "Other"
+    ],
+    "LinwoodDev/Butterfly": [
         "Other"
     ],
     "Liscum/Joplin-Dark-Theme": [
@@ -1667,6 +1673,9 @@
     "Sumeet-R/ID-Lookup": [
         "Other"
     ],
+    "Sveder/pocket_skipper": [
+        "Other"
+    ],
     "Swift-open-source/UltraTabSaver": [
         "Other"
     ],
@@ -1931,6 +1940,9 @@
     "YT-Advanced/ReX-patches": [
         "Other"
     ],
+    "YarosMallorca/adobe_deactivation_bypass": [
+        "Other"
+    ],
     "Yash220402/firefox_css_ui": [
         "Other"
     ],
@@ -2189,6 +2201,9 @@
     "alefragnani/vscode-project-manager": [
         "Other"
     ],
+    "aleosd/pocket-manager": [
+        "Other"
+    ],
     "alex-phillips/node-clouddrive": [
         "Other"
     ],
@@ -2208,6 +2223,9 @@
         "Other"
     ],
     "alextidalrise/bysofie-shipping-message": [
+        "Other"
+    ],
+    "alextselegidis/plainpad": [
         "Other"
     ],
     "alextwothousand/snapdrop-desktop": [
@@ -2418,6 +2436,9 @@
         "Other"
     ],
     "apvarun/showfolio-hugo-theme": [
+        "Other"
+    ],
+    "archivy/archivy": [
         "Other"
     ],
     "ardiman/userChrome.js": [
@@ -3791,6 +3812,9 @@
     "fqx/podsync-with-yt-dlp": [
         "Other"
     ],
+    "fr0tt/benotes": [
+        "Other"
+    ],
     "freakdesign/Shopify-code-snippets": [
         "Other"
     ],
@@ -4179,6 +4203,9 @@
         "Other"
     ],
     "hnhx/librex": [
+        "Other"
+    ],
+    "hoarder-app/hoarder": [
         "Other"
     ],
     "hoffstadt/DearPyGui": [
@@ -5669,6 +5696,9 @@
     "mufeedvh/gisture": [
         "Other"
     ],
+    "mufidu/pocket-to-markdown": [
+        "Other"
+    ],
     "muhamaddarulhadi/Hotspot": [
         "Other"
     ],
@@ -5774,6 +5804,9 @@
     "ndbeals/keep-exporter": [
         "Other"
     ],
+    "neelr/pocket": [
+        "Other"
+    ],
     "neilalexander/seaglass": [
         "Other"
     ],
@@ -5841,6 +5874,9 @@
         "Other"
     ],
     "nimit95/Personal-Website": [
+        "Other"
+    ],
+    "ninxsoft/Mist": [
         "Other"
     ],
     "nixgates/nixgates": [
@@ -6155,6 +6191,9 @@
     "penance316/hyper-dark-vibrancy": [
         "Other"
     ],
+    "penge/my-notes": [
+        "Other"
+    ],
     "perXautomatik/GAS-OneTabExportOrganizer": [
         "Other"
     ],
@@ -6399,6 +6438,9 @@
         "Other"
     ],
     "qnblackcat/uYouPlus": [
+        "Other"
+    ],
+    "qownnotes/web-companion": [
         "Other"
     ],
     "qsniyg/maxurl": [
@@ -6911,6 +6953,9 @@
     "sherlock-project/sherlock": [
         "Other"
     ],
+    "shinshin86/take-out-pocket-csv": [
+        "Other"
+    ],
     "shoekla/ScrapeC": [
         "Other"
     ],
@@ -6950,6 +6995,9 @@
     "shredthaGNAR/poker-handhist": [
         "Other"
     ],
+    "shredthaGNAR/shredthaGNAR.github.io": [
+        "Other"
+    ],
     "shredthaGNAR/skip-prime-video-intro": [
         "Other"
     ],
@@ -6978,6 +7026,9 @@
         "Other"
     ],
     "sigma67/ytmusicapi": [
+        "Other"
+    ],
+    "silverbulletmd/silverbullet": [
         "Other"
     ],
     "simonbs/alfred-youtube-workflow": [
@@ -7331,6 +7382,9 @@
     "tagler/Firefox_Bookmark_Toolbar_Dark_Theme": [
         "Other"
     ],
+    "tagspaces/tagspaces": [
+        "Other"
+    ],
     "taitems/user-email-enrichment": [
         "Other"
     ],
@@ -7646,6 +7700,9 @@
     "tuan3w/llama-raycast": [
         "Other"
     ],
+    "tuan3w/obsidian-template": [
+        "Other"
+    ],
     "tubearchivist/tubearchivist": [
         "Other"
     ],
@@ -7755,6 +7812,9 @@
         "Other"
     ],
     "uselibrary/KeepMyGoogleVoice": [
+        "Other"
+    ],
+    "usememos/memos": [
         "Other"
     ],
     "uso-archive/data": [
@@ -7973,6 +8033,9 @@
     "willofindie/vscode-cssvar": [
         "Other"
     ],
+    "wilson-tim/convert-pocket-export-to-csv": [
+        "Other"
+    ],
     "winder/Universal-G-Code-Sender": [
         "Other"
     ],
@@ -8090,10 +8153,16 @@
     "xtract64/tabsaver": [
         "Other"
     ],
+    "xudaolong/memos-desktop": [
+        "Other"
+    ],
     "xulihang/macOCR": [
         "Other"
     ],
     "xwmx/airport": [
+        "Other"
+    ],
+    "xwmx/nb": [
         "Other"
     ],
     "yakGPT/yakGPT": [

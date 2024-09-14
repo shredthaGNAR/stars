@@ -62,7 +62,9 @@ creating your own Awesome List by GitHub stars!
 * [chiumax/adobe-font-scraper](https://github.com/chiumax/adobe-font-scraper): 💢 don't have adobe plan and want their fonts? no need to worry! download from us ;)
 * [baileylatimer/adobe-illustrator](https://github.com/baileylatimer/adobe-illustrator): None
 * [Drovosek01/adobe-packager](https://github.com/Drovosek01/adobe-packager): Script that allows to download portable installers of different versions Adobe software for macOS
+* [Korveld/Adobe-URL-Block-List](https://github.com/Korveld/Adobe-URL-Block-List): This is the Adobe URL/IP block list for the Hosts file.
 * [Ruddernation-Designs/Adobe-URL-Block-List](https://github.com/Ruddernation-Designs/Adobe-URL-Block-List): This is the Adobe URL/IP block list for the Host file.
+* [YarosMallorca/adobe_deactivation_bypass](https://github.com/YarosMallorca/adobe_deactivation_bypass): A CLI tool to bypass Adobe's deactivation prompt for cracked Adobe software
 * [adsbypasser/adsbypasser](https://github.com/adsbypasser/adsbypasser): Bypass ad counter if possible.
 * [adsbypasser/adsbypasser.github.io](https://github.com/adsbypasser/adsbypasser.github.io): None
 * [polywock/advanced-image-search](https://github.com/polywock/advanced-image-search): An extension to search Google images. 
@@ -178,6 +180,7 @@ creating your own Awesome List by GitHub stars!
 * [axross/aqua](https://github.com/axross/aqua):  ♠️ Beautiful iOS/Android poker odds calculator app made of Flutter.
 * [yuuiko/AquaTouch](https://github.com/yuuiko/AquaTouch): Dynamic Custom Macros for your MacBook TouchBar! (Supports 40+ Apps and Websites)
 * [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox): 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+* [archivy/archivy](https://github.com/archivy/archivy): Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 * [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF): A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work with Windows, Linux and macOS ✨
 * [aria2/aria2](https://github.com/aria2/aria2): aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 * [trmckay/article-export](https://github.com/trmckay/article-export): Export Pocket list as CSV!
@@ -290,6 +293,7 @@ creating your own Awesome List by GitHub stars!
 * [hachikoharuno/Beautiful-newtab-Firefox](https://github.com/hachikoharuno/Beautiful-newtab-Firefox): Beautiful design for firefox new tab
 * [shredthaGNAR/beautiiful-jekyl](https://github.com/shredthaGNAR/beautiiful-jekyl): ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 * [NicolaeNMV/BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay): One button to close any overlay on any website
+* [fr0tt/benotes](https://github.com/fr0tt/benotes): An open source self hosted notes and bookmarks taking web app.
 * [apdev95/bento-portfolio-nuxt](https://github.com/apdev95/bento-portfolio-nuxt): Bento-portfolio is a minimal bento-like (almost) single page portfolio website made with Nuxt
 * [themeselection/best-chrome-extensions](https://github.com/themeselection/best-chrome-extensions): A curated list of Best Awesome Chrome Extensions to boost your productivity in your Browsers
 * [tomhaydn/BetArbit](https://github.com/tomhaydn/BetArbit): Sports betting arbitrage algorithm
@@ -418,6 +422,7 @@ creating your own Awesome List by GitHub stars!
 * [dessant/buster](https://github.com/dessant/buster): Captcha solver extension for humans, available for Chrome, Edge and Firefox
 * [sham00n/buster](https://github.com/sham00n/buster): An advanced tool for email reconnaissance
 * [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop): :key: Cross-Platform Passwords & Secrets Vault
+* [LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly): 🎨 Powerful, minimalistic, cross-platform, opensource note-taking app
 * [loup-brun/buttons](https://github.com/loup-brun/buttons): A collection of CSS buttons.
 * [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome): Bypass Paywalls web browser extension for Chrome and Firefox.
 * [bpc-clone/bypass-paywalls-clean-filters](https://github.com/bpc-clone/bypass-paywalls-clean-filters): None
@@ -537,6 +542,7 @@ creating your own Awesome List by GitHub stars!
 * [continuedev/continue](https://github.com/continuedev/continue): ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 * [dokterdok/Continuity-Activation-Tool](https://github.com/dokterdok/Continuity-Activation-Tool): An all-in-one tool to activate and diagnose macOS 10.10-12 Continuity on compatible Mac configurations.
 * [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter): Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers
+* [wilson-tim/convert-pocket-export-to-csv](https://github.com/wilson-tim/convert-pocket-export-to-csv): Extract Pocket exported saves list to CSV (Python)
 * [lotusshinoaki/converts-html-exported-from-pocket-into-an-importable-format](https://github.com/lotusshinoaki/converts-html-exported-from-pocket-into-an-importable-format): None
 * [google-gemini/cookbook](https://github.com/google-gemini/cookbook): Examples and guides for using the Gemini API
 * [Cookie-AutoDelete/Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete): Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
@@ -1144,6 +1150,7 @@ creating your own Awesome List by GitHub stars!
 * [hensm/hide_private_mode](https://github.com/hensm/hide_private_mode): None
 * [amarsyla/hidutil-key-remapping-generator](https://github.com/amarsyla/hidutil-key-remapping-generator): Simple tool to generate HIDUTIL key remapping configurations for MacOS
 * [Ulf3000/highlight-tabs](https://github.com/Ulf3000/highlight-tabs): firefox addon to highlight tabs with colors for easy and fast recognition and fluid workflow
+* [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder): A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 * [agneevX/home-assistant](https://github.com/agneevX/home-assistant): Home Assistant lovelace layout and config
 * [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar): Displaying Home Assistant sensors in the Macbook Pro's touch bar using BTT 🤖💻
 * [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io): :blue_book: Home Assistant User documentation
@@ -1513,6 +1520,8 @@ creating your own Awesome List by GitHub stars!
 * [und3fined/medium-unlocker](https://github.com/und3fined/medium-unlocker): Read Medium content without limit!
 * [yousseb/meld](https://github.com/yousseb/meld): Meld for macOS
 * [WorldBrain/Memex](https://github.com/WorldBrain/Memex): Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
+* [usememos/memos](https://github.com/usememos/memos): An open source, lightweight note-taking service. Easily capture and share your great thoughts.
+* [xudaolong/memos-desktop](https://github.com/xudaolong/memos-desktop): Memos client built on electron cross-end framework
 * [austintraver/merge](https://github.com/austintraver/merge): Addon to replicate the Safari 'Merge All Windows' menu command
 * [wsmadsen/Merge-NHL-Odds](https://github.com/wsmadsen/Merge-NHL-Odds): Import NHL data from NHL website and merge odds
 * [jonathanKingston/merge-windows](https://github.com/jonathanKingston/merge-windows): A Firefox extension for merging windows
@@ -1531,6 +1540,7 @@ creating your own Awesome List by GitHub stars!
 * [tortious/MintyFox](https://github.com/tortious/MintyFox): Customization of Firefox Quantum using userChrome, userContent, and various other files involving the userChrome.js hack that allows for uc.js docs to be incorporated. 
 * [miromannino/miro-windows-manager](https://github.com/miromannino/miro-windows-manager): Intuitive and clever mechanism for moving windows using only arrows, even resizing windows by thirds or quarters! For OSX
 * [liamengland1/miscfilters](https://github.com/liamengland1/miscfilters): None
+* [ninxsoft/Mist](https://github.com/ninxsoft/Mist): A Mac utility that automatically downloads macOS Firmwares / Installers.
 * [mjmlio/mjml](https://github.com/mjmlio/mjml): MJML: the only framework that makes responsive-email easy
 * [mjmlio/mjml-app](https://github.com/mjmlio/mjml-app): :email: The desktop app for MJML
 * [mmistakes/mm-github-pages-starter](https://github.com/mmistakes/mm-github-pages-starter): Minimal Mistakes GitHub Pages site starter.
@@ -1576,6 +1586,7 @@ creating your own Awesome List by GitHub stars!
 * [abdel7ak96/my-email-signature](https://github.com/abdel7ak96/my-email-signature): Email signature
 * [martinkorelic/my-joplin-theme](https://github.com/martinkorelic/my-joplin-theme): My Joplin App userstyle and userchrome theme style.
 * [tansawit/my-mac-setup](https://github.com/tansawit/my-mac-setup): List of applications and tools that optimize my macOS experience. Inspired by https://github.com/nikitavoloboev/my-mac-os
+* [penge/my-notes](https://github.com/penge/my-notes): Simple and fast note-taking in Chrome with Google Drive support.
 * [leohu1/My-UserChrome](https://github.com/leohu1/My-UserChrome): My UserChrome Css and Script
 * [iam-py-test/my_filters_001](https://github.com/iam-py-test/my_filters_001): My filter lists - feel free to add these lists to uBlock Origin
 * [hisamafahri/mypocket](https://github.com/hisamafahri/mypocket): GetPocket but better!
@@ -1586,6 +1597,7 @@ creating your own Awesome List by GitHub stars!
 * [garywill/native-extern-dl](https://github.com/garywill/native-extern-dl): Use external downloader directly from Firefox's native download asking dialog (Use on your own risk !!) 
 * [nativefier/nativefier](https://github.com/nativefier/nativefier): Make any web page a desktop application
 * [Federico-Ciuffardi/nay-dotfiles](https://github.com/Federico-Ciuffardi/nay-dotfiles): None
+* [xwmx/nb](https://github.com/xwmx/nb): CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 * [kyleskom/NBA-Machine-Learning-Sports-Betting](https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting): NBA sports betting using machine learning
 * [grishka/NearDrop](https://github.com/grishka/NearDrop): An unofficial Google Nearby Share/Quick Share app for macOS
 * [feilvan/neatly](https://github.com/feilvan/neatly): None
@@ -1639,12 +1651,13 @@ creating your own Awesome List by GitHub stars!
 * [mtopping/obsidian-raindrop](https://github.com/mtopping/obsidian-raindrop): This plugin allows for basic integration with Raindrop.io, a bookmarking service and Obsidian.
 * [DominikPieper/obsidian-ReadItLater](https://github.com/DominikPieper/obsidian-ReadItLater): None
 * [mgmeyers/obsidian-style-settings](https://github.com/mgmeyers/obsidian-style-settings): A dynamic user interface for adjusting theme, plugin, and snippet CSS variables within Obsidian
+* [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template): Starter templates for Obsidian
 * [njnmco/odinochka](https://github.com/njnmco/odinochka): featherweight tab manager
 * [snte/odinochka](https://github.com/snte/odinochka): featherweight tab manager
 * [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh): The most customisable and low-latency cross platform/shell prompt renderer
 * [katrinleinweber/oh-my-zsh-youtube-dl-aliases](https://github.com/katrinleinweber/oh-my-zsh-youtube-dl-aliases): Custom plugin for Oh My Zsh with youtube-dl aliases
 * [3ter/Ohmine-Dark-Theme-For-Joplin](https://github.com/3ter/Ohmine-Dark-Theme-For-Joplin): This is a custom CSS theme for the opensource note-taking app Joplin.
-* [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
+* [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
 * [OhShINT/ohshint.gitbook.io](https://github.com/OhShINT/ohshint.gitbook.io): So what is this all about? Yep, its an OSINT blog and a collection of OSINT resources and tools. Suggestions for new OSINT resources is always welcomed.
 * [cbuijs/oisd](https://github.com/cbuijs/oisd): Optimized version of OISD BlockLists
 * [tom-james-watson/old-reddit-redirect](https://github.com/tom-james-watson/old-reddit-redirect): Ensure Reddit always loads the old design
@@ -1785,6 +1798,7 @@ creating your own Awesome List by GitHub stars!
 * [jbhoot/pin-unpin-tab](https://github.com/jbhoot/pin-unpin-tab): Firefox add-on to pin or unpin current tab in more efficient ways.
 * [pinterest/PINCache](https://github.com/pinterest/PINCache): Fast, non-deadlocking parallel object cache for iOS, tvOS and OS X
 * [gocom/pinceau](https://github.com/gocom/pinceau): Personal Firefox userChrome and preference customizations
+* [alextselegidis/plainpad](https://github.com/alextselegidis/plainpad): 📓 Plainpad - Self Hosted Note Taking App
 * [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic): Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
 * [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo): 🧩 The Browser Extension Framework
 * [aaronhff8/plastic-joplin-theme](https://github.com/aaronhff8/plastic-joplin-theme): Theme for Joplin that utilises the standard dark theme and essentially a restyling of Ohmine-Dark-Theme-For-Joplin. 
@@ -1797,6 +1811,7 @@ creating your own Awesome List by GitHub stars!
 * [withfig/plugins](https://github.com/withfig/plugins): Plugin store for zsh, bash & fish.
 * [pock/pock](https://github.com/pock/pock): Widgets manager for MacBook Touch Bar
 * [knowfox/pocket](https://github.com/knowfox/pocket): Knowfox: Retrieve bookmarks from getpocket.com
+* [neelr/pocket](https://github.com/neelr/pocket): A pocket for all my links
 * [tapanpandita/pocket](https://github.com/tapanpandita/pocket): A python wrapper for the pocket api.
 * [ChingizAdamov/Pocket-Bot](https://github.com/ChingizAdamov/Pocket-Bot): Pocket bot for saving your favourite links
 * [ildella/pocket-cli](https://github.com/ildella/pocket-cli): Interactive terminal app for Pocket - read it later / bookmark application by @Mozilla - https://getpocket.com/
@@ -1808,12 +1823,14 @@ creating your own Awesome List by GitHub stars!
 * [brpaz/pocket-exporter](https://github.com/brpaz/pocket-exporter): Command line tool that allows to export your Pocket articles in a json file.
 * [crhuber/pocket-exporter](https://github.com/crhuber/pocket-exporter): Export your Pocket archive to file
 * [rtward/pocket-import](https://github.com/rtward/pocket-import): A small script to upload a list of URLs into pocket
+* [aleosd/pocket-manager](https://github.com/aleosd/pocket-manager): Python cli/curses utility to manage getpocket links
 * [haroldo-ok/pocket-platformer-exporter](https://github.com/haroldo-ok/pocket-platformer-exporter): Converts html files exported by pocket-platformer (https://the-l0bster.itch.io/pocket-platformer) into formats that should be more easily exported to other engines.
 * [mmagnus/Pocket-Plus-Calibre-Plugin](https://github.com/mmagnus/Pocket-Plus-Calibre-Plugin): 📚 Modified version of the Calibre plugin for Pocket. Now, you get your articles organized by your Pocket tags, and more!
 * [eebmagic/pocket-pull](https://github.com/eebmagic/pocket-pull): Pull links from your pocket account and save them as text files with links
 * [andyw8/pocket-ruby](https://github.com/andyw8/pocket-ruby): Ruby wrapper for the Pocket REST and Search APIs
 * [ShockwaveNN/pocket-sinatra-interface](https://github.com/ShockwaveNN/pocket-sinatra-interface): Sinatra-based web interface for pocket api
 * [sanghviharshit/pocket-tagger](https://github.com/sanghviharshit/pocket-tagger): 📖👓🏷Tag your getpocket.com articles automatically using natural language processing
+* [mufidu/pocket-to-markdown](https://github.com/mufidu/pocket-to-markdown): Export all Pocket articles to markdown files, including tags and images. Great to use with Obsidian.
 * [gullitmiranda/pocket-to-raindrop](https://github.com/gullitmiranda/pocket-to-raindrop): Script to export bookmarks from https://getpocket.com to https://raindrop.io.
 * [dogsheep/pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite): Create a SQLite database containing data from your Pocket account
 * [kevinlebrun/pocket-triage](https://github.com/kevinlebrun/pocket-triage): A simple way to clean up your Pocket links in close to no time.
@@ -1824,6 +1841,7 @@ creating your own Awesome List by GitHub stars!
 * [andriy-denysenko/pocket2pocket](https://github.com/andriy-denysenko/pocket2pocket): Lets you exchange Pocket links between accounts (console)
 * [ryderstorm/pocket_article_exporter](https://github.com/ryderstorm/pocket_article_exporter): None
 * [billpalombi/pocket_parse](https://github.com/billpalombi/pocket_parse): Script to parse the html export from Pocket and write out a csv
+* [Sveder/pocket_skipper](https://github.com/Sveder/pocket_skipper): A small site that uses Pocket's (formerly "Read it later") API to create a basic "to read" list that links to the URL itself and not into pocket's rendering and thus skips a few mouse clicks.
 * [nlbao/pocket_stats](https://github.com/nlbao/pocket_stats): A tool to analyze your Pocket reading list.
 * [JuanJakobo/Pocketbook-Read-offline](https://github.com/JuanJakobo/Pocketbook-Read-offline): A basic client for Pocketbook to read and modify Pocket items
 * [gglukmann/pocketizer](https://github.com/gglukmann/pocketizer): Unofficial Pocket new tab extension for Chrome, Firefox, and Edge
@@ -2195,6 +2213,7 @@ creating your own Awesome List by GitHub stars!
 * [kuldeepghodasara/Show-Payment-icons-to-Shopify-Dynamically](https://github.com/kuldeepghodasara/Show-Payment-icons-to-Shopify-Dynamically): Script to Show Payment icons to Shopify Dynamically [add it to footer.liquid]
 * [igorlogius/show-qrcode](https://github.com/igorlogius/show-qrcode): Displays the active url (or any selected link or text) as a qrcode for easy sharing between devices with a qrcode scanner like mobile/smart phones and tablets. Also allows saving and copying to the clipboard pasting in other programms.
 * [apvarun/showfolio-hugo-theme](https://github.com/apvarun/showfolio-hugo-theme): Modern portfolio theme for your Hugo site
+* [shredthaGNAR/shredthaGNAR.github.io](https://github.com/shredthaGNAR/shredthaGNAR.github.io): Fully responsive personal  portfolio single-page website, responsive for all devices, built using HTML, CSS, JavaScript and Python.
 * [BrancuAlexandru/ShyFoxBorderless](https://github.com/BrancuAlexandru/ShyFoxBorderless): A very shy little theme that hides the entire browser interface. Now without borders!
 * [garywill/sidebar-switch](https://github.com/garywill/sidebar-switch): Switch for Firefox's native sidebar. A slim vertical button on left of main content. Replace the legacy addon All in One Sidebar. You can open sidebar by clicking edge of screen. 🪟
 * [SideStore/SideStore](https://github.com/SideStore/SideStore): SideStore is a fork of AltStore that doesn't require an AltServer.
@@ -2203,6 +2222,7 @@ creating your own Awesome List by GitHub stars!
 * [ineat/signature](https://github.com/ineat/signature): How to have a nice signature for emails
 * [ronfybish/Signature-Generator](https://github.com/ronfybish/Signature-Generator): Email Signature Generator - React & Firebase
 * [SillyTavern/SillyTavern-Launcher](https://github.com/SillyTavern/SillyTavern-Launcher): Launcher scripts for SillyTavern and ST-Extras.
+* [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet): The knowledge hacker's notebook
 * [tiansh/simple-context-search](https://github.com/tiansh/simple-context-search): An easy way to act a context searching with one-time selected search provider. Context Search should be Simple. This extension use your searching list configured in browser, which means it could be used just out-of-box.
 * [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups): Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
 * [migueravila/SimpleFox](https://github.com/migueravila/SimpleFox): 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
@@ -2368,7 +2388,9 @@ creating your own Awesome List by GitHub stars!
 * [xtract64/tabsaver](https://github.com/xtract64/tabsaver): Allows you to easily save all of your tabs for later use, reducing clutter
 * [jdberry/tag](https://github.com/jdberry/tag): A command line tool to manipulate tags on Mac OS X files, and to query for files with those tags.
 * [derickfay/tag-services](https://github.com/derickfay/tag-services): Automator workflows to add tagging services to Mavericks
+* [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces): TagSpaces is an offline, open source, document manager with tagging support
 * [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog): This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.
+* [shinshin86/take-out-pocket-csv](https://github.com/shinshin86/take-out-pocket-csv): A tool to convert Pocket export HTML to CSV. For data where the page title is still the URL, the page title is obtained again at the time of conversion.
 * [Tampermonkey/tamperdav](https://github.com/Tampermonkey/tamperdav): A WebDAV-like server to sync Tampermonkey scripts and edit them with an external editor
 * [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey): Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox. 
 * [axcore/tartube](https://github.com/axcore/tartube): A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
@@ -2652,6 +2674,7 @@ creating your own Awesome List by GitHub stars!
 * [zhuowei/WDBRemoveThreeAppLimit](https://github.com/zhuowei/WDBRemoveThreeAppLimit): None
 * [dessant/web-archives](https://github.com/dessant/web-archives): Browser extension for viewing archived and cached versions of web pages, available for Chrome, Edge and Safari
 * [webclipper/web-clipper](https://github.com/webclipper/web-clipper): For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
+* [qownnotes/web-companion](https://github.com/qownnotes/web-companion): Browser extension to browse bookmarks and create notes in QOwnNotes
 * [Shopify/web-configs](https://github.com/Shopify/web-configs): Common configurations for building web apps at Shopify
 * [jamesqquick/Web-Development-Essentials-Extension-Pack](https://github.com/jamesqquick/Web-Development-Essentials-Extension-Pack): This an extension pack for Visual Studio Code with extensions that are extremely helpful for Web Developers!
 * [mozilla/web-ext](https://github.com/mozilla/web-ext): A command line tool to help build, run, and test web extensions
