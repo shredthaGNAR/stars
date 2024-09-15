@@ -822,6 +822,7 @@ creating your own Awesome List by GitHub stars!
 * [tonsky/FiraCode](https://github.com/tonsky/FiraCode): Free monospaced font with programming ligatures
 * [Hussseinkizz/FiraCodeiScript](https://github.com/Hussseinkizz/FiraCodeiScript): Mashup Font of FiraCode and Script12
 * [kencrocken/FiraCodeiScript](https://github.com/kencrocken/FiraCodeiScript): Mashup Font of FiraCode and Script12
+* [kosimst/FiraFlott](https://github.com/kosimst/FiraFlott): Free Operator Mono Alternative based on FiraCode and FlottFlott
 * [bennypowers/fireblocks](https://github.com/bennypowers/fireblocks): Chonky Firefox tabs for square developers
 * [Explosion-Scratch/firebuilder](https://github.com/Explosion-Scratch/firebuilder): A comprehensive firefox profile, themes, userCSS and userChrome builder
 * [Thomashighbaugh/firefox](https://github.com/Thomashighbaugh/firefox): Torturing Firefox with userchrome.js and userchrome.css in response to Mozilla's successive degradation of the browser window. 
@@ -932,6 +933,7 @@ creating your own Awesome List by GitHub stars!
 * [xKrusty/FirefoxTheme](https://github.com/xKrusty/FirefoxTheme): None
 * [gomita/firegestures](https://github.com/gomita/firegestures): FireGestures, a Firefox extension.
 * [josepedromonteiro/fireze](https://github.com/josepedromonteiro/fireze): Custome safari theme for Firefox
+* [kosimst/Firicico](https://github.com/kosimst/Firicico): Combined programming mono font with italics and font ligatures made from Fira Code and Pacifico for Italics
 * [Mortennn/FiScript](https://github.com/Mortennn/FiScript): Execute custom scripts from the MacOS context menu (CTRL+click) in Finder.
 * [daniruiz/flat-remix-css](https://github.com/daniruiz/flat-remix-css): A lightweight CSS library that provides a set of predesigned elements useful for rapid web development. It follows a modern flat design using a colorful palette with some shadows, highlights, and gradients for some depth.
 * [d3ward/floatly](https://github.com/d3ward/floatly): An extension that adds a floating button for browser quick actions 
@@ -957,6 +959,7 @@ creating your own Awesome List by GitHub stars!
 * [Neikon/Fox11](https://github.com/Neikon/Fox11): None
 * [bnpoirier/foxify](https://github.com/bnpoirier/foxify): Converts Chrome extensions to Firefox
 * [marklieberman/foxygestures](https://github.com/marklieberman/foxygestures): Mouse gestures for Firefox
+* [vincenzocaputo/FoxyRecon](https://github.com/vincenzocaputo/FoxyRecon): A Firefox add-on for OSINT investigations
 * [prabunagrajan/free-design-resources](https://github.com/prabunagrajan/free-design-resources): A collection of websites for free UI design materials for Sketch, Adobe XD, Figma, and other design tools.
 * [LightAPIs/free-export-bookmarks](https://github.com/LightAPIs/free-export-bookmarks): Freely bookmark export tool. 自由地书签导出工具。
 * [popjane/free_chatgpt_api](https://github.com/popjane/free_chatgpt_api): 🔥 公益免费的ChatGPT API，Free ChatGPT API，GPT4 API，可直连，无需代理，使用标准 OpenAI APIKEY 格式访问 ChatGPT，可搭配ChatGPT-next-web、ChatGPT-Midjourney、Lobe-chat、Botgem、FastGPT、沉浸式翻译等项目使用
@@ -1725,15 +1728,17 @@ creating your own Awesome List by GitHub stars!
 * [lukakerr/OpenQuickly](https://github.com/lukakerr/OpenQuickly): A custom 'open quickly' window that imitates macOS' Spotlight
 * [es-kumagai/OpenTerminal](https://github.com/es-kumagai/OpenTerminal): This is a app for macOS that to open a new Finder window and change the current directory to the folder this app launched.
 * [darktrojan/openwith](https://github.com/darktrojan/openwith): Open With add-on for Firefox
+* [Anant-mishra1729/Operator-caska-Font](https://github.com/Anant-mishra1729/Operator-caska-Font): Operator-caska Cursive font with ligature support.
 * [ajaybhatia/Operator-Mono](https://github.com/ajaybhatia/Operator-Mono): Operator Mono Font
 * [keyding/Operator-Mono](https://github.com/keyding/Operator-Mono): A nice code font
 * [kiliman/operator-mono-lig](https://github.com/kiliman/operator-mono-lig): Add ligatures to Operator Mono similar to Fira Code
+* [sujon-co/operator-mono-ligature](https://github.com/sujon-co/operator-mono-ligature):  Operator Mono ligatures build file
 * [kmillionary/order-printer-templates](https://github.com/kmillionary/order-printer-templates): Customize free Shopify Order Printer templates.
 * [loveshopify/orium](https://github.com/loveshopify/orium): None
 * [shariati/OS-Folder-Icons](https://github.com/shariati/OS-Folder-Icons): A collection of custom folder icons for (Mac, Linux and Windows)
 * [shredthaGNAR/OS-Folder-Icons](https://github.com/shredthaGNAR/OS-Folder-Icons): A collection of custom folder icons for (Mac, Linux and Windows)
 * [opengaming/osgameclones](https://github.com/opengaming/osgameclones): Open Source Clones of Popular Games
-* [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet): OSINT cheat sheet, list OSINT tools, dataset, article, book and OSINT tips
+* [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet): OSINT cheat sheet, list OSINT tools, wiki, dataset, article, book and OSINT tips
 * [soxoj/osint-namecheckers-list](https://github.com/soxoj/osint-namecheckers-list): A list of tools to search accounts by username
 * [rly0nheart/osinteye](https://github.com/rly0nheart/osinteye): Username enumeration & reconnaisance suite
 * [awareseven/OSINTsources](https://github.com/awareseven/OSINTsources): This is a repo containing several osint sources
