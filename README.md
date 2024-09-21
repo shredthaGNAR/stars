@@ -84,7 +84,7 @@ creating your own Awesome List by GitHub stars!
 * [xwmx/airport](https://github.com/xwmx/airport): A command line / terminal tool for Wi-Fi on macOS / OS X.
 * [SethuSenthil/AirPush](https://github.com/SethuSenthil/AirPush): The all in one AirMessage (iMessage) script you can forget about
 * [pinetum/AirUnlock-for-Mac](https://github.com/pinetum/AirUnlock-for-Mac): Using android phone to establish a connection with your Mac via Bluetooth low-energy (BLE), controlling Mac lock state (Lock or Unlock).
-* [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter): macOS menubar tool to set Charge Limits and prolong battery lifespan
+* [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter): Menubar Tool to set Charge Limits and Prolong Battery Lifespan
 * [ajrosen/Alfred](https://github.com/ajrosen/Alfred): Alfred workflows
 * [kkanzelmeyer/alfred](https://github.com/kkanzelmeyer/alfred): Raspberry pi webcam and motion sensor project
 * [kevin-funderburg/alfred-bettertouchtool-gestures](https://github.com/kevin-funderburg/alfred-bettertouchtool-gestures): Use Alfred to quickly search through all the trackpad gestures within BetterTouchTool
@@ -241,6 +241,7 @@ creating your own Awesome List by GitHub stars!
 * [klaufel/awesome-design-systems](https://github.com/klaufel/awesome-design-systems): 📒 A curated list of bookmarks, resources and articles about design systems focused on developers.
 * [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools): The best design tools and plugins for everything 👉
 * [jonathandion/awesome-emails](https://github.com/jonathandion/awesome-emails): ✉️ An awesome list of resources to build better emails.
+* [wangbing1416/Awesome-Fake-News-Detection](https://github.com/wangbing1416/Awesome-Fake-News-Detection): An awesome paper list of fake news detection (FND) and rumor detection.
 * [prayash/awesome-gatsby](https://github.com/prayash/awesome-gatsby): ⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.
 * [devisasari/awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store): A curated list of awesome GPTs in the GPT Store
 * [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines): A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
@@ -607,6 +608,7 @@ creating your own Awesome List by GitHub stars!
 * [m-khvoinitsky/dark-background-light-text-extension](https://github.com/m-khvoinitsky/dark-background-light-text-extension): Firefox addon that turns every page colors into "light text on dark background"
 * [FilkCH/dark-filk-theme](https://github.com/FilkCH/dark-filk-theme): Visual Studio Code theme inspired by Monokai.
 * [apurvsinghgautam/dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools): OSINT Tools for the Dark Web
+* [octokami/darknet_forum](https://github.com/octokami/darknet_forum): Scraping darknet forums has been the object of research in the field of intelligence and security informatics.  In this repository we scraped three different sources of forums, and performed Sentiment Analysis, Topic Modelling, and Linguistic Analysis.
 * [fastaddons/Darko](https://github.com/fastaddons/Darko): None
 * [darkreader/darkreader](https://github.com/darkreader/darkreader): Dark Reader Chrome and Firefox extension
 * [uso-archive/data](https://github.com/uso-archive/data): Full mirror of UserStyles.org
@@ -1121,7 +1123,7 @@ creating your own Awesome List by GitHub stars!
 * [xtekky/gpt4free](https://github.com/xtekky/gpt4free): The official gpt4free repository | various collection of powerful language models
 * [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free): Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
 * [tg12/gpt_jailbreak_status](https://github.com/tg12/gpt_jailbreak_status): This is a repository that aims to provide updates on the status of jailbreaking the OpenAI GPT language model.
-* [Taewan-P/gpt_mobile](https://github.com/Taewan-P/gpt_mobile): Chat app for Android that supports answers from multiple LLMs at once. Designed with Material3 & Compose.
+* [Taewan-P/gpt_mobile](https://github.com/Taewan-P/gpt_mobile): Chat app for Android that supports answers from multiple LLMs at once. Designed with Material3 & Compose. Bring your own API key AI client.
 * [Zaki-1052/GPTPortal](https://github.com/Zaki-1052/GPTPortal): A feature-rich portal to chat with GPT-4, Claude, Gemini, Mistral, & OpenAI Assistant APIs via a lightweight Node.js web app; supports customizable multimodality for voice, images, & files.
 * [zenangst/Gray](https://github.com/zenangst/Gray):  :first_quarter_moon: Tailor your macOS Mojave experience
 * [vitalif/grive2](https://github.com/vitalif/grive2): Google Drive client with support for new Drive REST API and partial sync
@@ -1364,6 +1366,7 @@ creating your own Awesome List by GitHub stars!
 * [langchain-ai/langchain](https://github.com/langchain-ai/langchain): 🦜🔗 Build context-aware reasoning applications
 * [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool): Style and Grammar Checker for 25+ Languages
 * [stuyam/laravel-phone-validator](https://github.com/stuyam/laravel-phone-validator): A phone validator for Laravel using the free Twilio phone lookup service.
+* [arekusandr/last_layer](https://github.com/arekusandr/last_layer): Ultra-fast, low latency LLM prompt injection/jailbreak detection ⛓️
 * [alfredapp/launch-url-in-3-browsers-workflow](https://github.com/alfredapp/launch-url-in-3-browsers-workflow): Launch a URL in 3 different browsers at once to speed up website testing
 * [spotlightishere/launchcontrol](https://github.com/spotlightishere/launchcontrol): A GUI for launchd, similar to launchctl. Or... something.
 * [AbinavJ-FamilyZone/launchd-package-creator](https://github.com/AbinavJ-FamilyZone/launchd-package-creator): A utility that allows you to easily create a .pkg containing a LaunchDaemon or LaunchAgent, and a target script of your choosing.
@@ -1411,6 +1414,7 @@ creating your own Awesome List by GitHub stars!
 * [run-llama/llama_index](https://github.com/run-llama/llama_index): LlamaIndex is a data framework for your LLM applications
 * [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile): Distribute and run LLMs with a single file.
 * [lliurex/lliurex-gdrive](https://github.com/lliurex/lliurex-gdrive): App to manage google drive accounts
+* [ICTMCG/LLM-for-misinformation-research](https://github.com/ICTMCG/LLM-for-misinformation-research): Paper list of misinformation research using (multi-modal) large language models, i.e., (M)LLMs.
 * [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library): Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for Siri, GPT-4o, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
 * [igorlogius/load-background-tabs-on-select](https://github.com/igorlogius/load-background-tabs-on-select): Prevents tabs which are opend in the background from loading until they have been manually activated
 * [nagaraj-real/localaipilot-api](https://github.com/nagaraj-real/localaipilot-api): API container for Local AI Pilot extension
