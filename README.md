@@ -153,6 +153,7 @@ creating your own Awesome List by GitHub stars!
 * [amugofjava/anytime_podcast_player](https://github.com/amugofjava/anytime_podcast_player): Simple, easy to use Podcast player app written in Flutter and Dart.
 * [drcika/apc-extension](https://github.com/drcika/apc-extension): None
 * [wulkano/Aperture](https://github.com/wulkano/Aperture): Record the screen on macOS
+* [APKLab/APKLab](https://github.com/APKLab/APKLab): Android Reverse-Engineering Workbench for VS Code
 * [amirgamil/apollo](https://github.com/amirgamil/apollo): A Unix-style personal search engine and web crawler for your digital footprint.
 * [xbrowsersync/app](https://github.com/xbrowsersync/app): xBrowserSync browser extensions / mobile app
 * [yiisoft/app](https://github.com/yiisoft/app): Yii3 application template
@@ -267,6 +268,7 @@ creating your own Awesome List by GitHub stars!
 * [apehex/awesome-poker](https://github.com/apehex/awesome-poker): :spades: :hearts: :clubs: :diamonds: A curated list of awesome poker resources & tools to improve your game.
 * [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy): Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 * [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering): This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc 
+* [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts): Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
 * [o19s/awesome-search-relevance](https://github.com/o19s/awesome-search-relevance): Tools and other things for people who work on search relevance & information retrieval
 * [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted): A list of Free Software network services and web applications which can be hosted on your own servers
 * [LeCoupa/awesome-shopify](https://github.com/LeCoupa/awesome-shopify): 👩‍🎓👨‍🎓 Must-read articles, videos and books for store owners, app and theme developers.
@@ -1531,7 +1533,7 @@ creating your own Awesome List by GitHub stars!
 * [und3fined/medium-unlocker](https://github.com/und3fined/medium-unlocker): Read Medium content without limit!
 * [yousseb/meld](https://github.com/yousseb/meld): Meld for macOS
 * [WorldBrain/Memex](https://github.com/WorldBrain/Memex): Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
-* [usememos/memos](https://github.com/usememos/memos): An open source, lightweight note-taking service. Easily capture and share your great thoughts.
+* [usememos/memos](https://github.com/usememos/memos): An open source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
 * [xudaolong/memos-desktop](https://github.com/xudaolong/memos-desktop): Memos client built on electron cross-end framework
 * [austintraver/merge](https://github.com/austintraver/merge): Addon to replicate the Safari 'Merge All Windows' menu command
 * [wsmadsen/Merge-NHL-Odds](https://github.com/wsmadsen/Merge-NHL-Odds): Import NHL data from NHL website and merge odds
@@ -1673,7 +1675,7 @@ creating your own Awesome List by GitHub stars!
 * [OhShINT/ohshint.gitbook.io](https://github.com/OhShINT/ohshint.gitbook.io): So what is this all about? Yep, its an OSINT blog and a collection of OSINT resources and tools. Suggestions for new OSINT resources is always welcomed.
 * [cbuijs/oisd](https://github.com/cbuijs/oisd): Optimized version of OISD BlockLists
 * [tom-james-watson/old-reddit-redirect](https://github.com/tom-james-watson/old-reddit-redirect): Ensure Reddit always loads the old design
-* [ollama/ollama](https://github.com/ollama/ollama): Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
+* [ollama/ollama](https://github.com/ollama/ollama): Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 * [ollama-ui/ollama-ui](https://github.com/ollama-ui/ollama-ui): Simple HTML UI for Ollama
 * [kevinhermawan/Ollamac](https://github.com/kevinhermawan/Ollamac): Mac app for Ollama
 * [Sine-Of-Time/Omaha-Poker](https://github.com/Sine-Of-Time/Omaha-Poker):  A program that evaluates the winner of a 2-player Omaha-High Hold’em poker game.
@@ -1720,7 +1722,7 @@ creating your own Awesome List by GitHub stars!
 * [open-pocket/open-pocket](https://github.com/open-pocket/open-pocket): Building a 'clean room' open-source implementation of Pocket
 * [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps): 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 * [honsiorovskyi/open-url-in-container](https://github.com/honsiorovskyi/open-url-in-container): Firefox extension to open external links in a specific container
-* [open-webui/open-webui](https://github.com/open-webui/open-webui): User-friendly WebUI for LLMs (Formerly Ollama WebUI)
+* [open-webui/open-webui](https://github.com/open-webui/open-webui): User-friendly WebUI for AI (Formerly Ollama WebUI)
 * [openai/openai-cookbook](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
 * [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator): OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 * [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop): An open Apple AirDrop implementation written in Python
