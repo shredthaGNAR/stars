@@ -395,7 +395,7 @@ creating your own Awesome List by GitHub stars!
 * [fregante/browser-extension-template](https://github.com/fregante/browser-extension-template): 📕 Barebones boilerplate with Parcel 2, options handler and auto-publishing
 * [adi6409/browser-ff](https://github.com/adi6409/browser-ff): None
 * [Luzifer/browser-privacy](https://github.com/Luzifer/browser-privacy): List of filter rules for uBlock Origin to enhance the browsing privacy and replace Ghostery
-* [seanbreckenridge/browserexport](https://github.com/seanbreckenridge/browserexport): backup and parse browser history databases (chrome, firefox, safari, and other chrome/firefox derivatives)
+* [seanbreckenridge/browserexport](https://github.com/seanbreckenridge/browserexport): backup and parse your browser history databases (chrome, firefox, safari, and other chrome/firefox derivatives)
 * [Zegnat/browserext-window-merger](https://github.com/Zegnat/browserext-window-merger): Merge specified browser windows into each other. Or all of them into one. Simply right click to open Firefox’s context menu when multiple windows are open, or configure a keyboard shortcut. All wrapped up in one tiny free extension.
 * [browserpass/browserpass-extension](https://github.com/browserpass/browserpass-extension): Browserpass web extension
 * [SaulBerrenson/BrowserStealer](https://github.com/SaulBerrenson/BrowserStealer): Simple password/cookies/history/bookmarks stealer/dumper for chrome all version (includes 80+), microsoft edge browser,includes all chromium based browsers, and all gecko based browser (firefox etc.).
@@ -2019,7 +2019,7 @@ creating your own Awesome List by GitHub stars!
 * [marioortizmanero/reddit-search-on-google](https://github.com/marioortizmanero/reddit-search-on-google): Button on Google to search only for Reddit posts
 * [tadwohlrapp/reddit-search-on-google](https://github.com/tadwohlrapp/reddit-search-on-google): A browser extension which adds a "Reddit" button to the Google search for only showing search results from reddit.
 * [umbrae/reddit-top-2.5-million](https://github.com/umbrae/reddit-top-2.5-million): This is a dataset of the all-time top 1,000 posts, from the top 2,500 subreddits by subscribers, pulled from reddit between August 15–20, 2013.
-* [Jorengarenar/RedditOld_MarkedJS.user.js](https://github.com/Jorengarenar/RedditOld_MarkedJS.user.js): Replace Markdown renderer on Old Reddit with MarkedJS
+* [Jorenar/RedditOld_MarkedJS.user.js](https://github.com/Jorenar/RedditOld_MarkedJS.user.js): Replace Markdown renderer on Old Reddit with MarkedJS
 * [refined-bitbucket/refined-bitbucket](https://github.com/refined-bitbucket/refined-bitbucket): [NOT MAINTAINED] Chrome and Firefox extension that improves Bitbucket's user experience
 * [refined-github/refined-github](https://github.com/refined-github/refined-github): :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 * [plibither8/refined-hacker-news](https://github.com/plibither8/refined-hacker-news): ✨ Hacker News, but refined — Interface tweaks and features to make the HN experience better
@@ -2242,7 +2242,7 @@ creating your own Awesome List by GitHub stars!
 * [ineat/signature](https://github.com/ineat/signature): How to have a nice signature for emails
 * [ronfybish/Signature-Generator](https://github.com/ronfybish/Signature-Generator): Email Signature Generator - React & Firebase
 * [SillyTavern/SillyTavern-Launcher](https://github.com/SillyTavern/SillyTavern-Launcher): Launcher scripts for SillyTavern and ST-Extras.
-* [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet): The knowledge hacker's notebook
+* [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet): The knowledge tinkerer's notebook
 * [tiansh/simple-context-search](https://github.com/tiansh/simple-context-search): An easy way to act a context searching with one-time selected search provider. Context Search should be Simple. This extension use your searching list configured in browser, which means it could be used just out-of-box.
 * [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups): Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
 * [migueravila/SimpleFox](https://github.com/migueravila/SimpleFox): 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
