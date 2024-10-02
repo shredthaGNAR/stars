@@ -2539,7 +2539,7 @@ creating your own Awesome List by GitHub stars!
 * [uBlockO/uBO-Filters](https://github.com/uBlockO/uBO-Filters): A filterlist with additional filters for uBlock Origin to block third-party, tracking, annoyances, anti-adblock, resource-abuse and all other unwarranted resources from loading.
 * [avotoko/ubo-resource](https://github.com/avotoko/ubo-resource): uBlock Origin Experimental Scriptlets Resource
 * [uBlockO/uBO-Scriptlets](https://github.com/uBlockO/uBO-Scriptlets): A custom arsenal of scriptlets to be used for injecting userscripts via uBlock Origin.
-* [aminomancer/uc.css.js](https://github.com/aminomancer/uc.css.js): A dark indigo CSS theme for Firefox and a large collection of privileged scripts to add new buttons, menus, and behaviors and eliminate nuisances. The theme is similar to other userChrome stylesheets, but it's intended for use with an autoconfig loader like fx-autoconfig, since it uses JavaScript to implement its more functional features.
+* [aminomancer/uc.css.js](https://github.com/aminomancer/uc.css.js): A dark indigo CSS theme for Firefox and a large collection of privileged scripts to add new buttons, menus, behaviors and other opinionated features. The theme is similar to other userChrome stylesheets, but it's intended for use with an autoconfig loader like fx-autoconfig, since it uses JavaScript to implement its more functional features.
 * [eludadev/ui-buttons](https://github.com/eludadev/ui-buttons): 100 Modern CSS Buttons. Every style that you can imagine.
 * [web-ext-labs/ui-tool](https://github.com/web-ext-labs/ui-tool): UI for create-web-ext
 * [DeweyReed/UltimateRingtonePicker](https://github.com/DeweyReed/UltimateRingtonePicker): An Android music picker library for picking alarm, notification or ringtones sound using an Activity or a dialog.
@@ -2577,7 +2577,6 @@ creating your own Awesome List by GitHub stars!
 * [Nomes77/UserChrome](https://github.com/Nomes77/UserChrome): userChrome.css for FireFox and Thunderbird
 * [ago1024/userchrome](https://github.com/ago1024/userchrome): BEcuase F'
 * [annoyatron255/Userchrome](https://github.com/annoyatron255/Userchrome): My Firefox Userchrome Config
-* [p9n/userchrome](https://github.com/p9n/userchrome): userchrome.css/.js for firefox >= 57
 * [Joolee/userchrome-toggle](https://github.com/Joolee/userchrome-toggle): A Firefox extension to allow a user to toggle custom userchrome styles
 * [Naezr/userchrome-toggle-extended](https://github.com/Naezr/userchrome-toggle-extended): A Firefox extension to allow a user to toggle custom userchrome styles
 * [Naezr/userchrome-toggle-extended-2](https://github.com/Naezr/userchrome-toggle-extended-2): This Firefox extension allows you to toggle css styles on the fly
