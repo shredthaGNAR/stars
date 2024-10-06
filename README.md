@@ -788,7 +788,7 @@ creating your own Awesome List by GitHub stars!
 * [researchdepartment/external-application-button-youtube-dl-macos-shortcut](https://github.com/researchdepartment/external-application-button-youtube-dl-macos-shortcut): this was a triumph (i couldn't get the command variant listed in the FAQs to work so i made this)
 * [feller-prj/extractor-project](https://github.com/feller-prj/extractor-project): forked from iaextractor
 * [eza-community/eza](https://github.com/eza-community/eza): A modern alternative to ls
-* [jotyGill/ezsh](https://github.com/jotyGill/ezsh): quickly install zsh, oh-my-zsh with power-level-9k zsh-completions zsh-autosuggestions zsh-syntax-highlighting history-substring-search
+* [jotyGill/ezsh](https://github.com/jotyGill/ezsh): quickly setup shell environment by installing zsh, oh-my-zsh with power-level-10k zsh-completions zsh-autosuggestions zsh-syntax-highlighting history-substring-search and more
 * [mifi/ezshare](https://github.com/mifi/ezshare): Easily share files, folders and clipboard over LAN - Like Google Drive but without internet
 * [Raathigesh/fabulous](https://github.com/Raathigesh/fabulous): 🎨 CSS properties sidebar for VS Code
 * [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition): The world's simplest facial recognition api for Python and the command line
@@ -1060,7 +1060,7 @@ creating your own Awesome List by GitHub stars!
 * [gitx/gitx](https://github.com/gitx/gitx): The best fork of the best lightweight, visual git client for macOS.
 * [kiwiz/gkeepapi](https://github.com/kiwiz/gkeepapi): An unofficial client for the Google Keep API.
 * [chamburr/glance](https://github.com/chamburr/glance): 🔎 All-in-one Quick Look plugin
-* [p3rception/GlassFox](https://github.com/p3rception/GlassFox): // transluscent firefoxcss theme
+* [p3rception/GlassFox](https://github.com/p3rception/GlassFox): // Transluscent FirefoxCSS theme for MacOS
 * [4xx404/GlassFrog](https://github.com/4xx404/GlassFrog): Keyword Search & Information Gathering Tool
 * [ravindranag/glassmorphism-in-firefox](https://github.com/ravindranag/glassmorphism-in-firefox): Create cards with acrylic effect in Firefox
 * [AnhNguyenlost13/GlassyFox](https://github.com/AnhNguyenlost13/GlassyFox): blur overuse lmao
