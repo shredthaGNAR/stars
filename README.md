@@ -75,7 +75,8 @@ creating your own Awesome List by GitHub stars!
 * [unify-ui-dev/agency-landing-page-Astrojs](https://github.com/unify-ui-dev/agency-landing-page-Astrojs): A simple agency landing page made with astrojs and tailwindcss
 * [piroor/aggregate-tabs-to-main-window](https://github.com/piroor/aggregate-tabs-to-main-window): Aggregate new tabs to a window which has most many tabs and largest size.
 * [fastaddons/AI-Anywhere](https://github.com/fastaddons/AI-Anywhere): None
-* [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists): Supercharge your network privacy and security with DNS blocklists from The Firebog • Daily updates shield you from ads, trackers, malware, crypto, adult content, spam and more • Copy and Paste a RAW link into DNS applications and adblock browser extensions, or import it into your hosts file for a safer, ad-free world wide web experience
+* [adamlui/ai-apps](https://github.com/adamlui/ai-apps): 🤖 Apps that utilize the astounding power of AI or enhance its UX
+* [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists): Supercharge your network privacy and security with DNS blocklists from The Firebog • Daily updates shield you from ads, trackers, malware, spam and more • Copy and Paste a RAW link into DNS applications and adblock browser extensions, or import it into your hosts file for a safer, ad-free world wide web experience
 * [air-controller/air-controller-desktop](https://github.com/air-controller/air-controller-desktop): A new handy and powerful Android phone assistant， powered by Flutter.
 * [canalnoises/AirDrop-Shortcut](https://github.com/canalnoises/AirDrop-Shortcut): A script to select AirDrop from Finder's Share menu. Assign to a keyboard shortcut for quick AirDropping.
 * [Airmail/AirmailPlugIn-Framework](https://github.com/Airmail/AirmailPlugIn-Framework): None
@@ -460,6 +461,7 @@ creating your own Awesome List by GitHub stars!
 * [jbtule/cdto](https://github.com/jbtule/cdto): Finder Toolbar app to open the current directory in the Terminal
 * [sw-uci/cdto](https://github.com/sw-uci/cdto): Mac script used to open a terminal at the current Finder folder
 * [Adobe-CEP/CEP-Resources](https://github.com/Adobe-CEP/CEP-Resources): Tools and documentation for building Creative Cloud app extensions with CEP
+* [sereneblue/chameleon](https://github.com/sereneblue/chameleon): WebExtension port of Random Agent Spoofer
 * [Godiesc/Chameleons-Beauty](https://github.com/Godiesc/Chameleons-Beauty): Adapted "Beautiful" Themes
 * [jscher2000/change-maximized-to-resizable](https://github.com/jscher2000/change-maximized-to-resizable): Firefox Extension to Change Maximized New Window to Resizable 
 * [dtkdt100/Chat-GPT-for-Gmail](https://github.com/dtkdt100/Chat-GPT-for-Gmail): A browser extension to complete your email with the help of ChatGPT
@@ -469,7 +471,6 @@ creating your own Awesome List by GitHub stars!
 * [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT): OpenAI API Free Reverse Proxy
 * [khzg/ChatGPT](https://github.com/khzg/ChatGPT): Ai Chat everywhere (firefox addons)
 * [lencx/ChatGPT](https://github.com/lencx/ChatGPT): 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-* [adamlui/chatgpt-apps](https://github.com/adamlui/chatgpt-apps): 🤖 Apps that utilize the astounding power of ChatGPT or enhance its UX
 * [adamlui/chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue): ⏩ Automatically continue generating multiple ChatGPT responses
 * [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity): ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
 * [swyxio/chatgpt-mac](https://github.com/swyxio/chatgpt-mac): ChatGPT for Mac, living in your menubar.
@@ -1228,6 +1229,7 @@ creating your own Awesome List by GitHub stars!
 * [alexander-ladygin/illustrator-scripts](https://github.com/alexander-ladygin/illustrator-scripts): Adobe Illustrator scripts
 * [rhsimplex/image-match](https://github.com/rhsimplex/image-match): 🎇 Quickly search over billions of images
 * [eight04/image-picka](https://github.com/eight04/image-picka): A Firefox/Chrome extension helping you download images.
+* [The-Osint-Toolbox/Image-Research-OSINT](https://github.com/The-Osint-Toolbox/Image-Research-OSINT): Learn how to research images and the tools, techniques & tradecraft required. 
 * [Brawl345/Image-Reverse-Search-WebExtension](https://github.com/Brawl345/Image-Reverse-Search-WebExtension): WebExtension: Adds an option to the context menu to search with an image on various services.
 * [MarkAntipin/image-search-engine](https://github.com/MarkAntipin/image-search-engine): Web app to search similar images
 * [IbrahimMourad/image-search-webapp](https://github.com/IbrahimMourad/image-search-webapp): simple app to search for images by  keyword using unsplash API  
@@ -1723,7 +1725,7 @@ creating your own Awesome List by GitHub stars!
 * [open-pocket/open-pocket](https://github.com/open-pocket/open-pocket): Building a 'clean room' open-source implementation of Pocket
 * [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps): 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 * [honsiorovskyi/open-url-in-container](https://github.com/honsiorovskyi/open-url-in-container): Firefox extension to open external links in a specific container
-* [open-webui/open-webui](https://github.com/open-webui/open-webui): User-friendly WebUI for AI (Formerly Ollama WebUI)
+* [open-webui/open-webui](https://github.com/open-webui/open-webui): User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 * [openai/openai-cookbook](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
 * [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator): OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 * [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop): An open Apple AirDrop implementation written in Python
