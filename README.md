@@ -892,7 +892,7 @@ creating your own Awesome List by GitHub stars!
 * [wrestlerdude/Firefox-Proton-Square](https://github.com/wrestlerdude/Firefox-Proton-Square): Makes Firefox Proton UI look and feel like Quantum
 * [Sporif/firefox-quantum-userchromejs](https://github.com/Sporif/firefox-quantum-userchromejs): Firefox Quantum-compatible custom javascript in browser context — no extension, userChromeJS replacement
 * [xpmn/firefox-reading-list](https://github.com/xpmn/firefox-reading-list): A minimal Firefox extension for saving pages to read later.
-* [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar): Refine the Firefox (100–131) find bar by repositioning it, adjusting spacing & styling internal elements.
+* [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar): Refine the Firefox (100–132) find bar by repositioning it, adjusting spacing & styling internal elements.
 * [mobiusxp/firefox-remap-private-browsing](https://github.com/mobiusxp/firefox-remap-private-browsing): UserChrome JS script to remap Firefox's Private Browsing to match everything else
 * [BGMP/firefox-revert-proton](https://github.com/BGMP/firefox-revert-proton): Revert Firefox Proton to Photon & Photon Compact
 * [panjilp-lab/firefox-safari-noFix](https://github.com/panjilp-lab/firefox-safari-noFix): learning to make safari style for firefox
@@ -1015,6 +1015,7 @@ creating your own Awesome List by GitHub stars!
 * [rebhu-open-source-foundation/gecko-b2g](https://github.com/rebhu-open-source-foundation/gecko-b2g): This is a mirror of https://gitlab.com/rebhu/rosf/thenexus-codes/gecko-b2g
 * [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev): Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
 * [geeker-ai/geek_chat](https://github.com/geeker-ai/geek_chat): GeekChat is a app for multiple cutting-edge LLM(ChatGPT and Gemini) models that available on Desktop(Win,Mac) and Mobile(Android, iOS)
+* [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat): Minimal web UI for GeminiPro.
 * [David-Kunz/gen.nvim](https://github.com/David-Kunz/gen.nvim): Neovim plugin to generate text using LLMs with customizable prompts
 * [webextension-toolbox/generator-web-extension](https://github.com/webextension-toolbox/generator-web-extension): Advanced WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
 * [alfaaarex/GentleFox](https://github.com/alfaaarex/GentleFox): A Firefox theme, which features gentle curves, transparency and a minimal interface.
@@ -1072,6 +1073,7 @@ creating your own Awesome List by GitHub stars!
 * [dartagnanjacobson/global_poker_scraper](https://github.com/dartagnanjacobson/global_poker_scraper): Global Poker Hand History Scraper
 * [szge/globalpokercalc](https://github.com/szge/globalpokercalc): calculate total playthough for globalpoker.com blackjack
 * [jabiddle/GlobalPokerExt](https://github.com/jabiddle/GlobalPokerExt): A Chrome extension that adds automation and statistic collection to GlobalPoker.
+* [shredthaGNAR/GlobalPokerHandTracker](https://github.com/shredthaGNAR/GlobalPokerHandTracker): None
 * [yinthewind/GlobalPokerHandTracker](https://github.com/yinthewind/GlobalPokerHandTracker): None
 * [tomatopickle/Glox](https://github.com/tomatopickle/Glox): A glassmorphistic Firefox skin, also has round elements
 * [langren1353/GM_script](https://github.com/langren1353/GM_script): 我就是来分享脚本玩玩的
@@ -1914,6 +1916,7 @@ creating your own Awesome List by GitHub stars!
 * [jigar-sable/Portfolio-Website](https://github.com/jigar-sable/Portfolio-Website): Portfolio Website built using HTML5, CSS3, JavaScript and jQuery
 * [AlpayC/portfolio_site](https://github.com/AlpayC/portfolio_site): My Portfolio website based on react, typescript and tailwind. 
 * [husseyexplores/poshify-utilities](https://github.com/husseyexplores/poshify-utilities): Some posh utilities for Shopify developers and merchants packaged as a browser extension 🎉
+* [manulthanura/Positivus](https://github.com/manulthanura/Positivus): A stunning and versatile Astro theme designed for digital marketing agencies.
 * [fboulnois/positron-ui-firefox](https://github.com/fboulnois/positron-ui-firefox): A simple userChrome for Firefox that restores connected tabs, visual dividers, and the focused tab highlight.
 * [Century300/powerlevel10k](https://github.com/Century300/powerlevel10k): fast install powerlevel10k theme
 * [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k): A Zsh theme
