@@ -82,7 +82,7 @@ creating your own Awesome List by GitHub stars!
 * [Airmail/AirmailPlugIn-Framework](https://github.com/Airmail/AirmailPlugIn-Framework): None
 * [airmessage/airmessage-server](https://github.com/airmessage/airmessage-server): AirMessage's native message relay server for Mac
 * [airmessage/airmessage-web](https://github.com/airmessage/airmessage-web): AirMessage for the web
-* [xwmx/airport](https://github.com/xwmx/airport): A command line / terminal tool for Wi-Fi on macOS / OS X.
+* [xwmx/airport](https://github.com/xwmx/airport): A command line / terminal tool for Wi-Fi on macOS / OS X up to macOS Sonoma 14.4.
 * [SethuSenthil/AirPush](https://github.com/SethuSenthil/AirPush): The all in one AirMessage (iMessage) script you can forget about
 * [pinetum/AirUnlock-for-Mac](https://github.com/pinetum/AirUnlock-for-Mac): Using android phone to establish a connection with your Mac via Bluetooth low-energy (BLE), controlling Mac lock state (Lock or Unlock).
 * [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter): Menubar Tool to set Charge Limits and Prolong Battery Lifespan
@@ -735,7 +735,7 @@ creating your own Awesome List by GitHub stars!
 * [23Bluemaster23/EdgeFox](https://github.com/23Bluemaster23/EdgeFox): Is a userchrome that imitates (or attempts to imitate) the style of Microsoft's Edge Chromiun browser. is a project in development./Es un userchrome que imita (o intenta imitar) el estilo del navegador Edge Chromiun de Microsoft. es un proyecto en desarrollo.
 * [artsyfriedchicken/EdgyArc-fr](https://github.com/artsyfriedchicken/EdgyArc-fr): Firefox Userchrome and sidebery style
 * [cleidigh/EditEmailSubject-MX](https://github.com/cleidigh/EditEmailSubject-MX): Conversion exercise for Thunderbird MailExtensions
-* [a-bentofreire/editortoix](https://github.com/a-bentofreire/editortoix): Common Tasks Extension for multiple Code Editors
+* [a-bentofreire/editortoix](https://github.com/a-bentofreire/editortoix): Text utilities for multiple code editors 
 * [codewizard13/ehw-app-scrape-onetab-links](https://github.com/codewizard13/ehw-app-scrape-onetab-links): Scrape OneTab links and produce HTML that can be saved for backup
 * [G3root/Eisen-Matrix](https://github.com/G3root/Eisen-Matrix): 🎯 Eisen Matrix is a prioritization app that uses Eisenhower matrix technique as workflow to prioritize a list of tasks & built with React Native for learning purposes.
 * [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder): A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
