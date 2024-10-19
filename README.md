@@ -75,7 +75,7 @@ creating your own Awesome List by GitHub stars!
 * [unify-ui-dev/agency-landing-page-Astrojs](https://github.com/unify-ui-dev/agency-landing-page-Astrojs): A simple agency landing page made with astrojs and tailwindcss
 * [piroor/aggregate-tabs-to-main-window](https://github.com/piroor/aggregate-tabs-to-main-window): Aggregate new tabs to a window which has most many tabs and largest size.
 * [fastaddons/AI-Anywhere](https://github.com/fastaddons/AI-Anywhere): None
-* [adamlui/ai-apps](https://github.com/adamlui/ai-apps): 🤖 Apps that utilize the astounding power of AI or enhance its UX
+* [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions): 🤖 AI userscripts & browser extensions to enhance your web experience
 * [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists): Supercharge your network privacy and security with DNS blocklists from The Firebog • Daily updates shield you from ads, trackers, malware, spam and more • Copy and Paste a RAW link into DNS applications and adblock browser extensions, or import it into your hosts file for a safer, ad-free world wide web experience
 * [air-controller/air-controller-desktop](https://github.com/air-controller/air-controller-desktop): A new handy and powerful Android phone assistant， powered by Flutter.
 * [canalnoises/AirDrop-Shortcut](https://github.com/canalnoises/AirDrop-Shortcut): A script to select AirDrop from Finder's Share menu. Assign to a keyboard shortcut for quick AirDropping.
@@ -646,7 +646,7 @@ creating your own Awesome List by GitHub stars!
 * [0xdevalias/devalias.net](https://github.com/0xdevalias/devalias.net): Source for devalias.net
 * [thunderbird/developer-docs](https://github.com/thunderbird/developer-docs): Developer documentation for Thunderbird contributors.
 * [said7388/developer-portfolio](https://github.com/said7388/developer-portfolio): Software Developer Portfolio Website built with next.js and tailwind CSS that helps you showcase your work and skills as a software developer.
-* [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio): 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer. (This is currently not being maintained)
+* [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio): 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer. (This is currently not being actively maintained)
 * [matomo-org/device-detector](https://github.com/matomo-org/device-detector): The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model. 
 * [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll): (FREE SITE GENERATOR) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS :rocket: in minutes built for developers. (with CMS) ✨
 * [devaradise/devolio](https://github.com/devaradise/devolio): A Simple Astro Portfolio & Blog Template for Developers
@@ -1167,6 +1167,7 @@ creating your own Awesome List by GitHub stars!
 * [dwarvesf/hidden](https://github.com/dwarvesf/hidden): An ultra-light MacOS utility that helps hide menu bar icons
 * [hensm/hide_private_mode](https://github.com/hensm/hide_private_mode): None
 * [amarsyla/hidutil-key-remapping-generator](https://github.com/amarsyla/hidutil-key-remapping-generator): Simple tool to generate HIDUTIL key remapping configurations for MacOS
+* [annedorko/highlight](https://github.com/annedorko/highlight): Static Site Generator (SSG) for creating multiple targeted portfolios and resumes with one website.
 * [Ulf3000/highlight-tabs](https://github.com/Ulf3000/highlight-tabs): firefox addon to highlight tabs with colors for easy and fast recognition and fluid workflow
 * [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder): A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 * [agneevX/home-assistant](https://github.com/agneevX/home-assistant): Home Assistant lovelace layout and config
@@ -1542,7 +1543,7 @@ creating your own Awesome List by GitHub stars!
 * [und3fined/medium-unlocker](https://github.com/und3fined/medium-unlocker): Read Medium content without limit!
 * [yousseb/meld](https://github.com/yousseb/meld): Meld for macOS
 * [WorldBrain/Memex](https://github.com/WorldBrain/Memex): Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
-* [usememos/memos](https://github.com/usememos/memos): An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
+* [usememos/memos](https://github.com/usememos/memos): An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
 * [xudaolong/memos-desktop](https://github.com/xudaolong/memos-desktop): Memos client built on electron cross-end framework
 * [austintraver/merge](https://github.com/austintraver/merge): Addon to replicate the Safari 'Merge All Windows' menu command
 * [wsmadsen/Merge-NHL-Odds](https://github.com/wsmadsen/Merge-NHL-Odds): Import NHL data from NHL website and merge odds
@@ -2049,6 +2050,7 @@ creating your own Awesome List by GitHub stars!
 * [srvaroa/repocket](https://github.com/srvaroa/repocket): Manage a local copy of articles saved in Pocket
 * [danmindru/responsive-html-email-signature](https://github.com/danmindru/responsive-html-email-signature): ✨ Template generator for (responsive) emails & email signatures 
 * [leemunroe/responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template): A free simple responsive HTML email template
+* [bedimcode/responsive-portfolio-website-Alexa](https://github.com/bedimcode/responsive-portfolio-website-Alexa): Responsive Portfolio Website Using HTML, CSS & JavaScript
 * [cerealkella/rest-uploader](https://github.com/cerealkella/rest-uploader): REST API File Uploader
 * [hanacchi/RestoreFirefoxJS](https://github.com/hanacchi/RestoreFirefoxJS): userChromeJS scripts to restore Firefox features that have been removed or changed
 * [briangershon/retrieve-pocket-bookmarks](https://github.com/briangershon/retrieve-pocket-bookmarks): Retrieves your bookmarks and meta data from Pocket API (via https://getpocket.com/developer/docs/v3/retrieve)
@@ -2223,7 +2225,7 @@ creating your own Awesome List by GitHub stars!
 * [uicrooks/shopify-theme-lab](https://github.com/uicrooks/shopify-theme-lab): Shopify theme development environment using Liquid, Vue and Tailwind CSS. Built on top of Shopify CLI 🧪
 * [uicrooks/shopify-theme-lab-plugins](https://github.com/uicrooks/shopify-theme-lab-plugins): Official Shopify Theme Lab Plugins
 * [johntelforduk/shopify-to-facebook](https://github.com/johntelforduk/shopify-to-facebook): Command line program to convert a Shopify Customer Export file into Facebook Custom Audience List format.
-* [j-Riv/shopify-tools-cli](https://github.com/j-Riv/shopify-tools-cli): CLI to bulk edit Shopify Products / Variants, and Customers. Uses CSV to import and iterate over data.
+* [SuavecitoInc/shopify-tools-cli](https://github.com/SuavecitoInc/shopify-tools-cli): This command-line tool simplifies bulk editing of Shopify store data using the Shopify Admin API. It enables efficient updates to products, product variants, and customer information by importing data from a CSV file. The tool automates the iteration through large datasets, making bulk price adjustments and tag updates much easier.
 * [electricmaybe/shopify-trafo](https://github.com/electricmaybe/shopify-trafo): 🧬 Shopify development environment, ready for Online Store 2.0 and Shopify CLI. Using Tailwind and Webpack.
 * [h0se69/Shopify-Variant-Scraper](https://github.com/h0se69/Shopify-Variant-Scraper): Scrape Shopify Product with variants | Includes Discord Embed
 * [krjo/shopify-webpack-dev-workflow](https://github.com/krjo/shopify-webpack-dev-workflow): None
@@ -2534,7 +2536,7 @@ creating your own Awesome List by GitHub stars!
 * [syanle/ts-commercials-remover](https://github.com/syanle/ts-commercials-remover): MPEG-TS stream workflow
 * [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist): Your self hosted YouTube media server
 * [meeb/tubesync](https://github.com/meeb/tubesync): Syncs YouTube channels and playlists to a locally hosted media server
-* [Leonetienne/Tubio](https://github.com/Leonetienne/Tubio): The free, open source video downloader! Mirror of https://gitea.leonetienne.de/leonetienne/Tubio
+* [Leonetienne/Tubio](https://github.com/Leonetienne/Tubio): The free, open source video downloader! Mirror of https://code.ze.mawtrixx.net/leonetienne/Tubio
 * [unixorn/tumult.plugin.zsh](https://github.com/unixorn/tumult.plugin.zsh): Tumult is a collection of macOS-specific functions and scripts for your shell environment. It is packaged as a ZSH plugin, but can be used with other shells as well.
 * [humandecoded/twayback](https://github.com/humandecoded/twayback): Automate downloading archived deleted Tweets.
 * [RobTrew/txtquery-tools](https://github.com/RobTrew/txtquery-tools): Tools for generating custom perspectives & reports from FoldingText and TaskPaper docs
