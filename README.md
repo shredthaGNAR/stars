@@ -474,7 +474,8 @@ creating your own Awesome List by GitHub stars!
 * [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT): OpenAI API Free Reverse Proxy
 * [khzg/ChatGPT](https://github.com/khzg/ChatGPT): Ai Chat everywhere (firefox addons)
 * [lencx/ChatGPT](https://github.com/lencx/ChatGPT): 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-* [adamlui/chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue): ⏩ Automatically continue generating multiple ChatGPT responses
+* [adamlui/chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue): ⏩ Automatically continue generating answers when ChatGPT responses get cut-off
+* [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone): ChatGPT interface with better UI 
 * [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity): ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
 * [swyxio/chatgpt-mac](https://github.com/swyxio/chatgpt-mac): ChatGPT for Mac, living in your menubar.
 * [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac): ChatGPT for Mac, living in your menubar.
@@ -1161,7 +1162,7 @@ creating your own Awesome List by GitHub stars!
 * [Benjamin-Dobell/Heimdall](https://github.com/Benjamin-Dobell/Heimdall): Heimdall is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung Galaxy devices.
 * [blanklob/helium](https://github.com/blanklob/helium): Helium is a modern Shopify development workflow ⚙️, with Online Store 2.0 features. Built with performance ⚡️ and best practices in mind.. 
 * [demtario/hes-gallery](https://github.com/demtario/hes-gallery): Light, dependency free, responsive gallery script
-* [MStankiewiczOfficial/Hi-Notch](https://github.com/MStankiewiczOfficial/Hi-Notch): Hi Notch! makes using your MacBook even more productive. It displays additional buttons and statuses of active applications such as web browsers, Apple Music, Microsoft Teams and Zoom.
+* [MStankiewiczOfficial/Hi-Notch](https://github.com/MStankiewiczOfficial/Hi-Notch): [Discontinued] Hi Notch! makes using your MacBook even more productive. It displays additional buttons and statuses of active applications such as web browsers, Apple Music, Microsoft Teams and Zoom.
 * [dwarvesf/hidden](https://github.com/dwarvesf/hidden): An ultra-light MacOS utility that helps hide menu bar icons
 * [hensm/hide_private_mode](https://github.com/hensm/hide_private_mode): None
 * [amarsyla/hidutil-key-remapping-generator](https://github.com/amarsyla/hidutil-key-remapping-generator): Simple tool to generate HIDUTIL key remapping configurations for MacOS
