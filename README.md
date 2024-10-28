@@ -97,6 +97,7 @@ creating your own Awesome List by GitHub stars!
 * [deanishe/alfred-convert](https://github.com/deanishe/alfred-convert): Convert between different units in Alfred
 * [azai91/alfred-drive-workflow](https://github.com/azai91/alfred-drive-workflow): Alfred workflow to search google drive
 * [deanishe/alfred-firefox](https://github.com/deanishe/alfred-firefox): Search and control Firefox from Alfred
+* [BenjaminOddou/alfred-folderify](https://github.com/BenjaminOddou/alfred-folderify): 📁 Generate pixel-perfect macOS folder icons
 * [edgarjs/alfred-github-repos](https://github.com/edgarjs/alfred-github-repos): Alfred workflow to easily open Github repositories
 * [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow): GitHub Workflow for Alfred
 * [aviaryan/alfred-last2imgur](https://github.com/aviaryan/alfred-last2imgur): Alfred workflow to upload the last screenshot taken to Imgur + (delete and minify image)
@@ -346,6 +347,7 @@ creating your own Awesome List by GitHub stars!
 * [ph00lt0/blocklist](https://github.com/ph00lt0/blocklist): Blocklists for AdGuard Home, AdGuard, Little Snitch, Open Snitch, uBlock Origin, Brave Adblock, pfBlockerNG, and PiHole
 * [Nuzair46/BlockTheSpot-Mac](https://github.com/Nuzair46/BlockTheSpot-Mac): Spotify Ad blocker for MacOS
 * [RickStrahl/BlogPosts](https://github.com/RickStrahl/BlogPosts): None
+* [Lexxrt/Blue](https://github.com/Lexxrt/Blue): 🕵️‍♂️ɪɴғᴏʀᴍᴀᴛɪᴏɴ ɢᴀᴛʜᴇʀɪɴɢ ᴛᴏᴏʟ🕵️‍♂️
 * [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app): A cross-platform app ecosystem, bringing iMessage to Android, PC (Windows, Linux, & even macOS), and Web!
 * [Filip-Sutkowy/blurclean-firefox-theme](https://github.com/Filip-Sutkowy/blurclean-firefox-theme): Clean, transparent firefox theme
 * [skylineone044/blurclean-firefox-theme](https://github.com/skylineone044/blurclean-firefox-theme): Clean, transparent firefox theme
@@ -807,6 +809,7 @@ creating your own Awesome List by GitHub stars!
 * [FakeFiller/fake-filler-extension](https://github.com/FakeFiller/fake-filler-extension): A browser extension for Chrome, Edge and Firefox that fills dummy text in all input fields in a page.
 * [busiyiworld/fake-raycast-backend](https://github.com/busiyiworld/fake-raycast-backend): A fake Raycast backend that can be deployed to Vercel in just one step.
 * [dumbmatter/fakeIndexedDB](https://github.com/dumbmatter/fakeIndexedDB): A pure JS in-memory implementation of the IndexedDB API
+* [kfreitag1/FancyFolders](https://github.com/kfreitag1/FancyFolders): Fancy Folders is a macOS application for creating custom folder icons from SF symbols, text, or images.
 * [nightmare-space/fast_share](https://github.com/nightmare-space/fast_share): Speed Share is a highly available file sharing terminal on LAN(local area network) like airdrop developed by flutter framework.
 * [ColdSpirit0/FastCopyLinks](https://github.com/ColdSpirit0/FastCopyLinks): Firefox addon, copies hovered links on Ctrl+C.
 * [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward): Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
@@ -838,6 +841,7 @@ creating your own Awesome List by GitHub stars!
 * [kosimst/FiraFlott](https://github.com/kosimst/FiraFlott): Free Operator Mono Alternative based on FiraCode and FlottFlott
 * [bennypowers/fireblocks](https://github.com/bennypowers/fireblocks): Chonky Firefox tabs for square developers
 * [Explosion-Scratch/firebuilder](https://github.com/Explosion-Scratch/firebuilder): A comprehensive firefox profile, themes, userCSS and userChrome builder
+* [Lexxrt/FireFly](https://github.com/Lexxrt/FireFly): 📱ᴘʜᴏɴᴇ ɴᴜᴍʙᴇʀ ʟᴏᴏᴋᴜᴘ📱
 * [Thomashighbaugh/firefox](https://github.com/Thomashighbaugh/firefox): Torturing Firefox with userchrome.js and userchrome.css in response to Mozilla's successive degradation of the browser window. 
 * [awesome-windows11/firefox](https://github.com/awesome-windows11/firefox): 🦊 Awesome Firefox
 * [bolucat/Firefox](https://github.com/bolucat/Firefox): The Source Code of Firefox on Desktop
@@ -1900,6 +1904,7 @@ creating your own Awesome List by GitHub stars!
 * [sdeep27/poker-simulator](https://github.com/sdeep27/poker-simulator): simulates starting hands and flop, turn, river for tournies and cash games in omaha and hold'em poker
 * [Stiff-2904/Poker_Omaha-Hi](https://github.com/Stiff-2904/Poker_Omaha-Hi): Juego de poker Omaha Hi
 * [400yk/PokerBotMac](https://github.com/400yk/PokerBotMac): Mac version of pokerbot project by Dick Neutral
+* [HarperJonesGPT/PokerGPT](https://github.com/HarperJonesGPT/PokerGPT): Pokerstars bot that plays real-time poker using GPT4
 * [FranTheHuman/PokerHand](https://github.com/FranTheHuman/PokerHand): Functional exercise in Scala.
 * [HenryRLee/PokerHandEvaluator](https://github.com/HenryRLee/PokerHandEvaluator): Poker-Hand-Evaluator: An efficient poker hand evaluation algorithm and its implementation, supporting 7-card poker and Omaha poker evaluation
 * [forestturner/PokerHandRangeCalc](https://github.com/forestturner/PokerHandRangeCalc): Poker Hand Range Calculator
