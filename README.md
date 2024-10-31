@@ -783,6 +783,7 @@ creating your own Awesome List by GitHub stars!
 * [Zabakes/export-tabs-urls](https://github.com/Zabakes/export-tabs-urls): https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
 * [alct/export-tabs-urls](https://github.com/alct/export-tabs-urls): https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
 * [clach04/export-tabs-urls-phoenix](https://github.com/clach04/export-tabs-urls-phoenix): Fork of the original Export Tab URLs - for Chrome, Edge, and Firefox with html export and text import (open tab) support
+* [zaksid/ext-duplicate-bookmarks-finder](https://github.com/zaksid/ext-duplicate-bookmarks-finder): Browser extension that allows to find and delete duplicate bookmarks.
 * [crimx/ext-saladict](https://github.com/crimx/ext-saladict): 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
 * [Tuhinshubhra/ExtAnalysis](https://github.com/Tuhinshubhra/ExtAnalysis): Browser Extension Analysis Framework - Scan, Analyze Chrome, firefox and Brave extensions for vulnerabilities and intels
 * [presuku/exteditor-mailext](https://github.com/presuku/exteditor-mailext): A Thunderbird add-on for editing text in your favourite external editor!
@@ -809,7 +810,7 @@ creating your own Awesome List by GitHub stars!
 * [busiyiworld/fake-raycast-backend](https://github.com/busiyiworld/fake-raycast-backend): A fake Raycast backend that can be deployed to Vercel in just one step.
 * [dumbmatter/fakeIndexedDB](https://github.com/dumbmatter/fakeIndexedDB): A pure JS in-memory implementation of the IndexedDB API
 * [kfreitag1/FancyFolders](https://github.com/kfreitag1/FancyFolders): Fancy Folders is a macOS application for creating custom folder icons from SF symbols, text, or images.
-* [nightmare-space/fast_share](https://github.com/nightmare-space/fast_share): Speed Share is a highly available file sharing terminal on LAN(local area network) like airdrop developed by flutter framework.
+* [nightmare-space/fast_share](https://github.com/nightmare-space/fast_share): Fast Share is a highly available file sharing terminal on LAN(local area network) like airdrop developed by flutter framework.
 * [ColdSpirit0/FastCopyLinks](https://github.com/ColdSpirit0/FastCopyLinks): Firefox addon, copies hovered links on Ctrl+C.
 * [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward): Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
 * [CleanCocoa/FatSidebar](https://github.com/CleanCocoa/FatSidebar): Custom vertical button toolbar for macOS
