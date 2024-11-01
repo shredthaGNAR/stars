@@ -76,7 +76,7 @@ creating your own Awesome List by GitHub stars!
 * [piroor/aggregate-tabs-to-main-window](https://github.com/piroor/aggregate-tabs-to-main-window): Aggregate new tabs to a window which has most many tabs and largest size.
 * [fastaddons/AI-Anywhere](https://github.com/fastaddons/AI-Anywhere): None
 * [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions): 🤖 AI browser extensions & userscripts to enhance your web experience
-* [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists): Supercharge your network privacy and security with DNS blocklists from The Firebog • Daily updates shield you from ads, trackers, malware, spam and more • Copy and Paste a RAW link into DNS applications and adblock browser extensions, or import it into your hosts file for a safer world wide web experience
+* [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists): Supercharge your network privacy and security with DNS blocklists from The Firebog • Daily updates shield you from ads, trackers, malware, spam and more • Copy and Paste a RAW link into DNS applications / adblock browser extensions, or import it into your hosts file for a safer world wide web experience
 * [air-controller/air-controller-desktop](https://github.com/air-controller/air-controller-desktop): A new handy and powerful Android phone assistant， powered by Flutter.
 * [canalnoises/AirDrop-Shortcut](https://github.com/canalnoises/AirDrop-Shortcut): A script to select AirDrop from Finder's Share menu. Assign to a keyboard shortcut for quick AirDropping.
 * [Airmail/AirmailPlugIn-Framework](https://github.com/Airmail/AirmailPlugIn-Framework): None
@@ -434,6 +434,7 @@ creating your own Awesome List by GitHub stars!
 * [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop): :key: Cross-Platform Passwords & Secrets Vault
 * [LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly): 🎨 Powerful, minimalistic, cross-platform, opensource note-taking app
 * [loup-brun/buttons](https://github.com/loup-brun/buttons): A collection of CSS buttons.
+* [shredthaGNAR/buttons](https://github.com/shredthaGNAR/buttons): A collection of CSS buttons.
 * [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome): Bypass Paywalls web browser extension for Chrome and Firefox.
 * [bpc-clone/bypass-paywalls-clean-filters](https://github.com/bpc-clone/bypass-paywalls-clean-filters): None
 * [iamadamdev/bypass-paywalls-firefox](https://github.com/iamadamdev/bypass-paywalls-firefox): Bypass Paywalls for Firefox
