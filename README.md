@@ -151,10 +151,12 @@ creating your own Awesome List by GitHub stars!
 * [kevalpatel2106/android-ringtone-picker](https://github.com/kevalpatel2106/android-ringtone-picker): Simple Ringtone Picker dialog which allows you to pick different sounds from ringtone, alarm tone, notification tone and music from external storage.
 * [mortenjust/androidtool-mac](https://github.com/mortenjust/androidtool-mac): One-click screenshots, video recordings, app installation for iOS and Android
 * [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod): A podcast manager for Android
+* [AbdurazaaqMohammed/AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M): App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android
 * [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm): The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
 * [amugofjava/anytime_podcast_player](https://github.com/amugofjava/anytime_podcast_player): Simple, easy to use Podcast player app written in Flutter and Dart.
 * [drcika/apc-extension](https://github.com/drcika/apc-extension): None
 * [wulkano/Aperture](https://github.com/wulkano/Aperture): Record the screen on macOS
+* [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor): Powerful android apk editor - aapt/aapt2 independent
 * [APKLab/APKLab](https://github.com/APKLab/APKLab): Android Reverse-Engineering Workbench for VS Code
 * [amirgamil/apollo](https://github.com/amirgamil/apollo): A Unix-style personal search engine and web crawler for your digital footprint.
 * [xbrowsersync/app](https://github.com/xbrowsersync/app): xBrowserSync browser extensions / mobile app
@@ -2179,7 +2181,7 @@ creating your own Awesome List by GitHub stars!
 * [shahasad78/shahdevthemecourse2-0](https://github.com/shahasad78/shahdevthemecourse2-0): None
 * [navchandar/Share-Less](https://github.com/navchandar/Share-Less): Share Less - URL tracking remover
 * [reorx/Share-to-ChatGPT-Shortcut](https://github.com/reorx/Share-to-ChatGPT-Shortcut): An Apple Shortcut for sharing text to ChatGPT using personalized prompts
-* [szimek/sharedrop](https://github.com/szimek/sharedrop): Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
+* [ShareDropio/sharedrop](https://github.com/ShareDropio/sharedrop): Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 * [jimmod/ShareToComputer](https://github.com/jimmod/ShareToComputer): None
 * [marcosdiez/shareviahttp](https://github.com/marcosdiez/shareviahttp): Share Via Http - Android
 * [jlord/sheetsee-pocket](https://github.com/jlord/sheetsee-pocket): A website for your Pocket article archive. Fork-n-Go!
