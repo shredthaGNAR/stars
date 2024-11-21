@@ -1026,6 +1026,7 @@ creating your own Awesome List by GitHub stars!
 * [rebhu-open-source-foundation/gecko-b2g](https://github.com/rebhu-open-source-foundation/gecko-b2g): This is a mirror of https://gitlab.com/rebhu/rosf/thenexus-codes/gecko-b2g
 * [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev): Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
 * [geeker-ai/geek_chat](https://github.com/geeker-ai/geek_chat): GeekChat is a app for multiple cutting-edge LLM(ChatGPT and Gemini) models that available on Desktop(Win,Mac) and Mobile(Android, iOS)
+* [RMNCLDYO/gemini-ai-toolkit](https://github.com/RMNCLDYO/gemini-ai-toolkit): Unlock the potential of Google's Gemini AI models with this versatile toolkit. Offering seamless chat, text generation, and multimodal interactions, supporting various file types, including PDF's, images, videos, audio, text and more. Enjoy real-time responses, customizable parameters, and easy integration for diverse AI tasks.
 * [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat): Minimal web UI for GeminiPro.
 * [David-Kunz/gen.nvim](https://github.com/David-Kunz/gen.nvim): Neovim plugin to generate text using LLMs with customizable prompts
 * [webextension-toolbox/generator-web-extension](https://github.com/webextension-toolbox/generator-web-extension): Advanced WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
@@ -2305,7 +2306,7 @@ creating your own Awesome List by GitHub stars!
 * [ToTheMax/Snapchat-All-Memories-Downloader](https://github.com/ToTheMax/Snapchat-All-Memories-Downloader): Script to download all your Snapchat memories
 * [Wozzify/Snapchat-Memory-Downloader](https://github.com/Wozzify/Snapchat-Memory-Downloader): Downloads Snapchat Memories Quickly and Efficiently
 * [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop): A Progressive Web App for local file sharing 
-* [hoothin/snapdrop](https://github.com/hoothin/snapdrop): Modify for ipv6 and WAN. 自用改版，兼容 ipv6 与广域网
+* [hoothin/snapdrop](https://github.com/hoothin/snapdrop): Modify for ipv6 and WAN. 自用改版，相容於 ipv6 與廣域網
 * [fm-sys/snapdrop-android](https://github.com/fm-sys/snapdrop-android): Android client for local file sharing via https://snapdrop.net/ and https://pairdrop.net
 * [alextwothousand/snapdrop-desktop](https://github.com/alextwothousand/snapdrop-desktop): A Snapdrop Desktop app written using Electron.
 * [ueen/SnapdropFirefoxAddon](https://github.com/ueen/SnapdropFirefoxAddon): Snapdrop for Firefox (Addon)
