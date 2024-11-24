@@ -861,7 +861,7 @@ creating your own Awesome List by GitHub stars!
 * [vallovic/firefox-colorize-container-toolbar](https://github.com/vallovic/firefox-colorize-container-toolbar): Firefox extension to automatically colorize browser toolbar by matching the color of the active container tab
 * [Mrbigdog99/Firefox-compact](https://github.com/Mrbigdog99/Firefox-compact): Compact userChrome for Firefox Proton
 * [krathalan/firefox-complement](https://github.com/krathalan/firefox-complement): None
-* [TanvirOnGH/firefox-config](https://github.com/TanvirOnGH/firefox-config): Personal Firefox Browser Configuration
+* [Tanvir1337x/firefox-config](https://github.com/Tanvir1337x/firefox-config): Personal Firefox Browser Configuration
 * [nightnoryu/firefox-config](https://github.com/nightnoryu/firefox-config): My Firefox configuration
 * [HamletDuFromage/firefox-css](https://github.com/HamletDuFromage/firefox-css): None
 * [Shadow-of-Colossus/Firefox-CSS](https://github.com/Shadow-of-Colossus/Firefox-CSS): A mish mash of css files to change Firefox appearance, more of old style
@@ -1718,6 +1718,7 @@ creating your own Awesome List by GitHub stars!
 * [ylon/onetab-merge](https://github.com/ylon/onetab-merge): Merge util for OneTab browser extension
 * [pullup/OneTab-Night-Mode](https://github.com/pullup/OneTab-Night-Mode): Little theme for the onetab page to make it less eye raping.
 * [Nuzza/OneTab-Reborn](https://github.com/Nuzza/OneTab-Reborn): OneTab Reborn is a remake of the original OneTab extension to have a more modern appearance.
+* [sueszli/onetab-scraper](https://github.com/sueszli/onetab-scraper): oneTab bookmark collection → plaintext
 * [runoshun/onetab-sync](https://github.com/runoshun/onetab-sync): Command line utility for sync and backup OneTab Chrome extension data.
 * [RONNCC/onetab-syncer](https://github.com/RONNCC/onetab-syncer): None
 * [Packetslave/onetab-to-bookmarks](https://github.com/Packetslave/onetab-to-bookmarks): Convert a OneTab bookmark export to the standard HTML bookmark export format
@@ -1727,7 +1728,6 @@ creating your own Awesome List by GitHub stars!
 * [alan1world/onetab_data_archiver](https://github.com/alan1world/onetab_data_archiver): A data archiver script for use with OneTab browser extension, and Google Keep as a bonus
 * [endcloud/onetab_restore_tauri](https://github.com/endcloud/onetab_restore_tauri): An App for backing up and better displaying Onetab data Powered by Tauri.
 * [Enan01/OneTabClear](https://github.com/Enan01/OneTabClear): Quickly clear OneTab tag group.
-* [sueszli/oneTabScraper](https://github.com/sueszli/oneTabScraper): oneTab bookmark collection → plaintext
 * [yegor-pelykh/OnHand](https://github.com/yegor-pelykh/OnHand): An open source browser extension to save your favorite bookmarks on a "new tab" page.
 * [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch): ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 * [lmichelin/open-github-links-in-ide](https://github.com/lmichelin/open-github-links-in-ide): Browser extension allowing to open files in your IDE directly from GitHub, available for Chrome and Firefox.
@@ -1826,7 +1826,6 @@ creating your own Awesome List by GitHub stars!
 * [antipalindrome/Photoshop-Export-Layers-to-Files-Fast](https://github.com/antipalindrome/Photoshop-Export-Layers-to-Files-Fast): This script allows you to export your layers as individual files at a speed much faster than the built-in script from Adobe.
 * [dermesser/photosync](https://github.com/dermesser/photosync): Now that Google deprecated the Photos<->Drive synchronization, I need another way to back up my photos locally. This program downloads all photos from your Google Photos account and organizes them locally. It is not very user friendly yet, but definitely usable
 * [pooja-v-dev/php-drive-s3](https://github.com/pooja-v-dev/php-drive-s3): Read a Google Drive account, list files in a folder and move selected file to S3.
-* [YukisCoffee/phroton-legacy](https://github.com/YukisCoffee/phroton-legacy): Firefox Proton userChrome.css for an accurate Photon theme.
 * [uoftcprg/phs-dataset](https://github.com/uoftcprg/phs-dataset): A dataset of poker hand strengths
 * [bltavares/pickpocket](https://github.com/bltavares/pickpocket): Pocket CLI management tools
 * [patrick-petrovic/pickpocket](https://github.com/patrick-petrovic/pickpocket): Pickpocket imports Pocket links to Safari reading list. 
