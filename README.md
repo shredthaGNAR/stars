@@ -1406,7 +1406,7 @@ creating your own Awesome List by GitHub stars!
 * [letsblockit/letsblockit](https://github.com/letsblockit/letsblockit): Remove low-quality content and useless nags, focus on what matters. A community-maintained uBlock Origin filter set.
 * [poochinski9/libgen-calibre-store-plugin](https://github.com/poochinski9/libgen-calibre-store-plugin): Calibre plugin for Library Genesis
 * [gphoto/libgphoto2](https://github.com/gphoto/libgphoto2): The libgphoto2 camera access and control library.
-* [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat): Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. Actively in public development.
+* [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat): Enhanced ChatGPT Clone: Features Agents, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project.
 * [libreddit/libreddit](https://github.com/libreddit/libreddit): Private front-end for Reddit
 * [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube): An alternative frontend for YouTube, for Android.
 * [hnhx/librex](https://github.com/hnhx/librex): Framework and javascript free privacy respecting meta search engine
@@ -1699,7 +1699,7 @@ creating your own Awesome List by GitHub stars!
 * [OhShINT/ohshint.gitbook.io](https://github.com/OhShINT/ohshint.gitbook.io): So what is this all about? Yep, its an OSINT blog and a collection of OSINT resources and tools. Suggestions for new OSINT resources is always welcomed.
 * [cbuijs/oisd](https://github.com/cbuijs/oisd): Optimized version of OISD BlockLists
 * [tom-james-watson/old-reddit-redirect](https://github.com/tom-james-watson/old-reddit-redirect): Ensure Reddit always loads the old design
-* [ollama/ollama](https://github.com/ollama/ollama): Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
+* [ollama/ollama](https://github.com/ollama/ollama): Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
 * [ollama-ui/ollama-ui](https://github.com/ollama-ui/ollama-ui): Simple HTML UI for Ollama
 * [kevinhermawan/Ollamac](https://github.com/kevinhermawan/Ollamac): Mac app for Ollama
 * [Sine-Of-Time/Omaha-Poker](https://github.com/Sine-Of-Time/Omaha-Poker):  A program that evaluates the winner of a 2-player Omaha-High Hold’em poker game.
@@ -2841,7 +2841,7 @@ creating your own Awesome List by GitHub stars!
 * [chibicitiberiu/ytsm](https://github.com/chibicitiberiu/ytsm): Self-hosted tool which manages your YouTube subscriptions, and downloads files automatically.
 * [rupa/z](https://github.com/rupa/z): z - jump around
 * [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy): The ZAP by Checkmarx Core project
-* [zapSNH/zapsCoolPhotonTheme](https://github.com/zapSNH/zapsCoolPhotonTheme): A faithful(ish) Firefox Photon theme.
+* [zapSNH/zapsCoolPhotonTheme](https://github.com/zapSNH/zapsCoolPhotonTheme): party like it's firefox 87
 * [marlonrichert/zcolors](https://github.com/marlonrichert/zcolors): 🌈 Use your $LS_COLORS to generate a coherent theme for Git & your Zsh prompt, command line and completions.
 * [mattmc3/zdotdir](https://github.com/mattmc3/zdotdir): My zsh config
 * [zbrateam/Zebra](https://github.com/zbrateam/Zebra): 🦓 A Useful Package Manager for iOS
