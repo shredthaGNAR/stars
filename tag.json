@@ -122,6 +122,9 @@
     "AdguardTeam/ContentBlocker": [
         "Other"
     ],
+    "AdguardTeam/FiltersRegistry": [
+        "Other"
+    ],
     "Adobe-CEP/CEP-Resources": [
         "Other"
     ],
@@ -3821,6 +3824,9 @@
     "fajarjulyana/circular-nav-html-css-only": [
         "Other"
     ],
+    "falcontheme-com/falcon-theme-lite": [
+        "Other"
+    ],
     "fanfare/googleimagesrestored": [
         "Other"
     ],
@@ -4682,7 +4688,7 @@
     "jeeliz/jeelizFaceFilter": [
         "Other"
     ],
-    "jeevatkm/ReplyWithHeaderMozilla": [
+    "jeevatkm/ReplyWithHeader-Thunderbird": [
         "Other"
     ],
     "jeffreytram/UniDrive": [
@@ -5085,9 +5091,6 @@
         "Other"
     ],
     "koekeishiya/yabai": [
-        "Other"
-    ],
-    "kondasoft/ks-bootshop": [
         "Other"
     ],
     "koo5/hackery2": [
