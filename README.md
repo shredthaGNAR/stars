@@ -640,7 +640,7 @@ creating your own Awesome List by GitHub stars!
 * [khlam/debloat-samsung-android](https://github.com/khlam/debloat-samsung-android): ADB commands to aggressively de-bloat Samsung Android Phones without root. Make Samsung One UI closer to stock Android.
 * [DebianArch64/DebProvision](https://github.com/DebianArch64/DebProvision): An alternative to Cydia Impactor and AltServer for ALL computers.
 * [debridmediamanager/debrid-media-manager](https://github.com/debridmediamanager/debrid-media-manager): Curate an inifinite media library
-* [fynks/debrid-services-comparison](https://github.com/fynks/debrid-services-comparison): A comparision of available hosts and pricing for AllDebrid, Real-Debrid, LinkSnappy, Premiumize, debrid-link and TorBox
+* [fynks/debrid-services-comparison](https://github.com/fynks/debrid-services-comparison): A comparision of available hosts and pricing for AllDebrid, Real-Debrid, LinkSnappy, Premiumize, debrid-link, TorBox and Mega-Debrid
 * [aayush210789/Deception-Detection-on-Amazon-reviews-dataset](https://github.com/aayush210789/Deception-Detection-on-Amazon-reviews-dataset): A SVM model that classifies the reviews as real or fake. Used both the review text and the additional features contained in the data set to build a model that predicted with over 85% accuracy without using any deep learning techniques. 
 * [serengil/deepface](https://github.com/serengil/deepface): A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 * [nbennett320/define-firefox](https://github.com/nbennett320/define-firefox): A quick dictionary and thesaurus.
@@ -1443,7 +1443,7 @@ creating your own Awesome List by GitHub stars!
 * [ex3ndr/llama-coder](https://github.com/ex3ndr/llama-coder): Replace Copilot local AI
 * [run-llama/llama-lab](https://github.com/run-llama/llama-lab): None
 * [tuan3w/llama-raycast](https://github.com/tuan3w/llama-raycast): Chat with LLaMa in Raycast
-* [run-llama/llama_index](https://github.com/run-llama/llama_index): LlamaIndex is a data framework for your LLM applications
+* [run-llama/llama_index](https://github.com/run-llama/llama_index): LlamaIndex is the leading framework for building LLM-powered agents over your data
 * [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile): Distribute and run LLMs with a single file.
 * [lliurex/lliurex-gdrive](https://github.com/lliurex/lliurex-gdrive): App to manage google drive accounts
 * [ICTMCG/LLM-for-misinformation-research](https://github.com/ICTMCG/LLM-for-misinformation-research): Paper list of misinformation research using (multi-modal) large language models, i.e., (M)LLMs.
