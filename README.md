@@ -1428,10 +1428,12 @@ creating your own Awesome List by GitHub stars!
 * [wyattharrell/linkbook](https://github.com/wyattharrell/linkbook): Linkbook is a powerful link-saving web app that can store your favorite links, keep you organized, and much more. 
 * [eight04/linkify-plus-plus](https://github.com/eight04/linkify-plus-plus): A userscript/extension which can linkify almost everything. Based on Linkify Plus.
 * [eight04/linkify-plus-plus-core](https://github.com/eight04/linkify-plus-plus-core): A JavaScript library for linkification stuff. Used by linkify-plus-plus.
+* [LinkoraApp/Linkora](https://github.com/LinkoraApp/Linkora): the only link utility app you need for Android
 * [tetsuharuohzeki/linkplaces](https://github.com/tetsuharuohzeki/linkplaces): This is a add-on for Mozilla Firefox. This provides Sidebar to display "Unsorted Bookmarks" folder in Places, as "Temporary Links".
 * [koukaku01/LinkQR](https://github.com/koukaku01/LinkQR): A Firefox extension that instantly converts web links into QR codes with a single click from the address bar. Easily copy or download QR codes in PNG/SVG format for seamless sharing.
 * [velvia/links](https://github.com/velvia/links): Just a bunch of useful links
 * [cloux/LinkSanitizer](https://github.com/cloux/LinkSanitizer): Browser userscript to clean up hyperlink redirections and link shims
+* [LinkSheet/LinkSheet](https://github.com/LinkSheet/LinkSheet): Link handling for modern Android
 * [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden): ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
 * [Shopify/liquid](https://github.com/Shopify/liquid): Liquid markup language. Safe, customer facing template language for flexible web apps. 
 * [EvgeniyMukhamedjanov/liquid-ajax-cart](https://github.com/EvgeniyMukhamedjanov/liquid-ajax-cart): Build a Shopify Ajax-cart without JavaScript coding
@@ -1455,7 +1457,7 @@ creating your own Awesome List by GitHub stars!
 * [gkoehler/LogiCircleDownloader](https://github.com/gkoehler/LogiCircleDownloader): Automatically download all your videos from your Logi Circle camera
 * [kaktuspalme/LogiCircleDownloader](https://github.com/kaktuspalme/LogiCircleDownloader): Automatically download all your videos from your Logi Circle camera
 * [VMpc/Login-Stealer](https://github.com/VMpc/Login-Stealer): what the name says (made for "educational" purposes)
-* [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui): Lord of Large Language Models Web User Interface
+* [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui): Lord of Large Language and Multi modal Systems Web User Interface
 * [TB-throwback/LookOut-fix-version](https://github.com/TB-throwback/LookOut-fix-version): Fork of LookOut (fix version)
 * [MrKai77/Loop](https://github.com/MrKai77/Loop): Window management made elegant.
 * [musically-ut/lovely-forks](https://github.com/musically-ut/lovely-forks): 💚 🍴 Show notable forks of GitHub repositories under their names.
@@ -1544,7 +1546,7 @@ creating your own Awesome List by GitHub stars!
 * [massCodeIO/massCode](https://github.com/massCodeIO/massCode): A free and open source code snippets manager for developers
 * [material-components/material-components-web](https://github.com/material-components/material-components-web): Modular and customizable Material Design UI components for the web
 * [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated): 🦊 Firefox user CSS theme looks similar to Chrome
-* [material-extensions/material-icons-browser-extension](https://github.com/material-extensions/material-icons-browser-extension): Browser Addon that enhances file browsers of version controls with material icons.
+* [material-extensions/material-icons-browser-extension](https://github.com/material-extensions/material-icons-browser-extension): 🌐 Material Design icons for web browsers
 * [fmeyertoens/MaterialFox](https://github.com/fmeyertoens/MaterialFox): A Material Design-inspired userChrome.css theme for Firefox
 * [te6-in/MaterialFox-BigSur](https://github.com/te6-in/MaterialFox-BigSur): 🦊 A cleaner, more refined userChrome.css theme for Firefox—forked from MaterialFox
 * [typeling1578/MaterialFox-Plus](https://github.com/typeling1578/MaterialFox-Plus): A Material Design-inspired userChrome.css theme for Firefox. This repository is a Fork of muckSponge/MaterialFox.
