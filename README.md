@@ -108,7 +108,7 @@ creating your own Awesome List by GitHub stars!
 * [fniephaus/alfred-pocket](https://github.com/fniephaus/alfred-pocket): Manage your Pocket list with Alfred
 * [cj1128/alfred-qrcode-workflow](https://github.com/cj1128/alfred-qrcode-workflow): 🎉 Generate/Scan QR Code on the fly
 * [surrealroad/alfred-reminders](https://github.com/surrealroad/alfred-reminders): Manages reminders in Reminders.app
-* [sballin/alfred-search-notes-app](https://github.com/sballin/alfred-search-notes-app): Use Alfred to quickly open notes in iCloud/Apple Notes.
+* [sballin/alfred-search-notes-app](https://github.com/sballin/alfred-search-notes-app): Use Alfred to quickly open notes in iCloud/Apple Notes. Written in Go and designed for speed.
 * [deanishe/alfred-smartfolders](https://github.com/deanishe/alfred-smartfolders): Quick access to your Smart Folders (Saved Searches) from Alfred
 * [dkarter/alfred-switch-audio](https://github.com/dkarter/alfred-switch-audio): 🔊 Switch Audio Output/Input with Alfred
 * [pawelgrzybek/alfred-text-manipulation](https://github.com/pawelgrzybek/alfred-text-manipulation): None
@@ -910,7 +910,7 @@ creating your own Awesome List by GitHub stars!
 * [wrestlerdude/Firefox-Proton-Square](https://github.com/wrestlerdude/Firefox-Proton-Square): Makes Firefox Proton UI look and feel like Quantum
 * [Sporif/firefox-quantum-userchromejs](https://github.com/Sporif/firefox-quantum-userchromejs): Firefox Quantum-compatible custom javascript in browser context — no extension, userChromeJS replacement
 * [xpmn/firefox-reading-list](https://github.com/xpmn/firefox-reading-list): A minimal Firefox extension for saving pages to read later.
-* [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar): Refine the Firefox (100–134) find bar by repositioning it, adjusting spacing & styling internal elements.
+* [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar): Refine the Firefox (130–134) find bar by repositioning it, adjusting spacing & styling internal elements.
 * [mobiusxp/firefox-remap-private-browsing](https://github.com/mobiusxp/firefox-remap-private-browsing): UserChrome JS script to remap Firefox's Private Browsing to match everything else
 * [BGMP/firefox-revert-proton](https://github.com/BGMP/firefox-revert-proton): Revert Firefox Proton to Photon & Photon Compact
 * [panjilp-lab/firefox-safari-noFix](https://github.com/panjilp-lab/firefox-safari-noFix): learning to make safari style for firefox
