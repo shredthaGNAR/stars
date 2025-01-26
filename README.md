@@ -440,6 +440,7 @@ creating your own Awesome List by GitHub stars!
 * [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome): Bypass Paywalls web browser extension for Chrome and Firefox.
 * [bpc-clone/bypass-paywalls-clean-filters](https://github.com/bpc-clone/bypass-paywalls-clean-filters): None
 * [iamadamdev/bypass-paywalls-firefox](https://github.com/iamadamdev/bypass-paywalls-firefox): Bypass Paywalls for Firefox
+* [bpc-clone/bypass-paywalls-firefox-clean](https://github.com/bpc-clone/bypass-paywalls-firefox-clean): None
 * [alextidalrise/bysofie-shipping-message](https://github.com/alextidalrise/bysofie-shipping-message): None
 * [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet): The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://guides.cakewallet.com
 * [brunophilipe/Cakebrew](https://github.com/brunophilipe/Cakebrew): Manage your Homebrew formulas with style using Cakebrew.
@@ -683,6 +684,7 @@ creating your own Awesome List by GitHub stars!
 * [PepsRyuu/dock-window-preview](https://github.com/PepsRyuu/dock-window-preview): Mac OSX app that displays window previews when hovering over app icon on the Dock. 
 * [steventheworker/DockAltTab](https://github.com/steventheworker/DockAltTab): Window preview app for MacOS (on the dock) using AltTab.
 * [steventheworker/DockAltTab-home](https://github.com/steventheworker/DockAltTab-home): website for DockAltTab
+* [ejbills/DockDoor](https://github.com/ejbills/DockDoor): Window peeking for macOS
 * [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX): Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 * [haugene/docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn): Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel
 * [mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge): WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
@@ -1823,6 +1825,7 @@ creating your own Awesome List by GitHub stars!
 * [ChanChunCheong/PeopleSearch](https://github.com/ChanChunCheong/PeopleSearch): DSO Summer Internship-People Search Aggregator web application which use data analytics and artificial intelligence libraries, to simultaneously search social media profiles from various platforms, processes, and then rank the search results based on name, location, keywords and image matching
 * [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica): Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 * [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis): Persepolis is a download manager written in Python.
+* [ivansaul/personal-portfolio](https://github.com/ivansaul/personal-portfolio): Fully responsive personal  portfolio single-page website, responsive for all devices, built using HTML, CSS, JavaScript and Python.
 * [juyomay21/personal-site](https://github.com/juyomay21/personal-site): My personal website - built with React, React-Router, React-Snap for Static-Export, and GitHub Pages.
 * [mldangelo/personal-site](https://github.com/mldangelo/personal-site): My personal website - built with React, React-Router, React-Snap for Static-Export, and GitHub Pages.
 * [bjacquemet/personal-web](https://github.com/bjacquemet/personal-web): Hugo Template for Freelancer Portfolio and Blog

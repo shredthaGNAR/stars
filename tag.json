@@ -2855,6 +2855,9 @@
     "bpc-clone/bypass-paywalls-clean-filters": [
         "Other"
     ],
+    "bpc-clone/bypass-paywalls-firefox-clean": [
+        "Other"
+    ],
     "bpwned/protovibrant": [
         "Other"
     ],
@@ -3690,6 +3693,9 @@
         "Other"
     ],
     "eikendev/tbunread": [
+        "Other"
+    ],
+    "ejbills/DockDoor": [
         "Other"
     ],
     "eko5/Firefox-Mac-os-X-": [
@@ -4599,6 +4605,9 @@
         "Other"
     ],
     "ivanfioravanti/chatbot-ollama": [
+        "Other"
+    ],
+    "ivansaul/personal-portfolio": [
         "Other"
     ],
     "ivarbrandt/skin.fentastic": [
