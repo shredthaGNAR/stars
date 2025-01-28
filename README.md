@@ -1706,6 +1706,7 @@ creating your own Awesome List by GitHub stars!
 * [DominikPieper/obsidian-ReadItLater](https://github.com/DominikPieper/obsidian-ReadItLater): None
 * [mgmeyers/obsidian-style-settings](https://github.com/mgmeyers/obsidian-style-settings): A dynamic user interface for adjusting theme, plugin, and snippet CSS variables within Obsidian
 * [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template): Starter templates for Obsidian
+* [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium): Get Android app updates straight from the source.
 * [njnmco/odinochka](https://github.com/njnmco/odinochka): featherweight tab manager
 * [snte/odinochka](https://github.com/snte/odinochka): featherweight tab manager
 * [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh): The most customisable and low-latency cross platform/shell prompt renderer
@@ -1715,7 +1716,7 @@ creating your own Awesome List by GitHub stars!
 * [OhShINT/ohshint.gitbook.io](https://github.com/OhShINT/ohshint.gitbook.io): So what is this all about? Yep, its an OSINT blog and a collection of OSINT resources and tools. Suggestions for new OSINT resources is always welcomed.
 * [cbuijs/oisd](https://github.com/cbuijs/oisd): Optimized version of OISD BlockLists
 * [tom-james-watson/old-reddit-redirect](https://github.com/tom-james-watson/old-reddit-redirect): Ensure Reddit always loads the old design
-* [ollama/ollama](https://github.com/ollama/ollama): Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
+* [ollama/ollama](https://github.com/ollama/ollama): Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
 * [ollama-ui/ollama-ui](https://github.com/ollama-ui/ollama-ui): Simple HTML UI for Ollama
 * [kevinhermawan/Ollamac](https://github.com/kevinhermawan/Ollamac): Mac app for Ollama
 * [Sine-Of-Time/Omaha-Poker](https://github.com/Sine-Of-Time/Omaha-Poker):  A program that evaluates the winner of a 2-player Omaha-High Hold’em poker game.
