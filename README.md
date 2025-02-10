@@ -749,7 +749,6 @@ creating your own Awesome List by GitHub stars!
 * [easylist/easylist](https://github.com/easylist/easylist): EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
 * [coder-chenzhi/EasyTabURL-ChromeExtension](https://github.com/coder-chenzhi/EasyTabURL-ChromeExtension): Help you operate tabs' url more conveniently
 * [bmFtZQ/edge-frfox](https://github.com/bmFtZQ/edge-frfox): A Firefox userChrome.css theme that aims to recreate the look and feel of Microsoft Edge.
-* [maicol07/edge-frfox](https://github.com/maicol07/edge-frfox): A Firefox userChrome.css theme that aims to recreate the look and feel of the Chromium version of Microsoft Edge.
 * [23Bluemaster23/EdgeFox](https://github.com/23Bluemaster23/EdgeFox): Is a userchrome that imitates (or attempts to imitate) the style of Microsoft's Edge Chromiun browser. is a project in development./Es un userchrome que imita (o intenta imitar) el estilo del navegador Edge Chromiun de Microsoft. es un proyecto en desarrollo.
 * [artsyfriedchicken/EdgyArc-fr](https://github.com/artsyfriedchicken/EdgyArc-fr): Firefox Userchrome and sidebery style
 * [cleidigh/EditEmailSubject-MX](https://github.com/cleidigh/EditEmailSubject-MX): Conversion exercise for Thunderbird MailExtensions
@@ -1549,7 +1548,7 @@ creating your own Awesome List by GitHub stars!
 * [massCodeIO/massCode](https://github.com/massCodeIO/massCode): A free and open source code snippets manager for developers
 * [material-components/material-components-web](https://github.com/material-components/material-components-web): Modular and customizable Material Design UI components for the web
 * [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated): 🦊 Firefox user CSS theme looks similar to Chrome
-* [material-extensions/material-icons-browser-extension](https://github.com/material-extensions/material-icons-browser-extension): 🌐 Material Design icons for web browsers
+* [material-extensions/material-icons-browser-extension](https://github.com/material-extensions/material-icons-browser-extension): Material Design icons for web browsers
 * [fmeyertoens/MaterialFox](https://github.com/fmeyertoens/MaterialFox): A Material Design-inspired userChrome.css theme for Firefox
 * [te6-in/MaterialFox-BigSur](https://github.com/te6-in/MaterialFox-BigSur): 🦊 A cleaner, more refined userChrome.css theme for Firefox—forked from MaterialFox
 * [typeling1578/MaterialFox-Plus](https://github.com/typeling1578/MaterialFox-Plus): A Material Design-inspired userChrome.css theme for Firefox. This repository is a Fork of muckSponge/MaterialFox.
