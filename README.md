@@ -531,7 +531,6 @@ creating your own Awesome List by GitHub stars!
 * [PHLAK/CloudDrop](https://github.com/PHLAK/CloudDrop): Store and retrieve files in cloud storage providers (i.e. Dropbox, Google Drive, Microsoft OneDrive, Amazon Cloud Drive, etc.)
 * [zidansec/CloudPeler](https://github.com/zidansec/CloudPeler): CrimeFlare is a useful tool for bypassing websites protected by CloudFlare WAF, with this tool you can easily see the real IP of websites that have been protected by CloudFlare. The resulting information is certainly very useful for conducting further penetration testing, and analyzing websites with the same server.
 * [Micky1979/Clover-Configurator-Pro](https://github.com/Micky1979/Clover-Configurator-Pro): A free Plist Editor with some optional facilities for Clover UEFI boot loader
-* [johncoryk/coastal-shopify-theme](https://github.com/johncoryk/coastal-shopify-theme): Shopify theme for Low Coast Coffee
 * [imputnet/cobalt](https://github.com/imputnet/cobalt): best way to save what you love
 * [JudiniLabs/code-gpt-docs](https://github.com/JudiniLabs/code-gpt-docs): Docusaurus page
 * [lauthieb/code-notes](https://github.com/lauthieb/code-notes): (No longer maintained) A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
@@ -912,7 +911,7 @@ creating your own Awesome List by GitHub stars!
 * [wrestlerdude/Firefox-Proton-Square](https://github.com/wrestlerdude/Firefox-Proton-Square): Makes Firefox Proton UI look and feel like Quantum
 * [Sporif/firefox-quantum-userchromejs](https://github.com/Sporif/firefox-quantum-userchromejs): Firefox Quantum-compatible custom javascript in browser context — no extension, userChromeJS replacement
 * [xpmn/firefox-reading-list](https://github.com/xpmn/firefox-reading-list): A minimal Firefox extension for saving pages to read later.
-* [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar): Refine the Firefox (130–134) find bar by repositioning it, adjusting spacing & styling internal elements.
+* [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar): Refine the Firefox (130–135) find bar by repositioning it, adjusting spacing & styling internal elements.
 * [mobiusxp/firefox-remap-private-browsing](https://github.com/mobiusxp/firefox-remap-private-browsing): UserChrome JS script to remap Firefox's Private Browsing to match everything else
 * [BGMP/firefox-revert-proton](https://github.com/BGMP/firefox-revert-proton): Revert Firefox Proton to Photon & Photon Compact
 * [panjilp-lab/firefox-safari-noFix](https://github.com/panjilp-lab/firefox-safari-noFix): learning to make safari style for firefox
@@ -957,7 +956,7 @@ creating your own Awesome List by GitHub stars!
 * [benzBrake/FirefoxCustomize](https://github.com/benzBrake/FirefoxCustomize): Ryan 收集的 Firefox 个性化相关资源
 * [stobor827/firefoxPrefs](https://github.com/stobor827/firefoxPrefs): profile options that make firefox work the way I want.
 * [Tenmag/FirefoxPrivacyConfig](https://github.com/Tenmag/FirefoxPrivacyConfig): Firefox privacy configuration (help + user.js)
-* [wizrdsh/FirefoxSidebar](https://github.com/wizrdsh/FirefoxSidebar): Vertical tab design for Firefox with dynamic indentation:: Sidebery and TreeStyleTabs (Legacy) themes available! 
+* [drannex/FirefoxSidebar](https://github.com/drannex/FirefoxSidebar): Vertical tab design for Firefox with dynamic indentation:: Sidebery and TreeStyleTabs (Legacy) themes available! 
 * [garywill/FirefoxTaskMonitor](https://github.com/garywill/FirefoxTaskMonitor): Show CPU & memory bar, per tab and all tasks. Firefox userChrome script. 🛠️📊 
 * [xKrusty/FirefoxTheme](https://github.com/xKrusty/FirefoxTheme): None
 * [gomita/firegestures](https://github.com/gomita/firegestures): FireGestures, a Firefox extension.
@@ -1430,7 +1429,7 @@ creating your own Awesome List by GitHub stars!
 * [wyattharrell/linkbook](https://github.com/wyattharrell/linkbook): Linkbook is a powerful link-saving web app that can store your favorite links, keep you organized, and much more. 
 * [eight04/linkify-plus-plus](https://github.com/eight04/linkify-plus-plus): A userscript/extension which can linkify almost everything. Based on Linkify Plus.
 * [eight04/linkify-plus-plus-core](https://github.com/eight04/linkify-plus-plus-core): A JavaScript library for linkification stuff. Used by linkify-plus-plus.
-* [LinkoraApp/Linkora](https://github.com/LinkoraApp/Linkora): the only link utility app you need for Android
+* [LinkoraApp/Linkora](https://github.com/LinkoraApp/Linkora): The only link utility app you need for Android, now available on desktop.
 * [tetsuharuohzeki/linkplaces](https://github.com/tetsuharuohzeki/linkplaces): This is a add-on for Mozilla Firefox. This provides Sidebar to display "Unsorted Bookmarks" folder in Places, as "Temporary Links".
 * [koukaku01/LinkQR](https://github.com/koukaku01/LinkQR): A Firefox extension that instantly converts web links into QR codes with a single click from the address bar. Easily copy or download QR codes in PNG/SVG format for seamless sharing.
 * [velvia/links](https://github.com/velvia/links): Just a bunch of useful links
