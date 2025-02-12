@@ -312,7 +312,7 @@ creating your own Awesome List by GitHub stars!
 * [tomhaydn/BetArbit](https://github.com/tomhaydn/BetArbit): Sports betting arbitrage algorithm
 * [dashee87/betScrapeR](https://github.com/dashee87/betScrapeR): R package to scrape live sports betting odds
 * [aligo/better-google](https://github.com/aligo/better-google): Userscript to Better (or Older and Good) Google
-* [cnwangjie/better-onetab](https://github.com/cnwangjie/better-onetab): :bookmark_tabs: A better OneTab for Chrome  :memo: Temporarily removed from firefox :construction: V2 is WIP
+* [cnwangjie/better-onetab](https://github.com/cnwangjie/better-onetab): :bookmark_tabs: A better OneTab for Chrome  :memo:
 * [structunit/better-onetab](https://github.com/structunit/better-onetab): :bookmark_tabs: A better OneTab for Chrome (Temporarily removed from firefox & without maintain in a period & any cooperative purpose are welcome)
 * [wlor0623/better-onetab](https://github.com/wlor0623/better-onetab): :bookmark_tabs: A better OneTab for Chrome  :memo: Temporarily removed from firefox :construction: V2 is WIP
 * [cnwangjie/better-onetab-sync-server](https://github.com/cnwangjie/better-onetab-sync-server): This is the sync server for better-onetab. Please don't submit PR to master directly.
@@ -1450,7 +1450,7 @@ creating your own Awesome List by GitHub stars!
 * [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile): Distribute and run LLMs with a single file.
 * [lliurex/lliurex-gdrive](https://github.com/lliurex/lliurex-gdrive): App to manage google drive accounts
 * [ICTMCG/LLM-for-misinformation-research](https://github.com/ICTMCG/LLM-for-misinformation-research): Paper list of misinformation research using (multi-modal) large language models, i.e., (M)LLMs.
-* [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library): Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for Siri, GPT-4o, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
+* [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library): Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for Deepseek, GPT o1, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
 * [igorlogius/load-background-tabs-on-select](https://github.com/igorlogius/load-background-tabs-on-select): Prevents background tabs from loading until they have been manually activated
 * [nagaraj-real/localaipilot-api](https://github.com/nagaraj-real/localaipilot-api): API container for Local AI Pilot extension
 * [cleidigh/Localfolder-TB](https://github.com/cleidigh/Localfolder-TB): Thunderbird Add-On to add additional local folders to accounts
