@@ -154,7 +154,7 @@ creating your own Awesome List by GitHub stars!
 * [mortenjust/androidtool-mac](https://github.com/mortenjust/androidtool-mac): One-click screenshots, video recordings, app installation for iOS and Android
 * [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod): A podcast manager for Android
 * [AbdurazaaqMohammed/AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M): App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android
-* [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm): The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
+* [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm): The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more.
 * [Mintplex-Labs/anythingllm-extension](https://github.com/Mintplex-Labs/anythingllm-extension): Browser extension for AnythingLLM Docker & Desktop application
 * [amugofjava/anytime_podcast_player](https://github.com/amugofjava/anytime_podcast_player): Simple, easy to use Podcast player app written in Flutter and Dart.
 * [drcika/apc-extension](https://github.com/drcika/apc-extension): None
@@ -474,6 +474,7 @@ creating your own Awesome List by GitHub stars!
 * [Adobe-CEP/CEP-Resources](https://github.com/Adobe-CEP/CEP-Resources): Tools and documentation for building Creative Cloud app extensions with CEP
 * [sereneblue/chameleon](https://github.com/sereneblue/chameleon): WebExtension port of Random Agent Spoofer
 * [Godiesc/Chameleons-Beauty](https://github.com/Godiesc/Chameleons-Beauty): Adapted "Beautiful" Themes
+* [chandrikadeb7/chandrikadeb7.github.io](https://github.com/chandrikadeb7/chandrikadeb7.github.io): Personal portfolio website hosted using GitHub Pages - Version 2 
 * [jscher2000/change-maximized-to-resizable](https://github.com/jscher2000/change-maximized-to-resizable): Firefox Extension to Change Maximized New Window to Resizable 
 * [dtkdt100/Chat-GPT-for-Gmail](https://github.com/dtkdt100/Chat-GPT-for-Gmail): A browser extension to complete your email with the help of ChatGPT
 * [sugarforever/chat-ollama](https://github.com/sugarforever/chat-ollama): ChatOllama is an open source chatbot based on LLMs. It supports a wide range of language models, and knowledge base management.
@@ -2086,6 +2087,7 @@ creating your own Awesome List by GitHub stars!
 * [bedimcode/responsive-portfolio-website-Alexa](https://github.com/bedimcode/responsive-portfolio-website-Alexa): Responsive Portfolio Website Using HTML, CSS & JavaScript
 * [cerealkella/rest-uploader](https://github.com/cerealkella/rest-uploader): REST API File Uploader
 * [hanacchi/RestoreFirefoxJS](https://github.com/hanacchi/RestoreFirefoxJS): userChromeJS scripts to restore Firefox features that have been removed or changed
+* [izzydoesizzy/resumetemplate](https://github.com/izzydoesizzy/resumetemplate): Creative: Personal website/landing page template.
 * [briangershon/retrieve-pocket-bookmarks](https://github.com/briangershon/retrieve-pocket-bookmarks): Retrieves your bookmarks and meta data from Pocket API (via https://getpocket.com/developer/docs/v3/retrieve)
 * [cormiertyshawn895/Retroactive](https://github.com/cormiertyshawn895/Retroactive): Retroactive has been discontinued. You should transition from Retroactive to supported apps such as Music, iTunes for Windows, iMazing, Photos, Darktable, Lightroom Classic, and DaVinci Resolve.
 * [NoName-exe/revanced](https://github.com/NoName-exe/revanced): ReVanced YT and YT-M for both root and non-root users.
