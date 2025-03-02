@@ -1673,6 +1673,9 @@
     "SirAlidadi/HackBar": [
         "Other"
     ],
+    "SirCryptic/autoexif": [
+        "Other"
+    ],
     "Skyflash/skyflash.github.io": [
         "Other"
     ],
@@ -3348,6 +3351,9 @@
         "Other"
     ],
     "davidnguyen11/web-extension-boilerplate": [
+        "Other"
+    ],
+    "davidpoblador/pocket-to-bookmarks-html": [
         "Other"
     ],
     "dawiidio/o-menu": [
@@ -5870,6 +5876,9 @@
     "mtxadmin/ublock": [
         "Other"
     ],
+    "muckSponge/MaterialFox": [
+        "Other"
+    ],
     "mufeedvh/gisture": [
         "Other"
     ],
@@ -7307,6 +7316,9 @@
     "skylineone044/blurclean-firefox-theme": [
         "Other"
     ],
+    "slimcandy/MetaCleaner": [
+        "Other"
+    ],
     "slysherz/vscode-comment-box": [
         "Other"
     ],
@@ -7572,6 +7584,9 @@
         "Other"
     ],
     "syphon-org/syphon": [
+        "Other"
+    ],
+    "szTheory/exifcleaner": [
         "Other"
     ],
     "szczyglis-dev/py-gpt": [
@@ -8259,9 +8274,6 @@
         "Other"
     ],
     "willofindie/vscode-cssvar": [
-        "Other"
-    ],
-    "wilson-tim/convert-pocket-export-to-csv": [
         "Other"
     ],
     "winder/Universal-G-Code-Sender": [

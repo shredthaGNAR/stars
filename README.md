@@ -219,6 +219,7 @@ creating your own Awesome List by GitHub stars!
 * [shedaniel/AutoConfig](https://github.com/shedaniel/AutoConfig): Fork of Auto Config.
 * [thunderbird/autoconfig](https://github.com/thunderbird/autoconfig): The ISPDB, Thunderbird's database of mail configuration files.
 * [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq): Automatic headphone equalization from frequency responses
+* [SirCryptic/autoexif](https://github.com/SirCryptic/autoexif): want to remove sensitive data from photos or even view it? use autoexif to easily help you do that no more remembering syntaxs with this user-friendly tool.
 * [synappser/AutoFocus](https://github.com/synappser/AutoFocus): A focus-follows-mouse implementation on steroids!
 * [wting/autojump](https://github.com/wting/autojump): A cd command that learns - easily navigate directories from the command line
 * [tsaost/autoload-temporary-addon](https://github.com/tsaost/autoload-temporary-addon): Automatically load temporary addons from a local directory when Firefox starts
@@ -561,7 +562,6 @@ creating your own Awesome List by GitHub stars!
 * [continuedev/continue](https://github.com/continuedev/continue): ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
 * [dokterdok/Continuity-Activation-Tool](https://github.com/dokterdok/Continuity-Activation-Tool): An all-in-one tool to activate and diagnose macOS 10.10-12 Continuity on compatible Mac configurations.
 * [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter): Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - for desktop and mobile
-* [wilson-tim/convert-pocket-export-to-csv](https://github.com/wilson-tim/convert-pocket-export-to-csv): Extract Pocket exported saves list to CSV (Python)
 * [lotusshinoaki/converts-html-exported-from-pocket-into-an-importable-format](https://github.com/lotusshinoaki/converts-html-exported-from-pocket-into-an-importable-format): None
 * [google-gemini/cookbook](https://github.com/google-gemini/cookbook): Examples and guides for using the Gemini API
 * [Cookie-AutoDelete/Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete): Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
@@ -791,6 +791,7 @@ creating your own Awesome List by GitHub stars!
 * [billmei/every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui): Every front-end GUI client for ChatGPT, Claude, and other LLMs
 * [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2): Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
 * [SoldierInFaith14/excel_automation](https://github.com/SoldierInFaith14/excel_automation): Python script that modifies Shopify spreadsheet exports of order details.
+* [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner): Cross-platform desktop GUI app to clean image metadata
 * [KhashayarKhm/export-tabs-urls](https://github.com/KhashayarKhm/export-tabs-urls): https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
 * [Zabakes/export-tabs-urls](https://github.com/Zabakes/export-tabs-urls): https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
 * [alct/export-tabs-urls](https://github.com/alct/export-tabs-urls): https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
@@ -1080,7 +1081,7 @@ creating your own Awesome List by GitHub stars!
 * [benbalter/github_records_archiver](https://github.com/benbalter/github_records_archiver): Backs up a GitHub organization's repositories and all their associated information for archival purposes.
 * [github/gitignore](https://github.com/github/gitignore): A collection of useful .gitignore templates
 * [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal): Mobile first Note Taking integrated with Git
-* [arifszn/gitprofile](https://github.com/arifszn/gitprofile): 🚀 Create and deploy a dynamic portfolio by just providing your GitHub username.
+* [arifszn/gitprofile](https://github.com/arifszn/gitprofile): 🚀 Create and publish a dynamic portfolio by just providing your GitHub username.
 * [gorse-io/gitrec](https://github.com/gorse-io/gitrec): A recommender system for GitHub repositories based on Gorse
 * [to-ie/gitswitch](https://github.com/to-ie/gitswitch): This script helps with users who have multiple GitHub profiles and require to switch between them on a regular basis.  
 * [gitx/gitx](https://github.com/gitx/gitx): The best fork of the best lightweight, visual git client for macOS.
@@ -1148,7 +1149,7 @@ creating your own Awesome List by GitHub stars!
 * [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all): GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 * [CryptoMonkey21/gpt4free](https://github.com/CryptoMonkey21/gpt4free): The official gpt4free repository | various collection of powerful language models
 * [Linhvjc/gpt4free](https://github.com/Linhvjc/gpt4free): None
-* [xtekky/gpt4free](https://github.com/xtekky/gpt4free): The official gpt4free repository | various collection of powerful language models | o3 mini and deepseek r1
+* [xtekky/gpt4free](https://github.com/xtekky/gpt4free): The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
 * [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free): Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
 * [tg12/gpt_jailbreak_status](https://github.com/tg12/gpt_jailbreak_status): This is a repository that aims to provide updates on the status of jailbreaking the OpenAI GPT language model.
 * [Taewan-P/gpt_mobile](https://github.com/Taewan-P/gpt_mobile): Chat app for Android that supports answers from multiple LLMs at once. Bring your own API key AI client. Supports OpenAI, Anthropic, Google, and Ollama. Designed with Material3 & Compose.
@@ -1552,6 +1553,7 @@ creating your own Awesome List by GitHub stars!
 * [material-extensions/material-icons-browser-extension](https://github.com/material-extensions/material-icons-browser-extension): Material Design icons for web browsers
 * [material-theme/material-theme-support](https://github.com/material-theme/material-theme-support): Fanny Theme, the new most epic theme for Visual Studio Code 
 * [fmeyertoens/MaterialFox](https://github.com/fmeyertoens/MaterialFox): A Material Design-inspired userChrome.css theme for Firefox
+* [muckSponge/MaterialFox](https://github.com/muckSponge/MaterialFox): A Material Design-inspired userChrome.css theme for Firefox
 * [te6-in/MaterialFox-BigSur](https://github.com/te6-in/MaterialFox-BigSur): 🦊 A cleaner, more refined userChrome.css theme for Firefox—forked from MaterialFox
 * [typeling1578/MaterialFox-Plus](https://github.com/typeling1578/MaterialFox-Plus): A Material Design-inspired userChrome.css theme for Firefox. This repository is a Fork of muckSponge/MaterialFox.
 * [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome): 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
@@ -1581,6 +1583,7 @@ creating your own Awesome List by GitHub stars!
 * [nickysemenza/message-analyzer](https://github.com/nickysemenza/message-analyzer): 💬 📊 Facebook Messenger history scraper + analyzer
 * [cleidigh/Message-archive-options-TB](https://github.com/cleidigh/Message-archive-options-TB): Thunderbird Add-On Adds the ability to customize the date format of the archive folders created by TB Archive Messages
 * [glaurent/MessagesHistoryBrowser](https://github.com/glaurent/MessagesHistoryBrowser): a macOS/OSX app to comfortably browse and search through your Messages.app history.
+* [slimcandy/MetaCleaner](https://github.com/slimcandy/MetaCleaner): Easily remove metadata from your images with our online tool, MetaCleaner. Preserve your privacy by stripping out EXIF data from your photos in seconds.
 * [duolingo/metasearch](https://github.com/duolingo/metasearch): Search aggregator for Slack, Google Docs, GitHub, and more :mag:
 * [alexta69/metube](https://github.com/alexta69/metube): Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 * [nanocortex/metube-firefox-addon](https://github.com/nanocortex/metube-firefox-addon): Firefox addon for queueing videos to MeTube instance.
@@ -1893,6 +1896,7 @@ creating your own Awesome List by GitHub stars!
 * [andyw8/pocket-ruby](https://github.com/andyw8/pocket-ruby): Ruby wrapper for the Pocket REST and Search APIs
 * [ShockwaveNN/pocket-sinatra-interface](https://github.com/ShockwaveNN/pocket-sinatra-interface): Sinatra-based web interface for pocket api
 * [sanghviharshit/pocket-tagger](https://github.com/sanghviharshit/pocket-tagger): 📖👓🏷Tag your getpocket.com articles automatically using natural language processing
+* [davidpoblador/pocket-to-bookmarks-html](https://github.com/davidpoblador/pocket-to-bookmarks-html): A pocket export to bookmarks.html converter
 * [mufidu/pocket-to-markdown](https://github.com/mufidu/pocket-to-markdown): Export all Pocket articles to markdown files, including tags and images. Great to use with Obsidian.
 * [gullitmiranda/pocket-to-raindrop](https://github.com/gullitmiranda/pocket-to-raindrop): Script to export bookmarks from https://getpocket.com to https://raindrop.io.
 * [dogsheep/pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite): Create a SQLite database containing data from your Pocket account
