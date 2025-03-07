@@ -263,7 +263,6 @@ creating your own Awesome List by GitHub stars!
 * [vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons): A curated list of awesome Web Font Icons
 * [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv): A curated list of resources related to IPTV
 * [automata/awesome-jamstack](https://github.com/automata/awesome-jamstack): Carefully curated list of awesome Jamstack resources
-* [Cyanhall/awesome-javascript](https://github.com/Cyanhall/awesome-javascript): Better Awesome JavaScript List with 🔥 Stars 🌐 Dependent Packages 📝 Last Commit
 * [kot-behemoth/awesome-joplin](https://github.com/kot-behemoth/awesome-joplin): 📒 A curated list of awesome Joplin themes and tools.
 * [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM): Awesome-LLM: a curated list of Large Language Model
 * [HoMeCracKeR/awesome-mac](https://github.com/HoMeCracKeR/awesome-mac):  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -504,7 +503,7 @@ creating your own Awesome List by GitHub stars!
 * [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples): Chrome Extensions Samples
 * [foray1010/chrome-manifest-loader](https://github.com/foray1010/chrome-manifest-loader): Chrome manifest loader for webpack
 * [AmiaaaZ/chrome-read-later](https://github.com/AmiaaaZ/chrome-read-later): A temporary bookmark focuses on reading later, rather than closing and removing, with several Vim keybindings!
-* [willbchang/chrome-read-later](https://github.com/willbchang/chrome-read-later): A temporary bookmark focuses on reading later, rather than closing and removing, with several Vim keybindings!
+* [willbchang/chrome-read-later](https://github.com/willbchang/chrome-read-later): A temporary bookmark focused on reading later, rather than closing and removing, with several Vim keybindings!
 * [elgervb/chrome-readinglist2](https://github.com/elgervb/chrome-readinglist2): None
 * [Noitidart/Chrome-Store-Foxified](https://github.com/Noitidart/Chrome-Store-Foxified): Point and click to install extensions into your browser from the AMO, Chrome Web Store, Microsoft Store, or Opera Addons websites.
 * [matthewfallshaw/chrome-window-management-scripts](https://github.com/matthewfallshaw/chrome-window-management-scripts): Chrome window and tab management scripts
@@ -2400,7 +2399,7 @@ creating your own Awesome List by GitHub stars!
 * [shredthaGNAR/static-marks-docker](https://github.com/shredthaGNAR/static-marks-docker): Containerized static-marks to convert plain yaml bookmark files into a static web app.
 * [gaerfield/static-marks-github-pages](https://github.com/gaerfield/static-marks-github-pages): static-marks automatically deployed to github-pages
 * [vipintom/stealthFox](https://github.com/vipintom/stealthFox): Clean and minimal set of changes to get Vertical Tabs in Firefox
-* [mikropsoft/StevenBlock](https://github.com/mikropsoft/StevenBlock): Ad Blocking Module for Android (Magisk - KernelSU - APatch)
+* [mikropsoft/StevenBlock](https://github.com/mikropsoft/StevenBlock): 🚫 Advanced Ad-Blocking Module for Android | Compatible with Magisk, KernelSU, and APatch 🔒
 * [Shopify/storefront-api-feedback](https://github.com/Shopify/storefront-api-feedback): The home of discussions and feedback surrounding the evolution of Shopify's Storefront API.
 * [streamlink/streamlink](https://github.com/streamlink/streamlink): Streamlink is a CLI utility which pipes video streams from various services into a video player
 * [MrMonkey42/stremio-addon-debrid-search](https://github.com/MrMonkey42/stremio-addon-debrid-search): Stremio Addon to search downloads and torrents in your Debrid cloud
