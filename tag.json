@@ -1226,6 +1226,9 @@
     "Mygod/VPNHotspot": [
         "Other"
     ],
+    "MykytaCherniavskyi/web-profile": [
+        "Other"
+    ],
     "Naezr/ShyFox": [
         "Other"
     ],
@@ -2445,9 +2448,6 @@
         "Other"
     ],
     "andrejsharapov/vue-box-shadows": [
-        "Other"
-    ],
-    "andrepolischuk/keep": [
         "Other"
     ],
     "andrewchidden/btt-controllers": [
@@ -8532,6 +8532,9 @@
         "Other"
     ],
     "zenangst/Gray": [
+        "Other"
+    ],
+    "zeon-studio/astroplate": [
         "Other"
     ],
     "zephyrer/userChromeJS": [
