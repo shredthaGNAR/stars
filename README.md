@@ -362,6 +362,7 @@ creating your own Awesome List by GitHub stars!
 * [khaneliman/blurredfox](https://github.com/khaneliman/blurredfox): A sleek, modern and elegant Firefox CSS theme
 * [iam4x/bobarr](https://github.com/iam4x/bobarr): 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 * [Tenica/bookMark](https://github.com/Tenica/bookMark): A bookmark webpage built with javaScript 
+* [luxuxl/bookmark](https://github.com/luxuxl/bookmark): This is my personal Shareable bookmarks
 * [MattRuetz/bookmark-app](https://github.com/MattRuetz/bookmark-app): Simple webpage to store bookmarks using localStorage. Flexible and simple UI using CSS variables and animations.
 * [TarekJor/bookmark-archiver](https://github.com/TarekJor/bookmark-archiver): 🗄 Save an archived copy of websites from Pocket/Pinboard/Bookmarks/RSS. Outputs HTML, PDFs, and more...
 * [MrOtherGuy/bookmark-batch-updater](https://github.com/MrOtherGuy/bookmark-batch-updater): A webextension tool to update multiple bookmarks at once
@@ -1453,6 +1454,7 @@ creating your own Awesome List by GitHub stars!
 * [lliurex/lliurex-gdrive](https://github.com/lliurex/lliurex-gdrive): App to manage google drive accounts
 * [ICTMCG/LLM-for-misinformation-research](https://github.com/ICTMCG/LLM-for-misinformation-research): Paper list of misinformation research using (multi-modal) large language models, i.e., (M)LLMs.
 * [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library): Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for Deepseek, GPT o1, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
+* [kartikm7/llocal](https://github.com/kartikm7/llocal): Aiming to provide a seamless and privacy driven chatting experience with open-sourced technologies(Ollama), particularly open sourced LLM's(eg. Llama3, Phi-3, Mistral). Focused on ease of use. Available on both Windows and Mac.
 * [igorlogius/load-background-tabs-on-select](https://github.com/igorlogius/load-background-tabs-on-select): Prevents background tabs from loading until they have been manually activated
 * [nagaraj-real/localaipilot-api](https://github.com/nagaraj-real/localaipilot-api): API container for Local AI Pilot extension
 * [cleidigh/Localfolder-TB](https://github.com/cleidigh/Localfolder-TB): Thunderbird Add-On to add additional local folders to accounts
@@ -2393,6 +2395,7 @@ creating your own Awesome List by GitHub stars!
 * [maizzle/starter-markdown](https://github.com/maizzle/starter-markdown): Generate HTML emails from Markdown files
 * [actions/starter-workflows](https://github.com/actions/starter-workflows): Accelerating new GitHub Actions workflows 
 * [thedevdojo/static](https://github.com/thedevdojo/static): ⚡️ The ultimate static site generator. Tailor-made for killer blogs, sizzling SaaS landings, audacious personal sites, and every web fantasy you dare to dream up.
+* [WeinbM/static-marks](https://github.com/WeinbM/static-marks): Shareable bookmarks
 * [darekkay/static-marks](https://github.com/darekkay/static-marks): Shareable bookmarks
 * [darekkay/static-marks-app](https://github.com/darekkay/static-marks-app): Frontend part of the Static Marks project
 * [gaerfield/static-marks-docker](https://github.com/gaerfield/static-marks-docker): Containerized static-marks to convert plain yaml bookmark files into a static web app.
