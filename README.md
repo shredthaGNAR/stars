@@ -77,7 +77,7 @@ creating your own Awesome List by GitHub stars!
 * [piroor/aggregate-tabs-to-main-window](https://github.com/piroor/aggregate-tabs-to-main-window): Aggregate new tabs to a window which has most many tabs and largest size.
 * [fastaddons/AI-Anywhere](https://github.com/fastaddons/AI-Anywhere): None
 * [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions): 🤖 AI browser extensions & userscripts to enhance your web experience
-* [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists): The AIO Firebog Blocklists is a collection of unified blocklists designed to provide complete filtering capabilities for different online threats. These blocklists are curated from multiple sources, offering a robust solution for blocking ads, malware, trackers, and other potentially unwanted content.
+* [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists): The AIO Firebog Blocklists is a collection of unified blocklists designed to provide complete filtering capabilities for different online threats. These blocklists are curated from multiple sources, offering a robust solution for blocking ads, malware, trackers, and other unwanted content.
 * [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams): Combine all your streams into one addon and display them with consistent formatting, sorting, and filtering
 * [air-controller/air-controller-desktop](https://github.com/air-controller/air-controller-desktop): A new handy and powerful Android phone assistant， powered by Flutter.
 * [canalnoises/AirDrop-Shortcut](https://github.com/canalnoises/AirDrop-Shortcut): A script to select AirDrop from Finder's Share menu. Assign to a keyboard shortcut for quick AirDropping.
@@ -1454,7 +1454,7 @@ creating your own Awesome List by GitHub stars!
 * [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile): Distribute and run LLMs with a single file.
 * [lliurex/lliurex-gdrive](https://github.com/lliurex/lliurex-gdrive): App to manage google drive accounts
 * [ICTMCG/LLM-for-misinformation-research](https://github.com/ICTMCG/LLM-for-misinformation-research): Paper list of misinformation research using (multi-modal) large language models, i.e., (M)LLMs.
-* [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library): Prompts for various LLMs + scripts & tools. Suitable for models from Deepseek, OpenAI, Claude, Meta, Mistral, Google, and others.
+* [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library): Prompts for various LLMs + scripts & tools. Suitable for models from Deepseek, OpenAI, Claude, Meta, Mistral, Google, Grok, and others.
 * [kartikm7/llocal](https://github.com/kartikm7/llocal): Aiming to provide a seamless and privacy driven chatting experience with open-sourced technologies(Ollama), particularly open sourced LLM's(eg. Llama3, Phi-3, Mistral). Focused on ease of use. Available on both Windows and Mac.
 * [igorlogius/load-background-tabs-on-select](https://github.com/igorlogius/load-background-tabs-on-select): Prevents background tabs from loading until they have been manually activated
 * [nagaraj-real/localaipilot-api](https://github.com/nagaraj-real/localaipilot-api): API container for Local AI Pilot extension
@@ -2302,7 +2302,7 @@ creating your own Awesome List by GitHub stars!
 * [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet): The knowledge tinkerer's notebook
 * [tiansh/simple-context-search](https://github.com/tiansh/simple-context-search): An easy way to act a context searching with one-time selected search provider. Context Search should be Simple. This extension use your searching list configured in browser, which means it could be used just out-of-box.
 * [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups): Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
-* [migueravila/SimpleFox](https://github.com/migueravila/SimpleFox): 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
+* [migueravila/simplefox](https://github.com/migueravila/simplefox): 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
 * [Automattic/simplenote-macos](https://github.com/Automattic/simplenote-macos): Simplenote for macOS
 * [gildas-lormeau/single-file-cli](https://github.com/gildas-lormeau/single-file-cli): CLI tool for saving a faithful copy of a complete web page in a single HTML file (based on SingleFile)
 * [gildas-lormeau/single-file-companion-lite](https://github.com/gildas-lormeau/single-file-companion-lite): SingleFile Companion Lite
