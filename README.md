@@ -391,7 +391,7 @@ creating your own Awesome List by GitHub stars!
 * [dvdn/bookmarks-reader](https://github.com/dvdn/bookmarks-reader): Display all your bookmarks files on a webpage
 * [mabdelaal86/bookmarks_gkeep](https://github.com/mabdelaal86/bookmarks_gkeep): Copy bookmarks from Google Keep into Pocket/Instapaper
 * [frederikb/bookmarksync](https://github.com/frederikb/bookmarksync): Synchronize your browser bookmarks from a GitHub repository
-* [VienDinhCom/bootstrap-shopify-theme](https://github.com/VienDinhCom/bootstrap-shopify-theme): 🛍 A free Shopify Theme built with Bootstrap, BEM, Liquid, Sass, ESNext, Theme Tools, ... and Webpack.
+* [VienDinhCom/bootstrap-shopify-theme](https://github.com/VienDinhCom/bootstrap-shopify-theme): 🛍 A responsive Shopify theme using Bootstrap, BEM, Liquid, Sass, ESNext, Theme Tools, and Webpack for flexibility.
 * [dreadnaut/bordercolors-d](https://github.com/dreadnaut/bordercolors-d): A Thunderbird add-on to color-code the compose window based on the selected identity.
 * [lazarnarcis/box-shadow-generator](https://github.com/lazarnarcis/box-shadow-generator): You can use this web application to more easily generate Box Shadow CSS!
 * [madeas/box-shadows.css](https://github.com/madeas/box-shadows.css):  :pisces: A cross-browser collection of CSS box-shadows
@@ -481,7 +481,7 @@ creating your own Awesome List by GitHub stars!
 * [dtkdt100/Chat-GPT-for-Gmail](https://github.com/dtkdt100/Chat-GPT-for-Gmail): A browser extension to complete your email with the help of ChatGPT
 * [sugarforever/chat-ollama](https://github.com/sugarforever/chat-ollama): ChatOllama is an open source chatbot based on LLMs. It supports a wide range of language models, and knowledge base management.
 * [ivanfioravanti/chatbot-ollama](https://github.com/ivanfioravanti/chatbot-ollama): Chatbot Ollama is an open source chat UI for Ollama.
-* [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox): User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
+* [chatboxai/chatbox](https://github.com/chatboxai/chatbox): User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 * [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT): OpenAI API Free Reverse Proxy
 * [khzg/ChatGPT](https://github.com/khzg/ChatGPT): Ai Chat everywhere (firefox addons)
 * [lencx/ChatGPT](https://github.com/lencx/ChatGPT): 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
@@ -1454,7 +1454,7 @@ creating your own Awesome List by GitHub stars!
 * [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile): Distribute and run LLMs with a single file.
 * [lliurex/lliurex-gdrive](https://github.com/lliurex/lliurex-gdrive): App to manage google drive accounts
 * [ICTMCG/LLM-for-misinformation-research](https://github.com/ICTMCG/LLM-for-misinformation-research): Paper list of misinformation research using (multi-modal) large language models, i.e., (M)LLMs.
-* [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library): Prompts for various LLMs + scripts & tools. Suitable for models from Deepseek, OpenAI, Claude, Meta, Mistral, Google, Grok, and others.
+* [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library): My personal prompt library for various LLMs + scripts & tools. Suitable for models from Deepseek, OpenAI, Claude, Meta, Mistral, Google, Grok, and others.
 * [kartikm7/llocal](https://github.com/kartikm7/llocal): Aiming to provide a seamless and privacy driven chatting experience with open-sourced technologies(Ollama), particularly open sourced LLM's(eg. Llama3, Phi-3, Mistral). Focused on ease of use. Available on both Windows and Mac.
 * [igorlogius/load-background-tabs-on-select](https://github.com/igorlogius/load-background-tabs-on-select): Prevents background tabs from loading until they have been manually activated
 * [nagaraj-real/localaipilot-api](https://github.com/nagaraj-real/localaipilot-api): API container for Local AI Pilot extension
@@ -1589,8 +1589,8 @@ creating your own Awesome List by GitHub stars!
 * [alexta69/metube](https://github.com/alexta69/metube): Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 * [nanocortex/metube-firefox-addon](https://github.com/nanocortex/metube-firefox-addon): Firefox addon for queueing videos to MeTube instance.
 * [WSTxda/MicroG-RE](https://github.com/WSTxda/MicroG-RE): GmsCore fork for ReVanced with Material You, features and improvements
+* [artginzburg/MiddleClick](https://github.com/artginzburg/MiddleClick):  "Wheel click" with three-finger click/tap for Trackpad and Magic Mouse.
 * [cl3m/MiddleClick](https://github.com/cl3m/MiddleClick): Emulate a middleclick with triple tap on MacBook trackpad and Magic Mouse.
-* [artginzburg/MiddleClick-Sonoma](https://github.com/artginzburg/MiddleClick-Sonoma):  "Wheel click" with three-finger click/tap for Trackpad and Magic Mouse.
 * [Midnight-Lizard/Midnight-Lizard](https://github.com/Midnight-Lizard/Midnight-Lizard): Сustom color schemes for all websites
 * [mut-ex/minimal-functional-fox](https://github.com/mut-ex/minimal-functional-fox): A minimal, yet functional Firefox userChrome configuration.
 * [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes): :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
@@ -2200,8 +2200,8 @@ creating your own Awesome List by GitHub stars!
 * [d-evil0per/serverless-hosting](https://github.com/d-evil0per/serverless-hosting): How to host websites using free cloud storage
 * [LeeluPradhan/Service-accounts-seperator-AutoRclone](https://github.com/LeeluPradhan/Service-accounts-seperator-AutoRclone): To split google service accounts after 10 accounts, to add in google group easily and use autorclone!
 * [aderyabin/ServPane](https://github.com/aderyabin/ServPane): A launchd menu bar app for Mac
-* [oxen-io/session-android](https://github.com/oxen-io/session-android): A private messenger for Android.
-* [oxen-io/session-desktop](https://github.com/oxen-io/session-desktop): Session Desktop - Onion routing based messenger
+* [oxen-io/session-android](https://github.com/oxen-io/session-android): Session Android - Onion routing based messenger [DEPRECATED SEE README]
+* [oxen-io/session-desktop](https://github.com/oxen-io/session-desktop): Session Desktop - Onion routing based messenger [DEPRECATED SEE README]
 * [Ulf3000/sessionBuddy](https://github.com/Ulf3000/sessionBuddy): simple session manager for firefox using the internal sessionstore api
 * [navorite/sessionic](https://github.com/navorite/sessionic): A web extension to save, manage and restore sessions, windows and tabs.
 * [AlexPerathoner/Sessions](https://github.com/AlexPerathoner/Sessions): Safari extension to save your working sessions
