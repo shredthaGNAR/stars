@@ -60,6 +60,7 @@ creating your own Awesome List by GitHub stars!
 * [CleanMachine1/AdlistTXTS](https://github.com/CleanMachine1/AdlistTXTS): A repository dedicated to mirroring some block-lists into 1 file for ease of use
 * [ethanaicode/Adobe-Block-Hosts-List](https://github.com/ethanaicode/Adobe-Block-Hosts-List): Adobe Block Hosts List to block Adobe activation.
 * [FlickyOs/Adobe-Debloater](https://github.com/FlickyOs/Adobe-Debloater): Adobe Deloater
+* [X1a0He/Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader): macOS Adobe apps download & installer
 * [chiumax/adobe-font-scraper](https://github.com/chiumax/adobe-font-scraper): 💢 don't have adobe plan and want their fonts? no need to worry! download from us ;)
 * [baileylatimer/adobe-illustrator](https://github.com/baileylatimer/adobe-illustrator): None
 * [Drovosek01/adobe-packager](https://github.com/Drovosek01/adobe-packager): Script that allows to download portable installers of different versions Adobe software for macOS
@@ -868,6 +869,7 @@ creating your own Awesome List by GitHub stars!
 * [GitZip/firefox-addons](https://github.com/GitZip/firefox-addons): Firefox addons for GitZip
 * [Tagggar/Firefox-Alpha](https://github.com/Tagggar/Firefox-Alpha): 🗿 Super clear desktop browser with zero buttons and intuitive gesture controls
 * [GrosBourrin/FIREFOX-BLUE-MOON](https://github.com/GrosBourrin/FIREFOX-BLUE-MOON): Firefox blueish & dark theme 
+* [tagler/firefox-bookmark-toolbar-dark-theme](https://github.com/tagler/firefox-bookmark-toolbar-dark-theme): Custom CSS file for Firefox bookmark toolbar dark theme, v92+ (mac)
 * [james-cube/firefox-bookmarks-merger](https://github.com/james-cube/firefox-bookmarks-merger): Tool for merging firefox bookmarks backups.
 * [gabeweb/Firefox-Browser-Proton-Custom](https://github.com/gabeweb/Firefox-Browser-Proton-Custom): A custom userChrome.css for Firefox 86+ (February 2021). For personal purpose only. 
 * [anewuser/firefox-clean-dark-theme](https://github.com/anewuser/firefox-clean-dark-theme): Firefox dark theme with a less cluttered UI
@@ -946,7 +948,6 @@ creating your own Awesome List by GitHub stars!
 * [CaptainEureka/firefox-vibrancy](https://github.com/CaptainEureka/firefox-vibrancy): None
 * [hongde88/firefox-workspace-manager](https://github.com/hongde88/firefox-workspace-manager): A Firefox extension that groups tabs into workspaces through the hide and show tab APIs.
 * [Rasmagoric/Firefox2022](https://github.com/Rasmagoric/Firefox2022): A new look for your Firefox browser.
-* [tagler/Firefox_Bookmark_Toolbar_Dark_Theme](https://github.com/tagler/Firefox_Bookmark_Toolbar_Dark_Theme): Custom CSS file for Firefox bookmark toolbar dark theme, v92+ (mac)
 * [denesberta/firefox_compact_style](https://github.com/denesberta/firefox_compact_style): Make Firefox compact!
 * [Yash220402/firefox_css_ui](https://github.com/Yash220402/firefox_css_ui): None
 * [unode/firefox_decrypt](https://github.com/unode/firefox_decrypt): Firefox Decrypt is a tool to extract passwords from Mozilla (Firefox™, Waterfox™, Thunderbird®, SeaMonkey®) profiles
