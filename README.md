@@ -396,6 +396,7 @@ creating your own Awesome List by GitHub stars!
 * [lazarnarcis/box-shadow-generator](https://github.com/lazarnarcis/box-shadow-generator): You can use this web application to more easily generate Box Shadow CSS!
 * [madeas/box-shadows.css](https://github.com/madeas/box-shadows.css):  :pisces: A cross-browser collection of CSS box-shadows
 * [iposho/boxshadowru](https://github.com/iposho/boxshadowru): A box-shadow CSS generator that helps you quickly generate box-shadow CSS declarations for your website. Preview the result and copy the generated code to your website. No coding required!
+* [bpc-clone/bpc_firefox_support](https://github.com/bpc-clone/bpc_firefox_support): None
 * [adobe/brackets](https://github.com/adobe/brackets): An open source code editor for the web, written in JavaScript, HTML and CSS.
 * [brackets-cont/brackets](https://github.com/brackets-cont/brackets): An open source code editor for the web, written in JavaScript, HTML and CSS.
 * [Homebrew/brew](https://github.com/Homebrew/brew): 🍺 The missing package manager for macOS (or Linux)
@@ -444,7 +445,6 @@ creating your own Awesome List by GitHub stars!
 * [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome): Bypass Paywalls web browser extension for Chrome and Firefox.
 * [bpc-clone/bypass-paywalls-clean-filters](https://github.com/bpc-clone/bypass-paywalls-clean-filters): None
 * [iamadamdev/bypass-paywalls-firefox](https://github.com/iamadamdev/bypass-paywalls-firefox): Bypass Paywalls for Firefox
-* [bpc-clone/bypass-paywalls-firefox-clean](https://github.com/bpc-clone/bypass-paywalls-firefox-clean): None
 * [alextidalrise/bysofie-shipping-message](https://github.com/alextidalrise/bysofie-shipping-message): None
 * [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet): The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://docs.cakewallet.com
 * [brunophilipe/Cakebrew](https://github.com/brunophilipe/Cakebrew): Manage your Homebrew formulas with style using Cakebrew.
@@ -2334,7 +2334,7 @@ creating your own Awesome List by GitHub stars!
 * [Wozzify/Snapchat-Memory-Downloader](https://github.com/Wozzify/Snapchat-Memory-Downloader): Downloads Snapchat Memories Quickly and Efficiently
 * [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop): A Progressive Web App for local file sharing 
 * [hoothin/snapdrop](https://github.com/hoothin/snapdrop): Modify for ipv6 and WAN. 自用改版，相容於 ipv6 與廣域網
-* [fm-sys/snapdrop-android](https://github.com/fm-sys/snapdrop-android): Android client for local file sharing via https://snapdrop.net/ and https://pairdrop.net
+* [fm-sys/snapdrop-android](https://github.com/fm-sys/snapdrop-android): Android client for local file sharing via https://pairdrop.net and self-hosted snapdrop 
 * [alextwothousand/snapdrop-desktop](https://github.com/alextwothousand/snapdrop-desktop): A Snapdrop Desktop app written using Electron.
 * [ueen/SnapdropFirefoxAddon](https://github.com/ueen/SnapdropFirefoxAddon): Snapdrop for Firefox (Addon)
 * [pato/snapsaver](https://github.com/pato/snapsaver): android app that saves snapchats
