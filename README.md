@@ -1042,6 +1042,7 @@ creating your own Awesome List by GitHub stars!
 * [geeker-ai/geek_chat](https://github.com/geeker-ai/geek_chat): GeekChat is a app for multiple cutting-edge LLM(ChatGPT and Gemini) models that available on Desktop(Win,Mac) and Mobile(Android, iOS)
 * [Coding-Meet/Gemini-AI-KMP-App](https://github.com/Coding-Meet/Gemini-AI-KMP-App): Gemini AI Kotlin Multiplatform project designed to target Android, iOS, Windows, macOS, Linux, and Web platforms.
 * [RMNCLDYO/gemini-ai-toolkit](https://github.com/RMNCLDYO/gemini-ai-toolkit): Unlock the potential of Google's Gemini AI models with this versatile toolkit. Offering seamless chat, text generation, and multimodal interactions, supporting various file types, including PDF's, images, videos, audio, text and more. Enjoy real-time responses, customizable parameters, and easy integration for diverse AI tasks.
+* [muhammedsamal/gemini-image-analysis](https://github.com/muhammedsamal/gemini-image-analysis): None
 * [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat): Minimal web UI for GeminiPro.
 * [David-Kunz/gen.nvim](https://github.com/David-Kunz/gen.nvim): Neovim plugin to generate text using LLMs with customizable prompts
 * [webextension-toolbox/generator-web-extension](https://github.com/webextension-toolbox/generator-web-extension): Advanced WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
@@ -1295,7 +1296,7 @@ creating your own Awesome List by GitHub stars!
 * [iptv-org/iptv](https://github.com/iptv-org/iptv): Collection of publicly available IPTV channels from all over the world
 * [4gray/iptvnator](https://github.com/4gray/iptvnator): :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
 * [axi0mX/ipwndfu](https://github.com/axi0mX/ipwndfu): open-source jailbreaking tool for many iOS devices
-* [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes): Over 385 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more
+* [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes): Over 400 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more
 * [sindresorhus/iterm2-snazzy](https://github.com/sindresorhus/iterm2-snazzy): Elegant iTerm2 theme with bright colors
 * [Jackett/Jackett](https://github.com/Jackett/Jackett): API Support for your favorite torrent trackers
 * [jarrekk/Jalpc](https://github.com/jarrekk/Jalpc): 🍎Jalpc -- A flexible Jekyll theme, 3 steps to build your website. 
@@ -1390,6 +1391,7 @@ creating your own Awesome List by GitHub stars!
 * [lloydi/Keyboard-Maestro-Web-Dev-Macros](https://github.com/lloydi/Keyboard-Maestro-Web-Dev-Macros): A collection of Keyboard Maestro text expansion macros
 * [craser/KeyboardMaestroMacros](https://github.com/craser/KeyboardMaestroMacros): Public Keyboard Maestro Macros
 * [sindresorhus/KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts): ⌨️ Add user-customizable global keyboard shortcuts (hotkeys) to your macOS app in minutes
+* [jff99/KeyCip](https://github.com/jff99/KeyCip): Repository for the Android application  KeyCip. Making possible the statement "Our information belongs to us"
 * [yogeshpaliyal/KeyPass](https://github.com/yogeshpaliyal/KeyPass): KeyPass: Open Source Project & An Offline Password Manager. Store, manage, and take control securely.
 * [t-mart/kill-sticky](https://github.com/t-mart/kill-sticky): Bookmarklet to remove sticky elements and restore scrolling to web pages!
 * [kenneth558/KingdomComeIMeanItAndIMeanNowSurveillance](https://github.com/kenneth558/KingdomComeIMeanItAndIMeanNowSurveillance): A web page (NOTE: Only Firefox & Pale Moon browsers give approved rendering) and some server-side web server scripting in a mini web server called bashttpd.  Even looks good on Android devices as far as I've seen, though working the sliders is more difficult when your finger touch point is larger than them.  With this tricked out version of bashttpd, you won't need a high-powered web server like Apache nor nginx (I didn't feel like learning nginx, and certainly don't care for learning Apache).  IN PROGRESS but does work way, way better than nothing.  Chrome renders differently, but in a pinch it will function halfway.
@@ -1798,7 +1800,7 @@ creating your own Awesome List by GitHub stars!
 * [shariati/OS-Folder-Icons](https://github.com/shariati/OS-Folder-Icons): A collection of custom folder icons for (Mac, Linux and Windows)
 * [shredthaGNAR/OS-Folder-Icons](https://github.com/shredthaGNAR/OS-Folder-Icons): A collection of custom folder icons for (Mac, Linux and Windows)
 * [opengaming/osgameclones](https://github.com/opengaming/osgameclones): Open Source Clones of Popular Games
-* [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet): OSINT cheat sheet, list OSINT tools, wiki, dataset, article, book , red team OSINT and OSINT tips. This repository will grow every time will research, there is a research, science and technology, use it wisely.
+* [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet): OSINT cheat sheet, list OSINT tools, wiki, dataset, article, book , red team OSINT for hackers and OSINT tips and OSINT branch. This repository will grow every time will research, there is a research, science and technology, tutorial. Please use it wisely.
 * [soxoj/osint-namecheckers-list](https://github.com/soxoj/osint-namecheckers-list): A list of tools to search accounts by username
 * [rly0nheart/osinteye](https://github.com/rly0nheart/osinteye): Username enumeration & reconnaisance suite
 * [awareseven/OSINTsources](https://github.com/awareseven/OSINTsources): This is a repo containing several osint sources
@@ -1817,7 +1819,7 @@ creating your own Awesome List by GitHub stars!
 * [AaronSoria/PAnalizer](https://github.com/AaronSoria/PAnalizer): PAnalizer is a forensic tool, you can search pornographic images in a specific directory, this is util in Pedestrian Detection. Also you can search a specific person in image set, is necesesary give to the aplication a few pictures of the person of interest
 * [projectdelphai/panorama-tab-groups](https://github.com/projectdelphai/panorama-tab-groups):  An add-on for Firefox that implements the old Tab Groups/Panorama functionality
 * [photodiode/panorama-view](https://github.com/photodiode/panorama-view): Add-on for Firefox letting you organize tabs and tab groups visually
-* [keiichi4e/paper-app](https://github.com/keiichi4e/paper-app): Unofficial Paper app for Mac
+* [keiichi4e/paper-app](https://github.com/keiichi4e/paper-app): Dropbox Paper app for macOS
 * [vict0rsch/PaperMemory](https://github.com/vict0rsch/PaperMemory): Your browser's reference manager: automatic paper detection (Arxiv, OpenReview & more), publication venue matching and code repository discovery! Also enhances ArXiv: BibTex citation, Markdown link, direct download and more!
 * [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme): Pixel perfect icon theme for Linux
 * [Paragon-Software-Group/paragon_firewall_ce](https://github.com/Paragon-Software-Group/paragon_firewall_ce): Paragon Firewall for Mac
