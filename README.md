@@ -1708,6 +1708,7 @@ creating your own Awesome List by GitHub stars!
 * [dawiidio/o-menu](https://github.com/dawiidio/o-menu): Simple circular svg menu 
 * [dustinblackman/oatmeal](https://github.com/dustinblackman/oatmeal): Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
 * [Vinzent03/obsidian-advanced-uri](https://github.com/Vinzent03/obsidian-advanced-uri): Advanced modes for Obsidian URI
+* [Enveloppe/obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe): Enveloppe helps you to publish your notes on a GitHub repository from your Obsidian Vault, for free!
 * [nuthrash/obsidian-html-plugin](https://github.com/nuthrash/obsidian-html-plugin): This is a plugin for Obsidian (https://obsidian.md). Can open document with .html and .htm file extensions.
 * [hinterdupfinger/obsidian-ollama](https://github.com/hinterdupfinger/obsidian-ollama): None
 * [nybbles/obsidian-pocket](https://github.com/nybbles/obsidian-pocket): Pocket integration for Obsidian
@@ -2329,6 +2330,7 @@ creating your own Awesome List by GitHub stars!
 * [shredthaGNAR/skip-prime-video-intro](https://github.com/shredthaGNAR/skip-prime-video-intro): Firefox addon to automatically skip intros on Amazon Prime Video
 * [Skyflash/skyflash.github.io](https://github.com/Skyflash/skyflash.github.io): 🎨 My personal website
 * [Etesam913/slick-fox](https://github.com/Etesam913/slick-fox): :fox_face: A firefox config that has rounded tabs and a url bar that can disappear when not selected on. It works with any theme.
+* [dh1011/smart-bookmark](https://github.com/dh1011/smart-bookmark): Smart Bookmark is a simple, AI-powered tool to help you stay organized and make the most of your bookmarks. Features like smart search, automatic summaries, and tagging make it easy to search and organize your bookmarks.
 * [smartertechnologist/SmarterBookmarks-Android](https://github.com/smartertechnologist/SmarterBookmarks-Android): Official documentation for the SmarterBookmarks android app
 * [RealRaven2000/SmartTemplates](https://github.com/RealRaven2000/SmartTemplates): Thunderbird Add-on: SmartTemplates
 * [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube): Advanced player for set-top boxes and tvs running Android OS
