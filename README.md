@@ -980,7 +980,7 @@ creating your own Awesome List by GitHub stars!
 * [julianandrews/flopferret](https://github.com/julianandrews/flopferret): Texas Hold'em board texture analyzer.
 * [d2phap/fluent-reveal-effect](https://github.com/d2phap/fluent-reveal-effect): Fluent Reveal Effect JavaScript library for web
 * [dannycandle/FluidFox](https://github.com/dannycandle/FluidFox): A custom Firefox userChrome for mac OS.
-* [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet): Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
+* [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet): Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi (and optionally Bluetooth). No network infrastructure required, just two devices with WiFi chips in close range.
 * [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox): An opinionated set of configurations for firefox.
 * [fmhy/FMHY](https://github.com/fmhy/FMHY): /r/FREEMEDIAHECKYEAH
 * [fmhy/FMHYFilterlist](https://github.com/fmhy/FMHYFilterlist): FMHY Filterlist
@@ -1510,6 +1510,7 @@ creating your own Awesome List by GitHub stars!
 * [hazcod/maclaunch](https://github.com/hazcod/maclaunch): Manage your macOS startup items.
 * [schappim/macOCR](https://github.com/schappim/macOCR): Get any text on your screen into your clipboard.
 * [xulihang/macOCR](https://github.com/xulihang/macOCR): Command line OCR tool using macOS's VNRecognizeTextRequest
+* [shubhambatra3019/macOrganizer](https://github.com/shubhambatra3019/macOrganizer): A macOS app for organizing folders
 * [temochka/macos-automation](https://github.com/temochka/macos-automation): A collection of my macOS automation scripts (Alfred Workflows, AppleScript, and JXA)
 * [SKaplanOfficial/macOS-Automation-Resources](https://github.com/SKaplanOfficial/macOS-Automation-Resources): Resources for MacOS automation languages
 * [dosdude1/macos-catalina-patcher](https://github.com/dosdude1/macos-catalina-patcher): macOS Catalina Patcher (http://dosdude1.com/catalina)
