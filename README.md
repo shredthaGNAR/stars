@@ -187,6 +187,7 @@ creating your own Awesome List by GitHub stars!
 * [shreygan/Applescripts](https://github.com/shreygan/Applescripts): custom applescripts for btt
 * [steventheworker/applescripts](https://github.com/steventheworker/applescripts): This is where I keep my applescript's and BetterTouchTool configuration, and some apps/automation's I use.
 * [wafflesnatcha/AppleScripts](https://github.com/wafflesnatcha/AppleScripts): ~/Library/Scripts
+* [TaylorJadin/applescripts-btt](https://github.com/TaylorJadin/applescripts-btt): a collection of applescripts that I have use with BetterTouchTool or KeyboardMaestro on my mac
 * [JT5D/AppleTree](https://github.com/JT5D/AppleTree): Applescripts, apps, services, droplets, actions & automator workflows grow abudant on this Apple Tree, some fruit made by me, while many come from Web tuts & altruist worker bees
 * [axross/aqua](https://github.com/axross/aqua):  ♠️ Beautiful iOS/Android poker odds calculator app made of Flutter.
 * [yuuiko/AquaTouch](https://github.com/yuuiko/AquaTouch): Dynamic Custom Macros for your MacBook TouchBar! (Supports 40+ Apps and Websites)
@@ -249,6 +250,7 @@ creating your own Awesome List by GitHub stars!
 * [one-aalam/awesome-astro](https://github.com/one-aalam/awesome-astro): Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.
 * [dogancelik/awesome-bookmarking](https://github.com/dogancelik/awesome-bookmarking): 🔖 Everything bookmarking related
 * [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github): A collection of awesome browser extensions for GitHub.
+* [bskim45/awesome-btt-config](https://github.com/bskim45/awesome-btt-config): An curated list of awesome BetterTouchTool configs.
 * [uhub/awesome-chatgpt](https://github.com/uhub/awesome-chatgpt): A curated list of awesome ChatGPT related projects.
 * [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 * [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts): This repo includes Claude prompt curation to use Claude better.
@@ -330,14 +332,13 @@ creating your own Awesome List by GitHub stars!
 * [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox): Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 * [AlickH/BetterTouchBar](https://github.com/AlickH/BetterTouchBar): Use BetterTouchTool to make TouchBar better.
 * [mkozjak/bettertouchtool](https://github.com/mkozjak/bettertouchtool): BetterTouchTool configuration
+* [remiscarlet/BetterTouchTool-Applescripts](https://github.com/remiscarlet/BetterTouchTool-Applescripts): Random applescripts for use with BetterTouchTool on Apple's new Touch Bar.
 * [BitRacer/bettertouchtool-crypto](https://github.com/BitRacer/bettertouchtool-crypto): Crypto stock market prices for your Macbook Pro touch bar! (Bitcoin, Ethereum, Litecoin, Neo, and Civic)
 * [glock47/bettertouchtool-crypto](https://github.com/glock47/bettertouchtool-crypto): Crypto stock market prices for your Macbook Pro touch bar! (Bitcoin, Ethereum, Litecoin, Neo, and Civic)
 * [krunkosaurus/bettertouchtool-crypto](https://github.com/krunkosaurus/bettertouchtool-crypto): Crypto stock market prices for your Macbook Pro touch bar! (Bitcoin, Ethereum, Litecoin, Neo, and Civic)
 * [shoutcool/bettertouchtool-crypto](https://github.com/shoutcool/bettertouchtool-crypto): Crypto stock market prices for your Macbook Pro touch bar! (Bitcoin, Ethereum and Lamden)
 * [SichangHe/BetterTouchTool-SLite-Preset](https://github.com/SichangHe/BetterTouchTool-SLite-Preset): SLite is a preset of BetterTouchTool inspired by GoldenChaos and many other presets. It is a light preset that is also neat. Try it and you'll know.
-* [ttscoff/BetterTouchTool-Widgets](https://github.com/ttscoff/BetterTouchTool-Widgets): None
 * [opentizen/bettertouchtool_apple_script](https://github.com/opentizen/bettertouchtool_apple_script): BettertouchTool Used User for AppleScript
-* [folivoraAI/BetterTouchToolPlugins](https://github.com/folivoraAI/BetterTouchToolPlugins): Development of BetterTouchTool Plugins
 * [seanpquig/betting-odds-analyzer](https://github.com/seanpquig/betting-odds-analyzer): Analyze sports betting based on historical statistics and current odds
 * [SingularityLabs-ai/beyond-bard-mini](https://github.com/SingularityLabs-ai/beyond-bard-mini): Aims to bring Google Bard to  every website. For Google, Bing, Youtube, Yahoo, Baidu, Brave, Kagi, Duckduckgo, Github, Yandex, NAVER, Nikkei there are custom prompts written to enhance the summary(or insights) experience. 
 * [barrykn/big-sur-micropatcher](https://github.com/barrykn/big-sur-micropatcher): A primitive USB patcher for installing macOS Big Sur on unsupported Macs
@@ -420,6 +421,7 @@ creating your own Awesome List by GitHub stars!
 * [browserpass/browserpass-extension](https://github.com/browserpass/browserpass-extension): Browserpass web extension
 * [SaulBerrenson/BrowserStealer](https://github.com/SaulBerrenson/BrowserStealer): Simple password/cookies/history/bookmarks stealer/dumper for chrome all version (includes 80+), microsoft edge browser,includes all chromium based browsers, and all gecko based browser (firefox etc.).
 * [Worie/btt](https://github.com/Worie/btt): Low level MacOS management in JavaScript via BetterTouchTool
+* [keyboardsurfer/btt-android-studio-config](https://github.com/keyboardsurfer/btt-android-studio-config): TouchBar configuration for Android Studio
 * [wonjoonSeol/BTT-Aqua-modification](https://github.com/wonjoonSeol/BTT-Aqua-modification): Better Touch Tool AquaTouch Preset Modification
 * [andrewchidden/btt-controllers](https://github.com/andrewchidden/btt-controllers): Small controller scripts and utilities designed to work with BetterTouchTool.
 * [leegeunhyeok/btt-ghp](https://github.com/leegeunhyeok/btt-ghp): ✨ My BTT(Better Touch Tool) preset.
@@ -429,6 +431,8 @@ creating your own Awesome List by GitHub stars!
 * [arthurdecloedt/BTT-scripts](https://github.com/arthurdecloedt/BTT-scripts): scripts used in my BTT config, some of these are adapted from other ones on the folivora community
 * [mkbabb/btt-scripts](https://github.com/mkbabb/btt-scripts): A collection of utility scripts for Better Touch Tool.
 * [dynle/btt-simple-airpods-battery-widget](https://github.com/dynle/btt-simple-airpods-battery-widget): Simple AirPods battery btt widget for macOS Ventura
+* [Toxblh/btt-touchbar-preset](https://github.com/Toxblh/btt-touchbar-preset): 🧰 My TouchBar BTT preset
+* [ridvanbaluyos/btt-touchbar-presets](https://github.com/ridvanbaluyos/btt-touchbar-presets): BetterTouchTool Touch Bar Preset by Ridvan Baluyos
 * [vas3k/btt-touchbar-presets](https://github.com/vas3k/btt-touchbar-presets): BetterTouchTool Touch Bar Presets
 * [Zidious/BTT-TouchBarScript](https://github.com/Zidious/BTT-TouchBarScript): BetterTouchTool(BTT) Cryptocurrency Python Scripts Powered by CoinGecko API
 * [elv1n/btt-window-manager-preset](https://github.com/elv1n/btt-window-manager-preset): Simple and powerful BetterTouchTool Window Manager Preset
@@ -556,6 +560,7 @@ creating your own Awesome List by GitHub stars!
 * [timhettler/compass-photoshop-gradient-overlay](https://github.com/timhettler/compass-photoshop-gradient-overlay): A compass extension to translate between Photoshop gradient overlays and CSS linear-gradients
 * [erikkaashoek/Comskip](https://github.com/erikkaashoek/Comskip): A free commercial detector
 * [withfig/config](https://github.com/withfig/config): Fig's integrations with bash, zsh, fish, ssh, and tmux. Also contains Fig's installation and update scripts. Finally, this repo is the root of the .fig folder that is installed on your computer when you download Fig!
+* [stevehartwell/Configs](https://github.com/stevehartwell/Configs): Configuration and content filters for various utilities including uBlock Origin, BetterTouchTool, and more.
 * [argyleink/conic.css](https://github.com/argyleink/conic.css): nice'n simple conic gradients 🎨
 * [naveendnagendran/Contact-Search](https://github.com/naveendnagendran/Contact-Search): Search social profiles using email address
 * [AdguardTeam/ContentBlocker](https://github.com/AdguardTeam/ContentBlocker): Content blocking extension for Samsung Internet and Yandex Browser
@@ -593,10 +598,12 @@ creating your own Awesome List by GitHub stars!
 * [Medformatik/CrossDrop](https://github.com/Medformatik/CrossDrop): CrossDrop is a partial implementation of Google's Quick Share in Flutter for macOS, iOS and Linux. CrossDrop is based on NearDrop, a Swift implementation of Nearby Share for macOS.
 * [warren-bank/crx-Tubi-TV](https://github.com/warren-bank/crx-Tubi-TV): website userscript: redirect embedded videos from "tubitv.com" to an external player
 * [Rob--W/crxviewer](https://github.com/Rob--W/crxviewer): Add-on / web app to view the source code of Chrome / Firefox / Opera 15 extensions and zip files.
+* [Ryan-Gordon/Crypto-Touchbar](https://github.com/Ryan-Gordon/Crypto-Touchbar): A script for BetterTouchTool which allows you to track to price of different cryptocurrencies on the touchbar.
 * [chrislennon/Crypto-Touchbar-App](https://github.com/chrislennon/Crypto-Touchbar-App): A web app to build Apple touch bar elements for crytpo currencies. Requires BetterTouchTool. Supports wide range of cryptos and converts to a variety of fiat monies.
 * [CryptoTerps/Crypto-Touchbar-for-Mac](https://github.com/CryptoTerps/Crypto-Touchbar-for-Mac): This is an add-on (via Better Touch Tool) to get Cryptocurrency prices on your MacBook Touchbar
 * [alichtman/Cryptocurrency-TouchBar-Display](https://github.com/alichtman/Cryptocurrency-TouchBar-Display): Using BetterTouchTool to display cryptocurrency prices on the MacBook Pro Touch Bar
 * [frm/cryptotool](https://github.com/frm/cryptotool): Cryptocurrencies on your Mac touchbar 💸
+* [xurban42/CryptoTouchBar](https://github.com/xurban42/CryptoTouchBar): BetterTouchTool preset for CryptoCurrencies.
 * [cedricbeau/css-gradient-generator](https://github.com/cedricbeau/css-gradient-generator): Générateur de gradient css en ligne
 * [lough-city/css-smart](https://github.com/lough-city/css-smart): a smart css helpers.
 * [astrit/css.gg](https://github.com/astrit/css.gg): 700+ Pure CSS, SVG & Figma UI Icons, 6000+ glyphs, patterns, colors and layouts.
@@ -767,6 +774,7 @@ creating your own Awesome List by GitHub stars!
 * [Zonnev/elementaryos-firefox-theme](https://github.com/Zonnev/elementaryos-firefox-theme): This theme for Firefox supports all the window buttons layouts from Tweaks and it blends into the elementary OS user interface.
 * [Zonnev/elementaryos5-firefox-theme](https://github.com/Zonnev/elementaryos5-firefox-theme): This theme for Firefox supports all the window buttons layouts from Tweaks and it blends into the elementary OS 5 (Hera) user interface.
 * [11ty/eleventy-base-blog](https://github.com/11ty/eleventy-base-blog): A starter repository for a blog web site using the Eleventy static site generator.
+* [blake-regalia/elitouch.bttpreset](https://github.com/blake-regalia/elitouch.bttpreset): A generative BetterTouchTool preset w/ special support for Spotify, Sublime Text 3, and Terminal
 * [jmathai/elodie](https://github.com/jmathai/elodie): An EXIF-based photo assistant, organizer  and workflow automation tool.
 * [glennjones/elsewhere-mapper](https://github.com/glennjones/elsewhere-mapper): Social media profile endpoint mapper for node.js
 * [regnull/email-autodiscover](https://github.com/regnull/email-autodiscover): Autodiscover email configuration for popular email clients
@@ -792,6 +800,7 @@ creating your own Awesome List by GitHub stars!
 * [prettier/eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier): ESLint plugin for Prettier formatting
 * [amebalabs/Esse](https://github.com/amebalabs/Esse): Swiss army knife of text transformation for iOS and macOS
 * [tg-z/estrellas](https://github.com/tg-z/estrellas): None
+* [eduadiez/EthereumTouchBar](https://github.com/eduadiez/EthereumTouchBar): Scripts to add to BetterTouchTool the coolest ethereum projects and be able to track the prices on your touchbar
 * [essandess/etv-comskip](https://github.com/essandess/etv-comskip): Commercial Marking and Skipping for EyeTV and iTunes Exports
 * [gao-sun/eul](https://github.com/gao-sun/eul): 🖥️ macOS status monitoring app written in SwiftUI.
 * [billmei/every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui): Every front-end GUI client for ChatGPT, Claude, and other LLMs
@@ -1196,7 +1205,6 @@ creating your own Awesome List by GitHub stars!
 * [hensm/hide_private_mode](https://github.com/hensm/hide_private_mode): None
 * [amarsyla/hidutil-key-remapping-generator](https://github.com/amarsyla/hidutil-key-remapping-generator): Simple tool to generate HIDUTIL key remapping configurations for MacOS
 * [annedorko/highlight](https://github.com/annedorko/highlight): Static Site Generator (SSG) for creating multiple targeted portfolios and resumes with one website.
-* [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder): A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 * [agneevX/home-assistant](https://github.com/agneevX/home-assistant): Home Assistant lovelace layout and config
 * [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar): Displaying Home Assistant sensors in the Macbook Pro's touch bar using BTT 🤖💻
 * [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io): :blue_book: Home Assistant User documentation
@@ -1225,6 +1233,7 @@ creating your own Awesome List by GitHub stars!
 * [notable/html2markdown](https://github.com/notable/html2markdown): A small function for converting HTML to Markdown.
 * [Alir3z4/html2text](https://github.com/Alir3z4/html2text): Convert HTML to Markdown-formatted text.
 * [benknight/hue-alfred-workflow](https://github.com/benknight/hue-alfred-workflow): An Alfred workflow for controlling Philips Hue lights.
+* [bradykent/huekey](https://github.com/bradykent/huekey): Control Philips Hue lights with BetterTouchTool
 * [huginn/huginn](https://github.com/huginn/huginn): Create agents that monitor and act on your behalf.  Your agents are standing by!
 * [gohugoio/hugo](https://github.com/gohugoio/hugo): The world’s fastest framework for building websites.
 * [theocjr/hugo-academic-bookmarks](https://github.com/theocjr/hugo-academic-bookmarks): Bookmarks content section for the Academic theme (Hugo framework).
@@ -1314,6 +1323,7 @@ creating your own Awesome List by GitHub stars!
 * [JitouchApp/Jitouch](https://github.com/JitouchApp/Jitouch): A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad
 * [sukolsak/jitouch](https://github.com/sukolsak/jitouch): A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad
 * [JitouchApp/Jitouch-project](https://github.com/JitouchApp/Jitouch-project): A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad
+* [josh-jacobson/jj-touchbar](https://github.com/josh-jacobson/jj-touchbar): Simple, elegant preset for BetterTouchTool envisioned as a modern upgrade to the original function keys.
 * [catppuccin/joplin](https://github.com/catppuccin/joplin): 📔️ Soothing pastel theme for Joplin
 * [laurent22/joplin](https://github.com/laurent22/joplin): Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 * [laurent22/joplin-android](https://github.com/laurent22/joplin-android): Android releases for Joplin
@@ -1370,6 +1380,7 @@ creating your own Awesome List by GitHub stars!
 * [genesy/karabiner-complex-rules-generator](https://github.com/genesy/karabiner-complex-rules-generator): Simple web app to help generate Karabiner Elements Complex Rules
 * [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements): Karabiner-Elements is a powerful tool for customizing keyboards on macOS
 * [rux616/karabiner-windows-mode](https://github.com/rux616/karabiner-windows-mode): Karabiner-Elements complex ruleset to make using macOS friendlier by enabling common keyboard functionality used in Linux and Windows.
+* [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep): A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 * [kazimmt/kazimmt.github.io](https://github.com/kazimmt/kazimmt.github.io): Organized ReVanced & ReVanced Extended functionalities along with visual illustrations.
 * [pqrs-org/KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications): Karabiner-Elements complex_modifications rules
 * [tmcinerney/keep](https://github.com/tmcinerney/keep): Run Google Keep in the menu bar
@@ -1489,7 +1500,9 @@ creating your own Awesome List by GitHub stars!
 * [anonymousaga/mac-passwords-app](https://github.com/anonymousaga/mac-passwords-app): An app that allows you to view keychain passwords with one click.
 * [haokaiyang/Mac-QuickLook](https://github.com/haokaiyang/Mac-QuickLook): QuickLook plugins and packages
 * [madlymad/mac-scrcpy-app](https://github.com/madlymad/mac-scrcpy-app): Automator scripts that allow to start scrcpy tool on mac
+* [ebouchut/mac_automation](https://github.com/ebouchut/mac_automation): Scripts I use to automate workflows on my Mac. 
 * [bkuhlmann/mac_os-config](https://github.com/bkuhlmann/mac_os-config): Shell scripts for customized macOS machine setup.
+* [araa47/MacbookProTouchBar-Crypto-Ticker](https://github.com/araa47/MacbookProTouchBar-Crypto-Ticker): Customise your macbook pro touchbar into a cryptocurrency ticker 
 * [p0deje/Maccy](https://github.com/p0deje/Maccy): Lightweight clipboard manager for macOS
 * [jonbeebe/MacDynamicWallpaper](https://github.com/jonbeebe/MacDynamicWallpaper): Mojave-style dynamic wallpapers for macOS.
 * [MacEnhance/MacForge](https://github.com/MacEnhance/MacForge): 📦 Plugin, App, and Theme store which includes plugin injection for macOS
@@ -2137,6 +2150,7 @@ creating your own Awesome List by GitHub stars!
 * [Infocatcher/Right_Links](https://github.com/Infocatcher/Right_Links): Open links in new tabs using right-click or "long" left-click, extension for Firefox and SeaMonkey
 * [Infocatcher/Right_Links_WE](https://github.com/Infocatcher/Right_Links_WE): WebExtensions port of Right Links extension for Firefox
 * [datamllab/rlcard](https://github.com/datamllab/rlcard): Reinforcement Learning / AI Bots in Card (Poker) Games - Blackjack, Leduc, Texas, DouDizhu, Mahjong, UNO.
+* [ciceronianus/Roam---custom-context-menu-in-BTT-macOS](https://github.com/ciceronianus/Roam---custom-context-menu-in-BTT-macOS): Custom context menu for Roamresearch.com made in BetterTouchTool for MacOS
 * [ohmybahgosh/RockYou2021.txt](https://github.com/ohmybahgosh/RockYou2021.txt): RockYou2021.txt is a MASSIVE WORDLIST compiled of various other wordlists.  RockYou2021.txt DOES NOT CONTAIN USER:PASS logins!  
 * [mike-kfed/roundcube-thunderbird_labels](https://github.com/mike-kfed/roundcube-thunderbird_labels): Thunderbird Labels Plugin for Roundcube Webmail
 * [moisseev/rspamd-spamness](https://github.com/moisseev/rspamd-spamness): Thunderbird add-on for visualizing rspamd spam scores.
@@ -2422,7 +2436,7 @@ creating your own Awesome List by GitHub stars!
 * [artginzburg/sudo-touchid](https://github.com/artginzburg/sudo-touchid):  Permanent TouchID support 👆 for `sudo`.
 * [NotaInutilis/Super-SEO-Spam-Suppressor](https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor): An anticapitalist blocklist targeting websites abusing SEO tactics to spam web searches with data pollution and security risks: content farms, scrapers, copycats, generative AIs, scams, advertisements, malwares, and useless wasteful garbage in general. It is best used with uBlacklist.
 * [yorukot/superfile](https://github.com/yorukot/superfile): Pretty fancy and modern terminal file manager
-* [universalbyte/Superfox](https://github.com/universalbyte/Superfox): Silence Firefox from contacting MOZILLA , GOOGLE and other Servers. 700+ privacy features !
+* [universalbyte/Superfox](https://github.com/universalbyte/Superfox): Stop Firefox from sending "ALL YOUR PRIVATE DATA" to MOZILLA , GOOGLE and other Servers. 800+ privacy features !
 * [FarisHijazi/SuperGoogleImages](https://github.com/FarisHijazi/SuperGoogleImages): Userscript to Super-charge Google images with rich features, like: download all full-resolution images, replace thumbnails with full-res images, add "view image" and "download" buttons and much more
 * [erosman/support](https://github.com/erosman/support): Support Location for all my extensions
 * [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys): Map your keys for web surfing, expand your browser with javascript and keyboard.
@@ -2573,7 +2587,10 @@ creating your own Awesome List by GitHub stars!
 * [sindresorhus/touch-bar-simulator](https://github.com/sindresorhus/touch-bar-simulator): Use the Touch Bar on any Mac
 * [ris58h/Touch-Tab](https://github.com/ris58h/Touch-Tab): Switch apps with trackpad on macOS.
 * [GaffaSnobb/touchbar-crypto](https://github.com/GaffaSnobb/touchbar-crypto): Live update crypto prices on the Touch Bar.
+* [lilythstern/touchbar-cryptocoins](https://github.com/lilythstern/touchbar-cryptocoins): View BTC, LTC, ETH and NEO on your Macbook Touchbar using the BetterTouchTool.
 * [ZachAttackMLR/TouchBar-Fun](https://github.com/ZachAttackMLR/TouchBar-Fun): Using BetterTouchTool to display things on the new MacBook Pro's touch bar
+* [ValentinJesse/TouchBar_Bitcoin_Florincoin](https://github.com/ValentinJesse/TouchBar_Bitcoin_Florincoin): Bitcoin and Florincoin on the MacBook Pro TouchBar
+* [rknightuk/TouchBarWidgets](https://github.com/rknightuk/TouchBarWidgets): Scripts for my BetterTouchTool Touch Bar widgets
 * [rickkas7/TowerInfo](https://github.com/rickkas7/TowerInfo): Tool to show the location of nearby cellular towers on a mobile device, tablet, or laptop
 * [MrOtherGuy/ToyfoCSS](https://github.com/MrOtherGuy/ToyfoCSS): Guide to introduce basic CSS concepts and progressively advance into Firefox CSS hacking
 * [Nisarg03/Tracing-people-with-Facial-Recognition-using-OCR](https://github.com/Nisarg03/Tracing-people-with-Facial-Recognition-using-OCR): A computer vision project to develop a query based software that seeks string of words as input. It searches through the database using concepts of OCR by employing libraries like Tesseract and OpenCV to find the said string. The program then recognises the faces of individuals on the page, crops them, and arranges them in a strip to display.
@@ -2596,6 +2613,7 @@ creating your own Awesome List by GitHub stars!
 * [unixorn/tumult.plugin.zsh](https://github.com/unixorn/tumult.plugin.zsh): Tumult is a collection of macOS-specific functions and scripts for your shell environment. It is packaged as a ZSH plugin, but can be used with other shells as well.
 * [humandecoded/twayback](https://github.com/humandecoded/twayback): Automate downloading archived deleted Tweets.
 * [RobTrew/txtquery-tools](https://github.com/RobTrew/txtquery-tools): Tools for generating custom perspectives & reports from FoldingText and TaskPaper docs
+* [KarlPiper/typography-shortcuts](https://github.com/KarlPiper/typography-shortcuts): BetterTouchTool actions for typing special characters, and reference for macOS keyboard shortcuts.
 * [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets): Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
 * [iorate/ublacklist](https://github.com/iorate/ublacklist): Blocks specific sites from appearing in Google search results
 * [gorhill/uBlock](https://github.com/gorhill/uBlock): uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
@@ -2876,6 +2894,7 @@ creating your own Awesome List by GitHub stars!
 * [sigma67/ytmusicapi](https://github.com/sigma67/ytmusicapi): Unofficial API for YouTube Music
 * [dayanch96/YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate): The best tweak for YouTube Music iOS.
 * [jamesbrindle/YTMusicUploader](https://github.com/jamesbrindle/YTMusicUploader): Automatically upload your music library and playlists to YouTube Music .Net Application. Upload songs to YouTube Music and bulk delete music and playlists from YouTube Music. C#.
+* [andrewmarkallen/YTPlaylistHelper](https://github.com/andrewmarkallen/YTPlaylistHelper): Simple applescript to save an open youtube video to a defined playlist. Used as a BetterTouchTool action to speed up youtube playlist building.
 * [chibicitiberiu/ytsm](https://github.com/chibicitiberiu/ytsm): Self-hosted tool which manages your YouTube subscriptions, and downloads files automatically.
 * [rupa/z](https://github.com/rupa/z): z - jump around
 * [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy): The ZAP by Checkmarx Core project
