@@ -929,7 +929,7 @@ creating your own Awesome List by GitHub stars!
 * [wrestlerdude/Firefox-Proton-Square](https://github.com/wrestlerdude/Firefox-Proton-Square): Makes Firefox Proton UI look and feel like Quantum
 * [Sporif/firefox-quantum-userchromejs](https://github.com/Sporif/firefox-quantum-userchromejs): Firefox Quantum-compatible custom javascript in browser context — no extension, userChromeJS replacement
 * [xpmn/firefox-reading-list](https://github.com/xpmn/firefox-reading-list): A minimal Firefox extension for saving pages to read later.
-* [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar): Refine the Firefox (130–136) find bar by repositioning it, adjusting spacing & styling internal elements.
+* [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar): Refine the Firefox (130–137) find bar by repositioning it, adjusting spacing & styling internal elements.
 * [mobiusxp/firefox-remap-private-browsing](https://github.com/mobiusxp/firefox-remap-private-browsing): UserChrome JS script to remap Firefox's Private Browsing to match everything else
 * [BGMP/firefox-revert-proton](https://github.com/BGMP/firefox-revert-proton): Revert Firefox Proton to Photon & Photon Compact
 * [panjilp-lab/firefox-safari-noFix](https://github.com/panjilp-lab/firefox-safari-noFix): learning to make safari style for firefox
@@ -2051,6 +2051,7 @@ creating your own Awesome List by GitHub stars!
 * [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins): List of useful Quick Look plugins for developers
 * [evanca/quick-portfolio](https://github.com/evanca/quick-portfolio): [DISCONTINUED] Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
 * [ololx/quick-symlink](https://github.com/ololx/quick-symlink): Quick Symlink is a Finder extension, which allows to quickly create a new symbolic links for the selected folders or files using mouse right-click. There is an alternative https://github.com/ololx/create-symlink
+* [chhoumann/quickadd](https://github.com/chhoumann/quickadd): QuickAdd for Obsidian
 * [RealRaven2000/quickFilters](https://github.com/RealRaven2000/quickFilters): Thunderbird Add-on: quickFilters 
 * [RealRaven2000/QuickFolders](https://github.com/RealRaven2000/QuickFolders): Thunderbird Add-on: QuickFolders
 * [quicksilver/Quicksilver](https://github.com/quicksilver/Quicksilver): Quicksilver Project Source
