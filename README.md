@@ -103,7 +103,6 @@ creating your own Awesome List by GitHub stars!
 * [azai91/alfred-drive-workflow](https://github.com/azai91/alfred-drive-workflow): Alfred workflow to search google drive
 * [deanishe/alfred-firefox](https://github.com/deanishe/alfred-firefox): Search and control Firefox from Alfred
 * [BenjaminOddou/alfred-folderify](https://github.com/BenjaminOddou/alfred-folderify): 📁 Generate pixel-perfect macOS folder icons
-* [edgarjs/alfred-github-repos](https://github.com/edgarjs/alfred-github-repos): Alfred workflow to easily open Github repositories
 * [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow): GitHub Workflow for Alfred
 * [aviaryan/alfred-last2imgur](https://github.com/aviaryan/alfred-last2imgur): Alfred workflow to upload the last screenshot taken to Imgur + (delete and minify image)
 * [nikitavoloboev/alfred-my-mind](https://github.com/nikitavoloboev/alfred-my-mind): Alfred workflow to search through my notes and bookmarks
@@ -748,7 +747,7 @@ creating your own Awesome List by GitHub stars!
 * [coolaj86/dropshare](https://github.com/coolaj86/dropshare): A min.us / ge.tt file share clone.
 * [aptonic/dropzone4-actions](https://github.com/aptonic/dropzone4-actions): Add-on actions and API Docs for Dropzone 4
 * [sjackwu/DualFinder](https://github.com/sjackwu/DualFinder): Make Finder a two-pane file manager on Mac OS X
-* [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt): 🐤 Add AI chat & search summaries to DuckDuckGo, powered by the latest LLMs like GPT-4o!
+* [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt): 🐤 Add AI chat & search summaries to DuckDuckGo, powered by the latest LLMs!
 * [notable/dumper](https://github.com/notable/dumper): Library for extracting attachments, notes and metadata out of formats used by popular note-taking apps.
 * [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru): Find duplicate files
 * [Peuj/duplicate-tabs-closer](https://github.com/Peuj/duplicate-tabs-closer): Duplicate Tabs Closer  - Detects and closes duplicate tabs for Chrome and Firefox.
@@ -1091,6 +1090,7 @@ creating your own Awesome List by GitHub stars!
 * [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator): 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 * [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator): 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
 * [Shywim/github-repo-size](https://github.com/Shywim/github-repo-size): A Firefox addon showing the size of a Github repository.
+* [edgarjs/github-repos-alfred-workflow](https://github.com/edgarjs/github-repos-alfred-workflow): Alfred workflow to easily open Github repositories
 * [BaseMax/GitHub-Repository-Export-List](https://github.com/BaseMax/GitHub-Repository-Export-List): Python: A tiny script to get list of all repository of a GitHub user and generate HTML output with style.
 * [sevenc-nanashi/github-snippets](https://github.com/sevenc-nanashi/github-snippets): Adds a section to copy snippet in GitHub repository page.
 * [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts): Userscripts to add functionality to GitHub
@@ -1148,7 +1148,7 @@ creating your own Awesome List by GitHub stars!
 * [gglukmann/google-sheets-mapper](https://github.com/gglukmann/google-sheets-mapper): 📝  A library for getting data from Google Sheets API v4
 * [Ibit-to/google-unlocked](https://github.com/Ibit-to/google-unlocked): Google Unlocked browser extension uncensor google search results
 * [milosbunijevac/GoogleDownloader](https://github.com/milosbunijevac/GoogleDownloader): Python: Opens a google search to get the first 10 4k images of the person you enter. Downloads images to new folder named after search.
-* [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt): 🤖 Add AI chat & search summaries to Google Search, powered by the latest LLMs like Google Gemma + GPT-4o!
+* [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt): 🤖 Add AI chat & search summaries to Google Search, powered by the latest LLMs!
 * [fanfare/googleimagesrestored](https://github.com/fanfare/googleimagesrestored): This extension attempts to make Google Images look and feel like it did before they changed everything on August 6th, 2019.
 * [anselm94/googlekeepclone](https://github.com/anselm94/googlekeepclone): A clone of Google Keep with its original Material Design aesthetics
 * [spmbt/googleSearchExtraButtons](https://github.com/spmbt/googleSearchExtraButtons): Google Search Extra Buttons
@@ -1287,7 +1287,7 @@ creating your own Awesome List by GitHub stars!
 * [tremby/imgur.sh](https://github.com/tremby/imgur.sh): Bart's Imgur uploader bash script
 * [JayBrown/imgurAU](https://github.com/JayBrown/imgurAU): macOS one-stop shop solution for anonymous uploads to imgur with support for local files, files opened in image editors, pasteboard contents, new screenshots & web images
 * [ram-on/imgurbash2](https://github.com/ram-on/imgurbash2): A bash script that uploads images & videos to IMGUR.  It can also delete previously uploaded images/videos.
-* [igorlogius/import-urls](https://github.com/igorlogius/import-urls): Import URLs from the clipboard or a text file as tabs or bookmarks
+* [igorlogius/import-urls](https://github.com/igorlogius/import-urls): Import URLs from the clipboard or a text file and opens them as loaded or unloaded tabs or save them as bookmarks 
 * [spidergears/import_chrome_bookmarks_to_pocket](https://github.com/spidergears/import_chrome_bookmarks_to_pocket): Simple chrome extension to import all your chrome bookmarks to Pocket.com account
 * [skratchdot/infinite-gradients](https://github.com/skratchdot/infinite-gradients): An HTML experiment for generating randomly created CSS3 gradients (both linear and radial)
 * [tim-we/inspector-extension](https://github.com/tim-we/inspector-extension): Inspect extensions with web-ext-inspector
@@ -1445,7 +1445,7 @@ creating your own Awesome List by GitHub stars!
 * [Shopify/lighthouse-ci-action](https://github.com/Shopify/lighthouse-ci-action): None
 * [igorlogius/limit-active-tabs](https://github.com/igorlogius/limit-active-tabs): Limits the number of active tabs by unloading older tabs
 * [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse): The mouse and trackpad utility for Mac.
-* [igorlogius/link-extras](https://github.com/igorlogius/link-extras): Add extra copy functions to links. Works with single or muliple links in a selection. 
+* [igorlogius/link-extras](https://github.com/igorlogius/link-extras): Add extra functions to links and links in selections  - Open Links in Tabs (loaded or unloaded), Bookmark Links, Download Links and Copy Links to the Clipboard in Custom Formats
 * [ddawson/Link-Tools](https://github.com/ddawson/Link-Tools): Configurable copy and visit operations for links in Firefox
 * [apiraino/link_cleaner](https://github.com/apiraino/link_cleaner): A Firefox extension to clean urls from tracking and advertisement parameters
 * [wyattharrell/linkbook](https://github.com/wyattharrell/linkbook): Linkbook is a powerful link-saving web app that can store your favorite links, keep you organized, and much more. 
@@ -1474,7 +1474,7 @@ creating your own Awesome List by GitHub stars!
 * [ICTMCG/LLM-for-misinformation-research](https://github.com/ICTMCG/LLM-for-misinformation-research): Paper list of misinformation research using (multi-modal) large language models, i.e., (M)LLMs.
 * [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library): A playground of highly experimental prompts, tools & scripts for machine intelligence models from DeepSeek, OpenAI, Anthropic, Meta, Mistral, Google, xAI & others.
 * [kartikm7/llocal](https://github.com/kartikm7/llocal): Aiming to provide a seamless and privacy driven chatting experience with open-sourced technologies(Ollama), particularly open sourced LLM's(eg. Llama3, Phi-3, Mistral). Focused on ease of use. Available on both Windows and Mac.
-* [igorlogius/load-background-tabs-on-select](https://github.com/igorlogius/load-background-tabs-on-select): Prevents background tabs from loading until they have been manually activated
+* [igorlogius/load-background-tabs-on-select](https://github.com/igorlogius/load-background-tabs-on-select): Prevents background tabs from loading until they have been activated
 * [nagaraj-real/localaipilot-api](https://github.com/nagaraj-real/localaipilot-api): API container for Local AI Pilot extension
 * [cleidigh/Localfolder-TB](https://github.com/cleidigh/Localfolder-TB): Thunderbird Add-On to add additional local folders to accounts
 * [TCB13/LoFloccus](https://github.com/TCB13/LoFloccus): Sync Floccus' browser bookmarks to a local folder / any cloud.
@@ -2173,7 +2173,7 @@ creating your own Awesome List by GitHub stars!
 * [Lewiscowles1986/save-tabs-as-markdown-ff-chrome-poc](https://github.com/Lewiscowles1986/save-tabs-as-markdown-ff-chrome-poc): Browser addon for FireFox & Chrome to save active tabs as Markdown
 * [bobbyrne01/save-text-to-file-firefox](https://github.com/bobbyrne01/save-text-to-file-firefox): Firefox addon that saves highlighted text to a file.
 * [VerifiedJoseph/Save-to-the-Wayback-Machine](https://github.com/VerifiedJoseph/Save-to-the-Wayback-Machine): Browser extension for quickly saving web pages to the Internet Archive's Wayback Machine.
-* [igorlogius/save-website-as-image](https://github.com/igorlogius/save-website-as-image): Simple addon, to save the full website of one or more tab as a png image either via a click on the toolbar icon or via a custom shotcut
+* [igorlogius/save-website-as-image](https://github.com/igorlogius/save-website-as-image): Simple addon, to save a snapshot of a website via a click on the toolbar icon or a custom shortcut
 * [117649/SavedPasswordEditorRedux](https://github.com/117649/SavedPasswordEditorRedux): Not Gecko, application to allow creating and editing saved passwords 
 * [mdreier/savetabs](https://github.com/mdreier/savetabs): Save current tabs extension for Firefox
 * [pvpscript/savetabs](https://github.com/pvpscript/savetabs): A web browser extension that allows the user to save every tab's url to a file
@@ -2310,7 +2310,7 @@ creating your own Awesome List by GitHub stars!
 * [alfredapp/shortcuts-workflow](https://github.com/alfredapp/shortcuts-workflow): Run installed macOS shortcuts
 * [crittermike/shortkeys](https://github.com/crittermike/shortkeys): A browser extension for custom keyboard shortcuts 
 * [kuldeepghodasara/Show-Payment-icons-to-Shopify-Dynamically](https://github.com/kuldeepghodasara/Show-Payment-icons-to-Shopify-Dynamically): Script to Show Payment icons to Shopify Dynamically [add it to footer.liquid]
-* [igorlogius/show-qrcode](https://github.com/igorlogius/show-qrcode): Displays the active url (or any selected link or text) as a qrcode for easy sharing between devices with a qrcode scanner like mobile/smart phones and tablets. Also allows saving and copying to the clipboard pasting in other programms.
+* [igorlogius/show-qrcode](https://github.com/igorlogius/show-qrcode): Displays the active url (or any selected link or text) as a qrcode for easy sharing between devices with a qrcode scanner like mobile/smart phones and tablets. Also allows saving and copying to the clipboard for quick transfer into other applications
 * [apvarun/showfolio-hugo-theme](https://github.com/apvarun/showfolio-hugo-theme): Modern portfolio theme for your Hugo site
 * [shredthaGNAR/shredthaGNAR.github.io](https://github.com/shredthaGNAR/shredthaGNAR.github.io): Fully responsive personal  portfolio single-page website, responsive for all devices, built using HTML, CSS, JavaScript and Python.
 * [Naezr/ShyFox](https://github.com/Naezr/ShyFox): A very shy little theme that hides the entire browser interface in the window border
@@ -2552,7 +2552,6 @@ creating your own Awesome List by GitHub stars!
 * [thunderbird-conversations/thunderbird-conversations](https://github.com/thunderbird-conversations/thunderbird-conversations): An extension for Thunderbird that allows you to view threads as "real" conversations, including your own emails. This extension also adds a bunch of useful UI features in the conversation view.
 * [joax/thunderbird-dark-theme](https://github.com/joax/thunderbird-dark-theme): Dark theme based on Monterail for Thunderbird 78
 * [Era-Dorta/Thunderbird-Google-Keep-Tab](https://github.com/Era-Dorta/Thunderbird-Google-Keep-Tab): Google Keep for Thunderbird
-* [PascaleBeier/thunderbird-ispdb](https://github.com/PascaleBeier/thunderbird-ispdb): Auto-generated ISPDB distribution from Thunderbird for PHP Applications.
 * [marph91/thunderbird-joplin-export](https://github.com/marph91/thunderbird-joplin-export): Easily export your Thunderbird emails to Joplin.
 * [BDeliers/thunderbird-monterail](https://github.com/BDeliers/thunderbird-monterail): A light and red theme for Thunderbird
 * [ixnewton/thunderbird-monterail](https://github.com/ixnewton/thunderbird-monterail): A set of themes for thunderbird inspired by a Monterail blog post
