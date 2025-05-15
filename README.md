@@ -210,7 +210,6 @@ creating your own Awesome List by GitHub stars!
 * [surjithctly/astroship](https://github.com/surjithctly/astroship): Astroship is a starter template for startups, marketing websites, landing pages & blog. Built with Astro & TailwindCSS
 * [onwidget/astrowind](https://github.com/onwidget/astrowind): ⭕️ AstroWind: A free template using Astro 5 and Tailwind CSS. Astro starter theme.
 * [Zenlua/AT-YT](https://github.com/Zenlua/AT-YT): Tool build YouTube revanced mods auto.
-* [easonwong-de/ATBC-White-Sur-Firefox-Theme](https://github.com/easonwong-de/ATBC-White-Sur-Firefox-Theme): ATBC-compatible macOS Safari-like CSS theme for Firefox.
 * [atom/atom](https://github.com/atom/atom): :atom: The hackable text editor
 * [Hann8n/Atom-for-Firefox](https://github.com/Hann8n/Atom-for-Firefox): Restores UI to default settings but keeps the translucency effects of FluidFox for MacOS
 * [nathanbuchar/atom-one-dark-terminal](https://github.com/nathanbuchar/atom-one-dark-terminal): A Terminal theme that mimics the One Dark theme made by the Atom team.
@@ -1018,7 +1017,7 @@ creating your own Awesome List by GitHub stars!
 * [miten5/FreeWebHosting](https://github.com/miten5/FreeWebHosting): A list of free web hosting websites for developers.
 * [Mandrenkov/FreshView](https://github.com/Mandrenkov/FreshView): Browser extension that hides watched YouTube™ videos.
 * [tortious/FrozenFox](https://github.com/tortious/FrozenFox): A personal hodgepodge of css and js hacks to firefox that I personally enjoy. Strong emphasis on a blend of minimalism and functionality.
-* [bogachenko/fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock): Filters for blocking mining, pop-ups and anti-adblock bypass.
+* [bogachenkove/fuckfuckadblock](https://github.com/bogachenkove/fuckfuckadblock): Filters for blocking mining, pop-ups and anti-adblock bypass.
 * [naiemofficial/FUIX](https://github.com/naiemofficial/FUIX): A browser extension for updating social media UI (eg: Facebook, Messenger, Instagram). Available for Chrome, Firefox, MS Edge, Opera
 * [mikemadden42/fuji](https://github.com/mikemadden42/fuji): AppleScript collection
 * [robrop/FullScreen-FirefoxMac](https://github.com/robrop/FullScreen-FirefoxMac): Firefox / Mac real full screen and hotkey
@@ -2476,7 +2475,7 @@ creating your own Awesome List by GitHub stars!
 * [stefanXO/Tab-Manager-Plus](https://github.com/stefanXO/Tab-Manager-Plus): An updated and improved Chrome and Firefox extension of the old google chrome extension "Tab Manager". 
 * [xcv58/Tab-Manager-v2](https://github.com/xcv58/Tab-Manager-v2): Quickly and conveniently manage your open tabs https://tab-manager.vercel.app
 * [wildskyf/tab-notes](https://github.com/wildskyf/tab-notes): Browser Add-on: Allow you to write anything in new tab
-* [easonwong-de/Tab-Preview-On-Hover](https://github.com/easonwong-de/Tab-Preview-On-Hover): Adds on-hover tab preview to Firefox (requires CSS theme).
+* [easonwong-de/Tab-Preview-On-Hover](https://github.com/easonwong-de/Tab-Preview-On-Hover): Adds on-hover tab preview to Firefox before Mozilla does.
 * [sienori/Tab-Session-Manager](https://github.com/sienori/Tab-Session-Manager): WebExtensions for restoring and saving window / tab states
 * [josh-berry/tab-stash](https://github.com/josh-berry/tab-stash): Firefox extension to save and restore tabs as bookmarks. Clear your tabs, clear your mind.
 * [MonterraByte/tab_move](https://github.com/MonterraByte/tab_move): Firefox addon that lets you move a tab to the start or the end of the tab bar
