@@ -934,7 +934,7 @@ creating your own Awesome List by GitHub stars!
 * [wrestlerdude/Firefox-Proton-Square](https://github.com/wrestlerdude/Firefox-Proton-Square): Makes Firefox Proton UI look and feel like Quantum
 * [Sporif/firefox-quantum-userchromejs](https://github.com/Sporif/firefox-quantum-userchromejs): Firefox Quantum-compatible custom javascript in browser context — no extension, userChromeJS replacement
 * [xpmn/firefox-reading-list](https://github.com/xpmn/firefox-reading-list): A minimal Firefox extension for saving pages to read later.
-* [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar): Refine the Firefox (130–137) find bar by repositioning it, adjusting spacing & styling internal elements.
+* [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar): Refine the Firefox (130–138) find bar by repositioning it, adjusting spacing & styling internal elements.
 * [mobiusxp/firefox-remap-private-browsing](https://github.com/mobiusxp/firefox-remap-private-browsing): UserChrome JS script to remap Firefox's Private Browsing to match everything else
 * [BGMP/firefox-revert-proton](https://github.com/BGMP/firefox-revert-proton): Revert Firefox Proton to Photon & Photon Compact
 * [panjilp-lab/firefox-safari-noFix](https://github.com/panjilp-lab/firefox-safari-noFix): learning to make safari style for firefox
@@ -1059,7 +1059,7 @@ creating your own Awesome List by GitHub stars!
 * [geeker-ai/geek_chat](https://github.com/geeker-ai/geek_chat): GeekChat is a app for multiple cutting-edge LLM(ChatGPT and Gemini) models that available on Desktop(Win,Mac) and Mobile(Android, iOS)
 * [Coding-Meet/Gemini-AI-KMP-App](https://github.com/Coding-Meet/Gemini-AI-KMP-App): Gemini AI Kotlin Multiplatform project designed to target Android, iOS, Windows, macOS, Linux, and Web platforms.
 * [RMNCLDYO/gemini-ai-toolkit](https://github.com/RMNCLDYO/gemini-ai-toolkit): Unlock the potential of Google's Gemini AI models with this versatile toolkit. Offering seamless chat, text generation, and multimodal interactions, supporting various file types, including PDF's, images, videos, audio, text and more. Enjoy real-time responses, customizable parameters, and easy integration for diverse AI tasks.
-* [muhammedsamal/gemini-image-analysis](https://github.com/muhammedsamal/gemini-image-analysis): None
+* [muhammedsamal/gemini-image-analysis](https://github.com/muhammedsamal/gemini-image-analysis): A Python script that uses Google's Gemini AI to automatically rename images with descriptive filenames based on their content.
 * [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat): Minimal web UI for GeminiPro.
 * [David-Kunz/gen.nvim](https://github.com/David-Kunz/gen.nvim): Neovim plugin to generate text using LLMs with customizable prompts
 * [webextension-toolbox/generator-web-extension](https://github.com/webextension-toolbox/generator-web-extension): Advanced WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
