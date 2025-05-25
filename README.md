@@ -1902,7 +1902,7 @@ creating your own Awesome List by GitHub stars!
 * [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic): Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
 * [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo): 🧩 The Browser Extension Framework
 * [aaronhff8/plastic-joplin-theme](https://github.com/aaronhff8/plastic-joplin-theme): Theme for Joplin that utilises the standard dark theme and essentially a restyling of Ohmine-Dark-Theme-For-Joplin. 
-* [sveinbjornt/Platypus](https://github.com/sveinbjornt/Platypus): Create native Mac applications from command line scripts.
+* [sveinbjornt/Platypus](https://github.com/sveinbjornt/Platypus): Create native macOS applications from command line scripts.
 * [alexdevero/playerfm-desktop-app](https://github.com/alexdevero/playerfm-desktop-app): Desktop app for PlayerFM build with electron.
 * [pyrooka/playerfm-downloader](https://github.com/pyrooka/playerfm-downloader): Simple tool written for my colleague. Download list of mp3-s from the given playerfm URL.
 * [benr0th/PlaylistSearch](https://github.com/benr0th/PlaylistSearch): Search your Youtube™ playlists
@@ -2079,6 +2079,8 @@ creating your own Awesome List by GitHub stars!
 * [DEgITx/rats-search](https://github.com/DEgITx/rats-search): BitTorrent P2P multi-platform search engine for Desktop and Web servers with integrated torrent client.
 * [isheeze/rawalpindis](https://github.com/isheeze/rawalpindis): Shopify os 2.0 first theme of mine
 * [XInTheDark/raycast-g4f](https://github.com/XInTheDark/raycast-g4f): Raycast extension to use GPT, Claude, Llama, and more... all for FREE! + Full support for custom APIs.
+* [szcharlesji/raycast-relay](https://github.com/szcharlesji/raycast-relay): Relay your Raycast AI to an OpenAI compatible API endpoint
+* [missuo/raycast2api](https://github.com/missuo/raycast2api): Relay your Raycast AI to an OpenAI compatible API endpoint
 * [WToa/raycast_extensions_by_downloads](https://github.com/WToa/raycast_extensions_by_downloads): Rank raycast extensions by downloads
 * [MassimilianoPasquini97/raycast_ollama](https://github.com/MassimilianoPasquini97/raycast_ollama): Raycast extention for Ollama
 * [rbenv/rbenv](https://github.com/rbenv/rbenv): Manage your app's Ruby environment
@@ -2137,12 +2139,15 @@ creating your own Awesome List by GitHub stars!
 * [NoName-exe/revanced](https://github.com/NoName-exe/revanced): ReVanced YT and YT-M for both root and non-root users.
 * [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root): Real-time repository build Revanced and Revanced Extended about 10 minutes after patch release
 * [n0k0m3/revanced-build-template](https://github.com/n0k0m3/revanced-build-template): Github Template for building Revanced
+* [farag2/ReVanced-Builder](https://github.com/farag2/ReVanced-Builder): None
+* [peternmuller/revanced-builder](https://github.com/peternmuller/revanced-builder): An APK and Magisk/KernelSU module builder for RV/RVX apps. Updated hourly.
 * [reisxd/revanced-builder](https://github.com/reisxd/revanced-builder): A NodeJS ReVanced builder
 * [ReVanced/revanced-cli](https://github.com/ReVanced/revanced-cli): 💻 Command-line application to use ReVanced
 * [XDream8/revanced-creator](https://github.com/XDream8/revanced-creator): Create Revanced apps easily ☠️
 * [ReVanced/revanced-documentation](https://github.com/ReVanced/revanced-documentation): 🗄 Collection of all ReVanced documentation
 * [inotia00/revanced-documentation](https://github.com/inotia00/revanced-documentation): 🗄 Documentation and guides for ReVanced Extended
 * [NoName-exe/revanced-extended](https://github.com/NoName-exe/revanced-extended): ReVanced eXtended YT and YT-M for both root and non-root users.
+* [thunderkex/revanced-extended](https://github.com/thunderkex/revanced-extended): Auto generated & Integrated repository build custom Revanced Extended APKs for both root and non-root users.
 * [ReVanced/revanced-integrations](https://github.com/ReVanced/revanced-integrations): 🔩 ReVanced Integrations containing classes to be merged by ReVanced Patcher
 * [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module): Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
 * [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager): 💊 Application to use ReVanced on Android 
@@ -2153,8 +2158,10 @@ creating your own Awesome List by GitHub stars!
 * [anddea/revanced-patches](https://github.com/anddea/revanced-patches): 🧩 Patches for ReVanced
 * [inotia00/revanced-patches](https://github.com/inotia00/revanced-patches): 🧩 Patches for ReVanced
 * [ReVanced/revanced-patches-template](https://github.com/ReVanced/revanced-patches-template): 👋🧩Template repository for ReVanced Patches
+* [rahulkhatri137/revanced-yt-builder](https://github.com/rahulkhatri137/revanced-yt-builder): Build Revanced YouTube using GitHub actions
 * [inotia00/ReVanced_Extended](https://github.com/inotia00/ReVanced_Extended): ReVanced Extended Issues/Request repo
 * [SinTan1729/ReVancedBuilder](https://github.com/SinTan1729/ReVancedBuilder): A script to automatically build latest releases of ReVanced apps
+* [chsbuffer/ReVancedXposed](https://github.com/chsbuffer/ReVancedXposed): ReVanced LSPosed module. YouTube & YT Music Remove ads, Background playback
 * [shekhawat2/RevancedYT](https://github.com/shekhawat2/RevancedYT): None
 * [decipher3114/Revancify](https://github.com/decipher3114/Revancify): The only revancify
 * [YT-Advanced/ReX-patches](https://github.com/YT-Advanced/ReX-patches): 🧩 Patches for ReVanced
@@ -2170,6 +2177,7 @@ creating your own Awesome List by GitHub stars!
 * [runningcheese/RunningCheese-Firefox](https://github.com/runningcheese/RunningCheese-Firefox): A Graceful and Powerful Customized Firefox
 * [huhu/rust-search-extension](https://github.com/huhu/rust-search-extension): 🦀 The ultimate search extension for Rust
 * [rvm/rvm](https://github.com/rvm/rvm): Ruby enVironment Manager (RVM)
+* [j-hc/rvmm-config-gen](https://github.com/j-hc/rvmm-config-gen): config generator for revanced-magisk-module
 * [darshanbaral/sada](https://github.com/darshanbaral/sada): Simple hugo theme for resume created using Tailwind CSS
 * [thepante/SAL-Firefox](https://github.com/thepante/SAL-Firefox): Sidebar Always Loaded for Firefox
 * [CruelKernel/samsung-exynos9820](https://github.com/CruelKernel/samsung-exynos9820): Unified kernel tree for S10 and Note10 devices
@@ -2888,6 +2896,7 @@ creating your own Awesome List by GitHub stars!
 * [pateldevang/Youtube-music-macOS](https://github.com/pateldevang/Youtube-music-macOS): Youtube Music for macOS (Ads free) & Download Music For Free.
 * [organization/youtube-music-next](https://github.com/organization/youtube-music-next): YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader). forked from th-ch/youtube-music
 * [soufianesakhi/youtube-playlist-helper](https://github.com/soufianesakhi/youtube-playlist-helper): YouTube playlist editor and generator
+* [MANCrimSon/YouTube-ReVanced-Extended](https://github.com/MANCrimSon/YouTube-ReVanced-Extended): None
 * [alexmercerind/youtube-search-python](https://github.com/alexmercerind/youtube-search-python): 🔎 Search for YouTube videos, channels & playlists. Get 🎞 video &  📑 playlist info using link. Get search suggestions. WITHOUT YouTube Data API v3.
 * [PeerGroupSoftware/Youtube-To-Mac](https://github.com/PeerGroupSoftware/Youtube-To-Mac): Cocoa Interface for youtube-dl
 * [Tatsh/youtube-unofficial](https://github.com/Tatsh/youtube-unofficial): Access parts of your account unavailable through normal YouTube API access.
