@@ -485,6 +485,9 @@
     "Dimentium/homebrew-autoraise": [
         "Other"
     ],
+    "DinoDevel/Joplin-theme-opensuse-green": [
+        "Other"
+    ],
     "Dis90/plugin.video.discoveryplus": [
         "Other"
     ],
@@ -846,6 +849,9 @@
         "Other"
     ],
     "JYLD/User-CSS-For-Firefox-And-Thunderbird": [
+        "Other"
+    ],
+    "JaceThings/Firefox-Customisation": [
         "Other"
     ],
     "JackGruber/Joplin-Tools": [
@@ -1694,9 +1700,6 @@
     "SinTan1729/ReVancedBuilder": [
         "Other"
     ],
-    "Sinacs/Joplin.Plugin.ReMoods.Theme": [
-        "Other"
-    ],
     "Sine-Of-Time/Omaha-Poker": [
         "Other"
     ],
@@ -1728,9 +1731,6 @@
         "Other"
     ],
     "SofiDevO/portfolio-sofidev-garrux": [
-        "Other"
-    ],
-    "Soft-Bred/Firefox-Customisation": [
         "Other"
     ],
     "SoldierInFaith14/excel_automation": [
@@ -2819,6 +2819,9 @@
     "benr0th/PlaylistSearch": [
         "Other"
     ],
+    "benstonezhang/adobe-packager": [
+        "Other"
+    ],
     "bentoml/OpenLLM": [
         "Other"
     ],
@@ -3237,9 +3240,6 @@
         "Other"
     ],
     "continuedev/continue": [
-        "Other"
-    ],
-    "cookie-s/pocket-export": [
         "Other"
     ],
     "coolaj86/dropshare": [
@@ -4706,6 +4706,9 @@
     "ivarbrandt/skin.fentastic": [
         "Other"
     ],
+    "ivfrost/joplin-adwaita-theme": [
+        "Other"
+    ],
     "ixartz/Astro-boilerplate": [
         "Other"
     ],
@@ -5618,6 +5621,9 @@
     "marlonrichert/zsh-launchpad": [
         "Other"
     ],
+    "marph91/jimmy": [
+        "Other"
+    ],
     "marph91/joppy": [
         "Other"
     ],
@@ -6168,6 +6174,9 @@
         "Other"
     ],
     "nightmare-space/fast_share": [
+        "Other"
+    ],
+    "nikhilbadyal/docker-py-revanced": [
         "Other"
     ],
     "nikitavoloboev/alfred-my-mind": [
