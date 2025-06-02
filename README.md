@@ -510,7 +510,7 @@ creating your own Awesome List by GitHub stars!
 * [SingularityLabs-ai/ChatGPT-Tool-List](https://github.com/SingularityLabs-ai/ChatGPT-Tool-List): Bots To be added
 * [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js): 🤖 A powerful, open source client-side JavaScript library for ChatGPT
 * [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN): ChatGPT DAN, Jailbreaks prompt
-* [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox): Integrating ChatGPT into your browser deeply, everything you need is here
+* [ChatGPTBox-dev/chatGPTBox](https://github.com/ChatGPTBox-dev/chatGPTBox): Integrating ChatGPT into your browser deeply, everything you need is here
 * [chathub-dev/chathub](https://github.com/chathub-dev/chathub): All-in-one chatbot client
 * [egoist/chatkit-desktop](https://github.com/egoist/chatkit-desktop): a new desktop app for chatkit.app
 * [actions/checkout](https://github.com/actions/checkout): Action for checking out a repo
@@ -937,7 +937,7 @@ creating your own Awesome List by GitHub stars!
 * [wrestlerdude/Firefox-Proton-Square](https://github.com/wrestlerdude/Firefox-Proton-Square): Makes Firefox Proton UI look and feel like Quantum
 * [Sporif/firefox-quantum-userchromejs](https://github.com/Sporif/firefox-quantum-userchromejs): Firefox Quantum-compatible custom javascript in browser context — no extension, userChromeJS replacement
 * [xpmn/firefox-reading-list](https://github.com/xpmn/firefox-reading-list): A minimal Firefox extension for saving pages to read later.
-* [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar): Refine the Firefox (130–138) find bar by repositioning it, adjusting spacing & styling internal elements.
+* [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar): Refine the Firefox (130–139) find bar by repositioning it, adjusting spacing & styling internal elements.
 * [mobiusxp/firefox-remap-private-browsing](https://github.com/mobiusxp/firefox-remap-private-browsing): UserChrome JS script to remap Firefox's Private Browsing to match everything else
 * [BGMP/firefox-revert-proton](https://github.com/BGMP/firefox-revert-proton): Revert Firefox Proton to Photon & Photon Compact
 * [panjilp-lab/firefox-safari-noFix](https://github.com/panjilp-lab/firefox-safari-noFix): learning to make safari style for firefox
@@ -1397,7 +1397,7 @@ creating your own Awesome List by GitHub stars!
 * [tmcinerney/keep](https://github.com/tmcinerney/keep): Run Google Keep in the menu bar
 * [lukassr/keep-desktop](https://github.com/lukassr/keep-desktop): Google Keep Dark: Desktop application for Windows, Mac and Linux with Dark Theme.
 * [ndbeals/keep-exporter](https://github.com/ndbeals/keep-exporter): A command line utility to export Google Keep notes to markdown.
-* [djsudduth/keep-it-markdown](https://github.com/djsudduth/keep-it-markdown): Convert Google Keep notes dynamically to markdown for Obsidian, Logseq, Joplin and Notion using the unofficial Keep API. Also, import simple markdown notes back into Google Keep.
+* [djsudduth/keep-it-markdown](https://github.com/djsudduth/keep-it-markdown): Export and convert Google Keep notes dynamically to markdown for Obsidian, Logseq, Joplin and Notion using the unofficial Keep API. Also, import simple markdown notes back into Google Keep.
 * [belaviyo/keepass-macpass-helper](https://github.com/belaviyo/keepass-macpass-helper): A helper extension to use KeePass/MacPass/KeePassXC from Firefox, Opera, and Chrome browsers
 * [PhilippC/keepass2android](https://github.com/PhilippC/keepass2android): Password manager app for Android
 * [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX): Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
