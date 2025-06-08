@@ -1085,6 +1085,7 @@ creating your own Awesome List by GitHub stars!
 * [weakish/gister](https://github.com/weakish/gister): command line tool to sync github gists
 * [epoch/gistlord](https://github.com/epoch/gistlord): fast github gist searcher viewer editor manager note taker built with React & Redux
 * [Gisto/Gisto](https://github.com/Gisto/Gisto): Gisto is a Cross-platform snippets management application that allows you and/or your team share code snippets fast and easily.  Based on GitHub Gists Infrastructure which means you can use all your existing snippets by connecting your GitHub account!  Gisto started as an attempt to fulfill the lack of a syntax highlighted and cloud sync
+* [codinginbarn/GistoSnips](https://github.com/codinginbarn/GistoSnips): Gisto is a Cross-platform snippets management application that allows you and/or your team share code snippets fast and easily.  Based on GitHub Gists Infrastructure which means you can use all your existing snippets by connecting your GitHub account!  Gisto started as an attempt to fulfill the lack of a syntax highlighted and cloud sync
 * [lostintangent/gistpad](https://github.com/lostintangent/gistpad): 📘 VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 * [mufeedvh/gisture](https://github.com/mufeedvh/gisture): A minimal and flexible blog generator based on GitHub Gist.
 * [git/git](https://github.com/git/git): Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
@@ -1754,6 +1755,7 @@ creating your own Awesome List by GitHub stars!
 * [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper): Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
 * [Enveloppe/obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe): Enveloppe helps you to publish your notes on a GitHub repository from your Obsidian Vault, for free!
 * [JoshKasap/Obsidian-Faded-Theme](https://github.com/JoshKasap/Obsidian-Faded-Theme): Faded Theme For Obsidian By MatteCrystal
+* [stravo1/obsidian-gdrive-sync](https://github.com/stravo1/obsidian-gdrive-sync): sync notes across devices in Obsidian via Google Drive 
 * [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git): Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
 * [nuthrash/obsidian-html-plugin](https://github.com/nuthrash/obsidian-html-plugin): This is a plugin for Obsidian (https://obsidian.md). Can open document with .html and .htm file extensions.
 * [mProjectsCode/obsidian-meta-bind-plugin](https://github.com/mProjectsCode/obsidian-meta-bind-plugin): A plugin for Obsidian to make your notes interactive with inline input fields, metadata displays, and buttons.
@@ -2905,10 +2907,13 @@ creating your own Awesome List by GitHub stars!
 * [hendrikbgr/YandexMail-Account-Creator](https://github.com/hendrikbgr/YandexMail-Account-Creator): 🚀 Create hundreds of free YandexMail Email Accounts in the matter of minutes 🚀
 * [roleoroleo/yi-hack-Allwinner](https://github.com/roleoroleo/yi-hack-Allwinner): Custom firmware for Yi 1080p camera based on Allwinner platform
 * [roleoroleo/yi-hack-Allwinner-v2](https://github.com/roleoroleo/yi-hack-Allwinner-v2): Custom firmware for Yi 1080p camera based on Allwinner platform
+* [npetrovski/yi-hack-easy](https://github.com/npetrovski/yi-hack-easy): Customized firmware for Yi Home Camera 720p
 * [roleoroleo/yi-hack-MStar](https://github.com/roleoroleo/yi-hack-MStar): Custom firmware for Yi 1080p camera based on MStar platform
 * [roleoroleo/yi-hack-MStar.gdrive](https://github.com/roleoroleo/yi-hack-MStar.gdrive): Google drive loader for yi smart ip camera (MStar based)
+* [shadow-1/yi-hack-v3](https://github.com/shadow-1/yi-hack-v3): Alternative Firmware for Xiaomi Cameras based on Hi3518e Chipset
 * [TheCrypt0/yi-hack-v4](https://github.com/TheCrypt0/yi-hack-v4): New Custom Firmware for Xiaomi Cameras based on Hi3518e Chipset. It features RTSP, SSH, FTP and more!
 * [alienatedsec/yi-hack-v5](https://github.com/alienatedsec/yi-hack-v5): Even newer Custom Firmware for Xiaomi Cameras based on Hi3518ev200 Chipset. It includes free RTSP, ONVIF and other improvements based on the work by roleoroleo
+* [roleoroleo/yi-hack_ha_integration](https://github.com/roleoroleo/yi-hack_ha_integration): Home Assistant custom integration for Yi cameras: yi-hack-MStar, yi-hack-Allwinner, yi-hack-Allwinner-v2, yi-hack-v5 and sonoff-hack
 * [yiisoft/yii2-app-basic](https://github.com/yiisoft/yii2-app-basic): Yii 2.0 Basic Application Template
 * [execut/yii2-people-finder](https://github.com/execut/yii2-people-finder): Library for search peoples via social networks
 * [mattDavo/Yippy](https://github.com/mattDavo/Yippy): macOS open source clipboard manager
