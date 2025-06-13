@@ -162,6 +162,7 @@ creating your own Awesome List by GitHub stars!
 * [amugofjava/anytime_podcast_player](https://github.com/amugofjava/anytime_podcast_player): Simple, easy to use Podcast player app written in Flutter and Dart.
 * [drcika/apc-extension](https://github.com/drcika/apc-extension): None
 * [wulkano/Aperture](https://github.com/wulkano/Aperture): Record the screen on macOS
+* [vincenzocaputo/API-s-for-OSINT](https://github.com/vincenzocaputo/API-s-for-OSINT): List of API's for gathering information about phone numbers, addresses, domains etc
 * [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor): Powerful android apk editor - aapt/aapt2 independent
 * [APKLab/APKLab](https://github.com/APKLab/APKLab): Android Reverse-Engineering Workbench for VS Code
 * [amirgamil/apollo](https://github.com/amirgamil/apollo): A Unix-style personal search engine and web crawler for your digital footprint.
@@ -292,6 +293,7 @@ creating your own Awesome List by GitHub stars!
 * [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy): Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 * [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering): This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc 
 * [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts): Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
+* [j3lte/awesome-raycast](https://github.com/j3lte/awesome-raycast): Automated list of all Raycast extensions
 * [o19s/awesome-search-relevance](https://github.com/o19s/awesome-search-relevance): Tools and other things for people who work on search relevance & information retrieval
 * [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted): A list of Free Software network services and web applications which can be hosted on your own servers
 * [LeCoupa/awesome-shopify](https://github.com/LeCoupa/awesome-shopify): 👩‍🎓👨‍🎓 Must-read articles, videos and books for store owners, app and theme developers.
@@ -1122,7 +1124,7 @@ creating your own Awesome List by GitHub stars!
 * [p3rception/GlassFox](https://github.com/p3rception/GlassFox): // Transluscent FirefoxCSS theme for MacOS
 * [4xx404/GlassFrog](https://github.com/4xx404/GlassFrog): Keyword Search & Information Gathering Tool
 * [ravindranag/glassmorphism-in-firefox](https://github.com/ravindranag/glassmorphism-in-firefox): Create cards with acrylic effect in Firefox
-* [AnhNguyenlost13/GlassyFox](https://github.com/AnhNguyenlost13/GlassyFox): blur overuse lmao
+* [AnhNguyenlost13/GlassyFox](https://github.com/AnhNguyenlost13/GlassyFox): macos 26 lookin' firefox
 * [5starkarma/global-poker-addons](https://github.com/5starkarma/global-poker-addons): Quick Seat/Automated Tiling/Hotkey Tool
 * [mr-feek/global-poker-hand-history-converter](https://github.com/mr-feek/global-poker-hand-history-converter): :spades: :clubs: Convert Global Poker hand histories to PokerStars format :hearts: :diamonds:
 * [mr-feek/global-poker-hand-history-converter-chrome-extension](https://github.com/mr-feek/global-poker-hand-history-converter-chrome-extension): Chrome Extension for fetching Global Poker hand histories and converting them to poker stars format.
@@ -1352,6 +1354,7 @@ creating your own Awesome List by GitHub stars!
 * [benji300/joplin-favorites](https://github.com/benji300/joplin-favorites): Save any notebook, note, to-do, tag, or search as favorite in an extra panel view for quick access.
 * [LongBay/Joplin-Light-Theme](https://github.com/LongBay/Joplin-Light-Theme): A light theme for Joplin
 * [andrejilderda/joplin-macos-native-theme](https://github.com/andrejilderda/joplin-macos-native-theme): Native looking macOS theme for note taking app Joplin
+* [PierreLga456/joplin-macos-theme](https://github.com/PierreLga456/joplin-macos-theme): Un thème CSS pour Joplin inspiré de macOS, avec une apparence épurée et native. Compatible avec les modes clair et sombre.
 * [benji300/joplin-milford-ui](https://github.com/benji300/joplin-milford-ui): Dark theme for Joplin's desktop application.
 * [amandamcg/joplin-new-theme-sandbox](https://github.com/amandamcg/joplin-new-theme-sandbox): Testing CSS ideas for the new theme
 * [mattsbennett/joplin-Nord2](https://github.com/mattsbennett/joplin-Nord2): Joplin Nord Sub-theme
@@ -1861,6 +1864,7 @@ creating your own Awesome List by GitHub stars!
 * [opengaming/osgameclones](https://github.com/opengaming/osgameclones): Open Source Clones of Popular Games
 * [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet): OSINT cheat sheet, list OSINT tools, wiki, dataset, article, book , red team OSINT for hackers and OSINT tips and OSINT branch. This repository will grow every time will research, there is a research, science and technology, tutorial. Please use it wisely.
 * [soxoj/osint-namecheckers-list](https://github.com/soxoj/osint-namecheckers-list): A list of tools to search accounts by username
+* [AnonAmit/osint-tool](https://github.com/AnonAmit/osint-tool): A free, powerful OSINT (Open Source Intelligence) command-line tool that provides comprehensive intelligence gathering capabilities using only free APIs and resources.
 * [rly0nheart/osinteye](https://github.com/rly0nheart/osinteye): Username enumeration & reconnaisance suite
 * [awareseven/OSINTsources](https://github.com/awareseven/OSINTsources): This is a repo containing several osint sources
 * [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo): Turn GitHub into a bookmark manager
@@ -2108,7 +2112,9 @@ creating your own Awesome List by GitHub stars!
 * [LoneWanderer-GH/RaspiVWS](https://github.com/LoneWanderer-GH/RaspiVWS): Raspberry Pi Webcam Streaming with Logitech C920 and VLC
 * [DEgITx/rats-search](https://github.com/DEgITx/rats-search): BitTorrent P2P multi-platform search engine for Desktop and Web servers with integrated torrent client.
 * [isheeze/rawalpindis](https://github.com/isheeze/rawalpindis): Shopify os 2.0 first theme of mine
+* [miikkaylisiurunen/raycast-ai-openrouter-proxy](https://github.com/miikkaylisiurunen/raycast-ai-openrouter-proxy): Integrate any OpenAI-compatible API with Raycast AI
 * [XInTheDark/raycast-g4f](https://github.com/XInTheDark/raycast-g4f): Raycast extension to use GPT, Claude, Llama, and more... all for FREE! + Full support for custom APIs.
+* [SKaplanOfficial/Raycast-PromptLab](https://github.com/SKaplanOfficial/Raycast-PromptLab): A Raycast extension for creating powerful, contextually-aware AI commands using placeholders, action scripts, selected files, and more.
 * [szcharlesji/raycast-relay](https://github.com/szcharlesji/raycast-relay): Relay your Raycast AI to an OpenAI compatible API endpoint
 * [missuo/raycast2api](https://github.com/missuo/raycast2api): Relay your Raycast AI to an OpenAI compatible API endpoint
 * [WToa/raycast_extensions_by_downloads](https://github.com/WToa/raycast_extensions_by_downloads): Rank raycast extensions by downloads
@@ -2422,6 +2428,7 @@ creating your own Awesome List by GitHub stars!
 * [akarlsten/snaz](https://github.com/akarlsten/snaz): VS Code color theme
 * [akarlsten/snazzy-plus](https://github.com/akarlsten/snazzy-plus): VS Code color theme
 * [snthcy/snazzy-vscode](https://github.com/snthcy/snazzy-vscode): A snazzy looking theme for Visual Studio Code.
+* [Bebrowskiy/Sniffle](https://github.com/Bebrowskiy/Sniffle): Feel like a real spy with Sniffle! A powerful set of tools for OSINT that makes data mining fast and fun. Everything you need to analyze is now at your fingertips - easy and hassle-free!
 * [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet): Comfortably monitor your Internet traffic 🕵️‍♂️
 * [gocomet/snippets](https://github.com/gocomet/snippets): A collection of code snippets, generally for use with Shopify
 * [JustAnotherArchivist/snscrape](https://github.com/JustAnotherArchivist/snscrape): A social networking service scraper in Python
