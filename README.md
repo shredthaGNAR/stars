@@ -1004,7 +1004,7 @@ creating your own Awesome List by GitHub stars!
 * [dannycandle/FluidFox](https://github.com/dannycandle/FluidFox): A custom Firefox userChrome for mac OS.
 * [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet): Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips (and optionally Bluetooth) in close range.
 * [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox): An opinionated set of configurations for firefox.
-* [fmhy/FMHY](https://github.com/fmhy/FMHY): /r/FREEMEDIAHECKYEAH
+* [fmhy/FMHY](https://github.com/fmhy/FMHY): https://fmhy.net/
 * [fmhy/FMHYFilterlist](https://github.com/fmhy/FMHYFilterlist): FMHY Filterlist
 * [avindra/fndr](https://github.com/avindra/fndr): An Internet helper to wrangle multiple search providers, extract social media ids, perform reverse image search and more.
 * [VigoKrumins/folder-icons](https://github.com/VigoKrumins/folder-icons): Custom folder icons for macOS & Windows
@@ -1476,7 +1476,7 @@ creating your own Awesome List by GitHub stars!
 * [Dacid99/LinkDroid-for-Linkwarden](https://github.com/Dacid99/LinkDroid-for-Linkwarden): Mirror repository of the LinkDroid for Linkwarden app 
 * [eight04/linkify-plus-plus](https://github.com/eight04/linkify-plus-plus): A userscript/extension which can linkify almost everything. Based on Linkify Plus.
 * [eight04/linkify-plus-plus-core](https://github.com/eight04/linkify-plus-plus-core): A JavaScript library for linkification stuff. Used by linkify-plus-plus.
-* [LinkoraApp/Linkora](https://github.com/LinkoraApp/Linkora): The only link utility app you need for Android, now available on desktop.
+* [LinkoraApp/Linkora](https://github.com/LinkoraApp/Linkora): The ultimate link organizer for Android, now available on desktop with self-hosted sync.
 * [tetsuharuohzeki/linkplaces](https://github.com/tetsuharuohzeki/linkplaces): This is a add-on for Mozilla Firefox. This provides Sidebar to display "Unsorted Bookmarks" folder in Places, as "Temporary Links".
 * [koukaku01/LinkQR](https://github.com/koukaku01/LinkQR): A Firefox extension that instantly converts web links into QR codes with a single click from the address bar. Easily copy or download QR codes in PNG/SVG format for seamless sharing.
 * [velvia/links](https://github.com/velvia/links): Just a bunch of useful links
