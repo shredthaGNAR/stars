@@ -183,11 +183,11 @@ creating your own Awesome List by GitHub stars!
 * [ChristoferK/AppleScriptive](https://github.com/ChristoferK/AppleScriptive): Functional AppleScripts operating out of Keyboard Maestro, Alfred and Automator to optimise productivity.
 * [Jmuccigr/AppleScripts](https://github.com/Jmuccigr/AppleScripts): Handy AppleScripts I use
 * [abbeycode/AppleScripts](https://github.com/abbeycode/AppleScripts): My collection of scripts I've written over the years
+* [buchanansc/AppleScripts](https://github.com/buchanansc/AppleScripts): ~/Library/Scripts
 * [kevin-funderburg/AppleScripts](https://github.com/kevin-funderburg/AppleScripts): My collection of AppleScripts I've developed or acquired over the years.
 * [nathan-artist/AppleScripts](https://github.com/nathan-artist/AppleScripts): AppleScripts for use with OS X / macOS
 * [shreygan/Applescripts](https://github.com/shreygan/Applescripts): custom applescripts for btt
 * [steventheworker/applescripts](https://github.com/steventheworker/applescripts): This is where I keep my applescript's and BetterTouchTool configuration, and some apps/automation's I use.
-* [wafflesnatcha/AppleScripts](https://github.com/wafflesnatcha/AppleScripts): ~/Library/Scripts
 * [TaylorJadin/applescripts-btt](https://github.com/TaylorJadin/applescripts-btt): a collection of applescripts that I have use with BetterTouchTool or KeyboardMaestro on my mac
 * [JT5D/AppleTree](https://github.com/JT5D/AppleTree): Applescripts, apps, services, droplets, actions & automator workflows grow abudant on this Apple Tree, some fruit made by me, while many come from Web tuts & altruist worker bees
 * [milanvarady/Applite](https://github.com/milanvarady/Applite): User-friendly GUI macOS application for Homebrew Casks
@@ -1013,7 +1013,6 @@ creating your own Awesome List by GitHub stars!
 * [UrielAbergel/Follow_The_Image--ComputerVision](https://github.com/UrielAbergel/Follow_The_Image--ComputerVision): Search system, the system receives as input a picture of a person, and finds all his pictures in the destination folder or on the computer, the system will emit all the pictures in which the person appeared
 * [beichensky/Font](https://github.com/beichensky/Font): FiraCode 和 Operator Mono 字体
 * [Snilda/Font-Library](https://github.com/Snilda/Font-Library): Check Readme
-* [g-cqd/Fonts](https://github.com/g-cqd/Fonts): A curation of fonts from all over the world.
 * [ohmybahgosh/FONTS_DOT_COM_RIPPER](https://github.com/ohmybahgosh/FONTS_DOT_COM_RIPPER): Script to extract entire font families from Fonts.com, rips them as woff2 and final output includes woff2 and ttf files
 * [fontsource/fontsource](https://github.com/fontsource/fontsource): Self-host Open Source fonts in neatly bundled NPM packages.
 * [briankendall/forceFullDesktopBar](https://github.com/briankendall/forceFullDesktopBar): Utility for macOS that modifies the Dock process so that the desktop bar in Mission Control is always full size and showing previews
