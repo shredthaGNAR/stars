@@ -82,7 +82,7 @@ creating your own Awesome List by GitHub stars!
 * [vanrohan/ai-bookmark-organizer](https://github.com/vanrohan/ai-bookmark-organizer): None
 * [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions): 🤖 AI browser extensions & userscripts to augment your web experience
 * [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists): A collection of unified blocklists designed to provide complete filtering capabilities for different online threats. These blocklists are curated from multiple sources, offering a robust solution for blocking ads, malware, trackers, and other unwanted content.
-* [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams): AIOStreams consolidates multiple Stremio addons and debrid services into a single, easily configurable addon. It allows highly customisable filtering, sorting, and formatting of results and supports proxying all your streams through MediaFlow Proxy or StremThru for improved compatibility and IP restriction bypassing.
+* [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams): One addon to rule them all. AIOStreams consolidates multiple Stremio addons and debrid services into a single, highly customisable super-addon. 
 * [air-controller/air-controller-desktop](https://github.com/air-controller/air-controller-desktop): A new handy and powerful Android phone assistant， powered by Flutter.
 * [canalnoises/AirDrop-Shortcut](https://github.com/canalnoises/AirDrop-Shortcut): A script to select AirDrop from Finder's Share menu. Assign to a keyboard shortcut for quick AirDropping.
 * [Airmail/AirmailPlugIn-Framework](https://github.com/Airmail/AirmailPlugIn-Framework): None
@@ -91,7 +91,7 @@ creating your own Awesome List by GitHub stars!
 * [xwmx/airport](https://github.com/xwmx/airport): A command line / terminal tool for Wi-Fi on macOS / OS X up to macOS Sonoma 14.4.
 * [SethuSenthil/AirPush](https://github.com/SethuSenthil/AirPush): The all in one AirMessage (iMessage) script you can forget about
 * [pinetum/AirUnlock-for-Mac](https://github.com/pinetum/AirUnlock-for-Mac): Using android phone to establish a connection with your Mac via Bluetooth low-energy (BLE), controlling Mac lock state (Lock or Unlock).
-* [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter): Menubar Tool to set Charge Limits and Prolong Battery Lifespan
+* [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring): Menubar Tool to set Charge Limits and Prolong Battery Lifespan
 * [ajrosen/Alfred](https://github.com/ajrosen/Alfred): Alfred workflows
 * [kkanzelmeyer/alfred](https://github.com/kkanzelmeyer/alfred): Raspberry pi webcam and motion sensor project
 * [kevin-funderburg/alfred-bettertouchtool-gestures](https://github.com/kevin-funderburg/alfred-bettertouchtool-gestures): Use Alfred to quickly search through all the trackpad gestures within BetterTouchTool
@@ -384,7 +384,6 @@ creating your own Awesome List by GitHub stars!
 * [MrOtherGuy/bookmark-batch-updater](https://github.com/MrOtherGuy/bookmark-batch-updater): A webextension tool to update multiple bookmarks at once
 * [Rob--W/bookmark-container-tab](https://github.com/Rob--W/bookmark-container-tab): Firefox add-on to add "Open in Container Tab" menu item to bookmark menus
 * [aaFn/Bookmark-search-plus-2](https://github.com/aaFn/Bookmark-search-plus-2): Displays and filters bookmarks on search string, show parent folders.  This is a Web Extension add-on version of the old "Bookmark search plus" XUL extension published by Alice0775, not working anymore in latest Firefox, and which was very useful.
-* [igorlogius/bookmark-tabs](https://github.com/igorlogius/bookmark-tabs): None
 * [Kiuryy/Bookmark_Sidebar](https://github.com/Kiuryy/Bookmark_Sidebar): Browser extension, which adds a toggleable sidebar with all your bookmarks on the left or right side of your screen.
 * [last-arg/bookmark_with_pocket](https://github.com/last-arg/bookmark_with_pocket): Browser extension that adds bookmark to Pocket if rules allow it
 * [fedragon/bookmarkd](https://github.com/fedragon/bookmarkd): Stores HTML pages as Markdown files in an Obsidian vault
@@ -595,7 +594,6 @@ creating your own Awesome List by GitHub stars!
 * [hariprasd/cool-bookmarklets](https://github.com/hariprasd/cool-bookmarklets): Bookmarklets for Browsers, that are cool in some way for someone. Minimum Automation
 * [webkul/coolhue](https://github.com/webkul/coolhue): Coolest Gradient Hues and Swatches
 * [piroor/copy-selected-tabs-to-clipboard](https://github.com/piroor/copy-selected-tabs-to-clipboard): Provides ability to copy title and URL of selected tabs to the clipboard for Firefox 63 and later.
-* [igorlogius/copy-tabs](https://github.com/igorlogius/copy-tabs): None
 * [ctrlxc/copyaddrs](https://github.com/ctrlxc/copyaddrs): thunderbird webextentions
 * [A9T9/Copyfish](https://github.com/A9T9/Copyfish): Copy, paste and translate text from images, videos and PDFs with this free Chrome extension
 * [msk4862/Copyright-free-image-search](https://github.com/msk4862/Copyright-free-image-search): Web app to search copyright free images from across the popular platforms and shows you the results in a single platform.
@@ -663,7 +661,6 @@ creating your own Awesome List by GitHub stars!
 * [shredthaGNAR/dawn](https://github.com/shredthaGNAR/dawn): Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.
 * [pedritobata/dawn-clone-shopify](https://github.com/pedritobata/dawn-clone-shopify): None
 * [dougpark/dayone](https://github.com/dougpark/dayone): Better Touch Tool create a DayOne journal entry
-* [igorlogius/dbl-click-dict](https://github.com/igorlogius/dbl-click-dict): None
 * [zoonderkins/dbl-oisd-nl](https://github.com/zoonderkins/dbl-oisd-nl): abp.oisd.nl | Internet's #1 domain blocklist (Mirror)
 * [enokmadrid/deafink](https://github.com/enokmadrid/deafink): Custom Shopify Theme for Deafink
 * [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui): Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
@@ -1304,7 +1301,6 @@ creating your own Awesome List by GitHub stars!
 * [tremby/imgur.sh](https://github.com/tremby/imgur.sh): Bart's Imgur uploader bash script
 * [JayBrown/imgurAU](https://github.com/JayBrown/imgurAU): macOS one-stop shop solution for anonymous uploads to imgur with support for local files, files opened in image editors, pasteboard contents, new screenshots & web images
 * [ram-on/imgurbash2](https://github.com/ram-on/imgurbash2): A bash script that uploads images & videos to IMGUR.  It can also delete previously uploaded images/videos.
-* [igorlogius/import-urls](https://github.com/igorlogius/import-urls): None
 * [spidergears/import_chrome_bookmarks_to_pocket](https://github.com/spidergears/import_chrome_bookmarks_to_pocket): Simple chrome extension to import all your chrome bookmarks to Pocket.com account
 * [skratchdot/infinite-gradients](https://github.com/skratchdot/infinite-gradients): An HTML experiment for generating randomly created CSS3 gradients (both linear and radial)
 * [tim-we/inspector-extension](https://github.com/tim-we/inspector-extension): Inspect extensions with web-ext-inspector
@@ -1467,9 +1463,7 @@ creating your own Awesome List by GitHub stars!
 * [hnhx/librex](https://github.com/hnhx/librex): Framework and javascript free privacy respecting meta search engine
 * [Ahwxorg/LibreY](https://github.com/Ahwxorg/LibreY): Framework and JS free privacy respecting meta search engine
 * [Shopify/lighthouse-ci-action](https://github.com/Shopify/lighthouse-ci-action): None
-* [igorlogius/limit-active-tabs](https://github.com/igorlogius/limit-active-tabs): None
 * [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse): The mouse and trackpad utility for Mac.
-* [igorlogius/link-extras](https://github.com/igorlogius/link-extras): None
 * [ddawson/Link-Tools](https://github.com/ddawson/Link-Tools): Configurable copy and visit operations for links in Firefox
 * [apiraino/link_cleaner](https://github.com/apiraino/link_cleaner): A Firefox extension to clean urls from tracking and advertisement parameters
 * [wyattharrell/linkbook](https://github.com/wyattharrell/linkbook): Linkbook is a powerful link-saving web app that can store your favorite links, keep you organized, and much more. 
@@ -1501,7 +1495,6 @@ creating your own Awesome List by GitHub stars!
 * [ICTMCG/LLM-for-misinformation-research](https://github.com/ICTMCG/LLM-for-misinformation-research): Paper list of misinformation research using (multi-modal) large language models, i.e., (M)LLMs.
 * [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library): A playground of highly experimental prompts, Jinja2 templates & scripts for machine intelligence models from OpenAI, Anthropic, Meta, Mistral, Google, xAI & others. Alex Bilzerian (2022-2025).
 * [kartikm7/llocal](https://github.com/kartikm7/llocal): Aiming to provide a seamless and privacy driven chatting experience with open-sourced technologies(Ollama), particularly open sourced LLM's(eg. Llama3, Phi-3, Mistral). Focused on ease of use. Available on both Windows and Mac.
-* [igorlogius/load-background-tabs-on-select](https://github.com/igorlogius/load-background-tabs-on-select): None
 * [mudler/LocalAI](https://github.com/mudler/LocalAI): :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference
 * [nagaraj-real/localaipilot-api](https://github.com/nagaraj-real/localaipilot-api): API container for Local AI Pilot extension
 * [cleidigh/Localfolder-TB](https://github.com/cleidigh/Localfolder-TB): Thunderbird Add-On to add additional local folders to accounts
@@ -2239,7 +2232,6 @@ creating your own Awesome List by GitHub stars!
 * [Lewiscowles1986/save-tabs-as-markdown-ff-chrome-poc](https://github.com/Lewiscowles1986/save-tabs-as-markdown-ff-chrome-poc): Browser addon for FireFox & Chrome to save active tabs as Markdown
 * [bobbyrne01/save-text-to-file-firefox](https://github.com/bobbyrne01/save-text-to-file-firefox): Firefox addon that saves highlighted text to a file.
 * [VerifiedJoseph/Save-to-the-Wayback-Machine](https://github.com/VerifiedJoseph/Save-to-the-Wayback-Machine): Browser extension for quickly saving web pages to the Internet Archive's Wayback Machine.
-* [igorlogius/save-website-as-image](https://github.com/igorlogius/save-website-as-image): None
 * [117649/SavedPasswordEditorRedux](https://github.com/117649/SavedPasswordEditorRedux): Not Gecko, application to allow creating and editing saved passwords 
 * [mdreier/savetabs](https://github.com/mdreier/savetabs): Save current tabs extension for Firefox
 * [pvpscript/savetabs](https://github.com/pvpscript/savetabs): A web browser extension that allows the user to save every tab's url to a file
@@ -2279,7 +2271,6 @@ creating your own Awesome List by GitHub stars!
 * [larsow/SecurityCamera](https://github.com/larsow/SecurityCamera): Android Security Camera App
 * [rak3n/SecuritySttream](https://github.com/rak3n/SecuritySttream): an Alfred Camera like solution for motion detection and streaming based on react-native
 * [seekr-osint/seekr](https://github.com/seekr-osint/seekr): A multi-purpose OSINT toolkit with a neat web-interface.
-* [igorlogius/select-tabs-ext](https://github.com/igorlogius/select-tabs-ext): None
 * [Pitmairen/selection-search](https://github.com/Pitmairen/selection-search): Search extension for the chrome web browser
 * [emvaized/selecton-extension](https://github.com/emvaized/selecton-extension): SelectON browser extension provides popup with actions on text selection in Chrome and Firefox
 * [bitwarden/self-host](https://github.com/bitwarden/self-host): Bitwarden's self-hosted release repository
@@ -2378,7 +2369,6 @@ creating your own Awesome List by GitHub stars!
 * [alfredapp/shortcuts-workflow](https://github.com/alfredapp/shortcuts-workflow): Run installed macOS shortcuts
 * [crittermike/shortkeys](https://github.com/crittermike/shortkeys): A browser extension for custom keyboard shortcuts 
 * [kuldeepghodasara/Show-Payment-icons-to-Shopify-Dynamically](https://github.com/kuldeepghodasara/Show-Payment-icons-to-Shopify-Dynamically): Script to Show Payment icons to Shopify Dynamically [add it to footer.liquid]
-* [igorlogius/show-qrcode](https://github.com/igorlogius/show-qrcode): None
 * [apvarun/showfolio-hugo-theme](https://github.com/apvarun/showfolio-hugo-theme): Modern portfolio theme for your Hugo site
 * [shredthaGNAR/shredthaGNAR.github.io](https://github.com/shredthaGNAR/shredthaGNAR.github.io): Fully responsive personal  portfolio single-page website, responsive for all devices, built using HTML, CSS, JavaScript and Python.
 * [Naezr/ShyFox](https://github.com/Naezr/ShyFox): A very shy little theme that hides the entire browser interface in the window border
