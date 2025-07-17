@@ -1033,6 +1033,7 @@ creating your own Awesome List by GitHub stars!
 * [naiemofficial/FUIX](https://github.com/naiemofficial/FUIX): A browser extension for updating social media UI (eg: Facebook, Messenger, Instagram). Available for Chrome, Firefox, MS Edge, Opera
 * [mikemadden42/fuji](https://github.com/mikemadden42/fuji): AppleScript collection
 * [robrop/FullScreen-FirefoxMac](https://github.com/robrop/FullScreen-FirefoxMac): Firefox / Mac real full screen and hotkey
+* [Futur3Sn0w/futur3f0x](https://github.com/Futur3Sn0w/futur3f0x): My own set of tweaks+customizations applied to Firefox, mainly through userChrome.css
 * [CoocooFroggy/FutureRestore-GUI](https://github.com/CoocooFroggy/FutureRestore-GUI): A modern GUI for FutureRestore, with added features to make the process easier.
 * [MrOtherGuy/fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig): Load custom javascript in browser context
 * [dannycolin/fx-compact-mode](https://github.com/dannycolin/fx-compact-mode): A Compact Mode for Firefox Proton
@@ -1607,6 +1608,7 @@ creating your own Awesome List by GitHub stars!
 * [olivierodo/MBP-BTT-activity-monitor-touchbar](https://github.com/olivierodo/MBP-BTT-activity-monitor-touchbar):  Activity monitor toolbar widget for the Macbook Pro
 * [olivierodo/MBP-BTT-spotify-touchbar](https://github.com/olivierodo/MBP-BTT-spotify-touchbar):  Spotify touchbar widget for Macbook touchbar
 * [alienator88/McBrew](https://github.com/alienator88/McBrew): A fast GUI for Homebrew written in SwiftUI
+* [srbhptl39/MCP-SuperAssistant](https://github.com/srbhptl39/MCP-SuperAssistant): Brings MCP to ChatGPT, DeepSeek, Perplexity, Grok, Gemini, Google AI Studio, OpenRouter, DeepSeek, T3 Chat and more...
 * [lightward/mechanic-tasks](https://github.com/lightward/mechanic-tasks): Public task repository for Mechanic (https://mechanic.dev)
 * [mhogomchungu/media-downloader](https://github.com/mhogomchungu/media-downloader): Media Downloader is a Qt/C++ front end to yt-dlp, youtube-dl, gallery-dl, lux, you-get, svtplay-dl, aria2c, wget and safari books..
 * [tillig/mediacenter](https://github.com/tillig/mediacenter): Documentation/info on my media center setup.
@@ -2712,7 +2714,7 @@ creating your own Awesome List by GitHub stars!
 * [winder/Universal-G-Code-Sender](https://github.com/winder/Universal-G-Code-Sender): A cross-platform G-Code sender for GRBL, Smoothieware, TinyG and G2core.
 * [ourresearch/unpaywall-extension](https://github.com/ourresearch/unpaywall-extension): Firefox/Chrome extension that gives you a link to a free PDF when you view scholarly articles
 * [aahung/Unshaky](https://github.com/aahung/Unshaky): A software attempt to address the "double key press" issue on Apple's butterfly keyboard [not actively maintained]
-* [UnstoppableSwap/unstoppableswap-gui](https://github.com/UnstoppableSwap/unstoppableswap-gui):  Graphical User Interface (GUI) For Trustless Cross-Chain XMR<>BTC Atomic Swaps. This repository has been moved to: https://github.com/UnstoppableSwap/core
+* [eigenwallet/unstoppableswap-gui](https://github.com/eigenwallet/unstoppableswap-gui):  Graphical User Interface (GUI) For Trustless Cross-Chain XMR<>BTC Atomic Swaps. This repository has been moved to: https://github.com/UnstoppableSwap/core
 * [blenderskool/untab](https://github.com/blenderskool/untab): 🔍 A productivity tool to boost your browser workflow!
 * [TheLoserCoder/unvisited_tabs_indicator](https://github.com/TheLoserCoder/unvisited_tabs_indicator): None
 * [alfredapp/update-automation-tasks-workflow](https://github.com/alfredapp/update-automation-tasks-workflow): Update Automation Tasks During Alfred 5 Early Access
