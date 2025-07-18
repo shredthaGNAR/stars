@@ -581,7 +581,7 @@ creating your own Awesome List by GitHub stars!
 * [benbasson/contextsearch](https://github.com/benbasson/contextsearch): Firefox Extension - Context Search transforms the "Web Search for..." context item into a menu containing your Firefox Search Providers. This is very convenient, since it allows you to decide which search engine you use. Firefox's default is to use the currently selected search provider only. 
 * [ssborbis/ContextSearch-Native-App](https://github.com/ssborbis/ContextSearch-Native-App): Native App for use with Context Search
 * [ssborbis/ContextSearch-web-ext](https://github.com/ssborbis/ContextSearch-web-ext): Search engine manager for modern browsers
-* [continuedev/continue](https://github.com/continuedev/continue): ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
+* [continuedev/continue](https://github.com/continuedev/continue): ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of rules, tools, and models
 * [dokterdok/Continuity-Activation-Tool](https://github.com/dokterdok/Continuity-Activation-Tool): An all-in-one tool to activate and diagnose macOS 10.10-12 Continuity on compatible Mac configurations.
 * [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter): Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - for desktop and mobile
 * [lotusshinoaki/converts-html-exported-from-pocket-into-an-importable-format](https://github.com/lotusshinoaki/converts-html-exported-from-pocket-into-an-importable-format): None
@@ -1168,7 +1168,7 @@ creating your own Awesome List by GitHub stars!
 * [spmbt/googleSearchExtraButtons](https://github.com/spmbt/googleSearchExtraButtons): Google Search Extra Buttons
 * [sunlightworks/gosun_dev](https://github.com/sunlightworks/gosun_dev): Built for GoSun (gosun.co). Made with ♥ by Latimer Design. 
 * [privacy-tech-lab/gpc-optmeowt](https://github.com/privacy-tech-lab/gpc-optmeowt): Privacy browser extension for opting out from web tracking via GPC
-* [saturneric/GpgFrontend](https://github.com/saturneric/GpgFrontend): Modern, cross-platform OpenPGP GUI—easy for beginners, powerful for experts, fully portable and open-source.
+* [saturneric/GpgFrontend](https://github.com/saturneric/GpgFrontend): Modern cross-platform open-source GUI for OpenPGP encryption, combining beginner-friendly simplicity, expert-level power, and full portability.
 * [gphoto/gphoto2](https://github.com/gphoto/gphoto2): The gphoto2 commandline tool for accessing and controlling digital cameras.
 * [yinthewind/GPHud](https://github.com/yinthewind/GPHud): None
 * [vipintom/gpm2spotify](https://github.com/vipintom/gpm2spotify): Google Play Music to Spotify Library Exporter
