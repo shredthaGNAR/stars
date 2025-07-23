@@ -80,6 +80,7 @@ creating your own Awesome List by GitHub stars!
 * [fastaddons/AI-Anywhere](https://github.com/fastaddons/AI-Anywhere): None
 * [dakshpareek/ai-bookmark-organizer](https://github.com/dakshpareek/ai-bookmark-organizer): Organize your bookmarks effortlessly with AI-powered categorization.
 * [vanrohan/ai-bookmark-organizer](https://github.com/vanrohan/ai-bookmark-organizer): None
+* [Tolga1452/ai-prompts](https://github.com/Tolga1452/ai-prompts): A collection of original system prompts and tool data used for AI chatbots. Explore how companies such as ChatGPT prompt their AIs!
 * [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions): 🤖 AI browser extensions & userscripts to augment your web experience
 * [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists): A collection of unified blocklists designed to provide complete filtering capabilities for different online threats. These blocklists are curated from multiple sources, offering a robust solution for blocking ads, malware, trackers, and other unwanted content.
 * [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams): One addon to rule them all. AIOStreams consolidates multiple Stremio addons and debrid services into a single, highly customisable super-addon. 
@@ -268,6 +269,7 @@ creating your own Awesome List by GitHub stars!
 * [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt): 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
 * [prayash/awesome-gatsby](https://github.com/prayash/awesome-gatsby): ⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.
 * [AbdooMohamedd/Awesome-Gemini-Apps](https://github.com/AbdooMohamedd/Awesome-Gemini-Apps): A curated list of projects powered by the Google Gemini API. Explore innovative applications and ideas from the Gemini API competition that showcase the capabilities of Gemini technology.
+* [bartcctv/awesome-gemini-prompts](https://github.com/bartcctv/awesome-gemini-prompts): Gemini Prompts, Bard Prompts, LLM Prompts, LangGPT
 * [devisasari/awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store): A curated list of awesome GPTs in the GPT Store
 * [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines): A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 * [ashfinal/awesome-hammerspoon](https://github.com/ashfinal/awesome-hammerspoon): awesome configuration for Hammerspoon.
@@ -278,6 +280,7 @@ creating your own Awesome List by GitHub stars!
 * [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv): A curated list of resources related to IPTV
 * [automata/awesome-jamstack](https://github.com/automata/awesome-jamstack): Carefully curated list of awesome Jamstack resources
 * [kot-behemoth/awesome-joplin](https://github.com/kot-behemoth/awesome-joplin): 📒 A curated list of awesome Joplin themes and tools.
+* [langgptai/awesome-llama-prompts](https://github.com/langgptai/awesome-llama-prompts): LLM prompts, llama3 prompts, llama2 prompts
 * [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM): Awesome-LLM: a curated list of Large Language Model
 * [vince-lam/awesome-local-llms](https://github.com/vince-lam/awesome-local-llms): Compare open-source local LLM inference projects by their metrics to assess popularity and activeness.
 * [HoMeCracKeR/awesome-mac](https://github.com/HoMeCracKeR/awesome-mac):  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -354,6 +357,7 @@ creating your own Awesome List by GitHub stars!
 * [SuperBox64/bigmac](https://github.com/SuperBox64/bigmac): Big Mac, macOS 11 Big Sur and macOS Monterey disk installer and back up tool for Intel based Macs
 * [garywill/BigSearch](https://github.com/garywill/BigSearch): Browser extension. Definitly more than a GET/POST sender. Handily use search engines via a Flexible Tool! UI has Vimium-like feature 🌐🔍 (Pure-client. No 3rd-party server needed) 大术专搜 既专又广 手敲几下 纵横去往
 * [zjns/BiliRoamingX-patches](https://github.com/zjns/BiliRoamingX-patches): [Deprecated] Merged into https://github.com/BiliRoamingX/BiliRoamingX.
+* [sebaslogen/bitcoin-price-ticker](https://github.com/sebaslogen/bitcoin-price-ticker): Bitcoin Price Ticker Firefox Addon with multiple price sources and configuration options
 * [kdmukai/bitcoin_resources](https://github.com/kdmukai/bitcoin_resources): My starter pack for people new to the bewildering world of bitcoin.
 * [ajmalshahabudeen/Bitwarden-Duplicate-remover](https://github.com/ajmalshahabudeen/Bitwarden-Duplicate-remover): When Importing multiple CSV files Bitwarden creates Duplicate Entries. So this Python script will remove duplicate entries and keep ONE.
 * [3j14/bitwarden-menubar](https://github.com/3j14/bitwarden-menubar): Bitwarden in the macOS menu bar
@@ -835,6 +839,7 @@ creating your own Awesome List by GitHub stars!
 * [Pocket/extension-save-to-pocket](https://github.com/Pocket/extension-save-to-pocket): Save to Pocket is a browser extension that is used to save pages to a connected Pocket account
 * [namukang/extension-starter-kit](https://github.com/namukang/extension-starter-kit): Starter kit for building Chrome/Firefox extensions
 * [extension-js/extension.js](https://github.com/extension-js/extension.js): 🧩 The cross-browser extension framework.
+* [chrismessina/extensions](https://github.com/chrismessina/extensions): Everything you need to extend Raycast.
 * [raycast/extensions](https://github.com/raycast/extensions): Everything you need to extend Raycast.
 * [andy-portmen/external-application-button](https://github.com/andy-portmen/external-application-button): Communicate with external applications of your OS through a toolbar button or context menu item.
 * [researchdepartment/external-application-button-youtube-dl-macos-shortcut](https://github.com/researchdepartment/external-application-button-youtube-dl-macos-shortcut): this was a triumph (i couldn't get the command variant listed in the FAQs to work so i made this)
@@ -1070,6 +1075,7 @@ creating your own Awesome List by GitHub stars!
 * [RMNCLDYO/gemini-ai-toolkit](https://github.com/RMNCLDYO/gemini-ai-toolkit): A lightweight Python API wrapper and CLI for Google’s Gemini language models.
 * [muhammedsamal/gemini-image-analysis](https://github.com/muhammedsamal/gemini-image-analysis): A Python script that uses Google's Gemini AI to automatically rename images with descriptive filenames based on their content.
 * [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat): Minimal web UI for GeminiPro.
+* [CJHwong/gems.sh](https://github.com/CJHwong/gems.sh): A Gemini Gem Manager in your MacBook powered by Gemma
 * [David-Kunz/gen.nvim](https://github.com/David-Kunz/gen.nvim): Neovim plugin to generate text using LLMs with customizable prompts
 * [webextension-toolbox/generator-web-extension](https://github.com/webextension-toolbox/generator-web-extension): Advanced WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
 * [alfaaarex/GentleFox](https://github.com/alfaaarex/GentleFox): A Firefox theme, which features gentle curves, transparency and a minimal interface.
@@ -1470,7 +1476,7 @@ creating your own Awesome List by GitHub stars!
 * [Dacid99/LinkDroid-for-Linkwarden](https://github.com/Dacid99/LinkDroid-for-Linkwarden): Mirror repository of the LinkDroid for Linkwarden app 
 * [eight04/linkify-plus-plus](https://github.com/eight04/linkify-plus-plus): A userscript/extension which can linkify almost everything. Based on Linkify Plus.
 * [eight04/linkify-plus-plus-core](https://github.com/eight04/linkify-plus-plus-core): A JavaScript library for linkification stuff. Used by linkify-plus-plus.
-* [LinkoraApp/Linkora](https://github.com/LinkoraApp/Linkora): Powerful link organizer for Android and desktop with self-hosted sync.
+* [LinkoraApp/Linkora](https://github.com/LinkoraApp/Linkora): Link organizer for Android and desktop with self-hosted sync.
 * [tetsuharuohzeki/linkplaces](https://github.com/tetsuharuohzeki/linkplaces): This is a add-on for Mozilla Firefox. This provides Sidebar to display "Unsorted Bookmarks" folder in Places, as "Temporary Links".
 * [koukaku01/LinkQR](https://github.com/koukaku01/LinkQR): A Firefox extension that instantly converts web links into QR codes with a single click from the address bar. Easily copy or download QR codes in PNG/SVG format for seamless sharing.
 * [velvia/links](https://github.com/velvia/links): Just a bunch of useful links
@@ -1490,10 +1496,12 @@ creating your own Awesome List by GitHub stars!
 * [run-llama/llama_index](https://github.com/run-llama/llama_index): LlamaIndex is the leading framework for building LLM-powered agents over your data.
 * [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile): Distribute and run LLMs with a single file.
 * [lliurex/lliurex-gdrive](https://github.com/lliurex/lliurex-gdrive): App to manage google drive accounts
+* [kdalanon/LLM-AutoHotkey-Assistant](https://github.com/kdalanon/LLM-AutoHotkey-Assistant): An AutoHotkey v2 application that utilizes OpenRouter.ai to seamlessly integrate Large Language Models into your daily workflow. Process texts with customizable prompts by pressing a hotkey and interact with multiple AI models simultaneously.
 * [psbarrales/LLM-automator](https://github.com/psbarrales/LLM-automator): Create keyboard shortcuts for an LLM using OpenAI GPT, Ollama, HuggingFace with Automator on macOS.
 * [radames/LLM-automator](https://github.com/radames/LLM-automator): Create keyboard shortcuts for an LLM using OpenAI GPT, Ollama, HuggingFace with Automator on macOS.
 * [ICTMCG/LLM-for-misinformation-research](https://github.com/ICTMCG/LLM-for-misinformation-research): Paper list of misinformation research using (multi-modal) large language models, i.e., (M)LLMs.
 * [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library): A playground of highly experimental prompts, Jinja2 templates & scripts for machine intelligence models from OpenAI, Anthropic, DeepSeek, Meta, Mistral, Google, xAI & others. Alex Bilzerian (2022-2025).
+* [jamesponddotco/llm-prompts](https://github.com/jamesponddotco/llm-prompts): [READ-ONLY] A collection of prompts for enhancing productivity with large language models.
 * [kartikm7/llocal](https://github.com/kartikm7/llocal): Aiming to provide a seamless and privacy driven chatting experience with open-sourced technologies(Ollama), particularly open sourced LLM's(eg. Llama3, Phi-3, Mistral). Focused on ease of use. Available on both Windows and Mac.
 * [mudler/LocalAI](https://github.com/mudler/LocalAI): :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference
 * [nagaraj-real/localaipilot-api](https://github.com/nagaraj-real/localaipilot-api): API container for Local AI Pilot extension
@@ -1772,6 +1780,7 @@ creating your own Awesome List by GitHub stars!
 * [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template): Starter templates for Obsidian
 * [groepl/Obsidian-Templates](https://github.com/groepl/Obsidian-Templates): A repository containing templates and scripts for #Obsidian to support the #Zettelkasten method for note-taking.
 * [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin): Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
+* [pressdarling/obsidian-web-clipper-templates](https://github.com/pressdarling/obsidian-web-clipper-templates): Obsidian Web Clipper templates for various sites.
 * [KosmosisDire/obsidian-webpage-export](https://github.com/KosmosisDire/obsidian-webpage-export): Export html from single files, canvas pages, or whole vaults. Direct access to the exported HTML files allows you to publish your digital garden anywhere. Focuses on flexibility, features, and style parity.
 * [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium): Get Android app updates straight from the source.
 * [DevipriyaSarkar/OCR-Reader](https://github.com/DevipriyaSarkar/OCR-Reader): An Android app to extract text from camera preview directly.
@@ -2054,6 +2063,9 @@ creating your own Awesome List by GitHub stars!
 * [Shopify/product-reviews-sample-app](https://github.com/Shopify/product-reviews-sample-app): A sample Shopify application that creates and stores product reviews for a store, written in Node.js
 * [progit/progit2](https://github.com/progit/progit2): Pro Git 2nd Edition
 * [ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts): This is a collection of programming fonts, just share this with the programmers. Now there are 108 kinds of fantastic fonts!
+* [nkmr-jp/prompt-line](https://github.com/nkmr-jp/prompt-line): Prompt Line is a macOS app developed to improve the prompt input experience in the terminal for CLI-based AI coding agents such as Claude Code, Gemini CLI, OpenAI Codex CLI, and Aider. 
+* [sangddn/prompt_builder](https://github.com/sangddn/prompt_builder): A macOS tool to build long-context prompts for models like OpenAI o3 and Gemini 2.5.
+* [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo): Test your prompts, agents, and RAGs. Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
 * [corpnewt/ProperTree](https://github.com/corpnewt/ProperTree): Cross platform GUI plist editor written in python.
 * [vlvagerviwager/protect-your-privacy](https://github.com/vlvagerviwager/protect-your-privacy): Privacy resources for the layperson. Highlights resources, tools, VPNs, search engines, articles, books, and dark patterns. 
 * [ProtonMail/proton-mail](https://github.com/ProtonMail/proton-mail): React web application to manage ProtonMail 
