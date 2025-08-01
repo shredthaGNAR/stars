@@ -84,6 +84,7 @@ creating your own Awesome List by GitHub stars!
 * [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions): 🤖 AI browser extensions & userscripts to augment your web experience
 * [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists): A collection of unified blocklists designed to provide complete filtering capabilities for different online threats. These blocklists are curated from multiple sources, offering a robust solution for blocking ads, malware, trackers, and other unwanted content.
 * [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams): One addon to rule them all. AIOStreams consolidates multiple Stremio addons and debrid services into a single, highly customisable super-addon. 
+* [NeloF4/AIOTools](https://github.com/NeloF4/AIOTools): All In One Tools Hacking 
 * [air-controller/air-controller-desktop](https://github.com/air-controller/air-controller-desktop): A new handy and powerful Android phone assistant， powered by Flutter.
 * [canalnoises/AirDrop-Shortcut](https://github.com/canalnoises/AirDrop-Shortcut): A script to select AirDrop from Finder's Share menu. Assign to a keyboard shortcut for quick AirDropping.
 * [Airmail/AirmailPlugIn-Framework](https://github.com/Airmail/AirmailPlugIn-Framework): None
@@ -614,6 +615,7 @@ creating your own Awesome List by GitHub stars!
 * [Medformatik/CrossDrop](https://github.com/Medformatik/CrossDrop): CrossDrop is a partial implementation of Google's Quick Share in Flutter for macOS, iOS and Linux. CrossDrop is based on NearDrop, a Swift implementation of Nearby Share for macOS.
 * [warren-bank/crx-Tubi-TV](https://github.com/warren-bank/crx-Tubi-TV): website userscript: redirect embedded videos from "tubitv.com" to an external player
 * [Rob--W/crxviewer](https://github.com/Rob--W/crxviewer): Add-on / web app to view the source code of Chrome / Firefox / Opera 15 extensions and zip files.
+* [dejurin/crypto-converter-widget](https://github.com/dejurin/crypto-converter-widget): Crypto and Currency Converter HTML/JS Widget for any websites. Very simple for embeds — just one tag.
 * [Ryan-Gordon/Crypto-Touchbar](https://github.com/Ryan-Gordon/Crypto-Touchbar): A script for BetterTouchTool which allows you to track to price of different cryptocurrencies on the touchbar.
 * [chrislennon/Crypto-Touchbar-App](https://github.com/chrislennon/Crypto-Touchbar-App): A web app to build Apple touch bar elements for crytpo currencies. Requires BetterTouchTool. Supports wide range of cryptos and converts to a variety of fiat monies.
 * [CryptoTerps/Crypto-Touchbar-for-Mac](https://github.com/CryptoTerps/Crypto-Touchbar-for-Mac): This is an add-on (via Better Touch Tool) to get Cryptocurrency prices on your MacBook Touchbar
@@ -884,8 +886,11 @@ creating your own Awesome List by GitHub stars!
 * [iShopifyExpert/find-my-size-shopify](https://github.com/iShopifyExpert/find-my-size-shopify): None
 * [liqing1993/Find-The-Person-You-Want-in-videos](https://github.com/liqing1993/Find-The-Person-You-Want-in-videos): This project is to build a image search system. 
 * [pointu-l/finder-basic-visor](https://github.com/pointu-l/finder-basic-visor): Basic AppleScript visor mode for the finder. Designed for better touch tool
+* [kdabir/finder-buttons](https://github.com/kdabir/finder-buttons): MacOS Finder buttons for quick actions
 * [synappser/FinderFix](https://github.com/synappser/FinderFix): FinderFix lets you resize and reposition Finder windows to your liking
 * [onmyway133/FinderGo](https://github.com/onmyway133/FinderGo): 🐢 Open terminal quickly from Finder
+* [jlehikoinen/FinderMate](https://github.com/jlehikoinen/FinderMate): macOS Finder extension for creating new text documents with right-click
+* [kotleni/FinderPlus-macOS](https://github.com/kotleni/FinderPlus-macOS): A simple Finder extension for creating files + opening a terminal from the context menu.
 * [tonsky/FiraCode](https://github.com/tonsky/FiraCode): Free monospaced font with programming ligatures
 * [Hussseinkizz/FiraCodeiScript](https://github.com/Hussseinkizz/FiraCodeiScript): Mashup Font of FiraCode and Script12
 * [kencrocken/FiraCodeiScript](https://github.com/kencrocken/FiraCodeiScript): Mashup Font of FiraCode and Script12
@@ -1013,6 +1018,7 @@ creating your own Awesome List by GitHub stars!
 * [fmhy/FMHYFilterlist](https://github.com/fmhy/FMHYFilterlist): FMHY Filterlist
 * [avindra/fndr](https://github.com/avindra/fndr): An Internet helper to wrangle multiple search providers, extract social media ids, perform reverse image search and more.
 * [VigoKrumins/folder-icons](https://github.com/VigoKrumins/folder-icons): Custom folder icons for macOS & Windows
+* [bglezseoane/folder-stamp](https://github.com/bglezseoane/folder-stamp): Generate custom Mac OS folder icons with a desired image as stamp
 * [lgarron/folderify](https://github.com/lgarron/folderify): :file_folder: Generate pixel-perfect macOS folder icons in the native style. (Now with support for macOS 26 Tahoe!)
 * [UrielAbergel/Follow_The_Image--ComputerVision](https://github.com/UrielAbergel/Follow_The_Image--ComputerVision): Search system, the system receives as input a picture of a person, and finds all his pictures in the destination folder or on the computer, the system will emit all the pictures in which the person appeared
 * [beichensky/Font](https://github.com/beichensky/Font): FiraCode 和 Operator Mono 字体
@@ -1073,6 +1079,7 @@ creating your own Awesome List by GitHub stars!
 * [rebhu-open-source-foundation/gecko-b2g](https://github.com/rebhu-open-source-foundation/gecko-b2g): This is a mirror of https://gitlab.com/rebhu/rosf/thenexus-codes/gecko-b2g
 * [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev): SUPERSEDED by https://github.com/mozilla-firefox/firefox.  Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org
 * [geeker-ai/geek_chat](https://github.com/geeker-ai/geek_chat): GeekChat is a app for multiple cutting-edge LLM(ChatGPT and Gemini) models that available on Desktop(Win,Mac) and Mobile(Android, iOS)
+* [EvanZhouDev/gemini-ai](https://github.com/EvanZhouDev/gemini-ai): The simpler JavaScript Gemini SDK
 * [Coding-Meet/Gemini-AI-KMP-App](https://github.com/Coding-Meet/Gemini-AI-KMP-App): Gemini AI Kotlin Multiplatform project designed to target Android, iOS, Windows, macOS, Linux, and Web platforms.
 * [RMNCLDYO/gemini-ai-toolkit](https://github.com/RMNCLDYO/gemini-ai-toolkit): A lightweight Python API wrapper and CLI for Google’s Gemini language models.
 * [muhammedsamal/gemini-image-analysis](https://github.com/muhammedsamal/gemini-image-analysis): A Python script that uses Google's Gemini AI to automatically rename images with descriptive filenames based on their content.
@@ -1193,6 +1200,7 @@ creating your own Awesome List by GitHub stars!
 * [Taewan-P/gpt_mobile](https://github.com/Taewan-P/gpt_mobile): Chat app for Android that supports answers from multiple LLMs at once. Bring your own API key AI client. Supports OpenAI, Anthropic, Google, and Ollama. Designed with Material3 & Compose.
 * [Zaki-1052/GPTPortal](https://github.com/Zaki-1052/GPTPortal): A feature-rich portal to chat with GPT-4, Claude, Gemini, Mistral, & OpenAI Assistant APIs via a lightweight Node.js web app; supports customizable multimodality for voice, images, & files.
 * [linexjlin/GPTs](https://github.com/linexjlin/GPTs): leaked prompts of GPTs
+* [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript): Build AI assistants that interact with your systems
 * [zenangst/Gray](https://github.com/zenangst/Gray):  :first_quarter_moon: Tailor your macOS Mojave experience
 * [vitalif/grive2](https://github.com/vitalif/grive2): Google Drive client with support for new Drive REST API and partial sync
 * [tardisx/gropple](https://github.com/tardisx/gropple): Server and bookmarklet to download files via youtube-dl directly from your browser. Cross platform single binary installation, web browser configurable.
@@ -1527,6 +1535,7 @@ creating your own Awesome List by GitHub stars!
 * [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI):  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 * [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook): Mac setup and configuration via Ansible.
 * [michaelschwobe/mac-dev-setup](https://github.com/michaelschwobe/mac-dev-setup): A macOS setup guide specific to front-end development.
+* [andrewpetrochenkov/mac-finder](https://github.com/andrewpetrochenkov/mac-finder): :apple: macOS Finder scripts
 * [eth-p/mac-icons](https://github.com/eth-p/mac-icons): An assortment of custom MacOS folder icons, editable without Adobe products.
 * [zhuochun/mac-keyboard](https://github.com/zhuochun/mac-keyboard): 🎹 Keyboard Enhancements for Mac
 * [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix): Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!
@@ -1834,6 +1843,7 @@ creating your own Awesome List by GitHub stars!
 * [Enan01/OneTabClear](https://github.com/Enan01/OneTabClear): Quickly clear OneTab tag group.
 * [yegor-pelykh/OnHand](https://github.com/yegor-pelykh/OnHand): An open source browser extension to save your favorite bookmarks on a "new tab" page.
 * [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch): ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
+* [jonschlinkert/open-finder-dialog](https://github.com/jonschlinkert/open-finder-dialog): Open a finder dialog window (finder prompt) programmatically.
 * [lmichelin/open-github-links-in-ide](https://github.com/lmichelin/open-github-links-in-ide): Browser extension allowing to open files in your IDE directly from GitHub, available for Chrome and Firefox.
 * [TheNightmanCodeth/open-in-code](https://github.com/TheNightmanCodeth/open-in-code): Browser extension that adds "Open in Visual Studio Code" button to GitHub repos
 * [kukawski/Open-in-selected-Incognito-window](https://github.com/kukawski/Open-in-selected-Incognito-window): Firefox extension that allows to open link in selected incognito window from context menu
