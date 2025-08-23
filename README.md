@@ -346,7 +346,7 @@ creating your own Awesome List by GitHub stars!
 * [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT): An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
 * [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord): Better Discord enhances Discord desktop app with new features.
 * [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay): Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
-* [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox): Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
+* [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox): Firefox user.js for speed, privacy, and security. Turn off AI. Your favorite browser, but better.
 * [AlickH/BetterTouchBar](https://github.com/AlickH/BetterTouchBar): Use BetterTouchTool to make TouchBar better.
 * [mkozjak/bettertouchtool](https://github.com/mkozjak/bettertouchtool): BetterTouchTool configuration
 * [remiscarlet/BetterTouchTool-Applescripts](https://github.com/remiscarlet/BetterTouchTool-Applescripts): Random applescripts for use with BetterTouchTool on Apple's new Touch Bar.
@@ -1153,7 +1153,6 @@ creating your own Awesome List by GitHub stars!
 * [mr-feek/global-poker-hand-history-converter-chrome-extension](https://github.com/mr-feek/global-poker-hand-history-converter-chrome-extension): Chrome Extension for fetching Global Poker hand histories and converting them to poker stars format.
 * [dartagnanjacobson/global_poker_scraper](https://github.com/dartagnanjacobson/global_poker_scraper): Global Poker Hand History Scraper
 * [szge/globalpokercalc](https://github.com/szge/globalpokercalc): calculate total playthough for globalpoker.com blackjack
-* [jabiddle/GlobalPokerExt](https://github.com/jabiddle/GlobalPokerExt): A Chrome extension that adds automation and statistic collection to GlobalPoker.
 * [shredthaGNAR/GlobalPokerHandTracker](https://github.com/shredthaGNAR/GlobalPokerHandTracker): None
 * [yinthewind/GlobalPokerHandTracker](https://github.com/yinthewind/GlobalPokerHandTracker): None
 * [tomatopickle/Glox](https://github.com/tomatopickle/Glox): A glassmorphistic Firefox skin, also has round elements
@@ -1497,7 +1496,7 @@ creating your own Awesome List by GitHub stars!
 * [apiraino/link_cleaner](https://github.com/apiraino/link_cleaner): A Firefox extension to clean urls from tracking and advertisement parameters
 * [wyattharrell/linkbook](https://github.com/wyattharrell/linkbook): Linkbook is a powerful link-saving web app that can store your favorite links, keep you organized, and much more. 
 * [sebw/linkding-archiver](https://github.com/sebw/linkding-archiver): Linkding bookmark manager + SingleFile archiving combined
-* [Dacid99/LinkDroid-for-Linkwarden](https://github.com/Dacid99/LinkDroid-for-Linkwarden): Mirror repository of the LinkDroid for Linkwarden app 
+* [Dacid99/LinkDroid-for-Linkwarden](https://github.com/Dacid99/LinkDroid-for-Linkwarden): A companion android app for the Linkwarden project. It enables you to upload links via the share context menu and to quickly access the webinterface.  This repository is just a mirror, please go to the gitlab repo to contribute code. 
 * [eight04/linkify-plus-plus](https://github.com/eight04/linkify-plus-plus): A userscript/extension which can linkify almost everything. Based on Linkify Plus.
 * [eight04/linkify-plus-plus-core](https://github.com/eight04/linkify-plus-plus-core): A JavaScript library for linkification stuff. Used by linkify-plus-plus.
 * [halo/LinkLiar](https://github.com/halo/LinkLiar): :link: Link-Layer MAC spoofing GUI for macOS
