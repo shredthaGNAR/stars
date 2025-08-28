@@ -85,7 +85,7 @@ creating your own Awesome List by GitHub stars!
 * [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists): A collection of unified blocklists designed to provide complete filtering capabilities for different online threats. These blocklists are curated from multiple sources, offering a robust solution for blocking ads, malware, trackers, and other unwanted content.
 * [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams): One addon to rule them all. AIOStreams consolidates multiple Stremio addons and debrid services into a single, highly customisable super-addon. 
 * [NeloF4/AIOTools](https://github.com/NeloF4/AIOTools): All In One Tools Hacking 
-* [buttercannfly/AIPex](https://github.com/buttercannfly/AIPex): The best tabs manager
+* [AIPexStudio/AIPex](https://github.com/AIPexStudio/AIPex): AIPex: open claude for chrome, automate your browser
 * [air-controller/air-controller-desktop](https://github.com/air-controller/air-controller-desktop): A new handy and powerful Android phone assistant， powered by Flutter.
 * [canalnoises/AirDrop-Shortcut](https://github.com/canalnoises/AirDrop-Shortcut): A script to select AirDrop from Finder's Share menu. Assign to a keyboard shortcut for quick AirDropping.
 * [Airmail/AirmailPlugIn-Framework](https://github.com/Airmail/AirmailPlugIn-Framework): None
@@ -539,7 +539,7 @@ creating your own Awesome List by GitHub stars!
 * [jimmyxu/circle](https://github.com/jimmyxu/circle): Logi Circle video downloader
 * [asilvas/circler](https://github.com/asilvas/circler): (non-official) Logitech Circle utility application (download etc)
 * [fajarjulyana/circular-nav-html-css-only](https://github.com/fajarjulyana/circular-nav-html-css-only): This is simple circular menu html CSS js
-* [sp4ce404/classic-tabs-firefox](https://github.com/sp4ce404/classic-tabs-firefox): None
+* [sp4ce0xFF/classic-tabs-firefox](https://github.com/sp4ce0xFF/classic-tabs-firefox): None
 * [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router): Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 * [tomas-hartman/clean-the-mess](https://github.com/tomas-hartman/clean-the-mess): WebExtension to make your tabs clean
 * [jpmhouston/Cleepp](https://github.com/jpmhouston/Cleepp): Batch Clipboard is a Mac app that let's you copy then paste multiple clipboard items at a time, like magic! This is the repo for v1.0.x, titled after the app's codename. The repo for v2.0 and forward is https://github.com/jpmhouston/Batch-Clipboard
@@ -1114,7 +1114,7 @@ creating your own Awesome List by GitHub stars!
 * [git/git](https://github.com/git/git): Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 * [pomber/git-history](https://github.com/pomber/git-history): Quickly browse the history of a file from any git repository
 * [IndexStorm/git-rec-ext](https://github.com/IndexStorm/git-rec-ext): Frontend code for GitHub Recommendation Extension
-* [soulhotel/git-userChrome](https://github.com/soulhotel/git-userChrome): a tool to install userChrome Themes from anywhere
+* [soulhotel/git-userChrome](https://github.com/soulhotel/git-userChrome): An automation tool for installing userChrome Themes
 * [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako): 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 * [DonJayamanne/gitHistoryVSCode](https://github.com/DonJayamanne/gitHistoryVSCode): Git History for Visual Studio Code
 * [renatorib/github-blog](https://github.com/renatorib/github-blog): :octopus: Turn your github issues into a CMS for your blog.
