@@ -67,7 +67,6 @@ creating your own Awesome List by GitHub stars!
 * [benstonezhang/adobe-packager](https://github.com/benstonezhang/adobe-packager): Script that allows to download portable installers of different versions Adobe software
 * [Korveld/Adobe-URL-Block-List](https://github.com/Korveld/Adobe-URL-Block-List): This is the Adobe URL/IP block list for the Hosts file.
 * [Ruddernation-Designs/Adobe-URL-Block-List](https://github.com/Ruddernation-Designs/Adobe-URL-Block-List): This is the Adobe URL/IP block list for the Host file.
-* [YarosMallorca/adobe_dns_filter](https://github.com/YarosMallorca/adobe_dns_filter): A CLI tool to block certain Adobe-related domains in the computer's hosts file
 * [adsbypasser/adsbypasser](https://github.com/adsbypasser/adsbypasser): Bypass ad counter if possible.
 * [adsbypasser/adsbypasser.github.io](https://github.com/adsbypasser/adsbypasser.github.io): None
 * [polywock/advanced-image-search](https://github.com/polywock/advanced-image-search): An extension to search Google images. 
@@ -539,7 +538,7 @@ creating your own Awesome List by GitHub stars!
 * [jimmyxu/circle](https://github.com/jimmyxu/circle): Logi Circle video downloader
 * [asilvas/circler](https://github.com/asilvas/circler): (non-official) Logitech Circle utility application (download etc)
 * [fajarjulyana/circular-nav-html-css-only](https://github.com/fajarjulyana/circular-nav-html-css-only): This is simple circular menu html CSS js
-* [r4iNyLoVe/classic-tabs-firefox](https://github.com/r4iNyLoVe/classic-tabs-firefox): None
+* [sp4ceUX/classic-tabs-firefox](https://github.com/sp4ceUX/classic-tabs-firefox): None
 * [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router): Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 * [tomas-hartman/clean-the-mess](https://github.com/tomas-hartman/clean-the-mess): WebExtension to make your tabs clean
 * [jpmhouston/Cleepp](https://github.com/jpmhouston/Cleepp): Batch Clipboard is a Mac app that let's you copy then paste multiple clipboard items at a time, like magic! This is the repo for v1.0.x, titled after the app's codename. The repo for v2.0 and forward is https://github.com/jpmhouston/Batch-Clipboard
