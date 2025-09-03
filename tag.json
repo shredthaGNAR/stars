@@ -164,6 +164,9 @@
     "AllToMP3/alltomp3-app": [
         "Other"
     ],
+    "Alorse/raycast-omnipilot-extension": [
+        "Other"
+    ],
     "Aloxaf/fzf-tab": [
         "Other"
     ],
@@ -480,6 +483,9 @@
         "Other"
     ],
     "DanielDe/TabRearranger": [
+        "Other"
+    ],
+    "DarkWebInformer/Dark_Ledger": [
         "Other"
     ],
     "David-Kunz/gen.nvim": [
@@ -1131,6 +1137,9 @@
         "Other"
     ],
     "Liscum/Joplin-Dark-Theme": [
+        "Other"
+    ],
+    "LitoMore/raycast-backend-api": [
         "Other"
     ],
     "LivingWithHippos/unchained-android": [
@@ -1788,6 +1797,9 @@
         "Other"
     ],
     "Skyflash/skyflash.github.io": [
+        "Other"
+    ],
+    "SmetDenis/raycast-gemai": [
         "Other"
     ],
     "Smile4ever/firefoxaddons": [
@@ -3083,6 +3095,9 @@
     "brpaz/pocket-exporter": [
         "Other"
     ],
+    "brunnorpdias/RaycastAI": [
+        "Other"
+    ],
     "brunophilipe/Cakebrew": [
         "Other"
     ],
@@ -3090,6 +3105,9 @@
         "Other"
     ],
     "buchanansc/AppleScripts": [
+        "Other"
+    ],
+    "bunnysayzz/AppleAI": [
         "Other"
     ],
     "buo/homebrew-cask-upgrade": [
@@ -3468,6 +3486,9 @@
         "Jekyll"
     ],
     "dagware/DanThomas": [
+        "Other"
+    ],
+    "daihy8759/raychat": [
         "Other"
     ],
     "dair-ai/Prompt-Engineering-Guide": [
@@ -4307,6 +4328,9 @@
     "gatsbyjs/gatsby-starter-blog": [
         "Other"
     ],
+    "gbaptista/gemini-ai": [
+        "Other"
+    ],
     "gdepourtales/custom-tab-title-favicon": [
         "Other"
     ],
@@ -4323,6 +4347,9 @@
         "Other"
     ],
     "georgedouzas/sports-betting": [
+        "Other"
+    ],
+    "getgrinta/grinta": [
         "Other"
     ],
     "getpelican/pelican": [
@@ -4479,6 +4506,9 @@
         "Other"
     ],
     "grishka/NearDrop": [
+        "Other"
+    ],
+    "grndis/raycast": [
         "Other"
     ],
     "groepl/Obsidian-Templates": [
@@ -4659,6 +4689,9 @@
         "Other"
     ],
     "hunspell/hunspell": [
+        "Other"
+    ],
+    "husnainfareed/rename-images-with-ai-raycast-extension": [
         "Other"
     ],
     "husseyexplores/poshify-utilities": [
@@ -4890,6 +4923,9 @@
         "Other"
     ],
     "jacobsalmela/tccutil": [
+        "Other"
+    ],
+    "jag-k/git-raycast": [
         "Other"
     ],
     "jairo-aguirre/product-comparison": [
@@ -6003,6 +6039,9 @@
         "Other"
     ],
     "missuo/raycast2api": [
+        "Other"
+    ],
+    "missuo/vercel-raycast2api": [
         "Other"
     ],
     "mitchuman/danshari": [
@@ -7689,6 +7728,9 @@
         "Other"
     ],
     "sindresorhus/touch-bar-simulator": [
+        "Other"
+    ],
+    "sissbruecker/linkding": [
         "Other"
     ],
     "sivel/speedtest-cli": [
