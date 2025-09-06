@@ -552,6 +552,7 @@ creating your own Awesome List by GitHub stars!
 * [bitwarden/clients](https://github.com/bitwarden/clients): Bitwarden client apps (web, browser extension, desktop, and cli).
 * [xiaohk/clip2imgur](https://github.com/xiaohk/clip2imgur): A simple macOS command line tool for uploading your screenshots from clipboard to Imgur
 * [clipboard2file/clipboard2file](https://github.com/clipboard2file/clipboard2file): WebExtension for using images on the clipboard as files
+* [kepano/clipper-templates](https://github.com/kepano/clipper-templates): Obsidian Web Clipper templates for various sites.
 * [aecreations/clippings](https://github.com/aecreations/clippings): Clippings: an extension for Firefox
 * [aecreations/clippings-tb](https://github.com/aecreations/clippings-tb): Clippings for Thunderbird
 * [Clipy/Clipy](https://github.com/Clipy/Clipy): Clipboard extension app for macOS.
@@ -2842,7 +2843,7 @@ creating your own Awesome List by GitHub stars!
 * [vegetableman/vandal](https://github.com/vegetableman/vandal): Navigator for Web Archive
 * [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio): vCard is a fully responsive personal portfolio website, responsive for all devices.
 * [aclap-dev/vdhcoapp](https://github.com/aclap-dev/vdhcoapp): Companion application for Video DownloadHelper browser add-on
-* [Vendicated/Vencord](https://github.com/Vendicated/Vencord): The cutest Discord client mod
+* [Vendicated/Vencord](https://github.com/Vendicated/Vencord): The cutest Discord modification
 * [Venqul/VenSur](https://github.com/Venqul/VenSur): 🎨 A refined Safari-style Firefox theme built from my original WhiteSur fork (v1.2.7) - now redesigned with dropdown fixes, icon improvements, and a sleeker UI experience.
 * [missuo/vercel-raycast2api](https://github.com/missuo/vercel-raycast2api): Serverless Raycast2API on Vercel
 * [Pravpro/Vibn-Central](https://github.com/Pravpro/Vibn-Central): An app being built with the goal of making Product Uploading exponentially faster for Shopify stores with one-off products.
