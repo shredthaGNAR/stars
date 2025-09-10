@@ -1009,7 +1009,7 @@ creating your own Awesome List by GitHub stars!
 * [Tenmag/FirefoxPrivacyConfig](https://github.com/Tenmag/FirefoxPrivacyConfig): Firefox privacy configuration (help + user.js)
 * [macleod-ee/FirefoxSidebar](https://github.com/macleod-ee/FirefoxSidebar): Vertical tab design for Firefox with dynamic indentation:: Sidebery and TreeStyleTabs (Legacy) themes available! [!] Moved to https://codeberg.org/macleod/FirefoxSidebar
 * [garywill/FirefoxTaskMonitor](https://github.com/garywill/FirefoxTaskMonitor): Show CPU & memory bar, per tab and all tasks. Firefox userChrome script. 🛠️📊 
-* [xKrusty/FirefoxTheme](https://github.com/xKrusty/FirefoxTheme): None
+* [tkrusty/FirefoxTheme](https://github.com/tkrusty/FirefoxTheme): None
 * [gomita/firegestures](https://github.com/gomita/firegestures): FireGestures, a Firefox extension.
 * [josepedromonteiro/fireze](https://github.com/josepedromonteiro/fireze): Custome safari theme for Firefox
 * [kosimst/Firicico](https://github.com/kosimst/Firicico): Combined programming mono font with italics and font ligatures made from Fira Code and Pacifico for Italics
@@ -2755,6 +2755,7 @@ creating your own Awesome List by GitHub stars!
 * [avotoko/ubo-resource](https://github.com/avotoko/ubo-resource): uBlock Origin Experimental Scriptlets Resource
 * [uBlockO/uBO-Scriptlets](https://github.com/uBlockO/uBO-Scriptlets): A custom arsenal of scriptlets to be used for injecting userscripts via uBlock Origin.
 * [aminomancer/uc.css.js](https://github.com/aminomancer/uc.css.js): A dark indigo CSS theme for Firefox and a large collection of privileged scripts to add new buttons, menus, behaviors and other opinionated features. The theme is similar to other userChrome stylesheets, but it's intended for use with an autoconfig loader like fx-autoconfig, since it uses JavaScript to implement its more functional features.
+* [dupontjoy/UCScriptsCollections](https://github.com/dupontjoy/UCScriptsCollections): UC scripts collections, include UC scripts I don't use for now and UC scripts collected from others' sharing. Just for me to find them easily in the future.
 * [youneslaaroussi/ui-buttons](https://github.com/youneslaaroussi/ui-buttons): 100 Modern CSS Buttons. Every style that you can imagine.
 * [web-ext-labs/ui-tool](https://github.com/web-ext-labs/ui-tool): UI for create-web-ext
 * [DeweyReed/UltimateRingtonePicker](https://github.com/DeweyReed/UltimateRingtonePicker): An Android music picker library for picking alarm, notification or ringtones sound using an Activity or a dialog.
@@ -2810,7 +2811,6 @@ creating your own Awesome List by GitHub stars!
 * [k08045kk/userChrome.js](https://github.com/k08045kk/userChrome.js): None
 * [tkhquang/userChrome.js](https://github.com/tkhquang/userChrome.js): userChrome.js for Firefox
 * [typeling1578/userChrome.js](https://github.com/typeling1578/userChrome.js): None
-* [dupontjoy/userChrome.js-Collections-](https://github.com/dupontjoy/userChrome.js-Collections-): UC scripts collections, include UC scripts I don't use for now and UC scripts collected from others' sharing. Just for me to find them easily in the future.
 * [benzBrake/userChrome.js-Loader](https://github.com/benzBrake/userChrome.js-Loader): None
 * [tortious/userChrome.js-userChrome.css-Favorites](https://github.com/tortious/userChrome.js-userChrome.css-Favorites): None
 * [k08045kk/userChrome.menus.css](https://github.com/k08045kk/userChrome.menus.css): None
