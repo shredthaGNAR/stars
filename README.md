@@ -80,6 +80,7 @@ creating your own Awesome List by GitHub stars!
 * [dakshpareek/ai-bookmark-organizer](https://github.com/dakshpareek/ai-bookmark-organizer): Organize your bookmarks effortlessly with AI-powered categorization.
 * [vanrohan/ai-bookmark-organizer](https://github.com/vanrohan/ai-bookmark-organizer): None
 * [Tolga1452/ai-prompts](https://github.com/Tolga1452/ai-prompts): A collection of original system prompts and tool data used for AI chatbots. Explore how companies such as ChatGPT prompt their AIs!
+* [cpbotha/ai-screenshot-namer](https://github.com/cpbotha/ai-screenshot-namer): Rename your screenshots with ollama LLaVA, GPT-4o and macOS OCR
 * [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions): 🤖 AI browser extensions & userscripts to augment your web experience
 * [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists): A collection of unified blocklists designed to provide complete filtering capabilities for different online threats. These blocklists are curated from multiple sources, offering a robust solution for blocking ads, malware, trackers, and other unwanted content.
 * [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams): One addon to rule them all. AIOStreams consolidates multiple Stremio addons and debrid services into a single, highly customisable super-addon. 
@@ -1810,6 +1811,7 @@ creating your own Awesome List by GitHub stars!
 * [hinterdupfinger/obsidian-ollama](https://github.com/hinterdupfinger/obsidian-ollama): None
 * [nybbles/obsidian-pocket](https://github.com/nybbles/obsidian-pocket): Pocket integration for Obsidian
 * [mtopping/obsidian-raindrop](https://github.com/mtopping/obsidian-raindrop): This plugin allows for basic integration with Raindrop.io, a bookmarking service and Obsidian.
+* [marcjulianschwarz/obsidian-raycast](https://github.com/marcjulianschwarz/obsidian-raycast): Raycast extension with commands for the note taking app Obsidian.
 * [DominikPieper/obsidian-ReadItLater](https://github.com/DominikPieper/obsidian-ReadItLater): None
 * [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections): Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3
 * [masonlr/obsidian-starter-templates](https://github.com/masonlr/obsidian-starter-templates): :rocket: Starter templates for Obsidian.md
@@ -2142,7 +2144,7 @@ creating your own Awesome List by GitHub stars!
 * [andrewmkhoury/qr-scanner](https://github.com/andrewmkhoury/qr-scanner): QR scanner app for mac OS
 * [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp): :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 * [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy): Android real-time display control software
-* [Izheil/Quantum-Nox-Firefox-Dark-Full-Theme](https://github.com/Izheil/Quantum-Nox-Firefox-Dark-Full-Theme): A customizable full dark theme for Firefox. You can also add extra functions using the CSS and JS files here apart from the theme.
+* [Izheil/Quantum-Nox-Firefox-Customizations](https://github.com/Izheil/Quantum-Nox-Firefox-Customizations): Customizations for Firefox. You can add extra functions using the CSS and JS files here.
 * [jackyzha0/quartz](https://github.com/jackyzha0/quartz): 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 * [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins): List of useful Quick Look plugins for developers
 * [evanca/quick-portfolio](https://github.com/evanca/quick-portfolio): [DISCONTINUED] Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
@@ -2218,6 +2220,7 @@ creating your own Awesome List by GitHub stars!
 * [TheRealJoelmatic/RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing):  The intrusive "Ad blocker are not allowed on YouTube"  message is annoying. This open-source project aims to address this issue by providing a solution to bypass YouTube's ad blocker detection
 * [eyalroz/removedupes](https://github.com/eyalroz/removedupes): Remove Duplicate Messages
 * [husnainfareed/rename-images-with-ai-raycast-extension](https://github.com/husnainfareed/rename-images-with-ai-raycast-extension): A Raycast extension that uses AI to intelligently rename screenshot and image files based on their content.
+* [cdaein/rename-screenshot](https://github.com/cdaein/rename-screenshot): Rename Mac screenshots based on its contents with local Ollama or ChatGPT
 * [dexiota/replacefirefoxicon](https://github.com/dexiota/replacefirefoxicon): A collection of CSS tweaks to only change Firefox's icon throughout the UI.
 * [jeevatkm/ReplyWithHeader-Thunderbird](https://github.com/jeevatkm/ReplyWithHeader-Thunderbird): Outlook style headers and few goodies for Thunderbird
 * [srvaroa/repocket](https://github.com/srvaroa/repocket): Manage a local copy of articles saved in Pocket
