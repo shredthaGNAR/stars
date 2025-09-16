@@ -1296,6 +1296,7 @@ creating your own Awesome List by GitHub stars!
 * [dnnsmnstrr/HydroTouch](https://github.com/dnnsmnstrr/HydroTouch): A collection of presets for BetterTouchTool
 * [penance316/hyper-dark-vibrancy](https://github.com/penance316/hyper-dark-vibrancy): A demo theme for hyperterm to demonstrate the vibrancy effect on macOS
 * [zt64/Hyperion](https://github.com/zt64/Hyperion): An alternative YouTube front-end
+* [apernet/hysteria](https://github.com/apernet/hysteria): Hysteria is a powerful, lightning fast and censorship resistant proxy.
 * [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies): Debloated fork of the extension "I don't care about cookies"
 * [potsky/iajai-email-signature](https://github.com/potsky/iajai-email-signature): None
 * [deseven/iCanHazShortcut](https://github.com/deseven/iCanHazShortcut): simple shortcut manager for macOS
@@ -1741,7 +1742,7 @@ creating your own Awesome List by GitHub stars!
 * [leohu1/My-UserChrome](https://github.com/leohu1/My-UserChrome): My UserChrome Css and Script
 * [iam-py-test/my_filters_001](https://github.com/iam-py-test/my_filters_001): My filter lists - feel free to add these lists to uBlock Origin
 * [hisamafahri/mypocket](https://github.com/hisamafahri/mypocket): GetPocket but better!
-* [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail): UI Email Signature Generator - Make easy to create your email signature
+* [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail): An open-source email signature generator for Gmail, Outlook, Apple Mail, etc.
 * [shredthaGNAR/mytheme](https://github.com/shredthaGNAR/mytheme): firefox userchrome css theme
 * [tj/n](https://github.com/tj/n): Node version management
 * [cyanfish/naps2](https://github.com/cyanfish/naps2): Scan documents to PDF and more, as simply as possible.
@@ -2120,6 +2121,7 @@ creating your own Awesome List by GitHub stars!
 * [psequel/psequel](https://github.com/psequel/psequel): Free PostgreSQL GUI tool for macOS.
 * [ongots/pseudo-fullscreen-firefox](https://github.com/ongots/pseudo-fullscreen-firefox): Hides and improves interface Firefox and YouTube, giving maximum space for content and aiding concentration
 * [dognotdog/ptpwebcam](https://github.com/dognotdog/ptpwebcam): Mac DSLR webcam plugin for using DSLRs for video conferencing and streaming.
+* [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists): A collective list of free APIs for use in software and web development 🚀
 * [public-apis/public-apis](https://github.com/public-apis/public-apis): A collective list of free APIs
 * [GetPublii/Publii](https://github.com/GetPublii/Publii): The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 * [WaldiPL/purplePrivateWindows](https://github.com/WaldiPL/purplePrivateWindows):  Extension for Firefox
@@ -2719,6 +2721,7 @@ creating your own Awesome List by GitHub stars!
 * [RealRaven2000/ToneQuilla](https://github.com/RealRaven2000/ToneQuilla): ToneQuilla 1.1.1 - Adds a new action to Thunderbird mail filters to allow playing a particular sound when the filter matches. Also includes several sample sound files - original project by R. Kent James
 * [JimmyLaurent/torrent-search-api](https://github.com/JimmyLaurent/torrent-search-api): Yet another node torrent scraper (supports iptorrents, torrentleech, torrent9, torrentz2, 1337x, thepiratebay, Yggtorrent, TorrentProject, Eztv, Yts, LimeTorrents)
 * [r12habh/Torrent-To-Google-Drive-Downloader](https://github.com/r12habh/Torrent-To-Google-Drive-Downloader): Simple notebook to stream torrent files to Google Drive using Google Colab and python3.
+* [TheBeastLT/torrentio-scraper](https://github.com/TheBeastLT/torrentio-scraper): None
 * [sindresorhus/touch-bar-simulator](https://github.com/sindresorhus/touch-bar-simulator): Use the Touch Bar on any Mac
 * [ris58h/Touch-Tab](https://github.com/ris58h/Touch-Tab): Switch apps with trackpad on macOS.
 * [GaffaSnobb/touchbar-crypto](https://github.com/GaffaSnobb/touchbar-crypto): Live update crypto prices on the Touch Bar.
@@ -2938,6 +2941,7 @@ creating your own Awesome List by GitHub stars!
 * [webcomponents/webcomponentsjs](https://github.com/webcomponents/webcomponentsjs): A suite of polyfills supporting the HTML Web Components specs
 * [Frontendland/webcore-astro-portfolio](https://github.com/Frontendland/webcore-astro-portfolio): Free and open-source portfolio template for Astro built using Webcore
 * [subins2000/WebDrop](https://github.com/subins2000/WebDrop): Easiest group P2P File & Message transfer in browser with WebRTC 🔥. Cross-platform alternative to Apple's AirDrop, Xender, ShareIT with the same speed over LAN. No installation, just a website :)
+* [cardinalby/webext-buildtools-firefox-addons-action](https://github.com/cardinalby/webext-buildtools-firefox-addons-action): Deploy extension to Firefox Addons and sign xpi file
 * [thunderbird/webext-examples](https://github.com/thunderbird/webext-examples): Example extensions for Thunderbird WebExtensions APIs
 * [thunderbird/webext-experiments](https://github.com/thunderbird/webext-experiments): WebExtension Experiments for Thunderbird
 * [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill): A lightweight polyfill library for Promise-based WebExtension APIs in Chrome
