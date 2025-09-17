@@ -1018,6 +1018,7 @@ creating your own Awesome List by GitHub stars!
 * [josepedromonteiro/fireze](https://github.com/josepedromonteiro/fireze): Custome safari theme for Firefox
 * [kosimst/Firicico](https://github.com/kosimst/Firicico): Combined programming mono font with italics and font ligatures made from Fira Code and Pacifico for Italics
 * [Mortennn/FiScript](https://github.com/Mortennn/FiScript): Execute custom scripts from the MacOS context menu (CTRL+click) in Finder.
+* [pmiddlet72/fix_onetab](https://github.com/pmiddlet72/fix_onetab): Scripts to help extract OneTab urls and/or fix the OneTab extension when this app fails in the Google Chrome browser (currently only tested in Linux --> Ubuntu 24.04 and Linux Mint 22.1). 
 * [daniruiz/flat-remix-css](https://github.com/daniruiz/flat-remix-css): A lightweight CSS library that provides a set of predesigned elements useful for rapid web development. It follows a modern flat design using a colorful palette with some shadows, highlights, and gradients for some depth.
 * [yuuqilin/FlexFox](https://github.com/yuuqilin/FlexFox): A lightweight Firefox theme focused on usability, flexibility, and smooth performance.
 * [d3ward/floatly](https://github.com/d3ward/floatly): An extension that adds a floating button for browser quick actions 
@@ -1426,6 +1427,7 @@ creating your own Awesome List by GitHub stars!
 * [Automattic/juice](https://github.com/Automattic/juice): Juice inlines CSS stylesheets into your HTML source.
 * [snark/jumpcut](https://github.com/snark/jumpcut): Minimalist clipboard management for macOS
 * [RealRaven2000/JunQuilla](https://github.com/RealRaven2000/JunQuilla): Adopted Thunderbird Add-on from Kent James - adds column with percent likelihood that a message is spam
+* [huioi/Just-OneTab](https://github.com/huioi/Just-OneTab): 一款专为浏览器标签页收纳与整理打造的插件，可有效节省内存并缓解标签页杂乱问题，兼容 Chrome、Edge 等基于 Chromium 内核的浏览器。A browser extension designed for tab management and organization, effectively saving memory and reducing cluttered tabs. Compatible with Chrome, Edge, and other Chromium-based browsers.
 * [ZachSaucier/Just-Read](https://github.com/ZachSaucier/Just-Read): A customizable read mode web extension.
 * [EragonJ/Kaku](https://github.com/EragonJ/Kaku): 🎧 Kaku is a highly integrated music player supports different online platform like YouTube, SoundCloud, Vimeo and more. Available on Mac, Windows and Linux.
 * [wulkano/Kap](https://github.com/wulkano/Kap): An open-source screen recorder built with web technology
@@ -1471,7 +1473,7 @@ creating your own Awesome List by GitHub stars!
 * [kondasoft/ks-bootshop](https://github.com/kondasoft/ks-bootshop): Our Free Shopify Theme focused on simplicity, speed, and user experience. Download it today and finish your Shopify store within days, not months. Powered by Bootstrap v5 framework and 15+ years of coding experience.
 * [lando/lando](https://github.com/lando/lando): A development tool for all your projects that is fast, easy, powerful and liberating
 * [LANDrop/LANDrop](https://github.com/LANDrop/LANDrop): Drop any files to any devices on your LAN.
-* [langchain-ai/langchain](https://github.com/langchain-ai/langchain): 🦜🔗 Build context-aware reasoning applications 🦜🔗
+* [langchain-ai/langchain](https://github.com/langchain-ai/langchain): 🦜🔗 Build context-aware reasoning applications
 * [langfuse/langfuse](https://github.com/langfuse/langfuse): 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 
 * [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool): Style and Grammar Checker for 25+ Languages
 * [stuyam/laravel-phone-validator](https://github.com/stuyam/laravel-phone-validator): A phone validator for Laravel using the free Twilio phone lookup service.
@@ -1850,14 +1852,18 @@ creating your own Awesome List by GitHub stars!
 * [iansinnott/one-dark-tab](https://github.com/iansinnott/one-dark-tab): Like OneTab, but darker.
 * [benfaerber/one-monokai-firefox-devtools](https://github.com/benfaerber/one-monokai-firefox-devtools): A theme for Firefox Devtools
 * [simurai/one-vibrancy](https://github.com/simurai/one-vibrancy): Vibrancy effect for Atom One themes
+* [AltarBeastiful/onetab](https://github.com/AltarBeastiful/onetab): Onetab extension unofuscated with a few keyboard shortcuts added.
+* [Sumit07p/ONETAB](https://github.com/Sumit07p/ONETAB): None
 * [ikki4/OneTab-Backup](https://github.com/ikki4/OneTab-Backup): Python script to backup your OneTab data. Can be scheduled with Windows' Task Scheduler to run automatically.
 * [busyxiang/OneTab-Backup-Automation](https://github.com/busyxiang/OneTab-Backup-Automation): Automated Python Script to backup your OneTab data
 * [ikki4/OneTab-Backup-Automation](https://github.com/ikki4/OneTab-Backup-Automation): Automated Python Script to backup your OneTab data
+* [yueyericardo/onetab-custom](https://github.com/yueyericardo/onetab-custom): None
 * [dpschen/onetab-export-script](https://github.com/dpschen/onetab-export-script): A simple browser script that helps exporting saved OneTab meta data 
 * [jianyuan/onetab-export-to-json](https://github.com/jianyuan/onetab-export-to-json): 🔖 Export URLs directly from OneTab's LevelDB database to JSON
 * [gittyupcowboy/Onetab-Extractor](https://github.com/gittyupcowboy/Onetab-Extractor): None
 * [ylon/onetab-merge](https://github.com/ylon/onetab-merge): Merge util for OneTab browser extension
 * [pullup/OneTab-Night-Mode](https://github.com/pullup/OneTab-Night-Mode): Little theme for the onetab page to make it less eye raping.
+* [kubafeqt/OneTab-Order](https://github.com/kubafeqt/OneTab-Order): order OneTab (browser addon) tabs, copy to clipboard button
 * [Nuzza/OneTab-Reborn](https://github.com/Nuzza/OneTab-Reborn): OneTab Reborn is a remake of the original OneTab extension to have a more modern appearance.
 * [sueszli/onetab-scraper](https://github.com/sueszli/onetab-scraper): oneTab bookmark collection → plaintext
 * [runoshun/onetab-sync](https://github.com/runoshun/onetab-sync): Command line utility for sync and backup OneTab Chrome extension data.
@@ -1868,6 +1874,7 @@ creating your own Awesome List by GitHub stars!
 * [lolonao/onetab2sqlite3](https://github.com/lolonao/onetab2sqlite3): Script to import export data from OneTab browser extension into SQLite3. I will add the ability to search by keywords or categories.
 * [alan1world/onetab_data_archiver](https://github.com/alan1world/onetab_data_archiver): A data archiver script for use with OneTab browser extension, and Google Keep as a bonus
 * [endcloud/onetab_restore_tauri](https://github.com/endcloud/onetab_restore_tauri): An App for backing up and better displaying Onetab data Powered by Tauri.
+* [eskutcheon/OnetabAutosorter](https://github.com/eskutcheon/OnetabAutosorter): tool I wrote in a day or two awhile back using KeyBERT to parse groups of Onetab tabs after parsing the full set from HTML; extensions will allow clustering of bookmarks by topic (using additional data from webscraping) and output to a new `bookmarks.html` file
 * [Enan01/OneTabClear](https://github.com/Enan01/OneTabClear): Quickly clear OneTab tag group.
 * [yegor-pelykh/OnHand](https://github.com/yegor-pelykh/OnHand): An open source browser extension to save your favorite bookmarks on a "new tab" page.
 * [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch): ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
@@ -3047,7 +3054,7 @@ creating your own Awesome List by GitHub stars!
 * [rupa/z](https://github.com/rupa/z): z - jump around
 * [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy): The ZAP by Checkmarx Core project
 * [zapSNH/zapsCoolPhotonTheme](https://github.com/zapSNH/zapsCoolPhotonTheme): party like it's firefox 87!
-* [marlonrichert/zcolors](https://github.com/marlonrichert/zcolors): 🌈 Use your $LS_COLORS to generate a coherent theme for Git & your Zsh prompt, command line and completions.
+* [marlonrichert/zcolors](https://github.com/marlonrichert/zcolors): 🌈 Generate a theme for git, grep, less and zsh that matches your $LS_COLORS
 * [mattmc3/zdotdir](https://github.com/mattmc3/zdotdir): My zsh config
 * [zbrateam/Zebra](https://github.com/zbrateam/Zebra): 🦓 A Useful Package Manager for iOS
 * [RealRaven2000/ZombieKeys](https://github.com/RealRaven2000/ZombieKeys): Thunderbird / Waterfox Add-on: ZombieKeys
