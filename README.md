@@ -408,6 +408,7 @@ creating your own Awesome List by GitHub stars!
 * [aerobless/bookmarks](https://github.com/aerobless/bookmarks): Personal browser launch page. Made with static-marks.
 * [br4adam/bookmarks](https://github.com/br4adam/bookmarks): Organize your bookmarks with ease.
 * [dyu/bookmarks](https://github.com/dyu/bookmarks): a simple self-hosted bookmarking app that can import bookmarks from delicious and chrome
+* [fmhy/bookmarks](https://github.com/fmhy/bookmarks): None
 * [nextcloud/bookmarks](https://github.com/nextcloud/bookmarks): 🔖 Bookmark app for Nextcloud
 * [twolfson/bookmarks](https://github.com/twolfson/bookmarks): Webpage representing a collection of bookmarks
 * [brian-girko/bookmarks-commander](https://github.com/brian-girko/bookmarks-commander): A two-panel bookmarks manager which is similar to the well-known Total Commander.
@@ -593,7 +594,6 @@ creating your own Awesome List by GitHub stars!
 * [argyleink/conic.css](https://github.com/argyleink/conic.css): nice'n simple conic gradients 🎨
 * [naveendnagendran/Contact-Search](https://github.com/naveendnagendran/Contact-Search): Search social profiles using email address
 * [AdguardTeam/ContentBlocker](https://github.com/AdguardTeam/ContentBlocker): Content blocking extension for Samsung Internet and Yandex Browser
-* [NumeriusNegidius/Context-Search](https://github.com/NumeriusNegidius/Context-Search): A Firefox WebExtension that displays a context menu, that searches for the selected text.
 * [davidmhammond/contextlets](https://github.com/davidmhammond/contextlets): A WebExtension for adding custom context menu items that execute JavaScript.
 * [gingerbeardman/contextmenu-actions](https://github.com/gingerbeardman/contextmenu-actions): My repo of ContextMenu Actions (can also be used with Automator)
 * [benbasson/contextsearch](https://github.com/benbasson/contextsearch): Firefox Extension - Context Search transforms the "Web Search for..." context item into a menu containing your Firefox Search Providers. This is very convenient, since it allows you to decide which search engine you use. Firefox's default is to use the currently selected search provider only. 
@@ -1099,7 +1099,6 @@ creating your own Awesome List by GitHub stars!
 * [EvanZhouDev/gemini-ai](https://github.com/EvanZhouDev/gemini-ai): The simpler JavaScript Gemini SDK
 * [gbaptista/gemini-ai](https://github.com/gbaptista/gemini-ai): A Ruby Gem for interacting with Gemini through Vertex AI, Generative Language API, or AI Studio, Google's generative AI services.
 * [Coding-Meet/Gemini-AI-KMP-App](https://github.com/Coding-Meet/Gemini-AI-KMP-App): Gemini AI Kotlin Multiplatform project designed to target Android, iOS, Windows, macOS, Linux, and Web platforms.
-* [RMNCLDYO/gemini-ai-toolkit](https://github.com/RMNCLDYO/gemini-ai-toolkit): A lightweight Python API wrapper and CLI for Google’s Gemini language models.
 * [muhammedsamal/gemini-image-analysis](https://github.com/muhammedsamal/gemini-image-analysis): A Python script that uses Google's Gemini AI to automatically rename images with descriptive filenames based on their content.
 * [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat): Minimal web UI for GeminiPro.
 * [CJHwong/gems.sh](https://github.com/CJHwong/gems.sh): A Gemini Gem Manager in your MacBook powered by Gemma
@@ -1192,6 +1191,7 @@ creating your own Awesome List by GitHub stars!
 * [vHanda/google-keep-exporter](https://github.com/vHanda/google-keep-exporter): Export google keep notes to markdown
 * [kyhau/google-keep-helper](https://github.com/kyhau/google-keep-helper): Python scripts for importing bookmarks from Pocket getpocket.com to Google Keep.
 * [cheap-glitch/google-keep-to-clipboard](https://github.com/cheap-glitch/google-keep-to-clipboard): 🗒️ A tiny browser extension to copy the contents of Google Keep notes to the clipboard in various formats.
+* [keshavsapra/Google-Keep-to-Joplin](https://github.com/keshavsapra/Google-Keep-to-Joplin): Python script to convert Google Keep HTML note exports into Markdown (.md) files suitable for importing into Joplin.
 * [kelyvin/Google-Messages-For-Desktop](https://github.com/kelyvin/Google-Messages-For-Desktop): A "native-like" OS X, Windows, & Linux desktop app for Google Messages
 * [mrishab/google-photos-delete-tool](https://github.com/mrishab/google-photos-delete-tool): Tool for deleting all photos from the Google Photos
 * [mnghsn/google-search-sidebar](https://github.com/mnghsn/google-search-sidebar): A user script and user style to move Google search tools to sidebar.
@@ -1291,6 +1291,7 @@ creating your own Awesome List by GitHub stars!
 * [theocjr/hugo-academic-bookmarks](https://github.com/theocjr/hugo-academic-bookmarks): Bookmarks content section for the Academic theme (Hugo framework).
 * [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder): ⚡ Hugo Blox: Markdown sites in minutes. Academic/resume/lab/portfolio for AI researchers & startups. Premium templates. Deploy to GitHub Pages now in 1-click 👇
 * [craftsmandigital/hugo-get-pocket](https://github.com/craftsmandigital/hugo-get-pocket): This is a Hugo project that view bookmars from my get-pocket app. Using get-pocket api to generate json to use in website.
+* [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod):  A fast, clean, responsive Hugo theme.
 * [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile): A highly customizable and mobile first Hugo template for personal portfolio and blog.
 * [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack): Card-style Hugo theme designed for bloggers
 * [spaghettiwews/hugonews](https://github.com/spaghettiwews/hugonews): hugo theme (based on https://news.ycombinator.com) for https://bookmarks.wews.co.zw
@@ -1850,7 +1851,6 @@ creating your own Awesome List by GitHub stars!
 * [ksoeze/OmahaRangeExplorer](https://github.com/ksoeze/OmahaRangeExplorer): Omaha Range Explorer is a Python-based tool designed to evaluate and analyze Omaha 4-card, 5-card, and HILO poker hands and ranges. The tool allows users to construct in-game ranges over multiple streets using smart syntax, run equity and hand rank calculations, and perform basic EV estimations.
 * [alyssaxuu/omni](https://github.com/alyssaxuu/omni): The all-in-one tool to supercharge your productivity ⌨️
 * [InQuest/omnibus](https://github.com/InQuest/omnibus): The OSINT Omnibus (beta release)
-* [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore): Omnivore is a complete, open source read-it-later solution for people who like reading.
 * [omnixent/omnixent](https://github.com/omnixent/omnixent): 👀 A simple API that allows you to understand what people search on search engines, social networks, etc.
 * [songquanpeng/one-api](https://github.com/songquanpeng/one-api): LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
 * [iansinnott/one-dark-tab](https://github.com/iansinnott/one-dark-tab): Like OneTab, but darker.
@@ -2687,6 +2687,7 @@ creating your own Awesome List by GitHub stars!
 * [kerichdev/themes-for-ytmdesktop-player](https://github.com/kerichdev/themes-for-ytmdesktop-player): Youtube Music CSS themes to apply with any injector.
 * [knyar/theoldreader-chrome](https://github.com/knyar/theoldreader-chrome): Chrome extension for The Old Reader
 * [alienthief/thesourc](https://github.com/alienthief/thesourc): A curated list of awesome warez and piracy links
+* [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude): Let your Claude able to think
 * [devmount/third-stats](https://github.com/devmount/third-stats): Thunderbird add-on turning your emails into beautifully visualized email account stats.
 * [rly0nheart/thorndyke](https://github.com/rly0nheart/thorndyke): Lightweight username enumeration tool that checks the availability of a specified username on over 200 websites.
 * [mrdoob/three.js](https://github.com/mrdoob/three.js): JavaScript 3D Library.
