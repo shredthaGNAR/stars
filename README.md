@@ -1082,7 +1082,6 @@ creating your own Awesome List by GitHub stars!
 * [junegunn/fzf](https://github.com/junegunn/fzf): :cherry_blossom: A command-line fuzzy finder
 * [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab): Replace zsh's default completion selection menu with fzf!
 * [sted9000/gambit](https://github.com/sted9000/gambit): Learn Pot Limit Omaha Starting Ranges
-* [perXautomatik/GAS-OneTabExportOrganizer](https://github.com/perXautomatik/GAS-OneTabExportOrganizer): OneTab -> googleSheets -> Clustering datasheet
 * [tssandor/gasbar](https://github.com/tssandor/gasbar): Ethereum Gas Fee for the MacBook Pro touchbar (using BetterTouchTool)
 * [2ndalpha/gasmask](https://github.com/2ndalpha/gasmask): Hosts file manager for OS X
 * [ttscoff/gather-cli](https://github.com/ttscoff/gather-cli): None
@@ -1881,7 +1880,6 @@ creating your own Awesome List by GitHub stars!
 * [ikki4/OneTab-Backup-Automation](https://github.com/ikki4/OneTab-Backup-Automation): Automated Python Script to backup your OneTab data
 * [yueyericardo/onetab-custom](https://github.com/yueyericardo/onetab-custom): None
 * [dpschen/onetab-export-script](https://github.com/dpschen/onetab-export-script): A simple browser script that helps exporting saved OneTab meta data 
-* [jianyuan/onetab-export-to-json](https://github.com/jianyuan/onetab-export-to-json): 🔖 Export URLs directly from OneTab's LevelDB database to JSON
 * [gittyupcowboy/Onetab-Extractor](https://github.com/gittyupcowboy/Onetab-Extractor): None
 * [ylon/onetab-merge](https://github.com/ylon/onetab-merge): Merge util for OneTab browser extension
 * [pullup/OneTab-Night-Mode](https://github.com/pullup/OneTab-Night-Mode): Little theme for the onetab page to make it less eye raping.
