@@ -835,6 +835,7 @@ creating your own Awesome List by GitHub stars!
 * [babarot/enhancd](https://github.com/babarot/enhancd): :rocket: A next-generation cd command with your interactive filter
 * [andreyvit/env](https://github.com/andreyvit/env): None
 * [iptv-org/epg](https://github.com/iptv-org/epg): Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources.
+* [acidjesuz/EPGTalk](https://github.com/acidjesuz/EPGTalk): Welcome to EPG Talk, your go-to repository for an extensive Electronic Program Guide (EPG) covering a diverse range of television channels from the United States, Canada, United Kingdom, and Mexico. This project aims to simplify your TV viewing experience by providing accurate and up-to-date schedules, ensuring you never miss your favorite shows.
 * [bitgapp/eqMac](https://github.com/bitgapp/eqMac): macOS  System-wide Audio Equalizer & Volume Mixer  🎧
 * [rlxone/Equinox](https://github.com/rlxone/Equinox): 🌇 🌃  Create dynamic wallpapers for macOS.
 * [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy): 📱 Display and control your Android device graphically with scrcpy.
@@ -1662,7 +1663,7 @@ creating your own Awesome List by GitHub stars!
 * [soxoj/marple](https://github.com/soxoj/marple): 📖 Collect links to profiles by username through search engines and analyze with various plugins
 * [arp242/MartinFox](https://github.com/arp242/MartinFox): Really simple userChrome.css for Firefox 89 to make the active tab stand out more
 * [mas-cli/mas](https://github.com/mas-cli/mas): :package: Mac App Store command line interface
-* [massCodeIO/massCode](https://github.com/massCodeIO/massCode): A free and open source code snippets manager for developers
+* [massCodeIO/massCode](https://github.com/massCodeIO/massCode): A free and open source code snippet manager for developers
 * [material-components/material-components-web](https://github.com/material-components/material-components-web): Modular and customizable Material Design UI components for the web
 * [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated): 🦊 Firefox user CSS theme looks similar to Chrome
 * [material-extensions/material-icons-browser-extension](https://github.com/material-extensions/material-icons-browser-extension): Material Design icons for web browsers
@@ -1883,7 +1884,7 @@ creating your own Awesome List by GitHub stars!
 * [gittyupcowboy/Onetab-Extractor](https://github.com/gittyupcowboy/Onetab-Extractor): None
 * [ylon/onetab-merge](https://github.com/ylon/onetab-merge): Merge util for OneTab browser extension
 * [pullup/OneTab-Night-Mode](https://github.com/pullup/OneTab-Night-Mode): Little theme for the onetab page to make it less eye raping.
-* [kubafeqt/OneTab-Order](https://github.com/kubafeqt/OneTab-Order): order OneTab (browser addon) tabs, copy to clipboard button
+* [kubafeqt/OneTab-Order](https://github.com/kubafeqt/OneTab-Order): Order OneTab (browser add-on) exported tabs, remove duplicates, remove tracking queries from urls, can extract webpages to file by urls, finding webpages by full line match, url or content match.
 * [Nuzza/OneTab-Reborn](https://github.com/Nuzza/OneTab-Reborn): OneTab Reborn is a remake of the original OneTab extension to have a more modern appearance.
 * [sueszli/onetab-scraper](https://github.com/sueszli/onetab-scraper): oneTab bookmark collection → plaintext
 * [runoshun/onetab-sync](https://github.com/runoshun/onetab-sync): Command line utility for sync and backup OneTab Chrome extension data.
@@ -1930,7 +1931,6 @@ creating your own Awesome List by GitHub stars!
 * [lukakerr/OpenQuickly](https://github.com/lukakerr/OpenQuickly): A custom 'open quickly' window that imitates macOS' Spotlight
 * [es-kumagai/OpenTerminal](https://github.com/es-kumagai/OpenTerminal): This is a app for macOS that to open a new Finder window and change the current directory to the folder this app launched.
 * [darktrojan/openwith](https://github.com/darktrojan/openwith): Open With add-on for Firefox
-* [Anant-mishra1729/Operator-caska-Font](https://github.com/Anant-mishra1729/Operator-caska-Font): Operator-caska Cursive font with ligature support.
 * [ajaybhatia/Operator-Mono](https://github.com/ajaybhatia/Operator-Mono): Operator Mono Font
 * [kiliman/operator-mono-lig](https://github.com/kiliman/operator-mono-lig): Add ligatures to Operator Mono similar to Fira Code
 * [sujon-co/operator-mono-ligature](https://github.com/sujon-co/operator-mono-ligature):  Operator Mono ligatures build file
