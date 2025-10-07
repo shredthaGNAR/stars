@@ -86,7 +86,7 @@ creating your own Awesome List by GitHub stars!
 * [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists): A collection of unified blocklists designed to provide complete filtering capabilities for different online threats. These blocklists are curated from multiple sources, offering a robust solution for blocking ads, malware, trackers, and other unwanted content.
 * [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams): One addon to rule them all. AIOStreams consolidates multiple Stremio addons and debrid services into a single, highly customisable super-addon. 
 * [NeloF4/AIOTools](https://github.com/NeloF4/AIOTools): All In One Tools Hacking 
-* [AIPexStudio/AIPex](https://github.com/AIPexStudio/AIPex): AIPex: agentic assistant in your browser, automate your browser using natural language
+* [AIPexStudio/AIPex](https://github.com/AIPexStudio/AIPex): AIPex: agentic assistant in your browser, automate your browser using natural language. Comet Alternative
 * [air-controller/air-controller-desktop](https://github.com/air-controller/air-controller-desktop): A new handy and powerful Android phone assistant， powered by Flutter.
 * [canalnoises/AirDrop-Shortcut](https://github.com/canalnoises/AirDrop-Shortcut): A script to select AirDrop from Finder's Share menu. Assign to a keyboard shortcut for quick AirDropping.
 * [Airmail/AirmailPlugIn-Framework](https://github.com/Airmail/AirmailPlugIn-Framework): None
@@ -1326,6 +1326,7 @@ creating your own Awesome List by GitHub stars!
 * [nicolodiamante/icloud-nosync](https://github.com/nicolodiamante/icloud-nosync): Take control of your iCloud Drive files with iCloud NoSync—the ultimate utility for effortless sync and management! Get the edge you need to stay organised and up–to–date.
 * [au2001/icloud-passwords-firefox](https://github.com/au2001/icloud-passwords-firefox): Firefox extension which lets you use your passwords stored on iCloud Keychain®.
 * [farnots/iCloudDownloader](https://github.com/farnots/iCloudDownloader): CLI for downloading iCloud file
+* [ArakawaHenri/iCloudPasswords_for_Firefox](https://github.com/ArakawaHenri/iCloudPasswords_for_Firefox): Porting iCloud Passwords Extension to Firefox
 * [elrumo/icon-brew](https://github.com/elrumo/icon-brew): A free and open source icon pack. With hundreds of icons and new ones being added weekly.
 * [jenstornell/icon-flood](https://github.com/jenstornell/icon-flood): Hand picked SVG icon packs with at least 200 icons
 * [onmyway133/IconGenerator](https://github.com/onmyway133/IconGenerator): 🍱 A macOS app to generate app icons
