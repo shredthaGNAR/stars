@@ -467,6 +467,9 @@
     "Czarto/ShopifyScripts": [
         "Other"
     ],
+    "DEMONOJUS/Better-Tab": [
+        "Other"
+    ],
     "DEgITx/rats-search": [
         "Other"
     ],
@@ -1242,6 +1245,9 @@
         "Other"
     ],
     "MattRuetz/bookmark-app": [
+        "Other"
+    ],
+    "MatthewCash/firefox-mods": [
         "Other"
     ],
     "Medformatik/CrossDrop": [
@@ -2325,9 +2331,6 @@
         "Other"
     ],
     "aclap-dev/weh": [
-        "Other"
-    ],
-    "acoliver/llxprt-code": [
         "Other"
     ],
     "actions/checkout": [
@@ -8829,6 +8832,9 @@
         "Other"
     ],
     "vufly/dotfiles": [
+        "Other"
+    ],
+    "vybestack/llxprt-code": [
         "Other"
     ],
     "vytal-io/vytal-extension": [
