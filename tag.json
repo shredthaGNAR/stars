@@ -149,6 +149,9 @@
     "Airmail/AirmailPlugIn-Framework": [
         "Other"
     ],
+    "Alan-Kuan/Firefox-Mod-Blur": [
+        "Other"
+    ],
     "AlexPerathoner/Sessions": [
         "Other"
     ],
@@ -192,9 +195,6 @@
         "Other"
     ],
     "AnhNguyenlost13/GlassyFox": [
-        "Other"
-    ],
-    "AnonAmit/osint-tool": [
         "Other"
     ],
     "AntennaPod/AntennaPod": [
@@ -2613,6 +2613,9 @@
         "Other"
     ],
     "aminomancer/uc.css.js": [
+        "Other"
+    ],
+    "aminought/firefox-second-sidebar": [
         "Other"
     ],
     "amirgamil/apollo": [
@@ -7115,9 +7118,6 @@
     "promptfoo/promptfoo": [
         "Other"
     ],
-    "promptslab/Awesome-Prompt-Engineering": [
-        "Other"
-    ],
     "proninyaroslav/libretrack": [
         "Other"
     ],
@@ -7830,6 +7830,9 @@
         "Other"
     ],
     "signerlabs/Klee": [
+        "Other"
+    ],
+    "sigoden/window-switcher": [
         "Other"
     ],
     "silverbulletmd/silverbullet": [
@@ -8913,6 +8916,9 @@
         "Other"
     ],
     "wesbos/burner-email-providers": [
+        "Other"
+    ],
+    "wescpy/google": [
         "Other"
     ],
     "whitelightning76/Firefox-dark-theme": [
