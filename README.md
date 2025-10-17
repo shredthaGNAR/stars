@@ -31,6 +31,7 @@ creating your own Awesome List by GitHub stars!
 * [tortious/2021_Firefox](https://github.com/tortious/2021_Firefox): Updated config settings & possibilities for Firefox. This includes all file types (css; uc.js; js; etc) and other tips and tricks, including about:config tweaks
 * [rsapkf/42](https://github.com/rsapkf/42): @rsapkf's wiki. [Merged into rsapkf/www]
 * [Lexxrt/9xe3](https://github.com/Lexxrt/9xe3): 🔍sᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ ʟᴏᴏᴋᴜᴘ🔍
+* [ignaciocastro/a-dove-is-dumb](https://github.com/ignaciocastro/a-dove-is-dumb): Easily block Adobe telemetry checking domains. Continuously Updated. Useful for HostsMan / SwitchHosts / Pi-hole users ✨
 * [ffoodd/a11y.css-webextension](https://github.com/ffoodd/a11y.css-webextension): a11y.css webextension repository — for both Chromium and Firefox
 * [pfcao/abookmark](https://github.com/pfcao/abookmark): Advanced bookmark & tab manager
 * [earthlng/aboutconfig](https://github.com/earthlng/aboutconfig): None
@@ -63,6 +64,7 @@ creating your own Awesome List by GitHub stars!
 * [X1a0He/Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader): macOS Adobe apps download & installer
 * [chiumax/adobe-font-scraper](https://github.com/chiumax/adobe-font-scraper): 💢 don't have adobe plan and want their fonts? no need to worry! download from us ;)
 * [baileylatimer/adobe-illustrator](https://github.com/baileylatimer/adobe-illustrator): None
+* [Antibioticss/adobe-packager](https://github.com/Antibioticss/adobe-packager): Script that allows to download portable installers of different versions Adobe software for macOS
 * [Drovosek01/adobe-packager](https://github.com/Drovosek01/adobe-packager): Script that allows to download portable installers of different versions Adobe software for macOS
 * [benstonezhang/adobe-packager](https://github.com/benstonezhang/adobe-packager): Script that allows to download portable installers of different versions Adobe software
 * [Korveld/Adobe-URL-Block-List](https://github.com/Korveld/Adobe-URL-Block-List): This is the Adobe URL/IP block list for the Hosts file.
@@ -178,8 +180,10 @@ creating your own Awesome List by GitHub stars!
 * [mjolnirapp/AppGrid](https://github.com/mjolnirapp/AppGrid): macOS window manager with Vim–like hotkeys
 * [aaronfreimark/Apple-ID-AppleScript](https://github.com/aaronfreimark/Apple-ID-AppleScript): AppleScript to programatically create Apple IDs
 * [agentcooper/apple-notes-bookmarklet](https://github.com/agentcooper/apple-notes-bookmarklet): Bookmarklet for saving selected text to Apple Notes
+* [mikeroyal/Apple-Silicon-Guide](https://github.com/mikeroyal/Apple-Silicon-Guide): Apple Silicon Guide. Learn all about the A17 Pro, A16 Bionic, R1, M1-series,  M2-series, and M3-series chips. Along with all the Devices, Operating Systems, Tools, Gaming, and Software that Apple Silicon powers.
 * [threeplanetssoftware/apple_cloud_notes_parser](https://github.com/threeplanetssoftware/apple_cloud_notes_parser): Parser for Apple Notes data stored on the Cloud as seen on Apple handsets
 * [bunnysayzz/AppleAI](https://github.com/bunnysayzz/AppleAI): A MacOS menu bar app for ChatGPT, Gemini,  Claude, Perplexity, Copilot, DeepSeek, Grok and many more into one streamlined interface
+* [littlebyteorg/appledb](https://github.com/littlebyteorg/appledb): None
 * [revblaze/AppleMusicUltra](https://github.com/revblaze/AppleMusicUltra): Music Client for macOS. Use WebKit interoperability with JS-injection to add custom scripting and styling to your music experience.
 * [mattrose/AppleNotes2Joplin](https://github.com/mattrose/AppleNotes2Joplin): Apple Notes to Joplin - Export Apple notes to Markdown in Joplin export format
 * [unforswearing/applescript](https://github.com/unforswearing/applescript): Applescript applets, snippets, resources, and links
@@ -272,6 +276,7 @@ creating your own Awesome List by GitHub stars!
 * [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools): The best design tools and plugins for everything 👉
 * [jonathandion/awesome-emails](https://github.com/jonathandion/awesome-emails): ✉️ An awesome list of resources to build better emails.
 * [wangbing1416/Awesome-Fake-News-Detection](https://github.com/wangbing1416/Awesome-Fake-News-Detection): An awesome paper list of fake news detection (FND) and rumor detection.
+* [Drovosek01/awesome-files-hostings](https://github.com/Drovosek01/awesome-files-hostings): List and comparison of services for publishing and sharing files on the Internet
 * [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt): 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
 * [prayash/awesome-gatsby](https://github.com/prayash/awesome-gatsby): ⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.
 * [kr1sp1n/awesome-gemini](https://github.com/kr1sp1n/awesome-gemini): A collection of awesome things regarding the gemini protocol ecosystem.
@@ -300,7 +305,9 @@ creating your own Awesome List by GitHub stars!
 * [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian): 🕶️ Awesome stuff for Obsidian
 * [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint): :scream: A curated list of amazingly awesome OSINT
 * [Astrosp/Awesome-OSINT-For-Everything](https://github.com/Astrosp/Awesome-OSINT-For-Everything): OSINT tools for Information gathering, Cybersecurity, Reverse searching, bugbounty, trust and safety, red team oprations and more.
+* [lorien/awesome-pastebins](https://github.com/lorien/awesome-pastebins): List of pastebin services
 * [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy): A curated list of awesome warez and piracy links
+* [aviranzerioniac/awesome-piracy](https://github.com/aviranzerioniac/awesome-piracy): This is oftentimes a clone of the original awesome piracy repo. At times, i just go along editing a little too many links from the collection, and it becomes something else.
 * [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts): Collection of awesome podcasts
 * [apehex/awesome-poker](https://github.com/apehex/awesome-poker): :spades: :hearts: :clubs: :diamonds: A curated list of awesome poker resources & tools to improve your game.
 * [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy): Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
@@ -481,6 +488,7 @@ creating your own Awesome List by GitHub stars!
 * [LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly): 🎨 Powerful, minimalistic, cross-platform, opensource note-taking app
 * [loup-brun/buttons](https://github.com/loup-brun/buttons): A collection of CSS buttons.
 * [shredthaGNAR/buttons](https://github.com/shredthaGNAR/buttons): A collection of CSS buttons.
+* [romanvht/ByeByeDPI](https://github.com/romanvht/ByeByeDPI): Приложение локально запускает ByeDPI и перенаправляет весь трафик через него
 * [alextidalrise/bysofie-shipping-message](https://github.com/alextidalrise/bysofie-shipping-message): None
 * [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet): The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://docs.cakewallet.com
 * [brunophilipe/Cakebrew](https://github.com/brunophilipe/Cakebrew): Manage your Homebrew formulas with style using Cakebrew.
@@ -786,6 +794,7 @@ creating your own Awesome List by GitHub stars!
 * [odeke-em/drive](https://github.com/odeke-em/drive): Google Drive client for the commandline
 * [itszechs/DriveStream](https://github.com/itszechs/DriveStream): Stream video files from Google drive
 * [diatoming/Drop2Download](https://github.com/diatoming/Drop2Download): macOS menu bar app for youtube-dl GUI
+* [indrastorms/Dropped-Patches](https://github.com/indrastorms/Dropped-Patches): Picked up some dropped patches for ReVanced
 * [coolaj86/dropshare](https://github.com/coolaj86/dropshare): A min.us / ge.tt file share clone.
 * [aptonic/dropzone4-actions](https://github.com/aptonic/dropzone4-actions): Add-on actions and API Docs for Dropzone 4
 * [sjackwu/DualFinder](https://github.com/sjackwu/DualFinder): Make Finder a two-pane file manager on Mac OS X
@@ -1033,7 +1042,6 @@ creating your own Awesome List by GitHub stars!
 * [Tenmag/FirefoxPrivacyConfig](https://github.com/Tenmag/FirefoxPrivacyConfig): Firefox privacy configuration (help + user.js)
 * [macleod-ee/FirefoxSidebar](https://github.com/macleod-ee/FirefoxSidebar): Vertical tab design for Firefox with dynamic indentation:: Sidebery and TreeStyleTabs (Legacy) themes available! [!] Moved to https://codeberg.org/macleod/FirefoxSidebar
 * [garywill/FirefoxTaskMonitor](https://github.com/garywill/FirefoxTaskMonitor): Show CPU & memory bar, per tab and all tasks. Firefox userChrome script. 🛠️📊 
-* [tkrusty/FirefoxTheme](https://github.com/tkrusty/FirefoxTheme): None
 * [gomita/firegestures](https://github.com/gomita/firegestures): FireGestures, a Firefox extension.
 * [josepedromonteiro/fireze](https://github.com/josepedromonteiro/fireze): Custome safari theme for Firefox
 * [kosimst/Firicico](https://github.com/kosimst/Firicico): Combined programming mono font with italics and font ligatures made from Fira Code and Pacifico for Italics
@@ -1067,11 +1075,13 @@ creating your own Awesome List by GitHub stars!
 * [vincenzocaputo/FoxyRecon](https://github.com/vincenzocaputo/FoxyRecon): A Firefox add-on for OSINT investigations
 * [prabunagrajan/free-design-resources](https://github.com/prabunagrajan/free-design-resources): A collection of websites for free UI design materials for Sketch, Adobe XD, Figma, and other design tools.
 * [LightAPIs/free-export-bookmarks](https://github.com/LightAPIs/free-export-bookmarks): Freely bookmark export tool. 自由地书签导出工具。
+* [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev): A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 * [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources): A list of free LLM inference resources accessible via API.
 * [jamesjingyi/free-mac-apps](https://github.com/jamesjingyi/free-mac-apps): A list of apps I use on my MacBook
 * [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list): 🚀 Free HTTP, SOCKS4, & SOCKS5 Proxy List * Updated every 5 minutes *
 * [popjane/free_chatgpt_api](https://github.com/popjane/free_chatgpt_api): 🔥 公益免费的ChatGPT API，Free ChatGPT API，GPT4 API，可直连，无需代理，使用标准 OpenAI APIKEY 格式访问 ChatGPT，可搭配ChatGPT-next-web、ChatGPT-Midjourney、Lobe-chat、Botgem、FastGPT、沉浸式翻译等项目使用
 * [psugihara/FreeChat](https://github.com/psugihara/FreeChat): llama.cpp based AI chat app for macOS
+* [OSSPhilippines/freefolio](https://github.com/OSSPhilippines/freefolio): 100% FREE professional portfolio website templates
 * [cliouo/FreeGPT35-Vercel](https://github.com/cliouo/FreeGPT35-Vercel): Utilize the unlimited free ChatGPT3.5-Turbo API service provided by the login-free ChatGPT Web. Supporting Vercel Deployments.
 * [jeromelachaud/freelancer-theme](https://github.com/jeromelachaud/freelancer-theme): Jekyll theme based on Freelancer Start Bootstrap theme
 * [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube): An Open Source YouTube app for privacy
@@ -1134,6 +1144,7 @@ creating your own Awesome List by GitHub stars!
 * [Kevin-De-Koninck/Get-It](https://github.com/Kevin-De-Koninck/Get-It): A macOS GUI for youtube-dl
 * [finia2NA/getter](https://github.com/finia2NA/getter): A multi-workflow YouTube downloader
 * [shredthaGNAR/gh-bookmarks](https://github.com/shredthaGNAR/gh-bookmarks): None
+* [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS): Py2/py3 script that can download macOS components direct from Apple
 * [RaKeerS/Gif-Finder](https://github.com/RaKeerS/Gif-Finder): This is a web app created to be utilized in order to fetch the Gif Images from the Giphy Images Repository. It offer different categories and also a custom search tool in order to find what you exactly need! 
 * [defunkt/gist](https://github.com/defunkt/gist): Potentially the best command line gister.
 * [weakish/gister](https://github.com/weakish/gister): command line tool to sync github gists
@@ -1201,6 +1212,7 @@ creating your own Awesome List by GitHub stars!
 * [min-uuu/GoldenRabbit-BTT](https://github.com/min-uuu/GoldenRabbit-BTT): MacBook Pro touchbar custom. Perfectly Optimized BTT(Better Touch Tool) Preset.
 * [quexten/goldwarden](https://github.com/quexten/goldwarden): A feature-packed Bitwarden compatible desktop client
 * [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds): None
+* [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI): GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 * [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey): Turn (almost) any Python command line program into a full GUI application with one line
 * [wescpy/google](https://github.com/wescpy/google): Google developer code samples (mainly Python or Node.js)
 * [zanonmark/Google-4-TbSync](https://github.com/zanonmark/Google-4-TbSync): This provider add-on adds Google synchronization capabilities to TbSync. Only contacts and contact groups are currently managed, using Google's People API.
@@ -1246,6 +1258,7 @@ creating your own Awesome List by GitHub stars!
 * [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript): Build AI assistants that interact with your systems
 * [madprops/grasshopper](https://github.com/madprops/grasshopper): Advanced Tab Manager For Firefox
 * [zenangst/Gray](https://github.com/zenangst/Gray):  :first_quarter_moon: Tailor your macOS Mojave experience
+* [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel): GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 * [getgrinta/grinta](https://github.com/getgrinta/grinta): Everything you need, in one shortcut.
 * [vitalif/grive2](https://github.com/vitalif/grive2): Google Drive client with support for new Drive REST API and partial sync
 * [tardisx/gropple](https://github.com/tardisx/gropple): Server and bookmarklet to download files via youtube-dl directly from your browser. Cross platform single binary installation, web browser configurable.
@@ -1279,6 +1292,7 @@ creating your own Awesome List by GitHub stars!
 * [Benjamin-Dobell/Heimdall](https://github.com/Benjamin-Dobell/Heimdall): Heimdall is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung Galaxy devices.
 * [blanklob/helium](https://github.com/blanklob/helium): Helium is a modern Shopify development workflow ⚙️, with Online Store 2.0 features. Built with performance ⚡️ and best practices in mind.. 
 * [demtario/hes-gallery](https://github.com/demtario/hes-gallery): Light, dependency free, responsive gallery script
+* [HexFiend/HexFiend](https://github.com/HexFiend/HexFiend): A fast and clever hex editor for macOS
 * [MStankiewiczOfficial/Hi-Notch](https://github.com/MStankiewiczOfficial/Hi-Notch): [Discontinued] Hi Notch! makes using your MacBook even more productive. It displays additional buttons and statuses of active applications such as web browsers, Apple Music, Microsoft Teams and Zoom.
 * [dwarvesf/hidden](https://github.com/dwarvesf/hidden): An ultra-light MacOS utility that helps hide menu bar icons
 * [hensm/hide_private_mode](https://github.com/hensm/hide_private_mode): None
@@ -1359,6 +1373,7 @@ creating your own Awesome List by GitHub stars!
 * [Brawl345/Image-Reverse-Search-WebExtension](https://github.com/Brawl345/Image-Reverse-Search-WebExtension): WebExtension: Adds an option to the context menu to search with an image on various services. Made with Svelte.
 * [MarkAntipin/image-search-engine](https://github.com/MarkAntipin/image-search-engine): Web app to search similar images
 * [IbrahimMourad/image-search-webapp](https://github.com/IbrahimMourad/image-search-webapp): simple app to search for images by  keyword using unsplash API  
+* [stefansl/image-shrinker](https://github.com/stefansl/image-shrinker): App for macOS. Minify your images and graphics with just one drop. Autorenamed in the same place where it comes from. Immediately!
 * [ashwinishet/Image-Web-Scraper](https://github.com/ashwinishet/Image-Web-Scraper): This application is used for scraping images from google image search
 * [idealo/imagededup](https://github.com/idealo/imagededup): 😎 Finding duplicate images made easy!
 * [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim): GUI image optimizer for Mac
@@ -1373,6 +1388,7 @@ creating your own Awesome List by GitHub stars!
 * [ram-on/imgurbash2](https://github.com/ram-on/imgurbash2): A bash script that uploads images & videos to IMGUR.  It can also delete previously uploaded images/videos.
 * [spidergears/import_chrome_bookmarks_to_pocket](https://github.com/spidergears/import_chrome_bookmarks_to_pocket): Simple chrome extension to import all your chrome bookmarks to Pocket.com account
 * [skratchdot/infinite-gradients](https://github.com/skratchdot/infinite-gradients): An HTML experiment for generating randomly created CSS3 gradients (both linear and radial)
+* [inject-X/injectX](https://github.com/inject-X/injectX): Simple injection of macOS applications
 * [tim-we/inspector-extension](https://github.com/tim-we/inspector-extension): Inspect extensions with web-ext-inspector
 * [noahbuscher/inspire](https://github.com/noahbuscher/inspire): Collection of frontend dev and web design links :bulb:
 * [igdownloader/InstagramDownloader](https://github.com/igdownloader/InstagramDownloader): Firefox and Chrome Extention which creates an download button for instagram images and videos and videos
@@ -1482,6 +1498,7 @@ creating your own Awesome List by GitHub stars!
 * [uselibrary/KeepMyGoogleVoice](https://github.com/uselibrary/KeepMyGoogleVoice): Send SMS regularly through Python to keep Google Voice active
 * [dan-and/KeepToText](https://github.com/dan-and/KeepToText): Convert a Google Takeout zip file containing Google Keep notes to a directory of text files, suitable for import into systems such as Evernote
 * [keeweb/keeweb](https://github.com/keeweb/keeweb): Free cross-platform password manager compatible with KeePass
+* [aonez/Keka](https://github.com/aonez/Keka): The macOS & iOS file archiver
 * [theamallalgi/kenkaitheme](https://github.com/theamallalgi/kenkaitheme): KenKai Theme for Visual Studio Code
 * [acidburn0zzz/Kext-Droplet-Big-Sur](https://github.com/acidburn0zzz/Kext-Droplet-Big-Sur): Fork of archived repository from Kext-Droplet-Big-Sur by chris1111 HMF.
 * [chris1111/Kext-Droplet-Big-Sur](https://github.com/chris1111/Kext-Droplet-Big-Sur): None
@@ -1500,6 +1517,7 @@ creating your own Awesome List by GitHub stars!
 * [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher): A lightweight, pure-Swift library for downloading and caching images from the web.
 * [signerlabs/Klee](https://github.com/signerlabs/Klee): Secure and local AI on your desktop with a built-in RAG knowledge base and Markdown note support.
 * [KDE/kleopatra](https://github.com/KDE/kleopatra): Certificate manager and GUI for OpenPGP and CMS cryptography
+* [kkkgo/KMS_VL_ALL](https://github.com/kkkgo/KMS_VL_ALL): 🔑KMS_VL_ALL - Smart Activation Script
 * [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp): Run GGUF models easily with a KoboldAI UI. One File. Zero Install.
 * [gnonio/korporize](https://github.com/gnonio/korporize): OCR - Object Character Recognition for any image you browse upon
 * [onekiloparsec/KPCTabsControl](https://github.com/onekiloparsec/KPCTabsControl): A macOS control for tabs with enhanced capabilities, and styles: Safari, Chrome and custom ones.
@@ -1633,6 +1651,7 @@ creating your own Awesome List by GitHub stars!
 * [krestaino/macos-folder-icons](https://github.com/krestaino/macos-folder-icons): 📁 Generate custom folder icons using images or SF Symbols.
 * [wynioux/macOS-GateKeeper-Helper](https://github.com/wynioux/macOS-GateKeeper-Helper): Simple macOS GateKeeper script.
 * [yuanqing/macos-keyboard-shortcuts](https://github.com/yuanqing/macos-keyboard-shortcuts): :keyboard: A CLI to set application-specific keyboard shortcuts for macOS
+* [gchai/macos-mac-address-changer](https://github.com/gchai/macos-mac-address-changer): None
 * [MaorS/macOS-PasswordManager](https://github.com/MaorS/macOS-PasswordManager): 🔑👨‍💻macOS Password Manager
 * [bbusschots/macos-quickaction-text](https://github.com/bbusschots/macos-quickaction-text): A collection of Mac OS Quick Actions (Services) for manipulating text.
 * [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide): Community guide to securing and improving privacy on macOS.
@@ -1722,6 +1741,7 @@ creating your own Awesome List by GitHub stars!
 * [alexta69/metube](https://github.com/alexta69/metube): Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 * [nanocortex/metube-firefox-addon](https://github.com/nanocortex/metube-firefox-addon): Firefox addon for queueing videos to MeTube instance.
 * [WSTxda/MicroG-RE](https://github.com/WSTxda/MicroG-RE): GmsCore fork for ReVanced with Material 3 Expressive design, enhanced features, and improvements
+* [alsyundawy/Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS): Installer & Activited Microsoft Office For MacOS
 * [artginzburg/MiddleClick](https://github.com/artginzburg/MiddleClick):  "Wheel click" with three-finger click/tap for Trackpad and Magic Mouse.
 * [cl3m/MiddleClick](https://github.com/cl3m/MiddleClick): Emulate a middleclick with triple tap on MacBook trackpad and Magic Mouse.
 * [Midnight-Lizard/Midnight-Lizard](https://github.com/Midnight-Lizard/Midnight-Lizard): Сustom color schemes for all websites
@@ -1779,6 +1799,7 @@ creating your own Awesome List by GitHub stars!
 * [penge/my-notes](https://github.com/penge/my-notes): Simple and fast note-taking in Chrome with Google Drive support.
 * [leohu1/My-UserChrome](https://github.com/leohu1/My-UserChrome): My UserChrome Css and Script
 * [iam-py-test/my_filters_001](https://github.com/iam-py-test/my_filters_001): My filter lists - feel free to add these lists to uBlock Origin
+* [programming086/my_site](https://github.com/programming086/my_site): Files for site
 * [mhss1/MyBrain](https://github.com/mhss1/MyBrain): All-in-one productivity app and AI assistant with Tasks, Notes, Calendar, Diary and Bookmarks.
 * [hisamafahri/mypocket](https://github.com/hisamafahri/mypocket): GetPocket but better!
 * [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail): A free and open-source email signature generator for Gmail, Outlook, Apple Mail, etc.
@@ -1933,6 +1954,7 @@ creating your own Awesome List by GitHub stars!
 * [openai/openai-cookbook](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
 * [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator): OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 * [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher): Experience macOS just like before
+* [acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg): OpenCore bootloader
 * [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop): An open Apple AirDrop implementation written in Python
 * [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu): 🕹 Retro video game emulation for macOS
 * [hjerpbakk/OpenFolderInVSCode](https://github.com/hjerpbakk/OpenFolderInVSCode): With this macOS service, you can quickly open any given folder as a project in Visual Studio Code from the Finders context menu.
@@ -2022,6 +2044,7 @@ creating your own Awesome List by GitHub stars!
 * [bltavares/pickpocket](https://github.com/bltavares/pickpocket): Pocket CLI management tools
 * [patrick-petrovic/pickpocket](https://github.com/patrick-petrovic/pickpocket): Pickpocket imports Pocket links to Safari reading list. 
 * [RooneyMcNibNug/pihole-stuff](https://github.com/RooneyMcNibNug/pihole-stuff): blocklists, scripts, etc.
+* [crimera/piko](https://github.com/crimera/piko): revanced-patches for twitter
 * [sungshon/PimpMyStremio](https://github.com/sungshon/PimpMyStremio): Local add-on manager for Stremio
 * [jbhoot/pin-unpin-tab](https://github.com/jbhoot/pin-unpin-tab): Firefox add-on to pin or unpin current tab in more efficient ways.
 * [pinterest/PINCache](https://github.com/pinterest/PINCache): Fast, non-deadlocking parallel object cache for iOS, tvOS and OS X
@@ -2117,6 +2140,7 @@ creating your own Awesome List by GitHub stars!
 * [andrewprock/pokerstove](https://github.com/andrewprock/pokerstove): poker evaluation and enumeration software
 * [pilotmoon/PopClip-Extensions](https://github.com/pilotmoon/PopClip-Extensions): Source code for extensions in the official PopClip Extensions directory.
 * [martipops/popcorn-raycast](https://github.com/martipops/popcorn-raycast): A Raycast extension that uses the Stremio API to search for movies and TV shows and stream them to local media players using Stremio addons. 
+* [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime): Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
 * [iSapozhnik/Popover](https://github.com/iSapozhnik/Popover): Custom macOS Popover 💬
 * [eight04/popup-tab](https://github.com/eight04/popup-tab): A Firefox addon, easily convert a tab into a popup and vice versa.
 * [Porco-Rosso/PorcoSpoon](https://github.com/Porco-Rosso/PorcoSpoon): My Versatile Hammerspoon Config
@@ -2135,6 +2159,7 @@ creating your own Awesome List by GitHub stars!
 * [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k): Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
 * [ryanoasis/powerline-extra-symbols](https://github.com/ryanoasis/powerline-extra-symbols): :arrow_forward: Extra glyphs for your powerline separators
 * [DanaMW/PowerShell-TuneUp](https://github.com/DanaMW/PowerShell-TuneUp): PowerShell scripts and snips for the learning curve.
+* [krlvm/PowerTunnel](https://github.com/krlvm/PowerTunnel): Powerful and extensible proxy server with anti-censorship functionality
 * [parkermuir/preflop-poker](https://github.com/parkermuir/preflop-poker): Python scripts to navigate Texas Hold 'Em and Pot Limit Omaha preflop decision trees ♠️♣️
 * [MozillaSecurity/prefpicker](https://github.com/MozillaSecurity/prefpicker): Manage & generate prefs.js files
 * [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode): Visual Studio Code extension for Prettier
@@ -2144,7 +2169,9 @@ creating your own Awesome List by GitHub stars!
 * [praveenravi77/prime-video-adblock](https://github.com/praveenravi77/prime-video-adblock): A simple extension to block amazon prime video ads in shows that are "Free but have ads"
 * [jhonatasrm/print-preview](https://github.com/jhonatasrm/print-preview): This add-on works by showing a preview before printing. That can be done by clicking the button on the toolbar or shortcut keys.
 * [mechagomizilla/Prism-FirefoxPhotonRecolored](https://github.com/mechagomizilla/Prism-FirefoxPhotonRecolored): Prism - Firefox Photon Recolored
+* [jkennethcarino/privacy-revanced-patches](https://github.com/jkennethcarino/privacy-revanced-patches): Privacy Patches for ReVanced to disable ads, trackers and analytics, remove ads everywhere in the Reddit app, always open Gboard in incognito mode, and much more!
 * [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings): Guide to privacy settings for most major software and services.
+* [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy): Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 * [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt): Interact with your documents using the power of GPT, 100% privately, no data leaks
 * [seemoo-lab/privatedrop](https://github.com/seemoo-lab/privatedrop): Practical Privacy-Preserving Authentication for Apple AirDrop
 * [xmansyx/Pro-Fox](https://github.com/xmansyx/Pro-Fox): A custome CSS Theme for firefox
@@ -2399,6 +2426,7 @@ creating your own Awesome List by GitHub stars!
 * [larsow/SecurityCamera](https://github.com/larsow/SecurityCamera): Android Security Camera App
 * [rak3n/SecuritySttream](https://github.com/rak3n/SecuritySttream): an Alfred Camera like solution for motion detection and streaming based on react-native
 * [seekr-osint/seekr](https://github.com/seekr-osint/seekr): A multi-purpose OSINT toolkit with a neat web-interface.
+* [sefinek/Sefinek-Blocklist-Collection](https://github.com/sefinek/Sefinek-Blocklist-Collection): 🌍 A repository of blocklists for various DNS servers, featuring over 100 links and more than 6 million domains. Additionally, you can use our personalized Blocklist Generator to customize content filtering according to your individual needs, giving you full control over what should be blocked on your network.
 * [Pitmairen/selection-search](https://github.com/Pitmairen/selection-search): Search extension for the chrome web browser
 * [emvaized/selecton-extension](https://github.com/emvaized/selecton-extension): SelectON browser extension provides popup with actions on text selection in Chrome and Firefox
 * [bitwarden/self-host](https://github.com/bitwarden/self-host): Bitwarden's self-hosted release repository
@@ -2566,6 +2594,7 @@ creating your own Awesome List by GitHub stars!
 * [Greenwolf/social_mapper](https://github.com/Greenwolf/social_mapper): A Social Media Enumeration & Correlation Tool by Jacob Wilkin(Greenwolf)
 * [0xRamInf0sec/SocialRecon](https://github.com/0xRamInf0sec/SocialRecon): This is an Open source intelligence tool and used to gather information about social media and it is also used to find whether the user name found in any of the website.It is used to find GPS location of an image and it also checks whether the email is found or not.
 * [makiisthenes/socialScanner](https://github.com/makiisthenes/socialScanner): Will Search Various Platforms to Confirm An Email Exists.
+* [chris1111/Softwareupdate-full-installer](https://github.com/chris1111/Softwareupdate-full-installer): Command Line script to download Install macOS
 * [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr): Smart PVR for newsgroup and bittorrent users.
 * [semvis123/Sonitus](https://github.com/semvis123/Sonitus): Noise-control like native, but for non-Apple devices
 * [SortableJS/Sortable](https://github.com/SortableJS/Sortable): Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
@@ -2584,6 +2613,7 @@ creating your own Awesome List by GitHub stars!
 * [onaralili/SplitUp](https://github.com/onaralili/SplitUp): ✨ SplitUp! is a browser extension allows a user to split tabs into a different window, save session, export tabs, supports multiple screens, dark mode etc. ✨
 * [yt-dlp/SponSkrub](https://github.com/yt-dlp/SponSkrub): Strip advertisements from downloaded YouTube videos
 * [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock): Skip YouTube video sponsors (browser extension)
+* [feross/SpoofMAC](https://github.com/feross/SpoofMAC): :briefcase: Change your MAC address for debugging
 * [Hammerspoon/Spoons](https://github.com/Hammerspoon/Spoons): The official repository of Spoon plugins
 * [yssefunc/sport_analytics](https://github.com/yssefunc/sport_analytics): Sports betting analytics 
 * [georgedouzas/sports-betting](https://github.com/georgedouzas/sports-betting): Collection of sports betting AI tools.
@@ -2703,6 +2733,7 @@ creating your own Awesome List by GitHub stars!
 * [team-crew/team-crew.github.io](https://github.com/team-crew/team-crew.github.io): None
 * [edo0/Technetium](https://github.com/edo0/Technetium): A focused approach to taming the new Firefox's Proton design
 * [64characters/Telephone](https://github.com/64characters/Telephone): SIP softphone for Mac
+* [SilentVoid13/Templater](https://github.com/SilentVoid13/Templater): A template plugin for obsidian
 * [stoically/temporary-containers](https://github.com/stoically/temporary-containers): Firefox Add-on that lets you open automatically managed disposable containers
 * [mgunyho/tere](https://github.com/mgunyho/tere): Terminal file explorer
 * [0nn0/terminal-mac-cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet): List of my most used commands and shortcuts in the terminal for Mac
@@ -2809,6 +2840,7 @@ creating your own Awesome List by GitHub stars!
 * [piroor/treestyletab](https://github.com/piroor/treestyletab): Tree Style Tab, Show tabs like a tree.
 * [Xinkai/TreeStyleTabCompanion.uc.js](https://github.com/Xinkai/TreeStyleTabCompanion.uc.js): A Firefox userChrome.js for hiding the native tab bar when a sidebar tab manager is active
 * [amebalabs/TRex](https://github.com/amebalabs/TRex): Copy any text on your screen, stop retyping.
+* [TrialAppleApp/trial-macOS-app](https://github.com/TrialAppleApp/trial-macOS-app): Long-term trials of macOS apps
 * [trockerapp/trocker](https://github.com/trockerapp/trocker): This chrome/Firefox extension is an email Tracker Blocker, hence the name: Trocker!
 * [opa334/TrollStore](https://github.com/opa334/TrollStore): Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 * [thehappydinoa/TruePeopleSearch](https://github.com/thehappydinoa/TruePeopleSearch): Gets info from truepeoplesearch.com and adds it to Maltego
@@ -2903,6 +2935,7 @@ creating your own Awesome List by GitHub stars!
 * [Yuhanawa/UserScript](https://github.com/Yuhanawa/UserScript): CSDN 极简\沉浸式阅读\免登录复制 | 博客园美化 | 哔哩哔哩美化 | GreasyFork脚本页面👇
 * [cyfung1031/userscript-supports](https://github.com/cyfung1031/userscript-supports): This is for the userscripts created on GreasyFork.org. 
 * [Trinovantes/userscript-youtube-playlist-organizer](https://github.com/Trinovantes/userscript-youtube-playlist-organizer): Drag and drop interface to organize playlists on YouTube
+* [FiorenMas/Userscripts](https://github.com/FiorenMas/Userscripts): Automatic compiled Userscript make it run faster
 * [Infocatcher/UserScripts](https://github.com/Infocatcher/UserScripts): UserScripts for Firefox with Greasemonkey extension and (may be) for other browsers with user.js support
 * [danydodson/userscripts](https://github.com/danydodson/userscripts):  🪚 Collection of UserScripts.
 * [darkred/Userscripts](https://github.com/darkred/Userscripts): My userscripts
