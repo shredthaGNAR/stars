@@ -81,6 +81,7 @@ creating your own Awesome List by GitHub stars!
 * [fastaddons/AI-Anywhere](https://github.com/fastaddons/AI-Anywhere): None
 * [dakshpareek/ai-bookmark-organizer](https://github.com/dakshpareek/ai-bookmark-organizer): Organize your bookmarks effortlessly with AI-powered categorization.
 * [vanrohan/ai-bookmark-organizer](https://github.com/vanrohan/ai-bookmark-organizer): None
+* [finxter/AI-Engineering-Learning-Resources](https://github.com/finxter/AI-Engineering-Learning-Resources): None
 * [Tolga1452/ai-prompts](https://github.com/Tolga1452/ai-prompts): A collection of original system prompts and tool data used for AI chatbots. Explore how companies such as ChatGPT prompt their AIs!
 * [cpbotha/ai-screenshot-namer](https://github.com/cpbotha/ai-screenshot-namer): Rename your screenshots with ollama LLaVA, GPT-4o and macOS OCR
 * [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions): 🤖 AI browser extensions & userscripts to augment your web experience
@@ -88,7 +89,7 @@ creating your own Awesome List by GitHub stars!
 * [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists): A collection of unified blocklists designed to provide complete filtering capabilities for different online threats. These blocklists are curated from multiple sources, offering a robust solution for blocking ads, malware, trackers, and other unwanted content.
 * [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams): One addon to rule them all. AIOStreams consolidates multiple Stremio addons and debrid services into a single, highly customisable super-addon. 
 * [NeloF4/AIOTools](https://github.com/NeloF4/AIOTools): All In One Tools Hacking 
-* [AIPexStudio/AIPex](https://github.com/AIPexStudio/AIPex): AIPex: agentic assistant in your browser, automate your browser using natural language. Comet Alternative
+* [AIPexStudio/AIPex](https://github.com/AIPexStudio/AIPex): AIPex: agentic assistant in your browser, automate your browser using natural language. Comet Alternative、Chatgpt Atlas Alternative
 * [air-controller/air-controller-desktop](https://github.com/air-controller/air-controller-desktop): A new handy and powerful Android phone assistant， powered by Flutter.
 * [canalnoises/AirDrop-Shortcut](https://github.com/canalnoises/AirDrop-Shortcut): A script to select AirDrop from Finder's Share menu. Assign to a keyboard shortcut for quick AirDropping.
 * [Airmail/AirmailPlugIn-Framework](https://github.com/Airmail/AirmailPlugIn-Framework): None
@@ -257,6 +258,8 @@ creating your own Awesome List by GitHub stars!
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of interesting topics
 * [sdras/awesome-actions](https://github.com/sdras/awesome-actions): A curated list of awesome actions to use on GitHub
 * [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents): A list of AI autonomous agents
+* [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools): A curated list of Artificial Intelligence Top Tools
+* [tankvn/awesome-ai-tools](https://github.com/tankvn/awesome-ai-tools): A curated list of 7766 awesome AI tools
 * [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search): List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
 * [alfred-workflows/awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows): A curated list of awesome alfred workflows
 * [oxnr/awesome-analytics](https://github.com/oxnr/awesome-analytics): A curated list of analytics frameworks, software and other tools.
@@ -563,7 +566,7 @@ creating your own Awesome List by GitHub stars!
 * [tomas-hartman/clean-the-mess](https://github.com/tomas-hartman/clean-the-mess): WebExtension to make your tabs clean
 * [jpmhouston/Cleepp](https://github.com/jpmhouston/Cleepp): Batch Clipboard is a Mac app that let's you copy then paste multiple clipboard items at a time, like magic! This is the repo for v1.0.x, titled after the app's codename. The repo for v2.0 and forward is https://github.com/jpmhouston/Batch-Clipboard
 * [cli/cli](https://github.com/cli/cli): GitHub’s official command line tool
-* [spicetify/cli](https://github.com/spicetify/cli): Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
+* [spicetify/cli](https://github.com/spicetify/cli): Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
 * [PKxk8J/click-tab-move](https://github.com/PKxk8J/click-tab-move): タブ右クリックからタブを別のウインドウに送る Firefox アドオン 
 * [DevNurAlam/ClickableEmailSignatureDesign-2](https://github.com/DevNurAlam/ClickableEmailSignatureDesign-2): None
 * [pietervanheijningen/clickbait-remover-for-youtube](https://github.com/pietervanheijningen/clickbait-remover-for-youtube): Replaces thumbnails and modifies titles of videos on youtube.com
@@ -756,6 +759,7 @@ creating your own Awesome List by GitHub stars!
 * [robilic/DockHand](https://github.com/robilic/DockHand): Window preview feature similar to 'Aero Peek' for the Mac OS dock
 * [DeromirNeves/DockSeparator](https://github.com/DeromirNeves/DockSeparator): macOS utility to add multiple separators to Dock
 * [doctorfree/DoctorFreeScripts](https://github.com/doctorfree/DoctorFreeScripts): Utility Bash shell scripts I've written - typically these will run on Unix, Linux, OS X, and Cygwin
+* [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list): List of Github repositories and articles with list of dorks for different search engines
 * [kstenschke/doShell](https://github.com/kstenschke/doShell): Headful automation on Linux and Mac OS
 * [zzamboni/dot-hammerspoon](https://github.com/zzamboni/dot-hammerspoon): My personal Hammerspoon configuration - mirrored from GitLab
 * [anishathalye/dotbot](https://github.com/anishathalye/dotbot): A tool that bootstraps your dotfiles ⚡️
@@ -820,6 +824,7 @@ creating your own Awesome List by GitHub stars!
 * [a-bentofreire/editortoix](https://github.com/a-bentofreire/editortoix): Text utilities for multiple code editors 
 * [codewizard13/ehw-app-scrape-onetab-links](https://github.com/codewizard13/ehw-app-scrape-onetab-links): Scrape OneTab links and produce HTML that can be saved for backup
 * [G3root/Eisen-Matrix](https://github.com/G3root/Eisen-Matrix): 🎯 Eisen Matrix is a prioritization app that uses Eisenhower matrix technique as workflow to prioritize a list of tasks & built with React Native for learning purposes.
+* [mutluozkurt/eksiGPT](https://github.com/mutluozkurt/eksiGPT): Integrating ChatGPT into your browser deeply, everything you need is here
 * [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder): A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 * [vladimiry/ElectronMail](https://github.com/vladimiry/ElectronMail): Unofficial ProtonMail Desktop App
 * [ayushhroyy/elegantfox](https://github.com/ayushhroyy/elegantfox): An "elegent" theme for Firefox 
@@ -1135,6 +1140,7 @@ creating your own Awesome List by GitHub stars!
 * [google-gemini/gemma-cookbook](https://github.com/google-gemini/gemma-cookbook): A collection of guides and examples for the Gemma open models from Google.
 * [CJHwong/gems.sh](https://github.com/CJHwong/gems.sh): A Gemini Gem Manager in your MacBook powered by Gemma
 * [David-Kunz/gen.nvim](https://github.com/David-Kunz/gen.nvim): Neovim plugin to generate text using LLMs with customizable prompts
+* [google/generative-ai-docs](https://github.com/google/generative-ai-docs): Documentation for Google's Gen AI site - including the Gemini API and Gemma
 * [webextension-toolbox/generator-web-extension](https://github.com/webextension-toolbox/generator-web-extension): Advanced WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
 * [alfaaarex/GentleFox](https://github.com/alfaaarex/GentleFox): A Firefox theme, which features gentle curves, transparency and a minimal interface.
 * [vincens2005/GentleFox](https://github.com/vincens2005/GentleFox): A Firefox theme, which features gentle curves, transparency and a minimal interface.
@@ -1536,6 +1542,7 @@ creating your own Awesome List by GitHub stars!
 * [spotlightishere/launchcontrol](https://github.com/spotlightishere/launchcontrol): A GUI for launchd, similar to launchctl. Or... something.
 * [AbinavJ-FamilyZone/launchd-package-creator](https://github.com/AbinavJ-FamilyZone/launchd-package-creator): A utility that allows you to easily create a .pkg containing a LaunchDaemon or LaunchAgent, and a target script of your choosing.
 * [ryangball/launchd-package-creator](https://github.com/ryangball/launchd-package-creator): A utility that allows you to easily create a .pkg containing a LaunchDaemon or LaunchAgent, and a target script of your choosing.
+* [nick-friedrich/launchie-launchpad-replacement-mac-os](https://github.com/nick-friedrich/launchie-launchpad-replacement-mac-os): The Launchpad Replacement macOS 26 Deserves
 * [Jeidoban/Launchpad-Customizer](https://github.com/Jeidoban/Launchpad-Customizer): A small macOS app that lets you customize the number of rows and columns in launchpad
 * [Molay/LaunchPadder](https://github.com/Molay/LaunchPadder): LaunchPadder is a free macOS LaunchPad tool that organizes and sorts apps and folders on LaunchPad according to certain rules.
 * [ray-lothian/Layout-Resizer](https://github.com/ray-lothian/Layout-Resizer): A simple powerful extension to adjust layout size of the current browser window
@@ -1984,6 +1991,7 @@ creating your own Awesome List by GitHub stars!
 * [opengaming/osgameclones](https://github.com/opengaming/osgameclones): Open Source Clones of Popular Games
 * [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet): OSINT cheat sheet, list OSINT tools, wiki, dataset, article, book , red team OSINT for hackers and OSINT tips and OSINT branch. This repository will grow every time will research, there is a research, science and technology, tutorial. Please use it wisely.
 * [soxoj/osint-namecheckers-list](https://github.com/soxoj/osint-namecheckers-list): A list of tools to search accounts by username
+* [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection): A collection of several hundred online tools for OSINT
 * [rly0nheart/osinteye](https://github.com/rly0nheart/osinteye): Username enumeration & reconnaisance suite
 * [awareseven/OSINTsources](https://github.com/awareseven/OSINTsources): This is a repo containing several osint sources
 * [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo): Turn GitHub into a bookmark manager
@@ -1999,6 +2007,7 @@ creating your own Awesome List by GitHub stars!
 * [ggozad/oterm](https://github.com/ggozad/oterm): the terminal client for Ollama
 * [CptFoobar/Owl](https://github.com/CptFoobar/Owl): A Mozilla Firefox add-on to make online reading comfortable.
 * [seemoo-lab/owl](https://github.com/seemoo-lab/owl): An open Apple Wireless Direct Link (AWDL) implementation written in C
+* [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist): Use your locally running AI models to assist you in your web browsing
 * [AaronSoria/PAnalizer](https://github.com/AaronSoria/PAnalizer): PAnalizer is a forensic tool, you can search pornographic images in a specific directory, this is util in Pedestrian Detection. Also you can search a specific person in image set, is necesesary give to the aplication a few pictures of the person of interest
 * [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai): Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 * [projectdelphai/panorama-tab-groups](https://github.com/projectdelphai/panorama-tab-groups):  An add-on for Firefox that implements the old Tab Groups/Panorama functionality
@@ -2150,8 +2159,10 @@ creating your own Awesome List by GitHub stars!
 * [iSapozhnik/Popover](https://github.com/iSapozhnik/Popover): Custom macOS Popover 💬
 * [eight04/popup-tab](https://github.com/eight04/popup-tab): A Firefox addon, easily convert a tab into a popup and vice versa.
 * [Porco-Rosso/PorcoSpoon](https://github.com/Porco-Rosso/PorcoSpoon): My Versatile Hammerspoon Config
+* [Osnaider19/Portafolio](https://github.com/Osnaider19/Portafolio): Mi Portafolio
 * [codewithsadee/portfolio](https://github.com/codewithsadee/portfolio): Fully responsive personal portfolio website
 * [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio): My self coded personal website build with React.js
+* [ThemeMarket/portfolio-demo-1](https://github.com/ThemeMarket/portfolio-demo-1): Plantilla de portafolio de desarrollador web
 * [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas): A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜 
 * [SofiDevO/portfolio-sofidev-garrux](https://github.com/SofiDevO/portfolio-sofidev-garrux): Primer blog con astro
 * [AnuV6/portfolio-v2](https://github.com/AnuV6/portfolio-v2): This repository showcases my web portfolio, built using a modern tech stack: React for a smooth user interface, Next.js for enhanced performance and SEO, and Firebase for effortless deployment. Explore my skills and projects in a user-friendly and responsive format.
@@ -2214,6 +2225,7 @@ creating your own Awesome List by GitHub stars!
 * [glowinthedark/pylaunchd](https://github.com/glowinthedark/pylaunchd): MacOS launchd/launchctl GUI
 * [e-alizadeh/PyPocket](https://github.com/e-alizadeh/PyPocket): A Python Wrapper (Unofficial) for GetPocket (https://getpocket.com)
 * [newville/pyshortcuts](https://github.com/newville/pyshortcuts): create desktop shortcuts to python scripts on Windows, Mac, or Linux
+* [googleapis/python-genai](https://github.com/googleapis/python-genai): Google Gen AI Python SDK provides an interface for developers to integrate Google's generative models into their Python applications.
 * [google/python-laurel](https://github.com/google/python-laurel): Python control of C by GE Bluetooth lightbulbs
 * [evanjd/python-logi-circle](https://github.com/evanjd/python-logi-circle): Python 3.7+ API for Logi Circle cameras
 * [Frewacom/pywalfox](https://github.com/Frewacom/pywalfox): Dynamic theming of Firefox (and Thunderbird) using your Pywal colors 
@@ -2382,6 +2394,8 @@ creating your own Awesome List by GitHub stars!
 * [sass/sass](https://github.com/sass/sass): Sass makes CSS fun!
 * [Erisa/save-all-tab-urls](https://github.com/Erisa/save-all-tab-urls): Save all the open tabs as a list of URLs to go back to!
 * [allen505/save-for-later](https://github.com/allen505/save-for-later): A web extension for Chrome/Firefox which saves the tabs in current window for later use.
+* [Gitoffthelawn/save-in](https://github.com/Gitoffthelawn/save-in): WebExtension for saving media, links, or selections into user-defined directories
+* [gyng/save-in](https://github.com/gyng/save-in): WebExtension for saving media, links, or selections into user-defined directories
 * [salvoventura/save-my-tabs](https://github.com/salvoventura/save-my-tabs): Open source browser extension/addon to save all open tabs to a folder in the Bookmarks Toolbar
 * [theopenroad/save-open-tabs-extension](https://github.com/theopenroad/save-open-tabs-extension): Firefox extension to save all open tabs within the extension
 * [piroor/save-selected-tabs-to-files](https://github.com/piroor/save-selected-tabs-to-files): Provides ability to save selected tabs to local files for Firefox 63 and later.
@@ -2755,6 +2769,7 @@ creating your own Awesome List by GitHub stars!
 * [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui): The definitive Web UI for local AI, with powerful features and easy setup.
 * [piroor/textlink](https://github.com/piroor/textlink): Text Link, Allows URI texts written in webpages to be loaded by double clicks.
 * [beowulf518/textnow-automation](https://github.com/beowulf518/textnow-automation): creating textnow account with temp email
+* [passthesh3ll/The-Pika-s-OSINT-ToolBox](https://github.com/passthesh3ll/The-Pika-s-OSINT-ToolBox): A curated list of free OSINT tools ⚡️
 * [balvin-perrie/the-pirate-bay-torrent-search](https://github.com/balvin-perrie/the-pirate-bay-torrent-search): A browser extension to search for magnet links from The Pirate Bay directly from a popup toolbar
 * [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary): A collection of prompts, system prompts and LLM instructions
 * [MorganJay/TheBox](https://github.com/MorganJay/TheBox): A responsive, asymmetrical design with HTML & CSS - Firefox!
@@ -3145,6 +3160,7 @@ creating your own Awesome List by GitHub stars!
 * [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp): A feature-rich command-line audio/video downloader
 * [ohmybahgosh/YT-DLP-SCRIPTS](https://github.com/ohmybahgosh/YT-DLP-SCRIPTS): ...Just a place for me to share my various YT-DLP & related bash scripts.
 * [shailshouryya/yt-videos-list](https://github.com/shailshouryya/yt-videos-list): Create and **automatically** update a list of all videos on a YouTube channel (in txt/csv/md form) via YouTube bot with end-to-end web scraping - no API tokens required. Multi-threaded support for YouTube videos list  updates.
+* [tyilo/yt_dlp_firefox](https://github.com/tyilo/yt_dlp_firefox): None
 * [ytb2mp3/ytb2mp3](https://github.com/ytb2mp3/ytb2mp3): Convert YouTube videos to mp3 files via the command-line
 * [pystardust/ytfzf](https://github.com/pystardust/ytfzf): A posix script to find and watch youtube videos from the terminal. (Without API)
 * [Margiris/ytmdesktop](https://github.com/Margiris/ytmdesktop): NO LONGER UPDATED (see readme). A fork of https://github.com/ytmdesktop/ytmdesktop with added adblocker from https://github.com/cliqz-oss/adblocker.
