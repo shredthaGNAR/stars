@@ -110,6 +110,9 @@
     "AbinavJ-FamilyZone/launchd-package-creator": [
         "Other"
     ],
+    "AdAvoid-Ltd/AdBlocker-Ultimate-for-Browsers": [
+        "Other"
+    ],
     "AdAway/AdAway": [
         "Other"
     ],
@@ -2420,9 +2423,6 @@
     "adamyi/notes_to_keep": [
         "Other"
     ],
-    "adblockultimate/AdBlocker-Ultimate-for-Browsers": [
-        "Other"
-    ],
     "aderyabin/ServPane": [
         "Other"
     ],
@@ -4292,6 +4292,9 @@
     "facebookresearch/faiss": [
         "Other"
     ],
+    "fajarjulyana/circular-nav-html-css-only": [
+        "Other"
+    ],
     "falcontheme-com/ks-bootshop": [
         "Other"
     ],
@@ -5660,6 +5663,9 @@
     "kkanzelmeyer/alfred": [
         "Other"
     ],
+    "kkebo/DNSecure": [
+        "Other"
+    ],
     "kkkgo/KMS_VL_ALL": [
         "Other"
     ],
@@ -6546,6 +6552,12 @@
         "Other"
     ],
     "muhummadPatel/vLoader": [
+        "Other"
+    ],
+    "mullvad/dns-blocklists": [
+        "Other"
+    ],
+    "mullvad/encrypted-dns-profiles": [
         "Other"
     ],
     "murrty/youtube-dl-gui": [
@@ -9152,6 +9164,9 @@
     "wilfredwee/photon-australis": [
         "Other"
     ],
+    "will-stone/browserosaurus": [
+        "Other"
+    ],
     "willbchang/chrome-read-later": [
         "Other"
     ],
@@ -9447,6 +9462,9 @@
         "Other"
     ],
     "zenangst/Gray": [
+        "Other"
+    ],
+    "zenangst/KeyboardCowboy": [
         "Other"
     ],
     "zeon-studio/astroplate": [
