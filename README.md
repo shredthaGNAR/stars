@@ -1744,7 +1744,7 @@ creating your own Awesome List by GitHub stars!
 * [WorldBrain/Memex](https://github.com/WorldBrain/Memex): Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 * [kormyen/memex](https://github.com/kormyen/memex): Simple bookmarks and notes
 * [memex-life/memex](https://github.com/memex-life/memex): Your second brain for the web browsing. An AI powered Chrome extension that constructs personal knowledge base for you. 
-* [usememos/memos](https://github.com/usememos/memos): A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
+* [usememos/memos](https://github.com/usememos/memos): An open-source, self-hosted alternative to cloud note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture and organize your ideas.
 * [xudaolong/memos-desktop](https://github.com/xudaolong/memos-desktop): Memos client built on electron cross-end framework
 * [austintraver/merge](https://github.com/austintraver/merge): Addon to replicate the Safari 'Merge All Windows' menu command
 * [wsmadsen/Merge-NHL-Odds](https://github.com/wsmadsen/Merge-NHL-Odds): Import NHL data from NHL website and merge odds
@@ -2129,6 +2129,7 @@ creating your own Awesome List by GitHub stars!
 * [mkirchner/pockyll](https://github.com/mkirchner/pockyll): Create Jekyll linkposts from Pocket bookmarks
 * [achembarpu/pockyt](https://github.com/achembarpu/pockyt): Automate & manage your Pocket.com collection.
 * [jamespo/pockyt](https://github.com/jamespo/pockyt): Automate & manage your Pocket.com collection.
+* [AlfredJKwack/pockyt-analysis](https://github.com/AlfredJKwack/pockyt-analysis): Provides visual analysis of JSON data out of Pockyt
 * [containers/podman](https://github.com/containers/podman): Podman: A tool for managing OCI containers and pods.
 * [mxpv/podsync](https://github.com/mxpv/podsync): Turn YouTube or Vimeo channels, users, or playlists into podcast feeds
 * [fqx/podsync-with-yt-dlp](https://github.com/fqx/podsync-with-yt-dlp): Turn YouTube or Vimeo channels, users, or playlists into podcast feeds
