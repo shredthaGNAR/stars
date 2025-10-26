@@ -1406,7 +1406,7 @@ creating your own Awesome List by GitHub stars!
 * [igdownloader/InstagramDownloader](https://github.com/igdownloader/InstagramDownloader): Firefox and Chrome Extention which creates an download button for instagram images and videos and videos
 * [BetterDiscord/Installer](https://github.com/BetterDiscord/Installer): A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.
 * [instantusername/instant-username-search](https://github.com/instantusername/instant-username-search): ⚡ Instantly search for the availability of your username on more than 100 social media sites.
-* [kevinamiri/Instructgpt-prompts](https://github.com/kevinamiri/Instructgpt-prompts): A collection of ChatGPT and GPT-3.5 instruction-based prompts for generating and classifying text.
+* [kevinamiri/Instructgpt-prompts](https://github.com/kevinamiri/Instructgpt-prompts): Instruction-based prompts for generating and classifying text.
 * [rsms/inter](https://github.com/rsms/inter): The Inter font family
 * [syedibrahim/IntruderDetectionCamera](https://github.com/syedibrahim/IntruderDetectionCamera): A Raspberry Pi based security camera to detect unknown person and raise alarm!
 * [iv-org/invidious](https://github.com/iv-org/invidious): Invidious is an alternative front-end to YouTube
@@ -1677,7 +1677,7 @@ creating your own Awesome List by GitHub stars!
 * [Tong-Liu-128/macOS_Gemini_overlay](https://github.com/Tong-Liu-128/macOS_Gemini_overlay): A macOS overlay tool for google Gemini
 * [Tnings/MacosVibrant](https://github.com/Tnings/MacosVibrant): None
 * [MacPass/MacPass](https://github.com/MacPass/MacPass): A native macOS KeePass client 
-* [lodestone/macpaste](https://github.com/lodestone/macpaste): Global middle-mouse-click copy/paste for Mac OSX (C).
+* [lodestone/macpaste](https://github.com/lodestone/macpaste): Global middle-mouse-click copy/paste for macOS (Like Unix X11 etc.) 
 * [w0lfschild/macplugins](https://github.com/w0lfschild/macplugins): :green_book: Community repo for MacForge
 * [macports/macports-base](https://github.com/macports/macports-base): The MacPorts command-line client
 * [sevagas/macro_pack](https://github.com/sevagas/macro_pack): macro_pack is a tool by @EmericNasi used to automatize obfuscation and generation of Office documents, VB scripts, shortcuts, and other formats for pentest, demo, and social engineering assessments. The goal of macro_pack is to simplify exploitation, antimalware bypass, and automatize the process from malicious macro and script generation to final document generation. It also provides a lot of helpful features useful for redteam or security research. 
