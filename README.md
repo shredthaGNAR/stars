@@ -616,7 +616,6 @@ creating your own Awesome List by GitHub stars!
 * [davidmhammond/contextlets](https://github.com/davidmhammond/contextlets): A WebExtension for adding custom context menu items that execute JavaScript.
 * [gingerbeardman/contextmenu-actions](https://github.com/gingerbeardman/contextmenu-actions): My repo of ContextMenu Actions (can also be used with Automator)
 * [benbasson/contextsearch](https://github.com/benbasson/contextsearch): Firefox Extension - Context Search transforms the "Web Search for..." context item into a menu containing your Firefox Search Providers. This is very convenient, since it allows you to decide which search engine you use. Firefox's default is to use the currently selected search provider only. 
-* [odebroqueville/contextSearch](https://github.com/odebroqueville/contextSearch): Chrome and Firefox web extension to search selected text in a web page using your favorite search engines from a context menu or from a grid of icons.
 * [ssborbis/ContextSearch-Native-App](https://github.com/ssborbis/ContextSearch-Native-App): Native App for use with Context Search
 * [ssborbis/ContextSearch-web-ext](https://github.com/ssborbis/ContextSearch-web-ext): Search engine manager for modern browsers
 * [continuedev/continue](https://github.com/continuedev/continue): ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
@@ -1743,7 +1742,7 @@ creating your own Awesome List by GitHub stars!
 * [WorldBrain/Memex](https://github.com/WorldBrain/Memex): Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 * [kormyen/memex](https://github.com/kormyen/memex): Simple bookmarks and notes
 * [memex-life/memex](https://github.com/memex-life/memex): Your second brain for the web browsing. An AI powered Chrome extension that constructs personal knowledge base for you. 
-* [usememos/memos](https://github.com/usememos/memos): An open-source, self-hosted alternative to cloud note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture and organize your ideas.
+* [usememos/memos](https://github.com/usememos/memos): An open-source, self-hosted note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture your ideas.
 * [xudaolong/memos-desktop](https://github.com/xudaolong/memos-desktop): Memos client built on electron cross-end framework
 * [austintraver/merge](https://github.com/austintraver/merge): Addon to replicate the Safari 'Merge All Windows' menu command
 * [wsmadsen/Merge-NHL-Odds](https://github.com/wsmadsen/Merge-NHL-Odds): Import NHL data from NHL website and merge odds
@@ -1830,6 +1829,7 @@ creating your own Awesome List by GitHub stars!
 * [kyleskom/NBA-Machine-Learning-Sports-Betting](https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting): NBA sports betting using machine learning
 * [grishka/NearDrop](https://github.com/grishka/NearDrop): An unofficial Google Nearby Share/Quick Share app for macOS
 * [feilvan/neatly](https://github.com/feilvan/neatly): None
+* [unfolding-io/nebulix](https://github.com/unfolding-io/nebulix): Nebulix, a Fast & Green Theme Based on Astro + Static CMS + Snipcart
 * [neodevpro/neodevhost](https://github.com/neodevpro/neodevhost):  The Powerful Friendly Uptodate AD Blocking Hosts  最新强大而友善的去广告
 * [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch): 🖼️  A command-line system information tool written in bash 3.2+
 * [EFEELE/NeonMint](https://github.com/EFEELE/NeonMint): is a modern, minimalist web template created for developers, designers, and digital creatives. This project aims to offer an elegant and functional visual experience, combining a dark-toned aesthetic with mint green accents to highlight content without distractions.
@@ -2066,7 +2066,7 @@ creating your own Awesome List by GitHub stars!
 * [RooneyMcNibNug/pihole-stuff](https://github.com/RooneyMcNibNug/pihole-stuff): blocklists, scripts, etc.
 * [crimera/piko](https://github.com/crimera/piko): revanced-patches for twitter
 * [sungshon/PimpMyStremio](https://github.com/sungshon/PimpMyStremio): Local add-on manager for Stremio
-* [jbhoot/pin-unpin-tab](https://github.com/jbhoot/pin-unpin-tab): Firefox add-on to pin or unpin current tab in more efficient ways.
+* [bhootd/pin-unpin-tab](https://github.com/bhootd/pin-unpin-tab): Firefox add-on to pin or unpin current tab in more efficient ways.
 * [pinterest/PINCache](https://github.com/pinterest/PINCache): Fast, non-deadlocking parallel object cache for iOS, tvOS and OS X
 * [gocom/pinceau](https://github.com/gocom/pinceau): Personal Firefox userChrome and preference customizations
 * [alextselegidis/plainpad](https://github.com/alextselegidis/plainpad): 📓 Plainpad - Self Hosted Note Taking App
@@ -3057,6 +3057,7 @@ creating your own Awesome List by GitHub stars!
 * [zicotin/web-clipper-templates](https://github.com/zicotin/web-clipper-templates): None
 * [qownnotes/web-companion](https://github.com/qownnotes/web-companion): Browser extension to browse bookmarks and create notes in QOwnNotes
 * [Shopify/web-configs](https://github.com/Shopify/web-configs): Common configurations for building web apps at Shopify
+* [WebdevShefali/Web-Dev-Resources](https://github.com/WebdevShefali/Web-Dev-Resources): A collection of free web development resources, including APIs, hosting platforms, cheat sheets, icons, templates, fonts, color tools, learning platforms, and more. 🚀
 * [jamesqquick/Web-Development-Essentials-Extension-Pack](https://github.com/jamesqquick/Web-Development-Essentials-Extension-Pack): This an extension pack for Visual Studio Code with extensions that are extremely helpful for Web Developers!
 * [mozilla/web-ext](https://github.com/mozilla/web-ext): A command line tool to help build, run, and test web extensions
 * [tim-we/web-ext-inspector](https://github.com/tim-we/web-ext-inspector): Website for inspecting the contents of web extensions
