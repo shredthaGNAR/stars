@@ -1290,7 +1290,7 @@ creating your own Awesome List by GitHub stars!
 * [poker-apprentice/hand-evaluator](https://github.com/poker-apprentice/hand-evaluator): Evaluate the strength of a hand of poker
 * [poker-apprentice/hand-history-analyzer](https://github.com/poker-apprentice/hand-history-analyzer): Extract helpful statistics about a poker player's tendencies from a hand history
 * [poker-apprentice/hand-history-parser](https://github.com/poker-apprentice/hand-history-parser): Parse hand histories from online poker sites
-* [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake): HandBrake's main development repository 
+* [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake): HandBrake's development repository 
 * [jgressmann/harbour-vodman](https://github.com/jgressmann/harbour-vodman): Vodman lets you download videos (VODs) from the internet to your SailfishOS device
 * [claytonjn/hass-circadian_lighting](https://github.com/claytonjn/hass-circadian_lighting): Circadian Lighting custom component for Home Assistant
 * [yangqian/hass-gelight](https://github.com/yangqian/hass-gelight): Home assistant custom component to control C by GE smart light bulb locally via Bluetooth
@@ -1702,6 +1702,7 @@ creating your own Awesome List by GitHub stars!
 * [peci1/mailing-list-filter](https://github.com/peci1/mailing-list-filter): Thunderbird mail filter search term using mailing lists (and not whole addressbooks).
 * [apparition47/MailTrackerBlocker](https://github.com/apparition47/MailTrackerBlocker): Email tracker, read receipt and spy pixel blocker plugin for macOS Mail (10.11-13.x)
 * [Make-md/makemd](https://github.com/Make-md/makemd): None
+* [objective-see/Malware](https://github.com/objective-see/Malware): macOS Malware Collection
 * [mangtronix/MangTouchBar](https://github.com/mangtronix/MangTouchBar): Minimalist Touch Bar setup
 * [neilsardesai/Manila](https://github.com/neilsardesai/Manila): A Finder extension for changing folder colors
 * [AbhishekKalavadiya/maper](https://github.com/AbhishekKalavadiya/maper): A location-based website using React as Frontend and NodeJs, ExpressJS as backend, and MongoDB as Database. On this website, I had use MapBox for the world map and React-Mapbox-gl for configuration. We can select the place where we had visited and added the photo URL, so the entry will be seen on the map and in the visited place area. We can delete or modify the changes in the Entry we had created. It is a responsive website with live location of a point on the map. The Backend is deployed on Heroku and the frontend is deployed on Netlify.
@@ -2224,7 +2225,7 @@ creating your own Awesome List by GitHub stars!
 * [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr): Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
 * [psd-tools/psd-tools](https://github.com/psd-tools/psd-tools): Python package for reading Adobe Photoshop PSD files
 * [psequel/psequel](https://github.com/psequel/psequel): Free PostgreSQL GUI tool for macOS.
-* [ongots/pseudo-fullscreen-firefox](https://github.com/ongots/pseudo-fullscreen-firefox): Hides and improves interface Firefox and YouTube, giving maximum space for content and aiding concentration
+* [ongots/pseudo-fullscreen-firefox](https://github.com/ongots/pseudo-fullscreen-firefox): Hides and improves interface Firefox and YouTube, giving maximum space for content and aiding concentration.
 * [dognotdog/ptpwebcam](https://github.com/dognotdog/ptpwebcam): Mac DSLR webcam plugin for using DSLRs for video conferencing and streaming.
 * [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists): 🚀 A hand-curated list of free, open, and developer-friendly APIs
 * [public-apis/public-apis](https://github.com/public-apis/public-apis): A collective list of free APIs
@@ -3073,7 +3074,7 @@ creating your own Awesome List by GitHub stars!
 * [davidnguyen11/web-extension-boilerplate](https://github.com/davidnguyen11/web-extension-boilerplate): The web extension boilerplate help to set up project quickly using typescript, jest, webpack, githook, prettier and github actions
 * [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter): 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
 * [BCIT-DDC/web-extension-ts-starter](https://github.com/BCIT-DDC/web-extension-ts-starter): 🚀 A web extension starter built with React, Typescript, and Tailwind CSS. Build once, and run on multiple browsers: Google Chrome, Mozilla Firefox, Microsoft Edge, Brave, and Opera.
-* [OshekharO/Web-Indexer](https://github.com/OshekharO/Web-Indexer): A simple website indexer with a list of awesome sites
+* [OshekharO/Web-Indexer](https://github.com/OshekharO/Web-Indexer): Comprehensive directory of websites and applications for manga, light novels, movies, anime, learning resources, and useful apps.
 * [usc-isi-i2/Web-Karma](https://github.com/usc-isi-i2/Web-Karma): Information Integration Tool
 * [MykytaCherniavskyi/web-profile](https://github.com/MykytaCherniavskyi/web-profile): Personal website built with Astro 4.0 and styled using Tailwind CSS
 * [infokiller/web-search-navigator](https://github.com/infokiller/web-search-navigator): Web extension that adds keyboard shortcuts to Google, YouTube, Github, Amazon, and others (Chrome/Firefox/Edge/Safari)
