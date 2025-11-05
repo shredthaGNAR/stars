@@ -1017,7 +1017,7 @@ creating your own Awesome List by GitHub stars!
 * [AlexVallat/firefox-scripts](https://github.com/AlexVallat/firefox-scripts): userChromeJS / autoconfig.js and extensions
 * [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts): Custom tweaks and preferences for Firefox
 * [xiaoxiaoflood/firefox-scripts](https://github.com/xiaoxiaoflood/firefox-scripts): userChromeJS / autoconfig.js and extensions
-* [aminought/firefox-second-sidebar](https://github.com/aminought/firefox-second-sidebar): A Firefox userChrome.js script for adding a second sidebar with web panels like in Vivaldi/Edge/Floorp/Zen but better.
+* [aminought/firefox-second-sidebar](https://github.com/aminought/firefox-second-sidebar): A Firefox userChrome.js script that brings a second sidebar with web panels like in Vivaldi/Edge/Floorp/Zen but better.
 * [onozaty/firefox-shortcutkey2url](https://github.com/onozaty/firefox-shortcutkey2url): ShortcutKey2URL - Firefox Extension
 * [meow-d/firefox-simple-blur](https://github.com/meow-d/firefox-simple-blur): The simplest possible translucent userchrome theme for firefox (tested on linux only)
 * [YousufSSyed/Firefox-Skin](https://github.com/YousufSSyed/Firefox-Skin): A skin for Firefox using custom CSS
@@ -1576,6 +1576,7 @@ creating your own Awesome List by GitHub stars!
 * [wyattharrell/linkbook](https://github.com/wyattharrell/linkbook): Linkbook is a powerful link-saving web app that can store your favorite links, keep you organized, and much more. 
 * [sissbruecker/linkding](https://github.com/sissbruecker/linkding): Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 * [sebw/linkding-archiver](https://github.com/sebw/linkding-archiver): Linkding bookmark manager + SingleFile archiving combined
+* [sissbruecker/linkding-extension](https://github.com/sissbruecker/linkding-extension): Companion extension for linkding
 * [Dacid99/LinkDroid-for-Linkwarden](https://github.com/Dacid99/LinkDroid-for-Linkwarden): A companion android app for the Linkwarden project. It enables you to upload links via the share context menu and to quickly access the webinterface.  This repository is just a mirror, please go to the gitlab repo to contribute code. 
 * [eight04/linkify-plus-plus](https://github.com/eight04/linkify-plus-plus): A userscript/extension which can linkify almost everything. Based on Linkify Plus.
 * [eight04/linkify-plus-plus-core](https://github.com/eight04/linkify-plus-plus-core): A JavaScript library for linkification stuff. Used by linkify-plus-plus.
@@ -1885,6 +1886,7 @@ creating your own Awesome List by GitHub stars!
 * [dawiidio/o-menu](https://github.com/dawiidio/o-menu): Simple circular svg menu 
 * [dustinblackman/oatmeal](https://github.com/dustinblackman/oatmeal): Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
 * [Vinzent03/obsidian-advanced-uri](https://github.com/Vinzent03/obsidian-advanced-uri): Advanced modes for Obsidian URI
+* [theapplegates/obsidian-astro-suite](https://github.com/theapplegates/obsidian-astro-suite): A set of Obsidian vaults to plug into your Astro website to write and publish easily.
 * [roovo/obsidian-card-board](https://github.com/roovo/obsidian-card-board): An Obsidian plugin to make working with tasks a pleasure (hopefully anyway).
 * [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper): Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
 * [Enveloppe/obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe): Enveloppe helps you to publish your notes on a GitHub repository from your Obsidian Vault, for free!
@@ -2467,7 +2469,6 @@ creating your own Awesome List by GitHub stars!
 * [pluja/Selfhosted-Google-Photos-Alternative](https://github.com/pluja/Selfhosted-Google-Photos-Alternative): A complete guide on exiting Google, Amazon or any proprietary service Photos storage with all the features you would want.
 * [thcolin/sensorr](https://github.com/thcolin/sensorr): 🍿📼 Sensorr - Your Friendly Digital Video Recorder
 * [umbrae/Serendipity](https://github.com/umbrae/Serendipity): /r/serendipity is a meta-subreddit meant to broaden the perspective of its subscribers. It takes a popular entry from a random subreddit and posts it every few hours. If you want to increase your exposure to niche subreddits, or just your perspective on things on the web in general, serendipity might help you do that. But it might not. It's a bot, after all.
-* [d-evil0per/serverless-hosting](https://github.com/d-evil0per/serverless-hosting): How to host websites using free cloud storage
 * [LeeluPradhan/Service-accounts-seperator-AutoRclone](https://github.com/LeeluPradhan/Service-accounts-seperator-AutoRclone): To split google service accounts after 10 accounts, to add in google group easily and use autorclone!
 * [aderyabin/ServPane](https://github.com/aderyabin/ServPane): A launchd menu bar app for Mac
 * [oxen-io/session-android](https://github.com/oxen-io/session-android): Session Android - Onion routing based messenger [DEPRECATED SEE README]
