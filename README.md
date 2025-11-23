@@ -993,7 +993,6 @@ creating your own Awesome List by GitHub stars!
 * [Alan-Kuan/Firefox-Mod-Blur](https://github.com/Alan-Kuan/Firefox-Mod-Blur): A Fork with an Installer for "Firefox Mod Blur - Modular"
 * [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur): Firefox CSS Theme - For dark theme lovers / More compact / Modular / Blur
 * [MatthewCash/firefox-mods](https://github.com/MatthewCash/firefox-mods): Firefox CSS and JS Mods
-* [gmardom/firefox-mods](https://github.com/gmardom/firefox-mods): None
 * [christiet/firefox-obsidian-bookmark](https://github.com/christiet/firefox-obsidian-bookmark): Firefox extension that allows users to create a "Bookmark" of their current tab into a specified document in Obsidian.
 * [patrikzudel/firefox-obsidian-bookmark](https://github.com/patrikzudel/firefox-obsidian-bookmark): Firefox extension that allows users to create a "Bookmark" of their current tab into a specified document in Obsidian.
 * [SebastianSimon/firefox-omni-tweaks](https://github.com/SebastianSimon/firefox-omni-tweaks): A script that disables the clickSelectsAll behavior of Firefox, and more.
@@ -2049,7 +2048,7 @@ creating your own Awesome List by GitHub stars!
 * [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis): Persepolis is a download manager written in Python.
 * [ivansaul/personal-portfolio](https://github.com/ivansaul/personal-portfolio): Fully responsive personal  portfolio single-page website, responsive for all devices, built using HTML, CSS, JavaScript and Python.
 * [juyomay21/personal-site](https://github.com/juyomay21/personal-site): My personal website - built with React, React-Router, React-Snap for Static-Export, and GitHub Pages.
-* [mldangelo/personal-site](https://github.com/mldangelo/personal-site): My personal website - built with React, React-Router, React-Snap for Static-Export, and GitHub Pages.
+* [mldangelo/personal-site](https://github.com/mldangelo/personal-site): My personal website - built with Next for Static-Export, and GitHub Pages.
 * [bjacquemet/personal-web](https://github.com/bjacquemet/personal-web): Hugo Template for Freelancer Portfolio and Blog
 * [github/personal-website](https://github.com/github/personal-website): Code that'll help you kickstart a personal website that showcases your work as a software developer.
 * [nimit95/Personal-Website](https://github.com/nimit95/Personal-Website): My Personal Website in React, Material UI, React Spring. Contents can be modified via single JSON.
