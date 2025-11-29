@@ -349,6 +349,7 @@ creating your own Awesome List by GitHub stars!
 * [hachikoharuno/Beautiful-newtab-Firefox](https://github.com/hachikoharuno/Beautiful-newtab-Firefox): Beautiful design for firefox new tab
 * [shredthaGNAR/beautiiful-jekyl](https://github.com/shredthaGNAR/beautiiful-jekyl): ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 * [NicolaeNMV/BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay): One button to close any overlay on any website
+* [UniBreakfast/believable-random-data-generator](https://github.com/UniBreakfast/believable-random-data-generator): Arrays of first and last names, nicknames, cities, countries, animals, sonets, fantasy features, elements, creatures etc. Versatile rnd function for numbers, arrays, objects, dates, string combinations etc. Functions to generate arrays of headers with rows of believable data (dates, score, accounting, game creatures and characteristics) easily transformable into objects. May be used for generating stub JSON for training data manipulation or mockups. Made it for enjoyable table component development.
 * [fr0tt/benotes](https://github.com/fr0tt/benotes): An open source self hosted notes and bookmarks taking web app.
 * [apdev95/bento-portfolio-nuxt](https://github.com/apdev95/bento-portfolio-nuxt): Bento-portfolio is a minimal bento-like (almost) single page portfolio website made with Nuxt
 * [themeselection/best-chrome-extensions](https://github.com/themeselection/best-chrome-extensions): A curated list of Best Awesome Chrome Extensions to boost your productivity in your Browsers
@@ -1611,7 +1612,7 @@ creating your own Awesome List by GitHub stars!
 * [kartikm7/llocal](https://github.com/kartikm7/llocal): Aiming to provide a seamless and privacy driven chatting experience with open-sourced technologies(Ollama), particularly open sourced LLM's(eg. Llama3, Phi-3, Mistral). Focused on ease of use. Available on both Windows and Mac.
 * [vybestack/llxprt-code](https://github.com/vybestack/llxprt-code): An open-source multi-provider (including local) fork of gemini-cli. Use whatever LLM you want to code in your terminal.
 * [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
-* [mudler/LocalAI](https://github.com/mudler/LocalAI): :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
+* [mudler/LocalAI](https://github.com/mudler/LocalAI): :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
 * [nagaraj-real/localaipilot-api](https://github.com/nagaraj-real/localaipilot-api): API container for Local AI Pilot extension
 * [cleidigh/Localfolder-TB](https://github.com/cleidigh/Localfolder-TB): Thunderbird Add-On to add additional local folders to accounts
 * [TCB13/LoFloccus](https://github.com/TCB13/LoFloccus): Sync Floccus' browser bookmarks to a local folder / any cloud.
@@ -1858,6 +1859,7 @@ creating your own Awesome List by GitHub stars!
 * [thewhiteh4t/nexfil](https://github.com/thewhiteh4t/nexfil): OSINT tool for finding profiles by username
 * [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat): ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 * [web-dahuyou/NiceTab](https://github.com/web-dahuyou/NiceTab): 浏览器插件：OneTab、Toby、N-Tab、SessionBuddy、KepTab 等扩展的升级替代品，功能丰富易用 | A nice, convenient, powerful tab manager  serving as an upgraded alternative to OneTab, Toby, SessionBuddy, N-Tab，KepTab...
+* [santiagobaronz/Nickname-Generator](https://github.com/santiagobaronz/Nickname-Generator): The nickname generator is a tool designed to display random names following the parameters given by the user as the gender of the name.
 * [nghtfall/nightfall-vsc](https://github.com/nghtfall/nightfall-vsc): a blue-ish gray with a purple accent color palette for Visual Studio Code.
 * [chvancooten/NimPackt-v1](https://github.com/chvancooten/NimPackt-v1): Nim-based assembly packer and shellcode loader for opsec & profit
 * [nixgates/nixgates](https://github.com/nixgates/nixgates): Repository for Kodi Addons
@@ -1882,6 +1884,7 @@ creating your own Awesome List by GitHub stars!
 * [npmhub/npmhub](https://github.com/npmhub/npmhub): 🔎 A browser extension to explore npm dependencies on GitHub repos
 * [MrOtherGuy/ntp_titler](https://github.com/MrOtherGuy/ntp_titler): Simple browser extension adding a window prefix to new tabs
 * [nukeop/nuclear](https://github.com/nukeop/nuclear): Streaming music player that finds free music for you
+* [Nevesto/NullSpawn](https://github.com/Nevesto/NullSpawn): Cybersecurity-themed Nickname Generator.
 * [apilayer/numverify-API](https://github.com/apilayer/numverify-API): Free global phone number validation & lookup JSON API
 * [edgars21/nuxtjs-shopify-flex-theme-section-with-vue](https://github.com/edgars21/nuxtjs-shopify-flex-theme-section-with-vue): None
 * [nvm-sh/nvm](https://github.com/nvm-sh/nvm): Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
