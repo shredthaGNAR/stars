@@ -118,6 +118,7 @@ creating your own Awesome List by GitHub stars!
 * [kostyafarber/alfred-notable-workflow](https://github.com/kostyafarber/alfred-notable-workflow): Search, open and make notes from Alfred 5 in Notable 📓
 * [nicooprat/alfred-ocr](https://github.com/nicooprat/alfred-ocr): Take a snapshot and recognize text
 * [otherguy/alfred-passwords-workflow](https://github.com/otherguy/alfred-passwords-workflow): An Alfred 4 workflow that allows you to quickly generate strong passwords.
+* [nikivdev/alfred-past](https://github.com/nikivdev/alfred-past): Alfred workflows I use
 * [fniephaus/alfred-pocket](https://github.com/fniephaus/alfred-pocket): Manage your Pocket list with Alfred
 * [cj1128/alfred-qrcode-workflow](https://github.com/cj1128/alfred-qrcode-workflow): 🎉 Generate/Scan QR Code on the fly
 * [surrealroad/alfred-reminders](https://github.com/surrealroad/alfred-reminders): Manages reminders in Reminders.app
@@ -203,6 +204,7 @@ creating your own Awesome List by GitHub stars!
 * [JT5D/AppleTree](https://github.com/JT5D/AppleTree): Applescripts, apps, services, droplets, actions & automator workflows grow abudant on this Apple Tree, some fruit made by me, while many come from Web tuts & altruist worker bees
 * [milanvarady/Applite](https://github.com/milanvarady/Applite): User-friendly GUI macOS application for Homebrew Casks
 * [axross/aqua](https://github.com/axross/aqua):  ♠️ Beautiful iOS/Android poker odds calculator app made of Flutter.
+* [yuuiko/AquaNotch](https://github.com/yuuiko/AquaNotch): Add a Notch to your old Macbook with BetterTouchTool.
 * [yuuiko/AquaTouch](https://github.com/yuuiko/AquaTouch): Dynamic Custom Macros for your MacBook TouchBar! (Supports 40+ Apps and Websites)
 * [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox): 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 * [archivy/archivy](https://github.com/archivy/archivy): Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
@@ -600,6 +602,7 @@ creating your own Awesome List by GitHub stars!
 * [CodeverDotDev/codever](https://github.com/CodeverDotDev/codever): Bookmarks, Snippets and Notes Manager for Developers & Co (website)
 * [jcv8000/Codex](https://github.com/jcv8000/Codex): A free note-taking software for programmers and Computer Science students
 * [coinpaprika/coinpaprika-api-swift-client](https://github.com/coinpaprika/coinpaprika-api-swift-client): This library provides convenient way to use Coinpaprika.com API in Swift.
+* [jmenichole/CollectClock](https://github.com/jmenichole/CollectClock): This project aims to streamline the bonus collection process and create an efficient system for timing multiple casino collections.
 * [ZizhengYang/Collection-Obsidian-Templates-Snippets](https://github.com/ZizhengYang/Collection-Obsidian-Templates-Snippets): This is a document collecting or different `Obsidian` snippets, how to write, how to use and how to expand
 * [CollectionBuilder/collectionbuilder-gh](https://github.com/CollectionBuilder/collectionbuilder-gh): A framework for creating digital exhibits from a folder of files and a spreadsheet. See Readme below for instructions to get started!
 * [iShopifyExpert/color-swatches-as-sepreate-products](https://github.com/iShopifyExpert/color-swatches-as-sepreate-products): None
@@ -666,6 +669,7 @@ creating your own Awesome List by GitHub stars!
 * [cake-tech/cupcake](https://github.com/cake-tech/cupcake): None
 * [superkhau/curcon](https://github.com/superkhau/curcon): Command-line tool for converting currencies using Open Exchange Rates.
 * [dblandin/Currency-Converter](https://github.com/dblandin/Currency-Converter): Currency Converter written in Javascript using jQuery and the Open Source Exchange Rates API
+* [skibitsky/current-task](https://github.com/skibitsky/current-task): 🗻 This utility allows me to focus on one task at a time.
 * [thatisuday/curved-menu](https://github.com/thatisuday/curved-menu): VanillaJS fully configurable curved menu (circular navigation)
 * [vitorgalvao/custom-alfred-iterm-scripts](https://github.com/vitorgalvao/custom-alfred-iterm-scripts): AppleScript for iTerm2 Alfred integration.
 * [samiyuru/custom-finder-right-click-menu](https://github.com/samiyuru/custom-finder-right-click-menu): This project allows macOS users to setup custom right click menu items for MacOS Finder directories.
@@ -2714,6 +2718,7 @@ creating your own Awesome List by GitHub stars!
 * [net00-1/SW-DLT](https://github.com/net00-1/SW-DLT): SW-DLT: a front end iOS Shortcut for yt-dlp & gallery-dl.
 * [iShopifyExpert/swatches-color-settings-section](https://github.com/iShopifyExpert/swatches-color-settings-section): None
 * [shredthaGNAR/SWBH-Impulse](https://github.com/shredthaGNAR/SWBH-Impulse): SWBH Theme Export Impluse Theme
+* [genregod/SweeperKeeper](https://github.com/genregod/SweeperKeeper): None
 * [PROxZIMA/sweet-dracula](https://github.com/PROxZIMA/sweet-dracula): Sweet Dracula — A beautiful, darker - Dracula fork.
 * [PROxZIMA/Sweet-Pop](https://github.com/PROxZIMA/Sweet-Pop): Sweet_Pop! Beautify, Customize Firefox. Minimalist animated oneliner theme for Firefox perfectly matching Sweet Dark.
 * [LEFD/sweetdracula-monokai](https://github.com/LEFD/sweetdracula-monokai): 🎨 Sweet Dracula + Monokai syntax highlighting for VS Code
