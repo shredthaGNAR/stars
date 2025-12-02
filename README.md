@@ -1347,7 +1347,7 @@ creating your own Awesome List by GitHub stars!
 * [huginn/huginn](https://github.com/huginn/huginn): Create agents that monitor and act on your behalf.  Your agents are standing by!
 * [gohugoio/hugo](https://github.com/gohugoio/hugo): The world’s fastest framework for building websites.
 * [theocjr/hugo-academic-bookmarks](https://github.com/theocjr/hugo-academic-bookmarks): Bookmarks content section for the Academic theme (Hugo framework).
-* [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder): ⚡ Hugo Blox: Markdown sites in minutes. Academic/resume/lab/portfolio for AI researchers & startups. Premium templates. Deploy to GitHub Pages now in 1-click 👇
+* [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder): ⚡ HugoBlox: Markdown sites in minutes. Academic/resume/lab/portfolio for AI researchers & startups. Premium templates. Deploy to GitHub Pages now in 1-click 👇
 * [craftsmandigital/hugo-get-pocket](https://github.com/craftsmandigital/hugo-get-pocket): This is a Hugo project that view bookmars from my get-pocket app. Using get-pocket api to generate json to use in website.
 * [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod):  A fast, clean, responsive Hugo theme.
 * [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile): A highly customizable and mobile first Hugo template for personal portfolio and blog.
@@ -2479,6 +2479,7 @@ creating your own Awesome List by GitHub stars!
 * [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide): Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
 * [pluja/Selfhosted-Google-Photos-Alternative](https://github.com/pluja/Selfhosted-Google-Photos-Alternative): A complete guide on exiting Google, Amazon or any proprietary service Photos storage with all the features you would want.
 * [thcolin/sensorr](https://github.com/thcolin/sensorr): 🍿📼 Sensorr - Your Friendly Digital Video Recorder
+* [alienator88/Sentinel](https://github.com/alienator88/Sentinel): Configure Gatekeeper, remove apps from quarantine and self-sign apps
 * [umbrae/Serendipity](https://github.com/umbrae/Serendipity): /r/serendipity is a meta-subreddit meant to broaden the perspective of its subscribers. It takes a popular entry from a random subreddit and posts it every few hours. If you want to increase your exposure to niche subreddits, or just your perspective on things on the web in general, serendipity might help you do that. But it might not. It's a bot, after all.
 * [d-evil0per/serverless-hosting](https://github.com/d-evil0per/serverless-hosting): How to host websites using free cloud storage
 * [LeeluPradhan/Service-accounts-seperator-AutoRclone](https://github.com/LeeluPradhan/Service-accounts-seperator-AutoRclone): To split google service accounts after 10 accounts, to add in google group easily and use autorclone!
