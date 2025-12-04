@@ -1722,7 +1722,7 @@ creating your own Awesome List by GitHub stars!
 * [marktext/marktext](https://github.com/marktext/marktext): 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 * [soxoj/marple](https://github.com/soxoj/marple): 📖 Collect links to profiles by username through search engines and analyze with various plugins
 * [arp242/MartinFox](https://github.com/arp242/MartinFox): Really simple userChrome.css for Firefox 89 to make the active tab stand out more
-* [mas-cli/mas](https://github.com/mas-cli/mas): :package: Mac App Store command line interface
+* [mas-cli/mas](https://github.com/mas-cli/mas): :package: Mac App Store command-line interface
 * [massCodeIO/massCode](https://github.com/massCodeIO/massCode): A free and open source code snippet manager for developers
 * [material-components/material-components-web](https://github.com/material-components/material-components-web): Modular and customizable Material Design UI components for the web
 * [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated): 🦊 Firefox user CSS theme looks similar to Chrome
@@ -2730,6 +2730,7 @@ creating your own Awesome List by GitHub stars!
 * [totu/Swipe2Nav](https://github.com/totu/Swipe2Nav): Firefox Add-on to enable two-finger left and right gestures to navigate browser history
 * [numist/Switch](https://github.com/numist/Switch): A window-based context switcher for the Mac
 * [deweller/switchaudio-osx](https://github.com/deweller/switchaudio-osx): Change the audio source for Mac OS X from the command line.
+* [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts): Switch hosts quickly!
 * [calzoneman/sync](https://github.com/calzoneman/sync): Node.JS Server and JavaScript/HTML Client for synchronizing online media
 * [JasonkayZK/sync-onetab](https://github.com/JasonkayZK/sync-onetab): A tool to sync data in onetab plugin.
 * [FreeWebber/SyncedJSONtoOnetab](https://github.com/FreeWebber/SyncedJSONtoOnetab): Firefox Synced JSON of tabs to Onetab format
@@ -3169,7 +3170,7 @@ creating your own Awesome List by GitHub stars!
 * [Jeeaaasus/youtube-dl](https://github.com/Jeeaaasus/youtube-dl): Automated yt-dlp Docker image
 * [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl): Command-line program to download videos from YouTube.com and other video sites
 * [akhilkedia/youtube-dl-firefox-addon](https://github.com/akhilkedia/youtube-dl-firefox-addon): Addon to download youtube videos from firefox using youtube-dl
-* [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui): A cross-platform GUI for youtube-dl made in Electron and node.js
+* [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui): A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.
 * [murrty/youtube-dl-gui](https://github.com/murrty/youtube-dl-gui): Download/Convert videos from websites without needing to learn command line
 * [oleksis/youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui): A cross platform front-end GUI of the popular youtube-dl written in wxPython.
 * [p333ter/youtube-dl-gui](https://github.com/p333ter/youtube-dl-gui): A cross-platform GUI for youtube-dl made in Electron and node.js
