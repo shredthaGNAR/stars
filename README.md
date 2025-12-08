@@ -1141,6 +1141,7 @@ creating your own Awesome List by GitHub stars!
 * [EvanZhouDev/gemini-ai](https://github.com/EvanZhouDev/gemini-ai): The simpler JavaScript Gemini SDK
 * [gbaptista/gemini-ai](https://github.com/gbaptista/gemini-ai): A Ruby Gem for interacting with Gemini through Vertex AI, Generative Language API, or AI Studio, Google's generative AI services.
 * [Coding-Meet/Gemini-AI-KMP-App](https://github.com/Coding-Meet/Gemini-AI-KMP-App): Gemini AI Kotlin Multiplatform project designed to target Android, iOS, Windows, macOS, Linux, and Web platforms.
+* [XInTheDark/gemini-ai-sdk](https://github.com/XInTheDark/gemini-ai-sdk): The better Google Gemini SDK (TypeScript)
 * [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli): An open-source AI agent that brings the power of Gemini directly into your terminal.
 * [googlecreativelab/gemini-demos](https://github.com/googlecreativelab/gemini-demos): None
 * [muhammedsamal/gemini-image-analysis](https://github.com/muhammedsamal/gemini-image-analysis): A Python script that uses Google's Gemini AI to automatically rename images with descriptive filenames based on their content.
@@ -1174,6 +1175,7 @@ creating your own Awesome List by GitHub stars!
 * [pomber/git-history](https://github.com/pomber/git-history): Quickly browse the history of a file from any git repository
 * [jag-k/git-raycast](https://github.com/jag-k/git-raycast): Automate git using Raycast AI
 * [IndexStorm/git-rec-ext](https://github.com/IndexStorm/git-rec-ext): Frontend code for GitHub Recommendation Extension
+* [earwig/git-repo-updater](https://github.com/earwig/git-repo-updater): A console script that allows you to easily update multiple git repositories at once
 * [soulhotel/git-userChrome](https://github.com/soulhotel/git-userChrome): An automation tool for installing userChrome Themes
 * [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako): 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 * [DonJayamanne/gitHistoryVSCode](https://github.com/DonJayamanne/gitHistoryVSCode): Git History for Visual Studio Code
@@ -1268,6 +1270,7 @@ creating your own Awesome List by GitHub stars!
 * [CryptoMonkey21/gpt4free](https://github.com/CryptoMonkey21/gpt4free): The official gpt4free repository | various collection of powerful language models
 * [Linhvjc/gpt4free](https://github.com/Linhvjc/gpt4free): None
 * [xtekky/gpt4free](https://github.com/xtekky/gpt4free): The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
+* [XInTheDark/gpt4free-u](https://github.com/XInTheDark/gpt4free-u): unblocked.
 * [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free): Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
 * [tg12/gpt_jailbreak_status](https://github.com/tg12/gpt_jailbreak_status): This is a repository that aims to provide updates on the status of jailbreaking the OpenAI GPT language model.
 * [Taewan-P/gpt_mobile](https://github.com/Taewan-P/gpt_mobile): Chat app for Android that supports answers from multiple LLMs at once. Bring your own API key AI client. Supports OpenAI, Anthropic, Google, and Ollama. Designed with Material3 & Compose.
@@ -1295,6 +1298,7 @@ creating your own Awesome List by GitHub stars!
 * [poker-apprentice/hand-evaluator](https://github.com/poker-apprentice/hand-evaluator): Evaluate the strength of a hand of poker
 * [poker-apprentice/hand-history-analyzer](https://github.com/poker-apprentice/hand-history-analyzer): Extract helpful statistics about a poker player's tendencies from a hand history
 * [poker-apprentice/hand-history-parser](https://github.com/poker-apprentice/hand-history-parser): Parse hand histories from online poker sites
+* [shariati/Hand-Picked](https://github.com/shariati/Hand-Picked): A collection of custom folder icons for (Mac, Linux and Windows)
 * [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake): HandBrake's development repository 
 * [jgressmann/harbour-vodman](https://github.com/jgressmann/harbour-vodman): Vodman lets you download videos (VODs) from the internet to your SailfishOS device
 * [claytonjn/hass-circadian_lighting](https://github.com/claytonjn/hass-circadian_lighting): Circadian Lighting custom component for Home Assistant
@@ -2012,7 +2016,6 @@ creating your own Awesome List by GitHub stars!
 * [sujon-co/operator-mono-ligature](https://github.com/sujon-co/operator-mono-ligature):  Operator Mono ligatures build file
 * [kmillionary/order-printer-templates](https://github.com/kmillionary/order-printer-templates): Customize free Shopify Order Printer templates.
 * [loveshopify/orium](https://github.com/loveshopify/orium): None
-* [shariati/OS-Folder-Icons](https://github.com/shariati/OS-Folder-Icons): A collection of custom folder icons for (Mac, Linux and Windows)
 * [shredthaGNAR/OS-Folder-Icons](https://github.com/shredthaGNAR/OS-Folder-Icons): A collection of custom folder icons for (Mac, Linux and Windows)
 * [opengaming/osgameclones](https://github.com/opengaming/osgameclones): Open Source Clones of Popular Games
 * [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet): OSINT cheat sheet, list OSINT tools, wiki, dataset, article, book , red team OSINT for hackers and OSINT tips and OSINT branch. This repository will grow every time will research, there is a research, science and technology, tutorial. Please use it wisely.
@@ -2292,6 +2295,7 @@ creating your own Awesome List by GitHub stars!
 * [isheeze/rawalpindis](https://github.com/isheeze/rawalpindis): Shopify os 2.0 first theme of mine
 * [grndis/raycast](https://github.com/grndis/raycast): A local backend implementation for Raycast that provides AI chat completions and translation services using OpenAI APIs. This project allows you to run a self-hosted version of Raycast's AI features with your own OpenAI API key.
 * [miikkaylisiurunen/raycast-ai-openrouter-proxy](https://github.com/miikkaylisiurunen/raycast-ai-openrouter-proxy): Integrate any OpenAI-compatible API with Raycast AI
+* [m3lander/raycast-ai-proxy](https://github.com/m3lander/raycast-ai-proxy): Integrate any OpenAI-compatible API with Raycast AI
 * [LitoMore/raycast-backend-api](https://github.com/LitoMore/raycast-backend-api): Accessing the Raycast backend API delightfully
 * [aelew/raycast-cobalt](https://github.com/aelew/raycast-cobalt): 🧩 A Raycast extension for downloading video and audio from popular social media platforms using Cobalt's API.
 * [Lewinz/raycast-customusageai](https://github.com/Lewinz/raycast-customusageai): A Raycast extension that allows you to create and use custom prompt templates with any OpenAI-compatible API endpoints.
