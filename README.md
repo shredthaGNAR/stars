@@ -641,6 +641,7 @@ creating your own Awesome List by GitHub stars!
 * [A9T9/Copyfish](https://github.com/A9T9/Copyfish): Copy, paste and translate text from images, videos and PDFs with this free Chrome extension
 * [msk4862/Copyright-free-image-search](https://github.com/msk4862/Copyright-free-image-search): Web app to search copyright free images from across the popular platforms and shows you the results in a single platform.
 * [k08045kk/CopyTabTitleUrl](https://github.com/k08045kk/CopyTabTitleUrl): None
+* [eigenwallet/core](https://github.com/eigenwallet/core): eigenwallet is an ambitious community effort to build the Monero wallet for the future.
 * [home-assistant/core](https://github.com/home-assistant/core): :house_with_garden: Open source home automation that puts local control and privacy first.
 * [Andereoo/Cortland](https://github.com/Andereoo/Cortland): A sleek, modern, macOS-inspired theme for Firefox
 * [leminlimez/Cowabunga](https://github.com/leminlimez/Cowabunga): iOS 14.0-15.7.1 & 16.0-16.1.2 MacDirtyCow ToolBox
@@ -691,6 +692,7 @@ creating your own Awesome List by GitHub stars!
 * [DanaMW/DanaMW.github.io](https://github.com/DanaMW/DanaMW.github.io): None
 * [mitchuman/danshari](https://github.com/mitchuman/danshari): A blank slate theme for Shopify 2.0
 * [dagware/DanThomas](https://github.com/dagware/DanThomas): Dan Thomas' stuff
+* [TheRealDalunacrobate/DaProfiler](https://github.com/TheRealDalunacrobate/DaProfiler): DaProfiler is an OSINT tool allowing you to collect certain information about yourself in order to rectify by rgpd requests the traces you may have left on the net. DaProfiler is indeed able to recover: Addresses, Social media accounts, e-mail addresses, mobile / landline number, jobs. On a specified subject in a limited time. DaProfiler is designe
 * [daprofiler/DaProfiler](https://github.com/daprofiler/DaProfiler): DaProfiler is an OSINT tool allowing you to collect certain information about yourself in order to rectify by rgpd requests the traces you may have left on the net. DaProfiler is indeed able to recover: Addresses, Social media accounts, e-mail addresses, mobile / landline number, jobs.
 * [JarryShaw/darc](https://github.com/JarryShaw/darc): Darkweb Crawler Project
 * [m-khvoinitsky/dark-background-light-text-extension](https://github.com/m-khvoinitsky/dark-background-light-text-extension): Firefox addon that turns every page colors into "light text on dark background"
