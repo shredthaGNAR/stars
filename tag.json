@@ -1610,6 +1610,9 @@
     "QNetITQ/WaveFox": [
         "Other"
     ],
+    "QuanBlue/mearn-portfolio": [
+        "Other"
+    ],
     "REAndroid/APKEditor": [
         "Other"
     ],
@@ -2913,6 +2916,12 @@
         "Other"
     ],
     "asilvas/circler": [
+        "Other"
+    ],
+    "asmvik/skhd": [
+        "Other"
+    ],
+    "asmvik/yabai": [
         "Other"
     ],
     "astrit/css.gg": [
@@ -4892,6 +4901,9 @@
     "home-assistant/home-assistant.io": [
         "Other"
     ],
+    "homelab-admin/bettertouchtool-mcp-server": [
+        "Other"
+    ],
     "homerchen19/github-file-icons": [
         "Other"
     ],
@@ -5736,12 +5748,6 @@
         "Other"
     ],
     "koalaman/shellcheck": [
-        "Other"
-    ],
-    "koekeishiya/skhd": [
-        "Other"
-    ],
-    "koekeishiya/yabai": [
         "Other"
     ],
     "koo5/hackery2": [
@@ -9216,6 +9222,9 @@
         "Other"
     ],
     "warren-bank/crx-Tubi-TV": [
+        "Other"
+    ],
+    "wasutz/astro-resume-theme": [
         "Other"
     ],
     "waydabber/BetterDisplay": [
