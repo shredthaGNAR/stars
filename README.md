@@ -1170,7 +1170,7 @@ creating your own Awesome List by GitHub stars!
 * [CJHwong/gems.sh](https://github.com/CJHwong/gems.sh): A Gemini Gem Manager in your MacBook powered by Gemma
 * [David-Kunz/gen.nvim](https://github.com/David-Kunz/gen.nvim): Neovim plugin to generate text using LLMs with customizable prompts
 * [microsoft/genaiscript](https://github.com/microsoft/genaiscript): Automatable GenAI Scripting
-* [google/generative-ai-docs](https://github.com/google/generative-ai-docs): Documentation for Google's Gen AI site - including the Gemini API and Gemma
+* [google/generative-ai-docs](https://github.com/google/generative-ai-docs): This repository is deprecated and will be archived
 * [webextension-toolbox/generator-web-extension](https://github.com/webextension-toolbox/generator-web-extension): Advanced WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
 * [alfaaarex/GentleFox](https://github.com/alfaaarex/GentleFox): A Firefox theme, which features gentle curves, transparency and a minimal interface.
 * [vincens2005/GentleFox](https://github.com/vincens2005/GentleFox): A Firefox theme, which features gentle curves, transparency and a minimal interface.
@@ -1905,7 +1905,7 @@ creating your own Awesome List by GitHub stars!
 * [Bellisario/node-snapdrop](https://github.com/Bellisario/node-snapdrop): Node.js version of the original Snapdrop
 * [nodegui/nodegui](https://github.com/nodegui/nodegui): A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
 * [lencx/nofwl](https://github.com/lencx/nofwl): NoFWL Desktop Application
-* [lencx/Noi](https://github.com/lencx/Noi): 🚀 Power Your World with AI - Explore, Extend, Empower.
+* [lencx/Noi](https://github.com/lencx/Noi): 🚀 Less chaos. More flow.
 * [speedball2001/nompsort-mx](https://github.com/speedball2001/nompsort-mx): A mailextension for Thunderbird that prevents accidental message sorting.
 * [dynobo/normcap](https://github.com/dynobo/normcap): OCR powered screen-capture tool to capture information instead of images
 * [opto/nostalgy-xpi](https://github.com/opto/nostalgy-xpi): nostalgy addon updated for Thunderbird 68 and now Thunderbird 78 - 115. Original code  by Alain Frisch.
