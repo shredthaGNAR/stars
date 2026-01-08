@@ -1414,7 +1414,6 @@ creating your own Awesome List by GitHub stars!
 * [alexander-ladygin/illustrator-scripts](https://github.com/alexander-ladygin/illustrator-scripts): Adobe Illustrator scripts
 * [rhsimplex/image-match](https://github.com/rhsimplex/image-match): 🎇 Quickly search over billions of images
 * [eight04/image-picka](https://github.com/eight04/image-picka): A Firefox/Chrome extension helping you download images.
-* [The-Osint-Toolbox/Image-Research-OSINT](https://github.com/The-Osint-Toolbox/Image-Research-OSINT): Learn how to research images and the tools, techniques & tradecraft required. 
 * [Brawl345/Image-Reverse-Search-WebExtension](https://github.com/Brawl345/Image-Reverse-Search-WebExtension): WebExtension: Adds an option to the context menu to search with an image on various services. Made with Svelte.
 * [MarkAntipin/image-search-engine](https://github.com/MarkAntipin/image-search-engine): Web app to search similar images
 * [IbrahimMourad/image-search-webapp](https://github.com/IbrahimMourad/image-search-webapp): simple app to search for images by  keyword using unsplash API  
@@ -2426,6 +2425,7 @@ creating your own Awesome List by GitHub stars!
 * [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module): Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
 * [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager): 💊 Application to use ReVanced on Android 
 * [inotia00/revanced-manager](https://github.com/inotia00/revanced-manager): 💊 Application to use ReVanced on Android 
+* [brosssh/revanced-manager-downloaders](https://github.com/brosssh/revanced-manager-downloaders): 🔌 ReVanced Manager downloaders
 * [peternmuller/revanced-morphe-builder](https://github.com/peternmuller/revanced-morphe-builder): An APK and Magisk/KernelSU module builder for RV/RVX/Morphe apps. Updated hourly.
 * [luxysiv/revanced-nonroot](https://github.com/luxysiv/revanced-nonroot): Build Revanced apps
 * [Jman-Github/ReVanced-Patch-Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles): Automatically aggregates alternative ReVanced patch and integration repositories into JSON files to import into the ReVanced Manager Compose.
