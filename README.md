@@ -1383,7 +1383,6 @@ creating your own Awesome List by GitHub stars!
 * [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack): Card-style Hugo theme designed for bloggers
 * [spaghettiwews/hugonews](https://github.com/spaghettiwews/hugonews): hugo theme (based on https://news.ycombinator.com) for https://bookmarks.wews.co.zw
 * [hunspell/hunspell](https://github.com/hunspell/hunspell): The most popular spellchecking library.
-* [Kaizosha/Hush-II](https://github.com/Kaizosha/Hush-II): while you’re in the moment, it listens. it sees. it remembers.
 * [element-hq/hydrogen-web](https://github.com/element-hq/hydrogen-web): Lightweight matrix client with legacy and mobile browser support
 * [dnnsmnstrr/HydroTouch](https://github.com/dnnsmnstrr/HydroTouch): A collection of presets for BetterTouchTool
 * [penance316/hyper-dark-vibrancy](https://github.com/penance316/hyper-dark-vibrancy): A demo theme for hyperterm to demonstrate the vibrancy effect on macOS
@@ -1724,7 +1723,7 @@ creating your own Awesome List by GitHub stars!
 * [macports/macports-base](https://github.com/macports/macports-base): The MacPorts command-line client
 * [sevagas/macro_pack](https://github.com/sevagas/macro_pack): macro_pack is a tool by @EmericNasi used to automatize obfuscation and generation of Office documents, VB scripts, shortcuts, and other formats for pentest, demo, and social engineering assessments. The goal of macro_pack is to simplify exploitation, antimalware bypass, and automatize the process from malicious macro and script generation to final document generation. It also provides a lot of helpful features useful for redteam or security research. 
 * [fharper/macsetup](https://github.com/fharper/macsetup): Scripts to setup my mac
-* [Pilaton/MacSync](https://github.com/Pilaton/MacSync): Easy sync for macOS. Dotfiles, folders, configurations, etc.
+* [Pilaton/MacSync](https://github.com/Pilaton/MacSync): CLI tool to sync dotfiles, configurations, and folders across multiple Macs using your favorite cloud storage (Dropbox, iCloud, etc.).
 * [macvim-dev/macvim](https://github.com/macvim-dev/macvim): Vim - the text editor - for macOS
 * [section83/MacYTDL](https://github.com/section83/MacYTDL): A macOS GUI front-end for the YT-DLP video downloader
 * [madari-media/madari-oss](https://github.com/madari-media/madari-oss): Open source media manager
