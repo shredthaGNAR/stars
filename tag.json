@@ -2072,6 +2072,9 @@
     "Tenmag/FirefoxPrivacyConfig": [
         "Other"
     ],
+    "The-Osint-Toolbox/Image-Research-OSINT": [
+        "Other"
+    ],
     "TheAdnan/facebook-video-download": [
         "Other"
     ],
@@ -2460,12 +2463,6 @@
         "Other"
     ],
     "acidjesuz/EPGTalk": [
-        "Other"
-    ],
-    "aclap-dev/vdhcoapp": [
-        "Other"
-    ],
-    "aclap-dev/weh": [
         "Other"
     ],
     "actions/checkout": [
@@ -5996,6 +5993,9 @@
     "leadweedy/Firefox-Proton-Square": [
         "Other"
     ],
+    "learn-anything/alfred-workflows": [
+        "Other"
+    ],
     "leegeunhyeok/btt-ghp": [
         "Other"
     ],
@@ -6063,9 +6063,6 @@
         "Other"
     ],
     "linkwarden/linkwarden": [
-        "Other"
-    ],
-    "linsa-io/alfred-workflows": [
         "Other"
     ],
     "linuxscoop/safarifox-theme": [

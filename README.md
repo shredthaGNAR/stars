@@ -89,7 +89,7 @@ creating your own Awesome List by GitHub stars!
 * [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists): A collection of unified blocklists designed to provide complete filtering capabilities for different online threats. These blocklists are curated from multiple sources, offering a robust solution for blocking ads, malware, trackers, and other unwanted content.
 * [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams): One addon to rule them all. AIOStreams consolidates multiple Stremio addons and debrid services into a single, highly customisable super-addon. 
 * [NeloF4/AIOTools](https://github.com/NeloF4/AIOTools): All In One Tools Hacking 
-* [AIPexStudio/AIPex](https://github.com/AIPexStudio/AIPex): AIPex: AI browser automation assistant, no migration and privacy first. ChatGPT Atlas Alternative, Alternative to Manus Browser Operator, Alternative to Claude Chrome
+* [AIPexStudio/AIPex](https://github.com/AIPexStudio/AIPex): AIPex: AI browser automation assistant, no migration and privacy first. Alternative to Manus Browser Operator、 Claude Chrome and Agent Browser
 * [air-controller/air-controller-desktop](https://github.com/air-controller/air-controller-desktop): A new handy and powerful Android phone assistant， powered by Flutter.
 * [canalnoises/AirDrop-Shortcut](https://github.com/canalnoises/AirDrop-Shortcut): A script to select AirDrop from Finder's Share menu. Assign to a keyboard shortcut for quick AirDropping.
 * [Airmail/AirmailPlugIn-Framework](https://github.com/Airmail/AirmailPlugIn-Framework): None
@@ -134,7 +134,7 @@ creating your own Awesome List by GitHub stars!
 * [deanishe/alfred-workflow](https://github.com/deanishe/alfred-workflow): Full-featured library for writing Alfred 3 & 4 workflows
 * [Stephen-Lon/Alfred-workflow-open-macos-settings-panes](https://github.com/Stephen-Lon/Alfred-workflow-open-macos-settings-panes): Open macOS Settings Panes from list
 * [alanhe421/alfred-workflows](https://github.com/alanhe421/alfred-workflows): Save time, Improve life.🚀  ☕️ 💻
-* [linsa-io/alfred-workflows](https://github.com/linsa-io/alfred-workflows): Amazing Alfred Workflows
+* [learn-anything/alfred-workflows](https://github.com/learn-anything/alfred-workflows): Amazing Alfred Workflows
 * [rknightuk/alfred-workflows](https://github.com/rknightuk/alfred-workflows): My Alfred Workflows
 * [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows): Collection of Alfred workflows
 * [zeitlings/alfred-workflows](https://github.com/zeitlings/alfred-workflows): Collected Alfred Workflows & Proof of Concept
@@ -1414,6 +1414,7 @@ creating your own Awesome List by GitHub stars!
 * [alexander-ladygin/illustrator-scripts](https://github.com/alexander-ladygin/illustrator-scripts): Adobe Illustrator scripts
 * [rhsimplex/image-match](https://github.com/rhsimplex/image-match): 🎇 Quickly search over billions of images
 * [eight04/image-picka](https://github.com/eight04/image-picka): A Firefox/Chrome extension helping you download images.
+* [The-Osint-Toolbox/Image-Research-OSINT](https://github.com/The-Osint-Toolbox/Image-Research-OSINT): Learn how to research images and the tools, techniques & tradecraft required. 
 * [Brawl345/Image-Reverse-Search-WebExtension](https://github.com/Brawl345/Image-Reverse-Search-WebExtension): WebExtension: Adds an option to the context menu to search with an image on various services. Made with Svelte.
 * [MarkAntipin/image-search-engine](https://github.com/MarkAntipin/image-search-engine): Web app to search similar images
 * [IbrahimMourad/image-search-webapp](https://github.com/IbrahimMourad/image-search-webapp): simple app to search for images by  keyword using unsplash API  
@@ -3060,7 +3061,6 @@ creating your own Awesome List by GitHub stars!
 * [inotia00/VancedMicroG](https://github.com/inotia00/VancedMicroG): MicroG tweaked to work for applications such as Vanced.
 * [vegetableman/vandal](https://github.com/vegetableman/vandal): Navigator for Web Archive
 * [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio): vCard is a fully responsive personal portfolio website, responsive for all devices.
-* [aclap-dev/vdhcoapp](https://github.com/aclap-dev/vdhcoapp): Companion application for Video DownloadHelper browser add-on
 * [Vendicated/Vencord](https://github.com/Vendicated/Vencord): The cutest Discord modification
 * [Venqul/VenSur](https://github.com/Venqul/VenSur): 🎨 A Safari-style Firefox theme with a sleek UI experience.
 * [missuo/vercel-raycast2api](https://github.com/missuo/vercel-raycast2api): Serverless Raycast2API on Vercel
@@ -3169,7 +3169,6 @@ creating your own Awesome List by GitHub stars!
 * [danny0838/webscrapbook](https://github.com/danny0838/webscrapbook): A browser extension that captures web pages to local device or backend server for future retrieval, organization, annotation, and edit. This project inherits from legacy Firefox add-on ScrapBook X.
 * [Sav22999/websites-notes](https://github.com/Sav22999/websites-notes): Take notes on every website in a smart and simple way!
 * [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent): ⚡️ Streaming torrent client for the web
-* [aclap-dev/weh](https://github.com/aclap-dev/weh): Toolkit to save time when developing a browser add-on for Firefox, Chrome, Edge, Opera and Vivaldi
 * [oOthkOo/whatsapp-desktop](https://github.com/oOthkOo/whatsapp-desktop): Unofficial WhatsApp Desktop Client for OSX, Linux and Windows. Build with Electron.
 * [Ekultek/WhatWaf](https://github.com/Ekultek/WhatWaf): Detect and bypass web application firewalls and protection systems
 * [vinceliuice/WhiteSur-firefox-theme](https://github.com/vinceliuice/WhiteSur-firefox-theme): Mac OS Safari theme for Firefox on Linux
