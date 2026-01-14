@@ -327,6 +327,7 @@ creating your own Awesome List by GitHub stars!
 * [apehex/awesome-poker](https://github.com/apehex/awesome-poker): :spades: :hearts: :clubs: :diamonds: A curated list of awesome poker resources & tools to improve your game.
 * [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy): Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 * [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts): Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
+* [alx-xlx/awesome-raspberry-r4nchy](https://github.com/alx-xlx/awesome-raspberry-r4nchy): This repo consists of useful tools, scripts and tutorials for Raspberry Pi
 * [j3lte/awesome-raycast](https://github.com/j3lte/awesome-raycast): Automated list of all Raycast extensions
 * [o19s/awesome-search-relevance](https://github.com/o19s/awesome-search-relevance): Tools and other things for people who work on search relevance & information retrieval
 * [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted): A list of Free Software network services and web applications which can be hosted on your own servers
@@ -349,6 +350,7 @@ creating your own Awesome List by GitHub stars!
 * [CyberAlbSecOP/Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting): ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.
 * [zeitlings/ayai-gpt-nexus](https://github.com/zeitlings/ayai-gpt-nexus): OpenAI, Anthropic, and Gemini integrations with support for local LLMs
 * [jarmo/backpocket](https://github.com/jarmo/backpocket): Backpocket is a command line utility for storing a reading list of articles from the Internet to your local disk for the future. It's an alternative to Pocket offering all the required features without handing over all your private reading materials to any 3rd party.
+* [alx-xlx/backup-website-to-cloud](https://github.com/alx-xlx/backup-website-to-cloud): This is a script to push a backup of your website, forum etc to Cloud Storage using rclone
 * [joshuachough/backupOneTab](https://github.com/joshuachough/backupOneTab): Back up and restore your OneTab Chrome extension data
 * [jameshealyio/bang-bookmarks](https://github.com/jameshealyio/bang-bookmarks): Replicate DuckDuckGo !bang's in Firefox using Keymarks!
 * [nathanchapman/bash-functions](https://github.com/nathanchapman/bash-functions): 🔮 A collection of useful Bash/ZSH functions
@@ -403,6 +405,7 @@ creating your own Awesome List by GitHub stars!
 * [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird): An OSINT tool to search for accounts by username and email in social networks.
 * [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts): List of free GPTs that doesn't require plus subscription 
 * [danielmiessler/blackhat-arsenal-tools](https://github.com/danielmiessler/blackhat-arsenal-tools): Official Black Hat Arsenal Security Tools Repository
+* [jmadden12/blackjack-bs-trainer](https://github.com/jmadden12/blackjack-bs-trainer): None
 * [anudeepND/blacklist](https://github.com/anudeepND/blacklist): Curated and well-maintained hostfile to block ads, tracking, cryptomining, and more! Updated regularly. ⚡🔒
 * [EnergizedProtection/block](https://github.com/EnergizedProtection/block): Let's make an annoyance free, better open internet, altogether!
 * [mkb2091/blockconvert](https://github.com/mkb2091/blockconvert): Malware, advert and tracking blacklist
@@ -614,6 +617,7 @@ creating your own Awesome List by GitHub stars!
 * [zai-org/CodeGeeX2](https://github.com/zai-org/CodeGeeX2): CodeGeeX2: A More Powerful Multilingual Code Generation Model
 * [CodeverDotDev/codever](https://github.com/CodeverDotDev/codever): Bookmarks, Snippets and Notes Manager for Developers & Co (website)
 * [jcv8000/Codex](https://github.com/jcv8000/Codex): A free note-taking software for programmers and Computer Science students
+* [frankmdmc/CodexDidThis](https://github.com/frankmdmc/CodexDidThis): GPT Codex Did This
 * [coinpaprika/coinpaprika-api-swift-client](https://github.com/coinpaprika/coinpaprika-api-swift-client): This library provides convenient way to use Coinpaprika.com API in Swift.
 * [jmenichole/CollectClock](https://github.com/jmenichole/CollectClock): This project aims to streamline the bonus collection process and create an efficient system for timing multiple casino collections.
 * [ZizhengYang/Collection-Obsidian-Templates-Snippets](https://github.com/ZizhengYang/Collection-Obsidian-Templates-Snippets): This is a document collecting or different `Obsidian` snippets, how to write, how to use and how to expand
@@ -679,6 +683,7 @@ creating your own Awesome List by GitHub stars!
 * [astrit/css.gg](https://github.com/astrit/css.gg): 700+ Pure CSS, SVG & Figma UI Icons, 6000+ glyphs, patterns, colors and layouts.
 * [estelle/CSS3Gradients](https://github.com/estelle/CSS3Gradients): Library of CSS3 Gradients
 * [Kungfoowiz/cssSuggestionsVSCode](https://github.com/Kungfoowiz/cssSuggestionsVSCode): Visual Studio Code Extension: CSS suggestions for Properties and Values.
+* [jsoto3000/ctlottery](https://github.com/jsoto3000/ctlottery): CT Lottery Website Scratch Table Webscrape
 * [Control-D-Inc/ctrld](https://github.com/Control-D-Inc/ctrld): A highly configurable, multi-protocol DNS forwarding proxy
 * [cake-tech/cupcake](https://github.com/cake-tech/cupcake): None
 * [superkhau/curcon](https://github.com/superkhau/curcon): Command-line tool for converting currencies using Open Exchange Rates.
@@ -785,6 +790,7 @@ creating your own Awesome List by GitHub stars!
 * [jim60105/docker-youtube-dl](https://github.com/jim60105/docker-youtube-dl): Youtube錄影伺服器 (Docker Compose) https://blog.maki0419.com/2020/11/docker-youtube-dl-auto-recording-live-dl.html
 * [robilic/DockHand](https://github.com/robilic/DockHand): Window preview feature similar to 'Aero Peek' for the Mac OS dock
 * [DeromirNeves/DockSeparator](https://github.com/DeromirNeves/DockSeparator): macOS utility to add multiple separators to Dock
+* [rippedpiracy/docs](https://github.com/rippedpiracy/docs): None
 * [doctorfree/DoctorFreeScripts](https://github.com/doctorfree/DoctorFreeScripts): Utility Bash shell scripts I've written - typically these will run on Unix, Linux, OS X, and Cygwin
 * [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list): List of Github repositories and articles with list of dorks for different search engines
 * [kstenschke/doShell](https://github.com/kstenschke/doShell): Headful automation on Linux and Mac OS
@@ -1082,6 +1088,7 @@ creating your own Awesome List by GitHub stars!
 * [kosimst/Firicico](https://github.com/kosimst/Firicico): Combined programming mono font with italics and font ligatures made from Fira Code and Pacifico for Italics
 * [Mortennn/FiScript](https://github.com/Mortennn/FiScript): Execute custom scripts from the MacOS context menu (CTRL+click) in Finder.
 * [pmiddlet72/fix_onetab](https://github.com/pmiddlet72/fix_onetab): Scripts to help extract OneTab urls and/or fix the OneTab extension when this app fails in the Google Chrome browser (currently only tested in Linux --> Ubuntu 24.04 and Linux Mint 22.1). 
+* [jsoto3000/fl_lottery](https://github.com/jsoto3000/fl_lottery): Webscrapes for Florida Lotttery Scratch Game Data
 * [daniruiz/flat-remix-css](https://github.com/daniruiz/flat-remix-css): A lightweight CSS library that provides a set of predesigned elements useful for rapid web development. It follows a modern flat design using a colorful palette with some shadows, highlights, and gradients for some depth.
 * [yuuqilin/FlexFox](https://github.com/yuuqilin/FlexFox): A lightweight Firefox theme focused on usability, flexibility, and smooth performance.
 * [d3ward/floatly](https://github.com/d3ward/floatly): An extension that adds a floating button for browser quick actions 
@@ -1103,6 +1110,7 @@ creating your own Awesome List by GitHub stars!
 * [ohmybahgosh/FONTS_DOT_COM_RIPPER](https://github.com/ohmybahgosh/FONTS_DOT_COM_RIPPER): Script to extract entire font families from Fonts.com, rips them as woff2 and final output includes woff2 and ttf files
 * [fontsource/fontsource](https://github.com/fontsource/fontsource): Self-host Open Source fonts in neatly bundled NPM packages.
 * [briankendall/forceFullDesktopBar](https://github.com/briankendall/forceFullDesktopBar): Utility for macOS that modifies the Dock process so that the desktop bar in Mission Control is always full size and showing previews
+* [Fotom/Fortune](https://github.com/Fotom/Fortune): Ruby gem for calculate probability, odds and combinations. May be most useful in combinatorics, probability theory and calculating odds ratios (gambling, e.g. Poker, bingo, etc.)
 * [AveYo/fox](https://github.com/AveYo/fox): Firefox stuff
 * [Neikon/Fox11](https://github.com/Neikon/Fox11): None
 * [bnpoirier/foxify](https://github.com/bnpoirier/foxify): Converts Chrome extensions to Firefox
@@ -1121,6 +1129,7 @@ creating your own Awesome List by GitHub stars!
 * [jeromelachaud/freelancer-theme](https://github.com/jeromelachaud/freelancer-theme): Jekyll theme based on Freelancer Start Bootstrap theme
 * [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube): An Open Source YouTube app for privacy
 * [miten5/FreeWebHosting](https://github.com/miten5/FreeWebHosting): A list of free web hosting websites for developers.
+* [alx-xlx/fresh-onions](https://github.com/alx-xlx/fresh-onions): Keep track of your favourite Onions
 * [Mandrenkov/FreshView](https://github.com/Mandrenkov/FreshView): Browser extension that hides watched YouTube™ videos.
 * [tortious/FrozenFox](https://github.com/tortious/FrozenFox): A personal hodgepodge of css and js hacks to firefox that I personally enjoy. Strong emphasis on a blend of minimalism and functionality.
 * [bogachenkove/fuckfuckadblock](https://github.com/bogachenkove/fuckfuckadblock): Filters for blocking mining, pop-ups and anti-adblock bypass.
@@ -1152,7 +1161,12 @@ creating your own Awesome List by GitHub stars!
 * [molebox/gatsby-theme-pocket](https://github.com/molebox/gatsby-theme-pocket): A Gatsby theme that adds a pocket to your website.
 * [LekoArts/gatsby-themes](https://github.com/LekoArts/gatsby-themes): Get high-quality and customizable Gatsby themes to quickly bootstrap your website! Choose from many professionally created and impressive designs with a wide variety of features and customization options.
 * [ftassy/GCalTab](https://github.com/ftassy/GCalTab): GCalTab is a Thunderbird add-on that opens Google Calendar website in a Thunderbird tab. It facilitates multiple accounts management. and features a beautiful dark mode thanks to the DarkReader algorithm.
+* [roshanconnor123/gd-utils](https://github.com/roshanconnor123/gd-utils): Just another GD Bypass tool!
+* [AdithyanNellickal/GDLeech](https://github.com/AdithyanNellickal/GDLeech): Host your direct download links on google drive
 * [glotlabs/gdrive](https://github.com/glotlabs/gdrive): Google Drive CLI Client
+* [ericyd/gdrive-copy](https://github.com/ericyd/gdrive-copy): Web app to copy a Google Drive folder
+* [alx-xlx/gdrive-dir2html](https://github.com/alx-xlx/gdrive-dir2html): Google Drive HTML directory listing creator
+* [alx-xlx/gdrive-migration](https://github.com/alx-xlx/gdrive-migration): Google Drive Migration
 * [dantebarba/gdrive-migrator](https://github.com/dantebarba/gdrive-migrator): Google Drive Migrator helper. Migrates from one gdrive account to another
 * [ShanukJ/gDrive-Multiple-File-Upload](https://github.com/ShanukJ/gDrive-Multiple-File-Upload): This is a simple script to upload Multiple files into google drive using google drive API and Nodejs.
 * [rebhu-open-source-foundation/gecko-b2g](https://github.com/rebhu-open-source-foundation/gecko-b2g): This is a mirror of https://gitlab.com/rebhu/rosf/thenexus-codes/gecko-b2g
@@ -1249,6 +1263,7 @@ creating your own Awesome List by GitHub stars!
 * [tumpio/gmscripts](https://github.com/tumpio/gmscripts): tumpio's usercripts
 * [savely-krasovsky/go-autoconfig](https://github.com/savely-krasovsky/go-autoconfig): IMAP/SMTP autodiscover feature for Thunderbird, Apple Mail and Microsoft Outlook
 * [Phantas0s/gocket](https://github.com/Phantas0s/gocket): 💼 CLI / TUI for Pocket 
+* [alx-xlx/goindex](https://github.com/alx-xlx/goindex): Index your Google Drive
 * [yqrashawn/GokuRakuJoudo](https://github.com/yqrashawn/GokuRakuJoudo): config karabiner with ease
 * [GoldenChaos/GoldenChaos-BTT](https://github.com/GoldenChaos/GoldenChaos-BTT): The complete Touch Bar UI replacement for BetterTouchTool
 * [min-uuu/GoldenRabbit-BTT](https://github.com/min-uuu/GoldenRabbit-BTT): MacBook Pro touchbar custom. Perfectly Optimized BTT(Better Touch Tool) Preset.
@@ -1657,6 +1672,10 @@ creating your own Awesome List by GitHub stars!
 * [ParisNeo/lollms_legacy](https://github.com/ParisNeo/lollms_legacy): Lord of LLMS
 * [TB-throwback/LookOut-fix-version](https://github.com/TB-throwback/LookOut-fix-version): Fork of LookOut (fix version)
 * [MrKai77/Loop](https://github.com/MrKai77/Loop): Window management made elegant.
+* [ThatOrJohn/lottery-texas-scratchoffs](https://github.com/ThatOrJohn/lottery-texas-scratchoffs): Populate Neo4J AuraDB with daily Texas Lottery Scratch Ticket claim data
+* [Wkasel/lottery_scraper](https://github.com/Wkasel/lottery_scraper): Scraper for lottery scratchers
+* [kawhyte/Lotto-Tickets-API](https://github.com/kawhyte/Lotto-Tickets-API): An API for the Florida Lottery Scratch-off game
+* [kmccartney24la/lottosmartpicker-gcp](https://github.com/kmccartney24la/lottosmartpicker-gcp): None
 * [musically-ut/lovely-forks](https://github.com/musically-ut/lovely-forks): 💚 🍴 Show notable forks of GitHub repositories under their names.
 * [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed): LSPosed Framework
 * [objective-see/LuLu](https://github.com/objective-see/LuLu): LuLu is the free open-source macOS firewall
@@ -1783,6 +1802,7 @@ creating your own Awesome List by GitHub stars!
 * [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe): Cross-platform, customizable ML solutions for live and streaming media.
 * [manojVivek/medium-unlimited](https://github.com/manojVivek/medium-unlimited): A browser extension to read medium.com articles for free without membership.
 * [und3fined/medium-unlocker](https://github.com/und3fined/medium-unlocker): Read Medium content without limit!
+* [menukaonline/Mega-to-Google-Drive](https://github.com/menukaonline/Mega-to-Google-Drive): This is a Google Colab notebook that helps you to transfer files from Mega to Google Drive
 * [yousseb/meld](https://github.com/yousseb/meld): Meld for macOS
 * [WorldBrain/Memex](https://github.com/WorldBrain/Memex): Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 * [kormyen/memex](https://github.com/kormyen/memex): Simple bookmarks and notes
@@ -1800,6 +1820,7 @@ creating your own Awesome List by GitHub stars!
 * [duolingo/metasearch](https://github.com/duolingo/metasearch): Search aggregator for Slack, Google Docs, GitHub, and more :mag:
 * [alexta69/metube](https://github.com/alexta69/metube): Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 * [nanocortex/metube-firefox-addon](https://github.com/nanocortex/metube-firefox-addon): Firefox addon for queueing videos to MeTube instance.
+* [MikeFighting/MFSractchView](https://github.com/MikeFighting/MFSractchView): The tool used for scratch lottery. 
 * [MorpheApp/MicroG-RE](https://github.com/MorpheApp/MicroG-RE): GmsCore fork for Morphe patched apps
 * [alsyundawy/Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS): Installer & Activited Microsoft Office For MacOS
 * [artginzburg/MiddleClick](https://github.com/artginzburg/MiddleClick):  "Wheel click" with three-finger click/tap for Trackpad and Magic Mouse.
@@ -1872,6 +1893,7 @@ creating your own Awesome List by GitHub stars!
 * [Federico-Ciuffardi/nay-dotfiles](https://github.com/Federico-Ciuffardi/nay-dotfiles): None
 * [xwmx/nb](https://github.com/xwmx/nb): CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 * [kyleskom/NBA-Machine-Learning-Sports-Betting](https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting): NBA sports betting using machine learning
+* [cantplayifyoudontwin/nc-lottery-website](https://github.com/cantplayifyoudontwin/nc-lottery-website): NC lottery scratch-off analysis website
 * [grishka/NearDrop](https://github.com/grishka/NearDrop): An unofficial Google Nearby Share/Quick Share app for macOS
 * [feilvan/neatly](https://github.com/feilvan/neatly): None
 * [unfolding-io/nebulix](https://github.com/unfolding-io/nebulix): Nebulix, a Fast & Green Theme Based on Astro + Static CMS + Snipcart
@@ -1956,6 +1978,7 @@ creating your own Awesome List by GitHub stars!
 * [Lapis0x0/obsidian-yolo](https://github.com/Lapis0x0/obsidian-yolo): Smart, snappy, and multilingual AI assistant for your Obsidian vault. Forked from Smart Composer, but with bigger dreams.
 * [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium): Get Android app updates straight from the source.
 * [DevipriyaSarkar/OCR-Reader](https://github.com/DevipriyaSarkar/OCR-Reader): An Android app to extract text from camera preview directly.
+* [dannyhines/odds-converter-extension](https://github.com/dannyhines/odds-converter-extension): Chrome extension to show the implied probability next to all instances of American odds (i.e. "+140") that appear on the webpage.
 * [njnmco/odinochka](https://github.com/njnmco/odinochka): featherweight tab manager
 * [snte/odinochka](https://github.com/snte/odinochka): featherweight tab manager
 * [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh): The most customisable and low-latency cross platform/shell prompt renderer
@@ -2239,6 +2262,7 @@ creating your own Awesome List by GitHub stars!
 * [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI): PraisonAI is a production-ready Multi AI Agents framework, designed to create AI Agents to automate and solve problems ranging from simple tasks to complex challenges. It provides a low-code solution to streamline the building and management of multi-agent LLM systems, emphasising simplicity, customisation, and effective human-agent collaboration.
 * [parkermuir/preflop-poker](https://github.com/parkermuir/preflop-poker): Python scripts to navigate Texas Hold 'Em and Pot Limit Omaha preflop decision trees ♠️♣️
 * [MozillaSecurity/prefpicker](https://github.com/MozillaSecurity/prefpicker): Manage & generate prefs.js files
+* [piejanssens/premiumizer](https://github.com/piejanssens/premiumizer): Download manager for premiumize.me cloud downloads
 * [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode): Visual Studio Code extension for Prettier
 * [n89nanda/pretty-pocket](https://github.com/n89nanda/pretty-pocket): Convert Pocket Export file from HTML to Json to reveal tags and other metadata
 * [alkatrazstudio/prev-colors](https://github.com/alkatrazstudio/prev-colors): Thunderbird add-on for choosing one of the previously selected colors
@@ -2321,6 +2345,7 @@ creating your own Awesome List by GitHub stars!
 * [1280px/rainfox](https://github.com/1280px/rainfox): Photon UI, re-imagined.
 * [rajaprerak/rajaprerak.github.io](https://github.com/rajaprerak/rajaprerak.github.io): Personal Portfolio Website
 * [HoldemPokerTools/RangeAssistant](https://github.com/HoldemPokerTools/RangeAssistant): Texas Hold'em Opening Range Assistant web and desktop application for OS X and Windows (beta)
+* [hauxir/rapidbay](https://github.com/hauxir/rapidbay): Self-hosted torrent video streaming service compatible with Chromecast, AppleTV & Kodi deployable in the cloud
 * [LoneWanderer-GH/RaspiVWS](https://github.com/LoneWanderer-GH/RaspiVWS): Raspberry Pi Webcam Streaming with Logitech C920 and VLC
 * [librats/rats-search](https://github.com/librats/rats-search): rats-search: BitTorrent P2P multi-platform search engine for Desktop and Web servers with integrated torrent client
 * [isheeze/rawalpindis](https://github.com/isheeze/rawalpindis): Shopify os 2.0 first theme of mine
@@ -2486,7 +2511,13 @@ creating your own Awesome List by GitHub stars!
 * [shoekla/ScrapeC](https://github.com/shoekla/ScrapeC): ScrapeC is a “mock” search engine, in the fact that it does a lot of what Bing, YouTube, and DuckDuckGo does, but instead of searching its own database it crawls and scrape these search engines and other websites. Along with return links, images, and videos of searches it also return PDFs, Social Media information (Facebook, Twitter, Google+), and Contact Information related to the links that it returns. On top of that ScrapeC also has the same features on a smaller scale for web addresses used as an input. Link: http://scrapec.pythonanywhere.com/
 * [Phisteven/scraping-bets](https://github.com/Phisteven/scraping-bets): Experiments with web srcaping from sports betting websites
 * [GChristensen/scrapyard](https://github.com/GChristensen/scrapyard): Bookmark heavy lifting
+* [AdamEshem/Scratch-Off-Probability](https://github.com/AdamEshem/Scratch-Off-Probability): Gives the probability of each scratch off ticket in the Ohio Lottery.
+* [nate-walter/Scratch-Off-Science](https://github.com/nate-walter/Scratch-Off-Science): A non-gambling data analyst and his scratch off lottery ticket experiment 
+* [ImmaZoni/scratcha](https://github.com/ImmaZoni/scratcha): A simple python script to scrape scratcher data from AZ Lottery website.
+* [screwtape9/scratcher](https://github.com/screwtape9/scratcher): Command line utility to get GA lottery scratch off ticket claimed percentage.
 * [iyulaev/scratcherCalc](https://github.com/iyulaev/scratcherCalc): Android app that can be used to screen CA lottery scratcher tickets based on expected value, jackpot likelihood, and to screen out tickets with the majority or all of the jackpots claimed
+* [ivan-shires/ScratchOffBot](https://github.com/ivan-shires/ScratchOffBot): This is a bot integrated with the Twitter API to automatically report publically available metrics about the North Carolina Education Lottery. Currently - I only plan on using the Scratch Off portion, although there is a possibility of adding an algorithm for Pick 3's - specifically targeted at my favorite gamemode, One-Off.
+* [Railikebread/scratchsmart](https://github.com/Railikebread/scratchsmart): A scratch-off lottery analyzer app for New York State built with Java (Spring Boot) and React. Calculates and displays the best value tickets based on real-time public data.
 * [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy): Display and control your Android device
 * [hotchemi/Scre](https://github.com/hotchemi/Scre): A lightweight screen recorder macOS application written in SwiftUI.
 * [SamuelZ12/screen-scribe](https://github.com/SamuelZ12/screen-scribe): macOS app for screen-to-text OCR (Markdown, LaTeX, etc.)
@@ -2555,6 +2586,7 @@ creating your own Awesome List by GitHub stars!
 * [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock): Hunt down social media accounts by username across social networks
 * [FH-Potsdam/shifted-maps](https://github.com/FH-Potsdam/shifted-maps): Shifted Maps visualizes personal movement data as a network of map extracts showing visited places.
 * [fikovnik/ShiftIt](https://github.com/fikovnik/ShiftIt): Managing windows size and position in OSX
+* [mberk/shin](https://github.com/mberk/shin): Python implementation of Shin's method for calculating implied probabilities from bookmaker odds
 * [dreamRs/shinyWidgets](https://github.com/dreamRs/shinyWidgets): shinyWidgets : Extend widgets available in shiny
 * [go-shiori/shiori](https://github.com/go-shiori/shiori): Simple bookmark manager built with Go
 * [go-shiori/shiori-web-ext](https://github.com/go-shiori/shiori-web-ext): Web extension for using Shiori in Firefox and Chrome
@@ -2754,6 +2786,7 @@ creating your own Awesome List by GitHub stars!
 * [NoureldinAmer/stylometry-based-trigger-llm-backdoor-attack](https://github.com/NoureldinAmer/stylometry-based-trigger-llm-backdoor-attack): None
 * [openstyles/stylus](https://github.com/openstyles/stylus): Stylus - Userstyles Manager
 * [jonschlinkert/sublime-monokai-extended](https://github.com/jonschlinkert/sublime-monokai-extended): Extends Monokai from Soda with additional syntax highlighting for Markdown, LESS, HTML, Handlebars and more.
+* [huhusmang/Subscription-Management](https://github.com/huhusmang/Subscription-Management): Manage and track your subscriptions and expenses easily.
 * [artginzburg/sudo-touchid](https://github.com/artginzburg/sudo-touchid):  Permanent TouchID support 👆 for `sudo`.
 * [NotaInutilis/Super-SEO-Spam-Suppressor](https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor): An anticapitalist blocklist targeting websites abusing SEO tactics to spam web searches with data pollution and security risks: content farms, scrapers, copycats, generative AIs, scams, advertisements, malwares, and useless wasteful garbage in general. It is best used with uBlacklist.
 * [yorukot/superfile](https://github.com/yorukot/superfile): Pretty fancy and modern terminal file manager
@@ -2985,6 +3018,7 @@ creating your own Awesome List by GitHub stars!
 * [joshuacant/undo_closed_tabs_menu](https://github.com/joshuacant/undo_closed_tabs_menu): Firefox webextension to add an undo closed tabs menu to tabs.
 * [p1usminus/undoclosetabreplacement](https://github.com/p1usminus/undoclosetabreplacement): Updated for FF78+
 * [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit): The easiest way to use git. On any platform. Anywhere.
+* [stuartread7/Unibet-Scraper](https://github.com/stuartread7/Unibet-Scraper): Script to extract the implied probabilities of all outcomes listed in the live-betting section of unibet.com.  The script has applications in sports gambling arbitrage and for building live alert tools.
 * [npease18/Unichat-Firefox-Extension](https://github.com/npease18/Unichat-Firefox-Extension): The repo for the firefox port of the Unichat Chrome Extension
 * [jeffreytram/UniDrive](https://github.com/jeffreytram/UniDrive): 🗄 Access, organize, and manage several Google Drive accounts in one place.
 * [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater): Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
@@ -3149,6 +3183,7 @@ creating your own Awesome List by GitHub stars!
 * [usc-isi-i2/Web-Karma](https://github.com/usc-isi-i2/Web-Karma): Information Integration Tool
 * [MykytaCherniavskyi/web-profile](https://github.com/MykytaCherniavskyi/web-profile): Personal website built with Astro 4.0 and styled using Tailwind CSS
 * [infokiller/web-search-navigator](https://github.com/infokiller/web-search-navigator): Web extension that adds keyboard shortcuts to Google, YouTube, Github, Amazon, and others (Chrome/Firefox/Edge/Safari)
+* [alx-xlx/web-skills](https://github.com/alx-xlx/web-skills): A visual overview of useful skills to learn as a web developer
 * [yourduskquibbles/webannoyances](https://github.com/yourduskquibbles/webannoyances): Fix and remove annoying web elements such as sticky headers, floating boxes, floating videos, dickbars, social share bars and other distracting elements.
 * [webcomponents/webcomponentsjs](https://github.com/webcomponents/webcomponentsjs): A suite of polyfills supporting the HTML Web Components specs
 * [Frontendland/webcore-astro-portfolio](https://github.com/Frontendland/webcore-astro-portfolio): Free and open-source portfolio template for Astro built using Webcore
@@ -3167,6 +3202,7 @@ creating your own Awesome List by GitHub stars!
 * [kpriyanshu256/Webpage_hosting_from_google_drive](https://github.com/kpriyanshu256/Webpage_hosting_from_google_drive): Easy way of hosting webpages using a Google Drive Account
 * [emin/WebPQuickLook](https://github.com/emin/WebPQuickLook): Mac OS X QuickLook plugin for WebP image files
 * [danny0838/webscrapbook](https://github.com/danny0838/webscrapbook): A browser extension that captures web pages to local device or backend server for future retrieval, organization, annotation, and edit. This project inherits from legacy Firefox add-on ScrapBook X.
+* [alx-xlx/websites](https://github.com/alx-xlx/websites): Websites I visit
 * [Sav22999/websites-notes](https://github.com/Sav22999/websites-notes): Take notes on every website in a smart and simple way!
 * [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent): ⚡️ Streaming torrent client for the web
 * [oOthkOo/whatsapp-desktop](https://github.com/oOthkOo/whatsapp-desktop): Unofficial WhatsApp Desktop Client for OSX, Linux and Windows. Build with Electron.
