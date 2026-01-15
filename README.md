@@ -1235,7 +1235,7 @@ creating your own Awesome List by GitHub stars!
 * [github/gitignore](https://github.com/github/gitignore): A collection of useful .gitignore templates
 * [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal): Mobile first Note Taking integrated with Git
 * [arifszn/gitprofile](https://github.com/arifszn/gitprofile): 🚀 Create and publish a dynamic portfolio by just providing your GitHub username.
-* [gorse-io/gitrec](https://github.com/gorse-io/gitrec): A recommender system for GitHub repositories based on Gorse
+* [gorse-io/gitrec](https://github.com/gorse-io/gitrec): A recommender system for GitHub repositories based on Gorse provides personalized recommendations and similar repositories 
 * [to-ie/gitswitch](https://github.com/to-ie/gitswitch): This script helps with users who have multiple GitHub profiles and require to switch between them on a regular basis.  
 * [k0src/GitSync](https://github.com/k0src/GitSync): Sync Firefox windows, tabs, and tab groups via GitHub
 * [aritrakrbasu/gitty](https://github.com/aritrakrbasu/gitty): Gitty is a handy tool that will instantly transform your github account to a presentable portfolio website that you can share. 
@@ -1849,6 +1849,7 @@ creating your own Awesome List by GitHub stars!
 * [conema/monterail-fulldark](https://github.com/conema/monterail-fulldark): Monterail Full Dark, a Thunderbird theme inspired by the mockup of Monterail 
 * [eduardhojbota/moonlight-userChrome](https://github.com/eduardhojbota/moonlight-userChrome): A dark userstyle for Firefox inspired by moonlight-vscode-theme and github-moonlight
 * [peci1/more-snooze](https://github.com/peci1/more-snooze): More Snooze addon for Thunderbird
+* [MorpheApp/morphe-patches](https://github.com/MorpheApp/morphe-patches): Morphe Patches
 * [Caldis/Mos](https://github.com/Caldis/Mos): 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
 * [thePaulV/Most-Recent-Tab](https://github.com/thePaulV/Most-Recent-Tab): Firefox addon that adds a keyboard shortcut to switch back to your most recently selected tab. Useful to alternate between two tabs and to easily go back to your last tab if you switch to another briefly.
 * [motioneye-project/motioneyeos](https://github.com/motioneye-project/motioneyeos): A Video Surveillance OS For Single-board Computers
