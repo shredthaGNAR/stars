@@ -115,7 +115,6 @@ creating your own Awesome List by GitHub stars!
 * [BenjaminOddou/alfred-folderify](https://github.com/BenjaminOddou/alfred-folderify): 📁 Generate pixel-perfect macOS folder icons
 * [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow): GitHub Workflow for Alfred
 * [aviaryan/alfred-last2imgur](https://github.com/aviaryan/alfred-last2imgur): Alfred workflow to upload the last screenshot taken to Imgur + (delete and minify image)
-* [nikivdev/alfred-my-mind](https://github.com/nikivdev/alfred-my-mind): Alfred workflow to search through my notes and bookmarks
 * [kostyafarber/alfred-notable-workflow](https://github.com/kostyafarber/alfred-notable-workflow): Search, open and make notes from Alfred 5 in Notable 📓
 * [nicooprat/alfred-ocr](https://github.com/nicooprat/alfred-ocr): Take a snapshot and recognize text
 * [otherguy/alfred-passwords-workflow](https://github.com/otherguy/alfred-passwords-workflow): An Alfred 4 workflow that allows you to quickly generate strong passwords.
@@ -134,7 +133,7 @@ creating your own Awesome List by GitHub stars!
 * [deanishe/alfred-workflow](https://github.com/deanishe/alfred-workflow): Full-featured library for writing Alfred 3 & 4 workflows
 * [Stephen-Lon/Alfred-workflow-open-macos-settings-panes](https://github.com/Stephen-Lon/Alfred-workflow-open-macos-settings-panes): Open macOS Settings Panes from list
 * [alanhe421/alfred-workflows](https://github.com/alanhe421/alfred-workflows): Save time, Improve life.🚀  ☕️ 💻
-* [learn-anything/alfred-workflows](https://github.com/learn-anything/alfred-workflows): Amazing Alfred Workflows
+* [linsa-io/alfred-workflows](https://github.com/linsa-io/alfred-workflows): Amazing Alfred Workflows
 * [rknightuk/alfred-workflows](https://github.com/rknightuk/alfred-workflows): My Alfred Workflows
 * [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows): Collection of Alfred workflows
 * [zeitlings/alfred-workflows](https://github.com/zeitlings/alfred-workflows): Collected Alfred Workflows & Proof of Concept
@@ -1790,6 +1789,7 @@ creating your own Awesome List by GitHub stars!
 * [ryosama/mbox_spliter](https://github.com/ryosama/mbox_spliter): Split large mbox files (from hunderbird) into smaller one, class by year of the message
 * [olivierodo/MBP-BTT-activity-monitor-touchbar](https://github.com/olivierodo/MBP-BTT-activity-monitor-touchbar):  Activity monitor toolbar widget for the Macbook Pro
 * [olivierodo/MBP-BTT-spotify-touchbar](https://github.com/olivierodo/MBP-BTT-spotify-touchbar):  Spotify touchbar widget for Macbook touchbar
+* [nikivdev/mbt](https://github.com/nikivdev/mbt): MoonBit tools, libraries and other code
 * [alienator88/McBrew](https://github.com/alienator88/McBrew): A fast GUI for Homebrew written in SwiftUI
 * [srbhptl39/MCP-SuperAssistant](https://github.com/srbhptl39/MCP-SuperAssistant): Brings MCP to ChatGPT, DeepSeek, Perplexity, Grok, Gemini, Google AI Studio, OpenRouter, DeepSeek, T3 Chat and more...
 * [QuanBlue/mearn-portfolio](https://github.com/QuanBlue/mearn-portfolio): My first portfolio website, using MERN stack
@@ -1818,6 +1818,7 @@ creating your own Awesome List by GitHub stars!
 * [glaurent/MessagesHistoryBrowser](https://github.com/glaurent/MessagesHistoryBrowser): a macOS/OSX app to comfortably browse and search through your Messages.app history.
 * [slimcandy/MetaCleaner](https://github.com/slimcandy/MetaCleaner): Remove metadata from your images online.
 * [duolingo/metasearch](https://github.com/duolingo/metasearch): Search aggregator for Slack, Google Docs, GitHub, and more :mag:
+* [mostafaalagamy/Metrolist](https://github.com/mostafaalagamy/Metrolist): YouTube Music client for Android
 * [alexta69/metube](https://github.com/alexta69/metube): Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 * [nanocortex/metube-firefox-addon](https://github.com/nanocortex/metube-firefox-addon): Firefox addon for queueing videos to MeTube instance.
 * [MikeFighting/MFSractchView](https://github.com/MikeFighting/MFSractchView): The tool used for scratch lottery. 
@@ -2482,7 +2483,7 @@ creating your own Awesome List by GitHub stars!
 * [huhu/rust-search-extension](https://github.com/huhu/rust-search-extension): 🦀 The ultimate search extension for Rust
 * [rvm/rvm](https://github.com/rvm/rvm): Ruby enVironment Manager (RVM)
 * [j-hc/rvmm-config-gen](https://github.com/j-hc/rvmm-config-gen): config generator for revanced-magisk-module
-* [krvstek/rvx-apks](https://github.com/krvstek/rvx-apks): 📦 RVX's pre-made APKs
+* [krvstek/rvx-apks](https://github.com/krvstek/rvx-apks): 📦 Pre-built APKs for Morphe, RVX & Piko
 * [inotia00/rvx-builder](https://github.com/inotia00/rvx-builder): A NodeJS ReVanced Extended builder
 * [darshanbaral/sada](https://github.com/darshanbaral/sada): Simple hugo theme for resume created using Tailwind CSS
 * [linuxscoop/safarifox-theme](https://github.com/linuxscoop/safarifox-theme): A Firefox theme look Like Safari Web Browser
