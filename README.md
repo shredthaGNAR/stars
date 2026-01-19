@@ -1275,6 +1275,7 @@ creating your own Awesome List by GitHub stars!
 * [vinaywadhwa/Google-Account-Switcher---Alfred](https://github.com/vinaywadhwa/Google-Account-Switcher---Alfred): An Alfred workflow to Switch Google/GSuite accounts on Google websites (Gmail, Drive, Calendar) with keyboard shortcuts.
 * [mikeroyal/Google-Cloud-Guide](https://github.com/mikeroyal/Google-Cloud-Guide): Google Cloud Platform (GCP) Guide. Learn all about Google Cloud Tools, Services, and Certifications.
 * [elibroftw/google-dark-theme](https://github.com/elibroftw/google-dark-theme): A dark theme for Google based on YouTube's dark theme
+* [astrada/google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse): FUSE filesystem over Google Drive
 * [Sparab16/Google-Drive-Upload](https://github.com/Sparab16/Google-Drive-Upload): Google drive upload is useful to help the user upload any files/folders directly on thier respective Google Drive account without leaving their system.
 * [willo32/google-drive-upload-action](https://github.com/willo32/google-drive-upload-action): Github action to upload a file to Google Drive using a service account
 * [alfredapp/google-drive-workflow](https://github.com/alfredapp/google-drive-workflow): Alfred Workflow for Google Drive
@@ -2067,6 +2068,7 @@ creating your own Awesome List by GitHub stars!
 * [ajaybhatia/Operator-Mono](https://github.com/ajaybhatia/Operator-Mono): Operator Mono Font
 * [kiliman/operator-mono-lig](https://github.com/kiliman/operator-mono-lig): Add ligatures to Operator Mono similar to Fira Code
 * [sujon-co/operator-mono-ligature](https://github.com/sujon-co/operator-mono-ligature):  Operator Mono ligatures build file
+* [Dj0ulo/OptiSearch](https://github.com/Dj0ulo/OptiSearch): OptiSearch ｜ Copilot in Google ｜ Gemini next to Google results
 * [kmillionary/order-printer-templates](https://github.com/kmillionary/order-printer-templates): Customize free Shopify Order Printer templates.
 * [loveshopify/orium](https://github.com/loveshopify/orium): None
 * [shredthaGNAR/OS-Folder-Icons](https://github.com/shredthaGNAR/OS-Folder-Icons): A collection of custom folder icons for (Mac, Linux and Windows)
@@ -2264,6 +2266,7 @@ creating your own Awesome List by GitHub stars!
 * [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI): PraisonAI is a production-ready Multi AI Agents framework, designed to create AI Agents to automate and solve problems ranging from simple tasks to complex challenges. It provides a low-code solution to streamline the building and management of multi-agent LLM systems, emphasising simplicity, customisation, and effective human-agent collaboration.
 * [parkermuir/preflop-poker](https://github.com/parkermuir/preflop-poker): Python scripts to navigate Texas Hold 'Em and Pot Limit Omaha preflop decision trees ♠️♣️
 * [MozillaSecurity/prefpicker](https://github.com/MozillaSecurity/prefpicker): Manage & generate prefs.js files
+* [neox387/premiumizer](https://github.com/neox387/premiumizer): None
 * [piejanssens/premiumizer](https://github.com/piejanssens/premiumizer): Download manager for premiumize.me cloud downloads
 * [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode): Visual Studio Code extension for Prettier
 * [n89nanda/pretty-pocket](https://github.com/n89nanda/pretty-pocket): Convert Pocket Export file from HTML to Json to reveal tags and other metadata
@@ -2532,7 +2535,7 @@ creating your own Awesome List by GitHub stars!
 * [dfiiroz/scss-to-css](https://github.com/dfiiroz/scss-to-css): Now, This is Shopify Online Store 2.0. The importance of CSS is undeniable and Shopify Deprecated the SCSS support. I have converted the gift-card.sccs & theme.scss files to gift-card.css and theme.css files.
 * [neilalexander/seaglass](https://github.com/neilalexander/seaglass): A truly native Matrix client for macOS - written in Swift/Cocoa, with E2E encryption support
 * [rominirani/Search-A-Profile](https://github.com/rominirani/Search-A-Profile): A Google Talk Bot that gives you details about a person from various Social Networks given an email address. Powered by Get Contact API
-* [Fannon/search-bookmarks-history-and-tabs](https://github.com/Fannon/search-bookmarks-history-and-tabs): Browser extension to search and navigate browser tabs, local bookmarks and history.
+* [Fannon/search-bookmarks-history-and-tabs](https://github.com/Fannon/search-bookmarks-history-and-tabs): Browser extension to search bookmarks, history and tabs. Supports tagging and fuzzy search.
 * [dessant/search-by-image](https://github.com/dessant/search-by-image): Browser extension for reverse image search, available for Chrome, Edge and Safari
 * [rakib86/Search-Engine-2.0](https://github.com/rakib86/Search-Engine-2.0): None
 * [YoshifumiFuyuno/Search-from-Popup-or-ContextMenu](https://github.com/YoshifumiFuyuno/Search-from-Popup-or-ContextMenu): WebExtension
@@ -3258,7 +3261,7 @@ creating your own Awesome List by GitHub stars!
 * [mattDavo/Yippy](https://github.com/mattDavo/Yippy): macOS open source clipboard manager
 * [purocean/yn](https://github.com/purocean/yn): A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macro replacement.
 * [soimort/you-get](https://github.com/soimort/you-get): :arrow_double_down: Dumb downloader that scrapes the web
-* [code-charity/youtube](https://github.com/code-charity/youtube): Open YouTube & Video browser-extension [top~1] Enrich your experience&choice!🧰200+options; clever features📌set&forget📌Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|content discovery|player|extra buttons|distractions|related videos|shorts|ads|quality|codec|full tab|full screen}
+* [code-charity/youtube](https://github.com/code-charity/youtube): Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰200+options; clever features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|content discovery|player|extra buttons|distractions|related videos|shorts|ads|quality|codec|full tab|full screen}
 * [OsaSoft/youtube-better-subscriptions](https://github.com/OsaSoft/youtube-better-subscriptions): This extension for Firefox and Chrome aims to make navigating YouTube's subscription grid easier by allowing users to hide watched videos
 * [Jeeaaasus/youtube-dl](https://github.com/Jeeaaasus/youtube-dl): Automated yt-dlp Docker image
 * [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl): Command-line program to download videos from YouTube.com and other video sites
