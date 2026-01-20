@@ -618,7 +618,7 @@ creating your own Awesome List by GitHub stars!
 * [jcv8000/Codex](https://github.com/jcv8000/Codex): A free note-taking software for programmers and Computer Science students
 * [frankmdmc/CodexDidThis](https://github.com/frankmdmc/CodexDidThis): GPT Codex Did This
 * [coinpaprika/coinpaprika-api-swift-client](https://github.com/coinpaprika/coinpaprika-api-swift-client): This library provides convenient way to use Coinpaprika.com API in Swift.
-* [jmenichole/CollectClock](https://github.com/jmenichole/CollectClock): This project aims to streamline the bonus collection process and create an efficient system for timing multiple casino collections.
+* [TiltCheck-ME/CollectClock](https://github.com/TiltCheck-ME/CollectClock): This project aims to streamline the bonus collection process and create an efficient system for timing multiple casino collections.
 * [ZizhengYang/Collection-Obsidian-Templates-Snippets](https://github.com/ZizhengYang/Collection-Obsidian-Templates-Snippets): This is a document collecting or different `Obsidian` snippets, how to write, how to use and how to expand
 * [CollectionBuilder/collectionbuilder-gh](https://github.com/CollectionBuilder/collectionbuilder-gh): A framework for creating digital exhibits from a folder of files and a spreadsheet. See Readme below for instructions to get started!
 * [iShopifyExpert/color-swatches-as-sepreate-products](https://github.com/iShopifyExpert/color-swatches-as-sepreate-products): None
@@ -1936,6 +1936,7 @@ creating your own Awesome List by GitHub stars!
 * [notable/notable](https://github.com/notable/notable): The Markdown-based note-taking app that doesn't suck.
 * [notable/notable-customizations](https://github.com/notable/notable-customizations): A repository containing a collection of interesting community-created customizations for Notable.
 * [notable/notable-insiders](https://github.com/notable/notable-insiders): A repository containing experimental releases of Notable.
+* [mozilla/notes](https://github.com/mozilla/notes): DEPRECATED - A notepad for Firefox
 * [nuttyartist/notes](https://github.com/nuttyartist/notes): Fast and beautiful note-taking app written in C++. Write down your thoughts.
 * [adamyi/notes_to_keep](https://github.com/adamyi/notes_to_keep): Export all your Apple iCloud Notes to your Google Keep.
 * [andersrex/notesollama](https://github.com/andersrex/notesollama): Use Ollama to talk to local LLMs in Apple Notes

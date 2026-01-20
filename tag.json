@@ -2159,6 +2159,9 @@
     "ThoughtfulDev/EagleEye": [
         "Other"
     ],
+    "TiltCheck-ME/CollectClock": [
+        "Other"
+    ],
     "Timvde/UserChrome-Tweaks": [
         "Other"
     ],
@@ -5573,9 +5576,6 @@
     "jmathai/elodie": [
         "Other"
     ],
-    "jmenichole/CollectClock": [
-        "Other"
-    ],
     "jnv/lists": [
         "Other"
     ],
@@ -6744,6 +6744,9 @@
         "Other"
     ],
     "mozilla/multi-account-containers": [
+        "Other"
+    ],
+    "mozilla/notes": [
         "Other"
     ],
     "mozilla/releases-comm-central": [
