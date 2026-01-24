@@ -1964,7 +1964,7 @@ creating your own Awesome List by GitHub stars!
 * [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git): Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
 * [nuthrash/obsidian-html-plugin](https://github.com/nuthrash/obsidian-html-plugin): This is a plugin for Obsidian (https://obsidian.md). Can open document with .html and .htm file extensions.
 * [mProjectsCode/obsidian-meta-bind-plugin](https://github.com/mProjectsCode/obsidian-meta-bind-plugin): A plugin for Obsidian to make your notes interactive with inline input fields, metadata displays, and buttons.
-* [Elhary/Obsidian-NetClip](https://github.com/Elhary/Obsidian-NetClip): this plugin is for Obsidian that allows you to browse the web and clip webpages directly into your vault.
+* [elhariss/Obsidian-NetClip](https://github.com/elhariss/Obsidian-NetClip): this plugin is for Obsidian that allows you to browse the web and clip webpages directly into your vault.
 * [chrisgurney/obsidian-note-toolbar](https://github.com/chrisgurney/obsidian-note-toolbar): Create flexible, context-aware toolbars for your notes with this plugin for Obsidian.
 * [Jacobinwwey/obsidian-NotEMD](https://github.com/Jacobinwwey/obsidian-NotEMD): A Easy way to create your own Knowledge-base! Notemd enhances your Obsidian workflow by integrating with various Large Language Models (LLMs) to process your notes, automatically generate wiki-links for key concepts, create corresponding concept notes, perform web research, and more.
 * [hinterdupfinger/obsidian-ollama](https://github.com/hinterdupfinger/obsidian-ollama): None
@@ -2093,6 +2093,7 @@ creating your own Awesome List by GitHub stars!
 * [CptFoobar/Owl](https://github.com/CptFoobar/Owl): A Mozilla Firefox add-on to make online reading comfortable.
 * [seemoo-lab/owl](https://github.com/seemoo-lab/owl): An open Apple Wireless Direct Link (AWDL) implementation written in C
 * [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist): Use your locally running AI models to assist you in your web browsing
+* [fm-sys/pairdrop-android](https://github.com/fm-sys/pairdrop-android): Android client for local file sharing via https://pairdrop.net and self-hosted snapdrop 
 * [AaronSoria/PAnalizer](https://github.com/AaronSoria/PAnalizer): PAnalizer is a forensic tool, you can search pornographic images in a specific directory, this is util in Pedestrian Detection. Also you can search a specific person in image set, is necesesary give to the aplication a few pictures of the person of interest
 * [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai): Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 * [projectdelphai/panorama-tab-groups](https://github.com/projectdelphai/panorama-tab-groups):  An add-on for Firefox that implements the old Tab Groups/Panorama functionality
@@ -2114,7 +2115,7 @@ creating your own Awesome List by GitHub stars!
 * [shash007/People-Search-on-Social-Networks-using-Face-Recognition](https://github.com/shash007/People-Search-on-Social-Networks-using-Face-Recognition): Searching people on social networking sites using Face Recognition
 * [preetmodh/PeopleConnect](https://github.com/preetmodh/PeopleConnect): A Social Media Web application made using the Django rest framework (for API endpoints) and reactjs where users can chat in real-time(using channels and signals), post their updates, like, comment and view other users’ posts & profiles, search users & follow-unfollow them and get notified about activities on their profile.
 * [ChanChunCheong/PeopleSearch](https://github.com/ChanChunCheong/PeopleSearch): DSO Summer Internship-People Search Aggregator web application which use data analytics and artificial intelligence libraries, to simultaneously search social media profiles from various platforms, processes, and then rank the search results based on name, location, keywords and image matching
-* [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica): Perplexica is an AI-powered answering engine. It is an Open source alternative to Perplexity AI
+* [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica): Perplexica is an AI-powered answering engine.
 * [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis): Persepolis is a download manager written in Python.
 * [ivansaul/personal-portfolio](https://github.com/ivansaul/personal-portfolio): Fully responsive personal  portfolio single-page website, responsive for all devices, built using HTML, CSS, JavaScript and Python.
 * [juyomay21/personal-site](https://github.com/juyomay21/personal-site): My personal website - built with React, React-Router, React-Snap for Static-Export, and GitHub Pages.
@@ -2487,7 +2488,6 @@ creating your own Awesome List by GitHub stars!
 * [huhu/rust-search-extension](https://github.com/huhu/rust-search-extension): 🦀 The ultimate search extension for Rust
 * [rvm/rvm](https://github.com/rvm/rvm): Ruby enVironment Manager (RVM)
 * [j-hc/rvmm-config-gen](https://github.com/j-hc/rvmm-config-gen): config generator for revanced-magisk-module
-* [krvstek/rvx-apks](https://github.com/krvstek/rvx-apks): 📦 Pre-built APKs for Morphe, RVX & Piko
 * [inotia00/rvx-builder](https://github.com/inotia00/rvx-builder): A NodeJS ReVanced Extended builder
 * [darshanbaral/sada](https://github.com/darshanbaral/sada): Simple hugo theme for resume created using Tailwind CSS
 * [linuxscoop/safarifox-theme](https://github.com/linuxscoop/safarifox-theme): A Firefox theme look Like Safari Web Browser
@@ -2709,7 +2709,6 @@ creating your own Awesome List by GitHub stars!
 * [Wozzify/Snapchat-Memory-Downloader](https://github.com/Wozzify/Snapchat-Memory-Downloader): Downloads Snapchat Memories Quickly and Efficiently
 * [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop): A Progressive Web App for local file sharing 
 * [hoothin/snapdrop](https://github.com/hoothin/snapdrop): Modify for ipv6 and WAN. 自用改版，相容於 ipv6 與廣域網
-* [fm-sys/snapdrop-android](https://github.com/fm-sys/snapdrop-android): Android client for local file sharing via https://pairdrop.net and self-hosted snapdrop 
 * [alextwothousand/snapdrop-desktop](https://github.com/alextwothousand/snapdrop-desktop): A Snapdrop Desktop app written using Electron.
 * [ueen/SnapdropFirefoxAddon](https://github.com/ueen/SnapdropFirefoxAddon): Snapdrop for Firefox (Addon)
 * [pato/snapsaver](https://github.com/pato/snapsaver): android app that saves snapchats
@@ -2732,6 +2731,7 @@ creating your own Awesome List by GitHub stars!
 * [chris1111/Softwareupdate-full-installer](https://github.com/chris1111/Softwareupdate-full-installer): Command Line script to download Install macOS
 * [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr): Smart PVR for newsgroup and bittorrent users.
 * [semvis123/Sonitus](https://github.com/semvis123/Sonitus): Noise-control like native, but for non-Apple devices
+* [sooti/sootio-stremio-addon](https://github.com/sooti/sootio-stremio-addon): Stremio Addon to search downloads and torrents in your Debrid cloud
 * [SortableJS/Sortable](https://github.com/SortableJS/Sortable): Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
 * [pesc101/SortRobot](https://github.com/pesc101/SortRobot): Python script to sort the mac download dir automatially
 * [mattingalls/Soundflower](https://github.com/mattingalls/Soundflower): MacOS system extension that allows applications to pass audio to other applications. Soundflower works on macOS Catalina.
@@ -3025,6 +3025,7 @@ creating your own Awesome List by GitHub stars!
 * [joshuacant/undo_closed_tabs_menu](https://github.com/joshuacant/undo_closed_tabs_menu): Firefox webextension to add an undo closed tabs menu to tabs.
 * [p1usminus/undoclosetabreplacement](https://github.com/p1usminus/undoclosetabreplacement): Updated for FF78+
 * [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit): The easiest way to use git. On any platform. Anywhere.
+* [krvstek/uni-apks](https://github.com/krvstek/uni-apks): 📦 Pre-built APKs for Morphe & Piko
 * [stuartread7/Unibet-Scraper](https://github.com/stuartread7/Unibet-Scraper): Script to extract the implied probabilities of all outcomes listed in the live-betting section of unibet.com.  The script has applications in sports gambling arbitrage and for building live alert tools.
 * [npease18/Unichat-Firefox-Extension](https://github.com/npease18/Unichat-Firefox-Extension): The repo for the firefox port of the Unichat Chrome Extension
 * [jeffreytram/UniDrive](https://github.com/jeffreytram/UniDrive): 🗄 Access, organize, and manage several Google Drive accounts in one place.

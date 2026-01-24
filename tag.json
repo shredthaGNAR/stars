@@ -596,9 +596,6 @@
     "Ekultek/WhatWaf": [
         "Other"
     ],
-    "Elhary/Obsidian-NetClip": [
-        "Other"
-    ],
     "EliFuzz/awesome-system-prompts": [
         "Other"
     ],
@@ -4346,6 +4343,9 @@
     "elgervb/chrome-readinglist2": [
         "Other"
     ],
+    "elhariss/Obsidian-NetClip": [
+        "Other"
+    ],
     "eliasfloreteng/bitwarden_find_duplicates": [
         "Other"
     ],
@@ -4550,7 +4550,7 @@
     "floccusaddon/floccus": [
         "Other"
     ],
-    "fm-sys/snapdrop-android": [
+    "fm-sys/pairdrop-android": [
         "Other"
     ],
     "fmeyertoens/MaterialFox": [
@@ -5990,7 +5990,7 @@
     "krunkosaurus/bettertouchtool-crypto": [
         "Other"
     ],
-    "krvstek/rvx-apks": [
+    "krvstek/uni-apks": [
         "Other"
     ],
     "ksoeze/OmahaRangeExplorer": [
@@ -8514,6 +8514,9 @@
         "Other"
     ],
     "songquanpeng/one-api": [
+        "Other"
+    ],
+    "sooti/sootio-stremio-addon": [
         "Other"
     ],
     "soscripted/sox": [
