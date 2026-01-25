@@ -1992,7 +1992,7 @@ creating your own Awesome List by GitHub stars!
 * [OhShINT/ohshint.gitbook.io](https://github.com/OhShINT/ohshint.gitbook.io): So what is this all about? Yep, its an OSINT blog and a collection of OSINT resources and tools. Suggestions for new OSINT resources is always welcomed.
 * [cbuijs/oisd](https://github.com/cbuijs/oisd): Optimized version of OISD BlockLists
 * [tom-james-watson/old-reddit-redirect](https://github.com/tom-james-watson/old-reddit-redirect): Ensure Reddit always loads the old design
-* [ollama/ollama](https://github.com/ollama/ollama): Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
+* [ollama/ollama](https://github.com/ollama/ollama): Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 * [ollama-ui/ollama-ui](https://github.com/ollama-ui/ollama-ui): Simple HTML UI for Ollama
 * [kevinhermawan/Ollamac](https://github.com/kevinhermawan/Ollamac): Mac app for Ollama
 * [Sine-Of-Time/Omaha-Poker](https://github.com/Sine-Of-Time/Omaha-Poker):  A program that evaluates the winner of a 2-player Omaha-High Hold’em poker game.
@@ -2677,6 +2677,7 @@ creating your own Awesome List by GitHub stars!
 * [migueravila/simplefox](https://github.com/migueravila/simplefox): A Userstyle theme for Firefox minimalist and Keyboard centered.
 * [Automattic/simplenote-macos](https://github.com/Automattic/simplenote-macos): Simplenote for macOS
 * [gildas-lormeau/single-file-cli](https://github.com/gildas-lormeau/single-file-cli): CLI tool for saving a faithful copy of a complete web page in a single HTML file (based on SingleFile)
+* [gildas-lormeau/single-file-companion](https://github.com/gildas-lormeau/single-file-companion): None
 * [gildas-lormeau/single-file-companion-lite](https://github.com/gildas-lormeau/single-file-companion-lite): SingleFile Companion Lite
 * [gildas-lormeau/single-filez-core](https://github.com/gildas-lormeau/single-filez-core): None
 * [odeyemitobi/Single-page-personal-website](https://github.com/odeyemitobi/Single-page-personal-website): None
@@ -3112,7 +3113,7 @@ creating your own Awesome List by GitHub stars!
 * [rubjo/victor-mono](https://github.com/rubjo/victor-mono): A free programming font with cursive italics and ligatures. Donations welcome ❤️
 * [jeanslack/Videomass](https://github.com/jeanslack/Videomass): Videomass is a free, open source and cross-platform GUI for FFmpeg
 * [fruiz500/VideoSkip-extension](https://github.com/fruiz500/VideoSkip-extension): Same as VideoSkip, but as a Chrome/Firefox/Edge extension so it can edit videos streaming from many sources
-* [ViennaRSS/vienna-rss](https://github.com/ViennaRSS/vienna-rss): Vienna is a free and open-source RSS/Atom newsreader for macOS.
+* [ViennaRSS/vienna-rss](https://github.com/ViennaRSS/vienna-rss): Vienna is a free and open-source RSS/Atom/JSON feed newsreader for macOS.
 * [plwt/View-Pocket-List](https://github.com/plwt/View-Pocket-List): None
 * [bijij/ViewImage](https://github.com/bijij/ViewImage): Extension to re-implement the "View Image" and "Search by image" buttons into google images.
 * [FunkyMuse/Vigilante](https://github.com/FunkyMuse/Vigilante): 🛡️ Android security (camera/microphone dots indicators) app using Hilt, Animations, Coroutines, Material, StateFlow, Jetpack (Room, ViewModel, Paging, Security, Biometrics, Start-up) based on MVVM architecture.
