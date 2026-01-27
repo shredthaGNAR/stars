@@ -5,6 +5,9 @@
     "0x192/universal-android-debloater": [
         "Other"
     ],
+    "0xAwoL/firefox-tabs-clipboard-saver": [
+        "Other"
+    ],
     "0xRamInf0sec/SocialRecon": [
         "Other"
     ],
@@ -33,6 +36,9 @@
         "Other"
     ],
     "1280px/rainfox": [
+        "Other"
+    ],
+    "12th-devs/Firefox-AI-Testing.uc.mjs": [
         "Other"
     ],
     "1nfiniteloop/json-bookmarks": [
@@ -156,6 +162,9 @@
         "Other"
     ],
     "Airmail/AirmailPlugIn-Framework": [
+        "Other"
+    ],
+    "Ajith-analytics/Video_Downloader": [
         "Other"
     ],
     "Alan-Kuan/Firefox-Mod-Blur": [
@@ -482,6 +491,9 @@
     "Czarto/ShopifyScripts": [
         "Other"
     ],
+    "D3SOX/firefox-minimal-compact-css": [
+        "Other"
+    ],
     "DEMONOJUS/Better-Tab": [
         "Other"
     ],
@@ -552,6 +564,9 @@
         "Other"
     ],
     "Dis90/plugin.video.discoveryplus": [
+        "Other"
+    ],
+    "DivitMittal/firefox-nixCfg": [
         "Other"
     ],
     "Dj0ulo/OptiSearch": [
@@ -1001,6 +1016,9 @@
     "Javojav/Multi-engine-search": [
         "Other"
     ],
+    "Jay-Karia/wherewasi": [
+        "Other"
+    ],
     "JayBrown/imgurAU": [
         "Other"
     ],
@@ -1028,6 +1046,9 @@
     "JitouchApp/Jitouch-project": [
         "Other"
     ],
+    "Jman-Github/Awesome-ReVanced": [
+        "Other"
+    ],
     "Jman-Github/ReVanced-Patch-Bundles": [
         "Other"
     ],
@@ -1035,6 +1056,9 @@
         "Other"
     ],
     "Jmuccigr/AppleScripts": [
+        "Other"
+    ],
+    "JoBuettner/firefox-autoconfig-customizations": [
         "Other"
     ],
     "Joolee/userchrome-toggle": [
@@ -1074,6 +1098,9 @@
         "Other"
     ],
     "KURANADO2/hammerspoon-kuranado": [
+        "Other"
+    ],
+    "KaanCanINC/firefox-OCR-extension": [
         "Other"
     ],
     "KarlPiper/typography-shortcuts": [
@@ -1559,6 +1586,9 @@
     "Packetslave/onetab-to-bookmarks": [
         "Other"
     ],
+    "PanHywel/TidyMark": [
+        "Other"
+    ],
     "PapirusDevelopmentTeam/papirus-icon-theme": [
         "Other"
     ],
@@ -1959,6 +1989,9 @@
         "Other"
     ],
     "SoldierInFaith14/excel_automation": [
+        "Other"
+    ],
+    "SoloSaravanan/userjs": [
         "Other"
     ],
     "Sonarr/Sonarr": [
@@ -2453,10 +2486,16 @@
     "aayush210789/Deception-Detection-on-Amazon-reviews-dataset": [
         "Other"
     ],
+    "aazw/firefox-addon-quick-download-images": [
+        "Other"
+    ],
     "abaanshanid/Glox": [
         "Other"
     ],
     "abbeycode/AppleScripts": [
+        "Other"
+    ],
+    "abcpeak/apps-and-sites-collection": [
         "Other"
     ],
     "abdel7ak96/my-email-signature": [
@@ -2514,6 +2553,9 @@
         "Other"
     ],
     "adamlui/chatgpt-infinity": [
+        "Other"
+    ],
+    "adamlui/chatgpt-omnibox": [
         "Other"
     ],
     "adamschwartz/chrome-desaturate-favicons": [
@@ -2579,6 +2621,9 @@
     "ago1024/userchrome": [
         "Other"
     ],
+    "aheimowitz/ente-auth-extension": [
+        "Other"
+    ],
     "ahmadawais/dotfiles": [
         "Other"
     ],
@@ -2592,6 +2637,9 @@
         "Other"
     ],
     "airmessage/airmessage-web": [
+        "Other"
+    ],
+    "ait-cs-IaaS/ansible-firefox-autoconfig": [
         "Other"
     ],
     "ajaybhatia/Operator-Mono": [
@@ -3716,6 +3764,9 @@
     "coolaj86/dropshare": [
         "Other"
     ],
+    "corbindavenport/just-the-browser": [
+        "Other"
+    ],
     "cormiertyshawn895/Retroactive": [
         "Other"
     ],
@@ -3948,6 +3999,9 @@
         "Other"
     ],
     "ddawson/Link-Tools": [
+        "Other"
+    ],
+    "de1etenu11ptr/TGS-Extension": [
         "Other"
     ],
     "deanishe/alfred-convert": [
@@ -4256,6 +4310,9 @@
     "easonwong-de/Adaptive-Tab-Bar-Colour": [
         "Other"
     ],
+    "easonwong-de/Firefox-Adaptive-Sur-Theme": [
+        "Other"
+    ],
     "easonwong-de/Tab-Preview-On-Hover": [
         "Other"
     ],
@@ -4550,6 +4607,9 @@
     "floccusaddon/floccus": [
         "Other"
     ],
+    "floracheng/dusty-tabs": [
+        "Other"
+    ],
     "fm-sys/pairdrop-android": [
         "Other"
     ],
@@ -4566,6 +4626,9 @@
         "Other"
     ],
     "fmhy/dupe-checker": [
+        "Other"
+    ],
+    "fmhy/edit": [
         "Other"
     ],
     "fniephaus/alfred-pocket": [
@@ -4656,6 +4719,9 @@
         "Other"
     ],
     "gaerfield/static-marks-github-pages": [
+        "Other"
+    ],
+    "gamingdoom/datcord": [
         "Other"
     ],
     "ganapativs/bttn.css": [
@@ -4962,6 +5028,9 @@
         "Other"
     ],
     "hagezi/dns-blocklists": [
+        "Other"
+    ],
+    "hake12345/DumpChromeSecrets": [
         "Other"
     ],
     "halfhelix/shopify-guide": [
@@ -6227,6 +6296,9 @@
     "lra/mackup": [
         "Other"
     ],
+    "lrq3000/BookmarkSummarizer": [
+        "Other"
+    ],
     "lukakerr/OpenQuickly": [
         "Other"
     ],
@@ -6389,6 +6461,9 @@
     "marpies/protonmail-macos": [
         "Other"
     ],
+    "martabal/ff-diff": [
+        "Other"
+    ],
     "martinkorelic/my-joplin-theme": [
         "Other"
     ],
@@ -6408,6 +6483,9 @@
         "Other"
     ],
     "massCodeIO/massCode": [
+        "Other"
+    ],
+    "masterofobzene/UserScriptRepo": [
         "Other"
     ],
     "material-components/material-components-web": [
@@ -6698,6 +6776,9 @@
     "mobiusxp/firefox-remap-private-browsing": [
         "Other"
     ],
+    "mofach90/hackathon-24jan26-sponsor-skipper-firefox": [
+        "Other"
+    ],
     "moisseev/rspamd-spamness": [
         "Other"
     ],
@@ -6741,6 +6822,9 @@
         "Other"
     ],
     "mozilla/addons-linter": [
+        "Other"
+    ],
+    "mozilla/extension-workshop": [
         "Other"
     ],
     "mozilla/gecko-dev": [
@@ -6923,6 +7007,9 @@
     "nathandaven/firefox-paradise-theme": [
         "Other"
     ],
+    "nathantebbs/firefox": [
+        "Other"
+    ],
     "nativefier/nativefier": [
         "Other"
     ],
@@ -7008,6 +7095,9 @@
         "Other"
     ],
     "nicolaballotta/gpt3-wordpress-post-generator": [
+        "Other"
+    ],
+    "nicolasspaniol/firefox-invert-dark-favicons": [
         "Other"
     ],
     "nicolesaidy/awesome-web-design": [
@@ -7527,6 +7617,9 @@
         "Other"
     ],
     "pmiddlet72/fix_onetab": [
+        "Other"
+    ],
+    "pnthach95/my-firefox-theme": [
         "Other"
     ],
     "pock/pock": [
@@ -8094,6 +8187,9 @@
         "Other"
     ],
     "sakuyaa/readLater": [
+        "Other"
+    ],
+    "salarcode/SmartProxy": [
         "Other"
     ],
     "salvoventura/save-my-tabs": [
@@ -9828,6 +9924,9 @@
         "Other"
     ],
     "zaksid/ext-duplicate-bookmarks-finder": [
+        "Other"
+    ],
+    "zamgi/m3u8": [
         "Other"
     ],
     "zanetu/direct_google_images": [
