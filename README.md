@@ -281,6 +281,7 @@ creating your own Awesome List by GitHub stars!
 * [uhub/awesome-chatgpt](https://github.com/uhub/awesome-chatgpt): A curated list of awesome ChatGPT related projects.
 * [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 * [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts): This repo includes Claude prompt curation to use Claude better.
+* [MissMitsuha/awesome-course-piracy](https://github.com/MissMitsuha/awesome-course-piracy): An index of course piracy resources
 * [sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography): A curated list of cryptography resources and links.
 * [awesome-css-group/awesome-css](https://github.com/awesome-css-group/awesome-css): :art: A curated contents of amazing CSS :)
 * [uhub/awesome-css](https://github.com/uhub/awesome-css): A curated list of awesome CSS frameworks, libraries and software.
@@ -289,6 +290,7 @@ creating your own Awesome List by GitHub stars!
 * [klaufel/awesome-design-systems](https://github.com/klaufel/awesome-design-systems): 📒 A curated list of bookmarks, resources and articles about design systems focused on developers.
 * [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools): The best design tools and plugins for everything 👉
 * [jonathandion/awesome-emails](https://github.com/jonathandion/awesome-emails): ✉️ An awesome list of resources to build better emails.
+* [OshekharO/awesome-entertainment](https://github.com/OshekharO/awesome-entertainment): List of awesome apps and website for entertainment.
 * [wangbing1416/Awesome-Fake-News-Detection](https://github.com/wangbing1416/Awesome-Fake-News-Detection): An awesome paper list of fake news detection (FND) and rumor detection.
 * [Drovosek01/awesome-files-hostings](https://github.com/Drovosek01/awesome-files-hostings): List and comparison of services for publishing and sharing files on the Internet
 * [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt): 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
@@ -323,6 +325,7 @@ creating your own Awesome List by GitHub stars!
 * [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy): A curated list of awesome warez and piracy links
 * [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy): A curated list of awesome warez and piracy links.
 * [aviranzerioniac/awesome-piracy](https://github.com/aviranzerioniac/awesome-piracy): This is oftentimes a clone of the original awesome piracy repo. At times, i just go along editing a little too many links from the collection, and it becomes something else.
+* [wonkru-bot/Awesome-Piracy-](https://github.com/wonkru-bot/Awesome-Piracy-): None
 * [makarandjadhav1/awesome-piracy-master](https://github.com/makarandjadhav1/awesome-piracy-master): None
 * [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts): Collection of awesome podcasts
 * [apehex/awesome-poker](https://github.com/apehex/awesome-poker): :spades: :hearts: :clubs: :diamonds: A curated list of awesome poker resources & tools to improve your game.
@@ -866,6 +869,7 @@ creating your own Awesome List by GitHub stars!
 * [a-bentofreire/editortoix](https://github.com/a-bentofreire/editortoix): Text utilities for multiple code editors 
 * [codewizard13/ehw-app-scrape-onetab-links](https://github.com/codewizard13/ehw-app-scrape-onetab-links): Scrape OneTab links and produce HTML that can be saved for backup
 * [G3root/Eisen-Matrix](https://github.com/G3root/Eisen-Matrix): 🎯 Eisen Matrix is a prioritization app that uses Eisenhower matrix technique as workflow to prioritize a list of tasks & built with React Native for learning purposes.
+* [yt-dlp/ejs](https://github.com/yt-dlp/ejs): External JavaScript for yt-dlp supporting many runtimes
 * [mutluozkurt/eksiGPT](https://github.com/mutluozkurt/eksiGPT): Integrating ChatGPT into your browser deeply, everything you need is here
 * [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder): A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 * [vladimiry/ElectronMail](https://github.com/vladimiry/ElectronMail): Unofficial ProtonMail Desktop App
@@ -1684,7 +1688,7 @@ creating your own Awesome List by GitHub stars!
 * [brkunver/llm-toolbox](https://github.com/brkunver/llm-toolbox): Browser extension for popular LLMs 
 * [kartikm7/llocal](https://github.com/kartikm7/llocal): Aiming to provide a seamless and privacy driven chatting experience with open-sourced technologies(Ollama), particularly open sourced LLM's(eg. Llama3, Phi-3, Mistral). Focused on ease of use. Available on both Windows and Mac.
 * [vybestack/llxprt-code](https://github.com/vybestack/llxprt-code): An open-source multi-provider AI assisted CLI development tool. Use whatever LLM you want to code in your terminal.
-* [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): :exploding_head: LobeHub - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
+* [lobehub/lobehub](https://github.com/lobehub/lobehub): The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
 * [mudler/LocalAI](https://github.com/mudler/LocalAI): :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
 * [nagaraj-real/localaipilot-api](https://github.com/nagaraj-real/localaipilot-api): API container for Local AI Pilot extension
 * [cleidigh/Localfolder-TB](https://github.com/cleidigh/Localfolder-TB): Thunderbird Add-On to add additional local folders to accounts
@@ -1977,6 +1981,7 @@ creating your own Awesome List by GitHub stars!
 * [apilayer/numverify-API](https://github.com/apilayer/numverify-API): Free global phone number validation & lookup JSON API
 * [edgars21/nuxtjs-shopify-flex-theme-section-with-vue](https://github.com/edgars21/nuxtjs-shopify-flex-theme-section-with-vue): None
 * [nvm-sh/nvm](https://github.com/nvm-sh/nvm): Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+* [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop): Node Version Manager Desktop - A desktop application to manage multiple active node.js versions.
 * [trafilea/nx-shopify](https://github.com/trafilea/nx-shopify): Nx plugin for developing performance-first Shopify themes 🚀
 * [dawiidio/o-menu](https://github.com/dawiidio/o-menu): Simple circular svg menu 
 * [dustinblackman/oatmeal](https://github.com/dustinblackman/oatmeal): Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
@@ -2978,6 +2983,7 @@ creating your own Awesome List by GitHub stars!
 * [OlegPoljakov/TinderPeopleFinder_Yandex_Images](https://github.com/OlegPoljakov/TinderPeopleFinder_Yandex_Images): This program helps to find people from tinder in some other social medias. It takes the screenshot of tinder profile, cuts the image and search it in Yandex Image. All you need to do is to choose the pictures and push few buttons.
 * [pqrs-org/Tinkle](https://github.com/pqrs-org/Tinkle): None
 * [vitorgalvao/tiny-scripts](https://github.com/vitorgalvao/tiny-scripts): Collection of small scripts
+* [ParisNeo/tinyLollms](https://github.com/ParisNeo/tinyLollms): A tiny lollms
 * [FilteringDev/tinyShield](https://github.com/FilteringDev/tinyShield): A lightweight redefined version of microShield
 * [yusufcanb/tlm](https://github.com/yusufcanb/tlm): Local CLI Copilot, powered by Ollama. 💻🦙
 * [code-charity/ToDo](https://github.com/code-charity/ToDo): ToDo - Chrome Extension. Make checklists and more.
