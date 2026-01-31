@@ -145,6 +145,7 @@ creating your own Awesome List by GitHub stars!
 * [thepante/alfs-firefox](https://github.com/thepante/alfs-firefox): Always Loaded Floating Sidebar it's a small modification for Firefox
 * [sindresorhus/alfy](https://github.com/sindresorhus/alfy): Create Alfred workflows with ease
 * [djui/alias-tips](https://github.com/djui/alias-tips): An oh-my-zsh plugin to help remembering those aliases you defined once
+* [wojciechkrol/alice-ai-raycast](https://github.com/wojciechkrol/alice-ai-raycast): Alice helps with your daily tasks by providing quick access to OpenAI's ChatGPT API. Use Alice to generate text, code, and more with just a few keystrokes.
 * [lunu-bounir/allow-right-click](https://github.com/lunu-bounir/allow-right-click): A browser extension to release right-click context menu blockage
 * [AllToMP3/alltomp3-app](https://github.com/AllToMP3/alltomp3-app): Download and Convert YouTube, SoundCloud & Spotify in MP3 with full tags (title, artist, genre, cover, lyrics 🔥)
 * [dnomd343/alltube-docker](https://github.com/dnomd343/alltube-docker): Docker of AllTube Download
@@ -258,6 +259,7 @@ creating your own Awesome List by GitHub stars!
 * [tcellerier/automator](https://github.com/tcellerier/automator): Mac OS Automator quick actions
 * [princelundgren/automator-collection](https://github.com/princelundgren/automator-collection): Various Automator and AppleScript workflow and scripts for simplifying life
 * [moosethegoose2213/automator-for-barrykn-micropatcher](https://github.com/moosethegoose2213/automator-for-barrykn-micropatcher): Automator for the BarryKN Micropatcher
+* [VetCoders/automator-mcp](https://github.com/VetCoders/automator-mcp): MCP server for macOS Automator - AI-powered automation workflows. Let AI control your Mac!
 * [lawrenceting/Automator-Services-and-Workflows](https://github.com/lawrenceting/Automator-Services-and-Workflows): Automator Services and Workflows
 * [sparanoid/automator-workflows](https://github.com/sparanoid/automator-workflows): A collection of Automator workflows (services) that speed up your design / development process. Compatible with LaunchBar 6 actions
 * [yeutterg/automator-workflows](https://github.com/yeutterg/automator-workflows): MacOS Automator Workflows for PDFs, images, and more
@@ -280,7 +282,6 @@ creating your own Awesome List by GitHub stars!
 * [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github): A collection of awesome browser extensions for GitHub.
 * [bskim45/awesome-btt-config](https://github.com/bskim45/awesome-btt-config): An curated list of awesome BetterTouchTool configs.
 * [uhub/awesome-chatgpt](https://github.com/uhub/awesome-chatgpt): A curated list of awesome ChatGPT related projects.
-* [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 * [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts): This repo includes Claude prompt curation to use Claude better.
 * [MissMitsuha/awesome-course-piracy](https://github.com/MissMitsuha/awesome-course-piracy): An index of course piracy resources
 * [sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography): A curated list of cryptography resources and links.
@@ -379,7 +380,6 @@ creating your own Awesome List by GitHub stars!
 * [structunit/better-onetab](https://github.com/structunit/better-onetab): :bookmark_tabs: A better OneTab for Chrome (Temporarily removed from firefox & without maintain in a period & any cooperative purpose are welcome)
 * [wlor0623/better-onetab](https://github.com/wlor0623/better-onetab): :bookmark_tabs: A better OneTab for Chrome  :memo: Temporarily removed from firefox :construction: V2 is WIP
 * [cnwangjie/better-onetab-sync-server](https://github.com/cnwangjie/better-onetab-sync-server): This is the sync server for better-onetab. Please don't submit PR to master directly.
-* [DEMONOJUS/Better-Tab](https://github.com/DEMONOJUS/Better-Tab): BetterTab: The smarter macOS app switcher. Enhance your workflow with a customizable quick-launch overlay, instant app filtering, and app-specific hotkeys.
 * [AnthonyRobertson17/better-touch-tool](https://github.com/AnthonyRobertson17/better-touch-tool): All of my personal better-touch-tool config files
 * [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT): An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
 * [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord): Better Discord enhances Discord desktop app with new features.
@@ -415,7 +415,6 @@ creating your own Awesome List by GitHub stars!
 * [anudeepND/blacklist](https://github.com/anudeepND/blacklist): Curated and well-maintained hostfile to block ads, tracking, cryptomining, and more! Updated regularly. ⚡🔒
 * [EnergizedProtection/block](https://github.com/EnergizedProtection/block): Let's make an annoyance free, better open internet, altogether!
 * [mkb2091/blockconvert](https://github.com/mkb2091/blockconvert): Malware, advert and tracking blacklist
-* [pengelana/blocklist](https://github.com/pengelana/blocklist): Privacy DNS
 * [ph00lt0/blocklist](https://github.com/ph00lt0/blocklist): Blocklists for AdGuard Home, AdGuard, Little Snitch, Open Snitch, uBlock Origin, Brave Adblock, pfBlockerNG, and PiHole. Combine with Hagezi and OISD
 * [nextdns/blocklists](https://github.com/nextdns/blocklists): None
 * [Nuzair46/BlockTheSpot-Mac](https://github.com/Nuzair46/BlockTheSpot-Mac): Spotify Ad blocker for MacOS
@@ -2328,6 +2327,7 @@ creating your own Awesome List by GitHub stars!
 * [nkmr-jp/prompt-line](https://github.com/nkmr-jp/prompt-line): Prompt Line is a macOS app developed to improve the prompt input experience in the terminal for CLI-based AI coding agents such as Claude Code, Gemini CLI, OpenAI Codex CLI, and Aider. 
 * [sangddn/prompt_builder](https://github.com/sangddn/prompt_builder): A macOS tool to build long-context prompts for models like OpenAI o3 and Gemini 2.5.
 * [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo): Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
+* [f/prompts.chat](https://github.com/f/prompts.chat): a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 * [corpnewt/ProperTree](https://github.com/corpnewt/ProperTree): Cross platform GUI plist editor written in python.
 * [vlvagerviwager/protect-your-privacy](https://github.com/vlvagerviwager/protect-your-privacy): Privacy resources for the layperson. Highlights resources, tools, VPNs, search engines, articles, books, and dark patterns. 
 * [ProtonMail/proton-mail](https://github.com/ProtonMail/proton-mail): React web application to manage ProtonMail 
@@ -3067,7 +3067,7 @@ creating your own Awesome List by GitHub stars!
 * [joshuacant/undo_closed_tabs_menu](https://github.com/joshuacant/undo_closed_tabs_menu): Firefox webextension to add an undo closed tabs menu to tabs.
 * [p1usminus/undoclosetabreplacement](https://github.com/p1usminus/undoclosetabreplacement): Updated for FF78+
 * [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit): The easiest way to use git. On any platform. Anywhere.
-* [krvstek/uni-apks](https://github.com/krvstek/uni-apks): 📦 Pre-built APKs for Morphe & Piko
+* [krvstek/uni-apks](https://github.com/krvstek/uni-apks): 📦 Pre-built APKs from various patch sources
 * [stuartread7/Unibet-Scraper](https://github.com/stuartread7/Unibet-Scraper): Script to extract the implied probabilities of all outcomes listed in the live-betting section of unibet.com.  The script has applications in sports gambling arbitrage and for building live alert tools.
 * [npease18/Unichat-Firefox-Extension](https://github.com/npease18/Unichat-Firefox-Extension): The repo for the firefox port of the Unichat Chrome Extension
 * [jeffreytram/UniDrive](https://github.com/jeffreytram/UniDrive): 🗄 Access, organize, and manage several Google Drive accounts in one place.
@@ -3284,7 +3284,7 @@ creating your own Awesome List by GitHub stars!
 * [rtfcv/worse-onetab](https://github.com/rtfcv/worse-onetab): None
 * [theJayTea/WritingTools](https://github.com/theJayTea/WritingTools): The world's smartest system-wide grammar assistant; a better version of the Apple Intelligence Writing Tools. Works on Windows, Linux, & macOS, with the free Gemini API, local LLMs, & more.
 * [yjmp14/wulingate](https://github.com/yjmp14/wulingate): A Cross-Platform Files Transfer Web App. 
-* [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd): x-cmd: Bootstrap 1000+ command line tools in seconds.
+* [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd): Best Buddy for AI Agents like Clawdbot, Claude Code. Bootstrap 1000+ command line tools in seconds.
 * [matryer/xbar](https://github.com/matryer/xbar): Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 * [matryer/xbar-plugins](https://github.com/matryer/xbar-plugins): Plugin repository for xbar (the BitBar reboot)
 * [benibela/xidel](https://github.com/benibela/xidel): Command line tool to download and extract data from HTML/XML pages or JSON-APIs, using CSS, XPath 3.0, XQuery 3.0, JSONiq or pattern matching.  It can also create new or transformed XML/HTML/JSON documents.

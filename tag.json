@@ -497,9 +497,6 @@
     "D3SOX/firefox-minimal-compact-css": [
         "Other"
     ],
-    "DEMONOJUS/Better-Tab": [
-        "Other"
-    ],
     "DNSCrypt/dnscrypt-proxy": [
         "Other"
     ],
@@ -2310,6 +2307,9 @@
         "Other"
     ],
     "VerifiedJoseph/Save-to-the-Wayback-Machine": [
+        "Other"
+    ],
+    "VetCoders/automator-mcp": [
         "Other"
     ],
     "VicDobrov/UserChromeFiles": [
@@ -4547,7 +4547,7 @@
     "eza-community/eza": [
         "Other"
     ],
-    "f/awesome-chatgpt-prompts": [
+    "f/prompts.chat": [
         "Other"
     ],
     "fabiospampinato/phoenix": [
@@ -7526,9 +7526,6 @@
     "penge/my-notes": [
         "Other"
     ],
-    "pengelana/blocklist": [
-        "Other"
-    ],
     "persepolisdm/persepolis": [
         "Other"
     ],
@@ -9720,6 +9717,9 @@
         "Other"
     ],
     "wlor0623/better-onetab": [
+        "Other"
+    ],
+    "wojciechkrol/alice-ai-raycast": [
         "Other"
     ],
     "wong2/awesome-mcp-servers": [
