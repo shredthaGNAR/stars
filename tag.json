@@ -1400,6 +1400,15 @@
     "MorpheApp/MicroG-RE": [
         "Other"
     ],
+    "MorpheApp/morphe-cli": [
+        "Other"
+    ],
+    "MorpheApp/morphe-documentation": [
+        "Other"
+    ],
+    "MorpheApp/morphe-manager": [
+        "Other"
+    ],
     "MorpheApp/morphe-patches": [
         "Other"
     ],
@@ -1458,6 +1467,9 @@
         "Other"
     ],
     "Mrbigdog99/Firefox-compact": [
+        "Other"
+    ],
+    "MunifTanjim/stremthru": [
         "Other"
     ],
     "Mygod/VPNHotspot": [
@@ -1581,6 +1593,9 @@
         "Other"
     ],
     "OspreyProject/Osprey": [
+        "Other"
+    ],
+    "OuterTune/OuterTune": [
         "Other"
     ],
     "PHLAK/CloudDrop": [
@@ -3893,9 +3908,6 @@
     "dair-ai/Prompt-Engineering-Guide": [
         "Other"
     ],
-    "dakshpareek/ai-bookmark-organizer": [
-        "Other"
-    ],
     "daliansky/Hackintosh": [
         "Other"
     ],
@@ -4814,6 +4826,9 @@
     "georgedouzas/sports-betting": [
         "Other"
     ],
+    "getastrothemes/folex-lite-astro": [
+        "Other"
+    ],
     "getgrinta/grinta": [
         "Other"
     ],
@@ -5526,6 +5541,9 @@
         "Other"
     ],
     "jasonrudolph/keyboard": [
+        "Other"
+    ],
+    "javi11/altmount": [
         "Other"
     ],
     "jaygandhie2msolutions/Custom-Options-For-Monogram---For-Shopify": [
@@ -6575,6 +6593,9 @@
     "meanii/Search4": [
         "Other"
     ],
+    "mearashadowfax/ScrewFast": [
+        "Other"
+    ],
     "mechagomizilla/Prism-FirefoxPhotonRecolored": [
         "Other"
     ],
@@ -7248,6 +7269,9 @@
         "Other"
     ],
     "nybbles/obsidian-pocket": [
+        "Other"
+    ],
+    "nzbdav-dev/nzbdav": [
         "Other"
     ],
     "o19s/awesome-search-relevance": [
@@ -8550,6 +8574,9 @@
         "Other"
     ],
     "sindresorhus/macos-wallpaper": [
+        "Other"
+    ],
+    "sindresorhus/pure": [
         "Other"
     ],
     "sindresorhus/quick-look-plugins": [

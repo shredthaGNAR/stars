@@ -79,7 +79,6 @@ creating your own Awesome List by GitHub stars!
 * [uno-forge-hub/agency-landing-page-Astrojs](https://github.com/uno-forge-hub/agency-landing-page-Astrojs): A simple agency landing page made with astrojs and tailwindcss
 * [piroor/aggregate-tabs-to-main-window](https://github.com/piroor/aggregate-tabs-to-main-window): Aggregate new tabs to a window which has most many tabs and largest size.
 * [fastaddons/AI-Anywhere](https://github.com/fastaddons/AI-Anywhere): None
-* [dakshpareek/ai-bookmark-organizer](https://github.com/dakshpareek/ai-bookmark-organizer): Organize your bookmarks effortlessly with AI-powered categorization.
 * [vanrohan/ai-bookmark-organizer](https://github.com/vanrohan/ai-bookmark-organizer): None
 * [finxter/AI-Engineering-Learning-Resources](https://github.com/finxter/AI-Engineering-Learning-Resources): None
 * [Tolga1452/ai-prompts](https://github.com/Tolga1452/ai-prompts): A collection of original system prompts and tool data used for AI chatbots. Explore how companies such as ChatGPT prompt their AIs!
@@ -155,6 +154,7 @@ creating your own Awesome List by GitHub stars!
 * [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme): Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
 * [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos): Windows alt-tab on macOS 
 * [steventheworker/alt-tab-macos](https://github.com/steventheworker/alt-tab-macos): AltTab - scriptable branch
+* [javi11/altmount](https://github.com/javi11/altmount): usenet virtual fs
 * [altstoreio/AltStore](https://github.com/altstoreio/AltStore): AltStore is an alternative app store for non-jailbroken iOS devices.
 * [ryanpcmcquen/amatron](https://github.com/ryanpcmcquen/amatron): A cross-platform electron Amazon Cloud Drive app.
 * [BoolenBread/Amazon-Drive-Video-Stream-API](https://github.com/BoolenBread/Amazon-Drive-Video-Stream-API): Grabs direct mp4 link from amazon drive with filename and picture.
@@ -1131,6 +1131,7 @@ creating your own Awesome List by GitHub stars!
 * [VigoKrumins/folder-icons](https://github.com/VigoKrumins/folder-icons): Custom folder icons for macOS & Windows
 * [bglezseoane/folder-stamp](https://github.com/bglezseoane/folder-stamp): Generate custom Mac OS folder icons with a desired image as stamp
 * [lgarron/folderify](https://github.com/lgarron/folderify): :file_folder: Generate pixel-perfect macOS folder icons in the native style. (Now with support for macOS 26 Tahoe!)
+* [getastrothemes/folex-lite-astro](https://github.com/getastrothemes/folex-lite-astro): A fully customizable creative agency business theme built with Tailwind and Astro. ⭐️ Star to support our work!
 * [UrielAbergel/Follow_The_Image--ComputerVision](https://github.com/UrielAbergel/Follow_The_Image--ComputerVision): Search system, the system receives as input a picture of a person, and finds all his pictures in the destination folder or on the computer, the system will emit all the pictures in which the person appeared
 * [beichensky/Font](https://github.com/beichensky/Font): FiraCode 和 Operator Mono 字体
 * [Snilda/Font-Library](https://github.com/Snilda/Font-Library): Check Readme
@@ -1883,6 +1884,9 @@ creating your own Awesome List by GitHub stars!
 * [conema/monterail-fulldark](https://github.com/conema/monterail-fulldark): Monterail Full Dark, a Thunderbird theme inspired by the mockup of Monterail 
 * [eduardhojbota/moonlight-userChrome](https://github.com/eduardhojbota/moonlight-userChrome): A dark userstyle for Firefox inspired by moonlight-vscode-theme and github-moonlight
 * [peci1/more-snooze](https://github.com/peci1/more-snooze): More Snooze addon for Thunderbird
+* [MorpheApp/morphe-cli](https://github.com/MorpheApp/morphe-cli): Morphe console / terminal patching tool
+* [MorpheApp/morphe-documentation](https://github.com/MorpheApp/morphe-documentation): General documentation about Morphe
+* [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager): Morphe app patcher for Android
 * [MorpheApp/morphe-patches](https://github.com/MorpheApp/morphe-patches): Morphe Patches
 * [Caldis/Mos](https://github.com/Caldis/Mos): 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
 * [thePaulV/Most-Recent-Tab](https://github.com/thePaulV/Most-Recent-Tab): Firefox addon that adds a keyboard shortcut to switch back to your most recently selected tab. Useful to alternate between two tabs and to easily go back to your last tab if you switch to another briefly.
@@ -1986,6 +1990,7 @@ creating your own Awesome List by GitHub stars!
 * [nvm-sh/nvm](https://github.com/nvm-sh/nvm): Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 * [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop): Node Version Manager Desktop - A desktop application to manage multiple active node.js versions.
 * [trafilea/nx-shopify](https://github.com/trafilea/nx-shopify): Nx plugin for developing performance-first Shopify themes 🚀
+* [nzbdav-dev/nzbdav](https://github.com/nzbdav-dev/nzbdav): Usenet streaming with a WebDAV server and a SABnzbd-compatible API
 * [dawiidio/o-menu](https://github.com/dawiidio/o-menu): Simple circular svg menu 
 * [dustinblackman/oatmeal](https://github.com/dustinblackman/oatmeal): Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
 * [Vinzent03/obsidian-advanced-uri](https://github.com/Vinzent03/obsidian-advanced-uri): Advanced modes for Obsidian URI
@@ -2026,7 +2031,7 @@ creating your own Awesome List by GitHub stars!
 * [OhShINT/ohshint.gitbook.io](https://github.com/OhShINT/ohshint.gitbook.io): So what is this all about? Yep, its an OSINT blog and a collection of OSINT resources and tools. Suggestions for new OSINT resources is always welcomed.
 * [cbuijs/oisd](https://github.com/cbuijs/oisd): Optimized version of OISD BlockLists
 * [tom-james-watson/old-reddit-redirect](https://github.com/tom-james-watson/old-reddit-redirect): Ensure Reddit always loads the old design
-* [ollama/ollama](https://github.com/ollama/ollama): Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+* [ollama/ollama](https://github.com/ollama/ollama): Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 * [ollama-ui/ollama-ui](https://github.com/ollama-ui/ollama-ui): Simple HTML UI for Ollama
 * [kevinhermawan/Ollamac](https://github.com/kevinhermawan/Ollamac): Mac app for Ollama
 * [Sine-Of-Time/Omaha-Poker](https://github.com/Sine-Of-Time/Omaha-Poker):  A program that evaluates the winner of a 2-player Omaha-High Hold’em poker game.
@@ -2125,6 +2130,7 @@ creating your own Awesome List by GitHub stars!
 * [sveinbjornt/osxiconutils](https://github.com/sveinbjornt/osxiconutils): A suite of command line tools for working with Mac icons (.icns files) and custom Finder icons.
 * [vasi/osxutils](https://github.com/vasi/osxutils): Mac-specific command line utilities (UPDATES)
 * [ggozad/oterm](https://github.com/ggozad/oterm): the terminal client for Ollama
+* [OuterTune/OuterTune](https://github.com/OuterTune/OuterTune): A Material 3 Music Player for Android with local file & YouTube Music support. Forked from InnerTune
 * [CptFoobar/Owl](https://github.com/CptFoobar/Owl): A Mozilla Firefox add-on to make online reading comfortable.
 * [seemoo-lab/owl](https://github.com/seemoo-lab/owl): An open Apple Wireless Direct Link (AWDL) implementation written in C
 * [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist): Use your locally running AI models to assist you in your web browsing
@@ -2345,6 +2351,7 @@ creating your own Awesome List by GitHub stars!
 * [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists): 🚀 A hand-curated list of free, open, and developer-friendly APIs
 * [public-apis/public-apis](https://github.com/public-apis/public-apis): A collective list of free APIs
 * [GetPublii/Publii](https://github.com/GetPublii/Publii): The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
+* [sindresorhus/pure](https://github.com/sindresorhus/pure): Pretty, minimal and fast ZSH prompt
 * [WaldiPL/purplePrivateWindows](https://github.com/WaldiPL/purplePrivateWindows):  Extension for Firefox
 * [drduh/Purse](https://github.com/drduh/Purse): GnuPG asymmetric secrets manager - works with YubiKey!
 * [filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox): A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
@@ -2566,6 +2573,7 @@ creating your own Awesome List by GitHub stars!
 * [steventheworker/screenhook](https://github.com/steventheworker/screenhook): Background app to make up for BetterTouchTool's limitations. (eg: Run applescript on click (w/o modifier keys) or when connecting a display)
 * [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity): The free and privacy-friendly screen recorder with no limits 🎥
 * [duyquoc/ScreenToLayers](https://github.com/duyquoc/ScreenToLayers): macOS app to capture your screen as a layered PSD file
+* [mearashadowfax/ScrewFast](https://github.com/mearashadowfax/ScrewFast): Open-source Astro website template with sleek, customizable TailwindCSS components.
 * [raycast/script-commands](https://github.com/raycast/script-commands): Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
 * [tombowditch/scripts](https://github.com/tombowditch/scripts): General Scripts
 * [d3ward/scriptz](https://github.com/d3ward/scriptz): An awesome collection of userscripts
@@ -2826,6 +2834,7 @@ creating your own Awesome List by GitHub stars!
 * [MrMonkey42/stremio-addon-debrid-search](https://github.com/MrMonkey42/stremio-addon-debrid-search): Stremio Addon to search downloads and torrents in your Debrid cloud
 * [pancake3000/stremio-addon-manager](https://github.com/pancake3000/stremio-addon-manager): Manage your Stremio Addons
 * [Zaarrg/stremio-community-v5](https://github.com/Zaarrg/stremio-community-v5): 🐚 WebView2 and Qt6-based shell, desktop app for Stremio with latest web ui support
+* [MunifTanjim/stremthru](https://github.com/MunifTanjim/stremthru): Companion for Stremio.
 * [charlesLoder/stylometry](https://github.com/charlesLoder/stylometry): A comparison of different strategies for affecting an LLM's output style, with attention given towards library science.
 * [NoureldinAmer/stylometry-based-trigger-llm-backdoor-attack](https://github.com/NoureldinAmer/stylometry-based-trigger-llm-backdoor-attack): None
 * [openstyles/stylus](https://github.com/openstyles/stylus): Stylus - Userstyles Manager
