@@ -301,6 +301,7 @@ creating your own Awesome List by GitHub stars!
 * [AbdooMohamedd/Awesome-Gemini-Apps](https://github.com/AbdooMohamedd/Awesome-Gemini-Apps): A curated list of projects powered by the Google Gemini API. Explore innovative applications and ideas from the Gemini API competition that showcase the capabilities of Gemini technology.
 * [bartcctv/awesome-gemini-prompts](https://github.com/bartcctv/awesome-gemini-prompts): Gemini Prompts, Bard Prompts, LLM Prompts, LangGPT
 * [devisasari/awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store): A curated list of awesome GPTs in the GPT Store
+* [yulongwang12/awesome-gpt-store](https://github.com/yulongwang12/awesome-gpt-store): This repo includes all customized GPTs on openai gpt store
 * [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines): A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 * [ashfinal/awesome-hammerspoon](https://github.com/ashfinal/awesome-hammerspoon): awesome configuration for Hammerspoon.
 * [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant): A curated list of amazingly awesome Home Assistant resources.
@@ -415,6 +416,7 @@ creating your own Awesome List by GitHub stars!
 * [anudeepND/blacklist](https://github.com/anudeepND/blacklist): Curated and well-maintained hostfile to block ads, tracking, cryptomining, and more! Updated regularly. ⚡🔒
 * [EnergizedProtection/block](https://github.com/EnergizedProtection/block): Let's make an annoyance free, better open internet, altogether!
 * [mkb2091/blockconvert](https://github.com/mkb2091/blockconvert): Malware, advert and tracking blacklist
+* [pengelana/blocklist](https://github.com/pengelana/blocklist): Privacy DNS
 * [ph00lt0/blocklist](https://github.com/ph00lt0/blocklist): Blocklists for AdGuard Home, AdGuard, Little Snitch, Open Snitch, uBlock Origin, Brave Adblock, pfBlockerNG, and PiHole. Combine with Hagezi and OISD
 * [nextdns/blocklists](https://github.com/nextdns/blocklists): None
 * [Nuzair46/BlockTheSpot-Mac](https://github.com/Nuzair46/BlockTheSpot-Mac): Spotify Ad blocker for MacOS
@@ -2471,6 +2473,7 @@ creating your own Awesome List by GitHub stars!
 * [cdaein/rename-screenshot](https://github.com/cdaein/rename-screenshot): Rename Mac screenshots based on its contents with local Ollama or ChatGPT
 * [dexiota/replacefirefoxicon](https://github.com/dexiota/replacefirefoxicon): A collection of CSS tweaks to only change Firefox's icon throughout the UI.
 * [jeevatkm/ReplyWithHeader-Thunderbird](https://github.com/jeevatkm/ReplyWithHeader-Thunderbird): Outlook style headers and few goodies for Thunderbird
+* [Zaxxon709/repo](https://github.com/Zaxxon709/repo): None
 * [srvaroa/repocket](https://github.com/srvaroa/repocket): Manage a local copy of articles saved in Pocket
 * [danmindru/responsive-html-email-signature](https://github.com/danmindru/responsive-html-email-signature): ✨ Template generator for (responsive) emails & email signatures 
 * [leemunroe/responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template): A free simple responsive HTML email template
@@ -2533,6 +2536,7 @@ creating your own Awesome List by GitHub stars!
 * [j-hc/rvmm-config-gen](https://github.com/j-hc/rvmm-config-gen): config generator for revanced-magisk-module
 * [inotia00/rvx-builder](https://github.com/inotia00/rvx-builder): A NodeJS ReVanced Extended builder
 * [darshanbaral/sada](https://github.com/darshanbaral/sada): Simple hugo theme for resume created using Tailwind CSS
+* [steventheworker/safari-userscripts](https://github.com/steventheworker/safari-userscripts): Enrich your browsing experience, whether it be on mobile (iOS) or your desktop (macOS)
 * [linuxscoop/safarifox-theme](https://github.com/linuxscoop/safarifox-theme): A Firefox theme look Like Safari Web Browser
 * [thepante/SAL-Firefox](https://github.com/thepante/SAL-Firefox): Sidebar Always Loaded for Firefox
 * [CruelKernel/samsung-exynos9820](https://github.com/CruelKernel/samsung-exynos9820): Unified kernel tree for S10 and Note10 devices
@@ -3285,6 +3289,7 @@ creating your own Awesome List by GitHub stars!
 * [l10nelw/winger](https://github.com/l10nelw/winger): Window Manager: A Firefox web extension for switching windows, moving tabs between windows, and more
 * [curtisgray/wingman](https://github.com/curtisgray/wingman): Wingman is the fastest and easiest way to run Llama models on your PC or Mac.
 * [nbonamy/witsy](https://github.com/nbonamy/witsy): Witsy: desktop AI assistant / universal MCP client
+* [Zaxxon709/wizinstaller](https://github.com/Zaxxon709/wizinstaller): None
 * [shredthaGNAR/wokiee](https://github.com/shredthaGNAR/wokiee): None
 * [ShrekBytes/wordglance-extension](https://github.com/ShrekBytes/wordglance-extension): firefox extension to get instant dictionary definitions and translations for any text on any website
 * [teamniteo/work-hours-mac](https://github.com/teamniteo/work-hours-mac): Simple app that tracks your work hours from the status bar.
