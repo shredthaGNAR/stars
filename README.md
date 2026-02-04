@@ -576,6 +576,7 @@ creating your own Awesome List by GitHub stars!
 * [SingularityLabs-ai/ChatGPT-Tool-List](https://github.com/SingularityLabs-ai/ChatGPT-Tool-List): Bots To be added
 * [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js): 🤖 A powerful, open source client-side JavaScript library for ChatGPT
 * [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN): ChatGPT DAN, Jailbreaks prompt
+* [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt): A collection of GPT system prompts and various prompt injection/leaking knowledge.
 * [ChatGPTBox-dev/chatGPTBox](https://github.com/ChatGPTBox-dev/chatGPTBox): Integrating ChatGPT into your browser deeply, everything you need is here
 * [chathub-dev/chathub](https://github.com/chathub-dev/chathub): None
 * [egoist/chatkit-desktop](https://github.com/egoist/chatkit-desktop): a new desktop app for chatkit.app
@@ -700,6 +701,7 @@ creating your own Awesome List by GitHub stars!
 * [superkhau/curcon](https://github.com/superkhau/curcon): Command-line tool for converting currencies using Open Exchange Rates.
 * [dblandin/Currency-Converter](https://github.com/dblandin/Currency-Converter): Currency Converter written in Javascript using jQuery and the Open Source Exchange Rates API
 * [skibitsky/current-task](https://github.com/skibitsky/current-task): 🗻 This utility allows me to focus on one task at a time.
+* [kingparks/cursor-vip](https://github.com/kingparks/cursor-vip): cursor IDE enjoy VIP
 * [thatisuday/curved-menu](https://github.com/thatisuday/curved-menu): VanillaJS fully configurable curved menu (circular navigation)
 * [vitorgalvao/custom-alfred-iterm-scripts](https://github.com/vitorgalvao/custom-alfred-iterm-scripts): AppleScript for iTerm2 Alfred integration.
 * [samiyuru/custom-finder-right-click-menu](https://github.com/samiyuru/custom-finder-right-click-menu): This project allows macOS users to setup custom right click menu items for MacOS Finder directories.
@@ -733,6 +735,7 @@ creating your own Awesome List by GitHub stars!
 * [fastaddons/Darko](https://github.com/fastaddons/Darko): None
 * [darkreader/darkreader](https://github.com/darkreader/darkreader): Dark Reader Chrome and Firefox extension
 * [uso-archive/data](https://github.com/uso-archive/data): Full mirror of UserStyles.org
+* [iptv-org/database](https://github.com/iptv-org/database): User editable database for TV channels.
 * [blacksmithgu/datacore](https://github.com/blacksmithgu/datacore): Work-in-progress successor to Dataview with a focus on UX and speed.
 * [TechnicalWebAnalytics/dataLayer-shopify](https://github.com/TechnicalWebAnalytics/dataLayer-shopify): A dataLayer integration specific to extracting information from Shopify.
 * [gamingdoom/datcord](https://github.com/gamingdoom/datcord): An open-source Discord client that uses Firefox and Neutron
@@ -1176,6 +1179,7 @@ creating your own Awesome List by GitHub stars!
 * [mrjohannchang/fz.sh](https://github.com/mrjohannchang/fz.sh): Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
 * [junegunn/fzf](https://github.com/junegunn/fzf): :cherry_blossom: A command-line fuzzy finder
 * [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab): Replace zsh's default completion selection menu with fzf!
+* [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery): A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
 * [sted9000/gambit](https://github.com/sted9000/gambit): Learn Pot Limit Omaha Starting Ranges
 * [tssandor/gasbar](https://github.com/tssandor/gasbar): Ethereum Gas Fee for the MacBook Pro touchbar (using BetterTouchTool)
 * [2ndalpha/gasmask](https://github.com/2ndalpha/gasmask): Hosts file manager for OS X
@@ -1292,6 +1296,7 @@ creating your own Awesome List by GitHub stars!
 * [microg/GmsCore](https://github.com/microg/GmsCore): Free implementation of Play Services
 * [tumpio/gmscripts](https://github.com/tumpio/gmscripts): tumpio's usercripts
 * [savely-krasovsky/go-autoconfig](https://github.com/savely-krasovsky/go-autoconfig): IMAP/SMTP autodiscover feature for Thunderbird, Apple Mail and Microsoft Outlook
+* [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help): 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine.
 * [Phantas0s/gocket](https://github.com/Phantas0s/gocket): 💼 CLI / TUI for Pocket 
 * [alx-xlx/goindex](https://github.com/alx-xlx/goindex): Index your Google Drive
 * [yqrashawn/GokuRakuJoudo](https://github.com/yqrashawn/GokuRakuJoudo): config karabiner with ease
@@ -1479,6 +1484,7 @@ creating your own Awesome List by GitHub stars!
 * [JayBrown/imgurAU](https://github.com/JayBrown/imgurAU): macOS one-stop shop solution for anonymous uploads to imgur with support for local files, files opened in image editors, pasteboard contents, new screenshots & web images
 * [ram-on/imgurbash2](https://github.com/ram-on/imgurbash2): A bash script that uploads images & videos to IMGUR.  It can also delete previously uploaded images/videos.
 * [spidergears/import_chrome_bookmarks_to_pocket](https://github.com/spidergears/import_chrome_bookmarks_to_pocket): Simple chrome extension to import all your chrome bookmarks to Pocket.com account
+* [code-charity/ImprovedTube](https://github.com/code-charity/ImprovedTube): Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰250+options; clever features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quality|codec|full tab|full screen|no distraction|shorts}
 * [skratchdot/infinite-gradients](https://github.com/skratchdot/infinite-gradients): An HTML experiment for generating randomly created CSS3 gradients (both linear and radial)
 * [inject-X/injectX](https://github.com/inject-X/injectX): Simple injection of macOS applications
 * [tim-we/inspector-extension](https://github.com/tim-we/inspector-extension): Inspect extensions with web-ext-inspector
@@ -1495,6 +1501,7 @@ creating your own Awesome List by GitHub stars!
 * [ShaleenM/IP-Camera](https://github.com/ShaleenM/IP-Camera): Change your android phone to surveillance camera
 * [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop): An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux. 
 * [Free-TV/IPTV](https://github.com/Free-TV/IPTV): M3U Playlist for free TV channels
+* [doms9/iptv](https://github.com/doms9/iptv): tv channels & sporting events
 * [iptv-org/iptv](https://github.com/iptv-org/iptv): Collection of publicly available IPTV channels from all over the world
 * [4gray/iptvnator](https://github.com/4gray/iptvnator): :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
 * [axi0mX/ipwndfu](https://github.com/axi0mX/ipwndfu): open-source jailbreaking tool for many iOS devices
@@ -1676,7 +1683,9 @@ creating your own Awesome List by GitHub stars!
 * [fregante/list-github-dir-content](https://github.com/fregante/list-github-dir-content): List all the files in a GitHub repo’s directory
 * [blocklistproject/Lists](https://github.com/blocklistproject/Lists): Primary Block Lists
 * [jnv/lists](https://github.com/jnv/lists): The definitive list of lists (of lists) curated on GitHub and elsewhere
+* [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM): None
 * [webextensions/live-css-editor](https://github.com/webextensions/live-css-editor): Source code for Chrome/Edge/Firefox/Opera extension Magic CSS (Live editor for CSS, Less & Sass)
+* [Rivens7/Livelist](https://github.com/Rivens7/Livelist): IPTV-ipv6直播源同步及常看直播
 * [nt1m/livemarks](https://github.com/nt1m/livemarks): Extension that restores RSS Feed Livemarks in Firefox. 
 * [ex3ndr/llama-coder](https://github.com/ex3ndr/llama-coder): Replace Copilot local AI
 * [run-llama/llama-lab](https://github.com/run-llama/llama-lab): None
@@ -2091,6 +2100,7 @@ creating your own Awesome List by GitHub stars!
 * [honsiorovskyi/open-url-in-container](https://github.com/honsiorovskyi/open-url-in-container): Firefox extension to open external links in a specific container
 * [open-webui/open-webui](https://github.com/open-webui/open-webui): User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 * [openai/openai-cookbook](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
+* [XInTheDark/openai-to-ollama-api](https://github.com/XInTheDark/openai-to-ollama-api): A simple, lightweight OpenAI to Ollama API adapter
 * [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator): OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 * [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher): Experience macOS just like before
 * [acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg): OpenCore bootloader
@@ -2206,6 +2216,7 @@ creating your own Awesome List by GitHub stars!
 * [Dis90/plugin.video.discoveryplus](https://github.com/Dis90/plugin.video.discoveryplus): discovery+ add-on for Kodi
 * [joplin/plugins](https://github.com/joplin/plugins): Joplin official plugin repository
 * [withfig/plugins](https://github.com/withfig/plugins): Plugin store for zsh, bash & fish.
+* [evoactivity/PlutoIPTV](https://github.com/evoactivity/PlutoIPTV): Grab EPG & M3U from Pluto.tv
 * [pock/pock](https://github.com/pock/pock): Widgets manager for MacBook Touch Bar
 * [knowfox/pocket](https://github.com/knowfox/pocket): Knowfox: Retrieve bookmarks from getpocket.com
 * [neelr/pocket](https://github.com/neelr/pocket): A pocket for all my links
@@ -2403,6 +2414,7 @@ creating your own Awesome List by GitHub stars!
 * [librats/rats-search](https://github.com/librats/rats-search): rats-search: BitTorrent P2P multi-platform search engine for Desktop and Web servers with integrated torrent client
 * [isheeze/rawalpindis](https://github.com/isheeze/rawalpindis): Shopify os 2.0 first theme of mine
 * [grndis/raycast](https://github.com/grndis/raycast): A local backend implementation for Raycast that provides AI chat completions and translation services using OpenAI APIs. This project allows you to run a self-hosted version of Raycast's AI features with your own OpenAI API key.
+* [d-cu/raycast-ai-litellm-proxy](https://github.com/d-cu/raycast-ai-litellm-proxy): Use any LiteLLM model in Raycast AI without a subscription.
 * [miikkaylisiurunen/raycast-ai-openrouter-proxy](https://github.com/miikkaylisiurunen/raycast-ai-openrouter-proxy): Integrate any OpenAI-compatible API with Raycast AI
 * [m3lander/raycast-ai-proxy](https://github.com/m3lander/raycast-ai-proxy): Integrate any OpenAI-compatible API with Raycast AI
 * [LitoMore/raycast-backend-api](https://github.com/LitoMore/raycast-backend-api): Accessing the Raycast backend API delightfully
@@ -2832,6 +2844,7 @@ creating your own Awesome List by GitHub stars!
 * [shredthaGNAR/static-marks-docker](https://github.com/shredthaGNAR/static-marks-docker): Containerized static-marks to convert plain yaml bookmark files into a static web app.
 * [gaerfield/static-marks-github-pages](https://github.com/gaerfield/static-marks-github-pages): static-marks automatically deployed to github-pages
 * [vipintom/stealthFox](https://github.com/vipintom/stealthFox): Clean and minimal set of changes to get Vertical Tabs in Firefox
+* [gookie-dev/StepDaddyLiveHD](https://github.com/gookie-dev/StepDaddyLiveHD): A self-hosted IPTV proxy for DLHD.
 * [mikropsoft/StevenBlock](https://github.com/mikropsoft/StevenBlock): 🚫 Advanced Ad-Blocking Module for Android | Compatible with Magisk, KernelSU, and APatch 🔒
 * [Shopify/storefront-api-feedback](https://github.com/Shopify/storefront-api-feedback): The home of discussions and feedback surrounding the evolution of Shopify's Storefront API.
 * [streamlink/streamlink](https://github.com/streamlink/streamlink): Streamlink is a CLI utility which pipes video streams from various services into a video player
@@ -3085,7 +3098,7 @@ creating your own Awesome List by GitHub stars!
 * [jeffreytram/UniDrive](https://github.com/jeffreytram/UniDrive): 🗄 Access, organize, and manage several Google Drive accounts in one place.
 * [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater): Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 * [winder/Universal-G-Code-Sender](https://github.com/winder/Universal-G-Code-Sender): A cross-platform G-Code sender for GRBL, Smoothieware, TinyG and G2core.
-* [Jman-Github/Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager): 💊 An Android application to use ReVanced on that has extra features the official manager doesn't have
+* [Jman-Github/Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager): 💊 An Android application to use ReVanced and Morphe on that has extra features the official manager doesn't have
 * [gvinciguerra/unlister](https://github.com/gvinciguerra/unlister): 📬 Script for Mail on macOS that automatically unsubscribes from promotional emails and newsletters
 * [ourresearch/unpaywall-extension](https://github.com/ourresearch/unpaywall-extension): Firefox/Chrome extension that gives you a link to a free PDF when you view scholarly articles
 * [aahung/Unshaky](https://github.com/aahung/Unshaky): A software attempt to address the "double key press" issue on Apple's butterfly keyboard [not actively maintained]
@@ -3166,7 +3179,6 @@ creating your own Awesome List by GitHub stars!
 * [Kayno0o/vibrant-glass-theme](https://github.com/Kayno0o/vibrant-glass-theme): I made this theme for myself at first, but some friends found it cool, so I decided to share it here.
 * [jtlw99/vicefox](https://github.com/jtlw99/vicefox): ViceFox make your FireFox great and beter!
 * [rubjo/victor-mono](https://github.com/rubjo/victor-mono): A free programming font with cursive italics and ligatures. Donations welcome ❤️
-* [Ajith-analytics/Video_Downloader](https://github.com/Ajith-analytics/Video_Downloader): 🎥 Download videos from YouTube, Facebook, and Instagram easily with this user-friendly tool built with Python and Flask.
 * [jeanslack/Videomass](https://github.com/jeanslack/Videomass): Videomass is a free, open source and cross-platform GUI for FFmpeg
 * [fruiz500/VideoSkip-extension](https://github.com/fruiz500/VideoSkip-extension): Same as VideoSkip, but as a Chrome/Firefox/Edge extension so it can edit videos streaming from many sources
 * [ViennaRSS/vienna-rss](https://github.com/ViennaRSS/vienna-rss): Vienna is a free and open-source RSS/Atom/JSON feed newsreader for macOS.
@@ -3322,7 +3334,6 @@ creating your own Awesome List by GitHub stars!
 * [mattDavo/Yippy](https://github.com/mattDavo/Yippy): macOS open source clipboard manager
 * [purocean/yn](https://github.com/purocean/yn): A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macro replacement.
 * [soimort/you-get](https://github.com/soimort/you-get): :arrow_double_down: Dumb downloader that scrapes the web
-* [code-charity/youtube](https://github.com/code-charity/youtube): Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰200+options; clever features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|content discovery|player|extra buttons|distractions|related videos|shorts|ads|quality|codec|full tab|full screen}
 * [OsaSoft/youtube-better-subscriptions](https://github.com/OsaSoft/youtube-better-subscriptions): This extension for Firefox and Chrome aims to make navigating YouTube's subscription grid easier by allowing users to hide watched videos
 * [Jeeaaasus/youtube-dl](https://github.com/Jeeaaasus/youtube-dl): Automated yt-dlp Docker image
 * [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl): Command-line program to download videos from YouTube.com and other video sites
