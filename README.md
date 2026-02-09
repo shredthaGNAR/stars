@@ -398,7 +398,7 @@ creating your own Awesome List by GitHub stars!
 * [homelab-admin/bettertouchtool-mcp-server](https://github.com/homelab-admin/bettertouchtool-mcp-server): None
 * [SichangHe/BetterTouchTool-SLite-Preset](https://github.com/SichangHe/BetterTouchTool-SLite-Preset): SLite is a preset of BetterTouchTool inspired by GoldenChaos and many other presets. It is a light preset that is also neat. Try it and you'll know.
 * [opentizen/bettertouchtool_apple_script](https://github.com/opentizen/bettertouchtool_apple_script): BettertouchTool Used User for AppleScript
-* [Sv443/BetterYTM](https://github.com/Sv443/BetterYTM): Enhancements for YT and YT Music
+* [Sv443/BetterYTM](https://github.com/Sv443/BetterYTM): Enhancements for YouTube Music and YouTube
 * [seanpquig/betting-odds-analyzer](https://github.com/seanpquig/betting-odds-analyzer): Analyze sports betting based on historical statistics and current odds
 * [SingularityLabs-ai/beyond-bard-mini](https://github.com/SingularityLabs-ai/beyond-bard-mini): Aims to bring Google Bard to  every website. For Google, Bing, Youtube, Yahoo, Baidu, Brave, Kagi, Duckduckgo, Github, Yandex, NAVER, Nikkei there are custom prompts written to enhance the summary(or insights) experience. 
 * [barrykn/big-sur-micropatcher](https://github.com/barrykn/big-sur-micropatcher): A primitive USB patcher for installing macOS Big Sur on unsupported Macs
@@ -2513,7 +2513,7 @@ creating your own Awesome List by GitHub stars!
 * [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon): Open source neutral style icon system
 * [qzz0518/remove-HyperSwitch-expired-dialog](https://github.com/qzz0518/remove-HyperSwitch-expired-dialog): remove HyperSwitch error expired dialog
 * [Cat7373/remove-web-limits](https://github.com/Cat7373/remove-web-limits): 通杀大部分网站，可以解除禁止复制、剪切、选择文本、右键菜单的限制。
-* [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions): A browser extension that removes YouTube suggestions, comments, shorts, and more
+* [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions): A browser extension that lets you hide recommendations, customize the interface, and take control of your YouTube experience.
 * [xia4zhi3yun2/remove_commercial](https://github.com/xia4zhi3yun2/remove_commercial): remove commercial and detect logo in video
 * [IkoHD/Remove_Proton_Duplicates](https://github.com/IkoHD/Remove_Proton_Duplicates): Just a small as possbile python script to clean the proton export csv.
 * [TheRealJoelmatic/RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing):  The intrusive "Ad blocker are not allowed on YouTube"  message is annoying. This open-source project aims to address this issue by providing a solution to bypass YouTube's ad blocker detection
@@ -2996,7 +2996,7 @@ creating your own Awesome List by GitHub stars!
 * [piroor/textlink](https://github.com/piroor/textlink): Text Link, Allows URI texts written in webpages to be loaded by double clicks.
 * [beowulf518/textnow-automation](https://github.com/beowulf518/textnow-automation): creating textnow account with temp email
 * [de1etenu11ptr/TGS-Extension](https://github.com/de1etenu11ptr/TGS-Extension): Tab Group Saver (TGS) Extension for firefox that mainly utilizes the bookmarks API to allow for reliable persistence of tab groups.
-* [stonerl/Thaw](https://github.com/stonerl/Thaw): Menu bar manager for macOS
+* [stonerl/Thaw](https://github.com/stonerl/Thaw): Menu bar manager for macOS 26
 * [passthesh3ll/The-Pika-s-OSINT-ToolBox](https://github.com/passthesh3ll/The-Pika-s-OSINT-ToolBox): A curated list of free OSINT tools ⚡️
 * [balvin-perrie/the-pirate-bay-torrent-search](https://github.com/balvin-perrie/the-pirate-bay-torrent-search): A browser extension to search for magnet links from The Pirate Bay directly from a popup toolbar
 * [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary): A collection of prompts, system prompts and LLM instructions
