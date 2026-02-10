@@ -134,10 +134,10 @@
     "AdamXweb/WhiteSurFirefoxThemeMacOS": [
         "Other"
     ],
-    "AdguardTeam/AdguardFilters": [
+    "AdguardTeam/AdGuardMiniForMac": [
         "Other"
     ],
-    "AdguardTeam/AdguardMiniForMac": [
+    "AdguardTeam/AdguardFilters": [
         "Other"
     ],
     "AdguardTeam/ContentBlocker": [
@@ -2289,6 +2289,9 @@
         "Other"
     ],
     "TrollSkull/uScanner": [
+        "Other"
+    ],
+    "TrustTunnel/TrustTunnel": [
         "Other"
     ],
     "Tuhinshubhra/ExtAnalysis": [
@@ -8682,6 +8685,9 @@
         "Other"
     ],
     "sigoden/window-switcher": [
+        "Other"
+    ],
+    "silexlabs/Silex": [
         "Other"
     ],
     "silverbulletmd/silverbullet": [

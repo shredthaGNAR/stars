@@ -57,7 +57,7 @@ creating your own Awesome List by GitHub stars!
 * [mkoryak/address-validator](https://github.com/mkoryak/address-validator): nodejs address validator via google api
 * [DandelionSprout/adfilt](https://github.com/DandelionSprout/adfilt): The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.
 * [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters): AdGuard Content Blocking Filters
-* [AdguardTeam/AdguardMiniForMac](https://github.com/AdguardTeam/AdguardMiniForMac): AdGuard Mini for macOS
+* [AdguardTeam/AdGuardMiniForMac](https://github.com/AdguardTeam/AdGuardMiniForMac): AdGuard Mini for macOS
 * [CleanMachine1/AdlistTXTS](https://github.com/CleanMachine1/AdlistTXTS): A repository dedicated to mirroring some block-lists into 1 file for ease of use
 * [ethanaicode/Adobe-Block-Hosts-List](https://github.com/ethanaicode/Adobe-Block-Hosts-List): Adobe Block Hosts List to block Adobe activation.
 * [FlickyOs/Adobe-Debloater](https://github.com/FlickyOs/Adobe-Debloater): Adobe Deloater
@@ -2770,6 +2770,7 @@ creating your own Awesome List by GitHub stars!
 * [mozilla/sign-addon](https://github.com/mozilla/sign-addon): Sign a Firefox add-on with Mozilla's web service
 * [ineat/signature](https://github.com/ineat/signature): How to have a nice signature for emails
 * [ronfybish/Signature-Generator](https://github.com/ronfybish/Signature-Generator): Email Signature Generator - React & Firebase
+* [silexlabs/Silex](https://github.com/silexlabs/Silex): Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together.
 * [SillyTavern/SillyTavern-Launcher](https://github.com/SillyTavern/SillyTavern-Launcher): Launcher scripts for SillyTavern and ST-Extras.
 * [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet): An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
 * [tiansh/simple-context-search](https://github.com/tiansh/simple-context-search): An easy way to act a context searching with one-time selected search provider. Context Search should be Simple. This extension use your searching list configured in browser, which means it could be used just out-of-box.
@@ -3097,6 +3098,7 @@ creating your own Awesome List by GitHub stars!
 * [trockerapp/trocker](https://github.com/trockerapp/trocker): This chrome/Firefox extension is an email Tracker Blocker, hence the name: Trocker!
 * [opa334/TrollStore](https://github.com/opa334/TrollStore): Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 * [thehappydinoa/TruePeopleSearch](https://github.com/thehappydinoa/TruePeopleSearch): Gets info from truepeoplesearch.com and adds it to Maltego
+* [TrustTunnel/TrustTunnel](https://github.com/TrustTunnel/TrustTunnel): Modern, fast and obfuscated VPN protocol
 * [syanle/ts-commercials-remover](https://github.com/syanle/ts-commercials-remover): MPEG-TS stream workflow
 * [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist): Your self hosted YouTube media server
 * [meeb/tubesync](https://github.com/meeb/tubesync): Syncs YouTube channels and playlists to a locally hosted media server
