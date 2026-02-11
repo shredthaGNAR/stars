@@ -1026,8 +1026,8 @@ creating your own Awesome List by GitHub stars!
 * [awesome-windows11/firefox](https://github.com/awesome-windows11/firefox): 🦊 Awesome Firefox
 * [crssi/Firefox](https://github.com/crssi/Firefox): None
 * [kbc8090/firefox](https://github.com/kbc8090/firefox): My heavily modified FirefoxCSS based on material-fox-updated
-* [nathantebbs/firefox](https://github.com/nathantebbs/firefox): Utilities for configuring the Firefox broser on MacOS & Linux
 * [nonoroazoro/firefox](https://github.com/nonoroazoro/firefox): Customized Extensions, Scripts, UserChromeJS and Rules of Firefox.
+* [vetr0s/firefox](https://github.com/vetr0s/firefox): Utilities for configuring the Firefox broser on MacOS & Linux
 * [pellaeon/firefox-91plus-photon-userchrome](https://github.com/pellaeon/firefox-91plus-photon-userchrome): userChrome.css to restore the classic Photon look on Firefox 91+
 * [ACEx86/Firefox-about-config-tweaks](https://github.com/ACEx86/Firefox-about-config-tweaks): Firefox about:config useful tweaks.
 * [easonwong-de/Firefox-Adaptive-Sur-Theme](https://github.com/easonwong-de/Firefox-Adaptive-Sur-Theme): A macOS-styled Firefox CSS theme based on Firefox WhiteSur theme with Adaptive Tab Bar Colour support.
@@ -1642,7 +1642,7 @@ creating your own Awesome List by GitHub stars!
 * [yogeshpaliyal/KeyPass](https://github.com/yogeshpaliyal/KeyPass): KeyPass: Open Source Project & An Offline Password Manager. Store, manage, and take control securely.
 * [khoj-ai/khoj](https://github.com/khoj-ai/khoj): Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
 * [t-mart/kill-sticky](https://github.com/t-mart/kill-sticky): Bookmarklet to remove sticky elements and restore scrolling to web pages!
-* [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode): Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 750k+ Kilo Coders. 6.1 trillion tokens/month.
+* [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode): Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens processed
 * [kenneth558/KingdomComeIMeanItAndIMeanNowSurveillance](https://github.com/kenneth558/KingdomComeIMeanItAndIMeanNowSurveillance): A web page (NOTE: Only Firefox & Pale Moon browsers give approved rendering) and some server-side web server scripting in a mini web server called bashttpd.  Even looks good on Android devices as far as I've seen, though working the sliders is more difficult when your finger touch point is larger than them.  With this tricked out version of bashttpd, you won't need a high-powered web server like Apache nor nginx (I didn't feel like learning nginx, and certainly don't care for learning Apache).  IN PROGRESS but does work way, way better than nothing.  Chrome renders differently, but in a pinch it will function halfway.
 * [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher): A lightweight, pure-Swift library for downloading and caching images from the web.
 * [HugoBlox/kit](https://github.com/HugoBlox/kit): ⚡ The Open Research Copilot. Build high-perf Portfolios, Lab Sites & Docs in Markdown + Jupyter. 100% Data Control. 🦫 数据科学家的开源 Copilot。一键部署 👇
