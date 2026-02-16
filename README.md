@@ -2060,7 +2060,7 @@ creating your own Awesome List by GitHub stars!
 * [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git): Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
 * [nuthrash/obsidian-html-plugin](https://github.com/nuthrash/obsidian-html-plugin): This is a plugin for Obsidian (https://obsidian.md). Can open document with .html and .htm file extensions.
 * [mProjectsCode/obsidian-meta-bind-plugin](https://github.com/mProjectsCode/obsidian-meta-bind-plugin): A plugin for Obsidian to make your notes interactive with inline input fields, metadata displays, and buttons.
-* [elhariss/Obsidian-NetClip](https://github.com/elhariss/Obsidian-NetClip): this plugin is for Obsidian that allows you to browse the web and clip webpages directly into your vault.
+* [hariiy-sys/Obsidian-NetClip](https://github.com/hariiy-sys/Obsidian-NetClip): this plugin is for Obsidian that allows you to browse the web and clip webpages directly into your vault.
 * [chrisgurney/obsidian-note-toolbar](https://github.com/chrisgurney/obsidian-note-toolbar): Create flexible, context-aware toolbars for your notes with this plugin for Obsidian.
 * [Jacobinwwey/obsidian-NotEMD](https://github.com/Jacobinwwey/obsidian-NotEMD): A Easy way to create your own Knowledge-base! Notemd enhances your Obsidian workflow by integrating with various Large Language Models (LLMs) to process your notes, automatically generate wiki-links for key concepts, create corresponding concept notes, perform web research, and more.
 * [hinterdupfinger/obsidian-ollama](https://github.com/hinterdupfinger/obsidian-ollama): None
@@ -2206,7 +2206,6 @@ creating your own Awesome List by GitHub stars!
 * [PushkraJ99/ParamSpider](https://github.com/PushkraJ99/ParamSpider):  Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing 
 * [devanshbatham/ParamSpider](https://github.com/devanshbatham/ParamSpider):  Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing 
 * [roddhjav/pass-import](https://github.com/roddhjav/pass-import): A pass extension for importing data from most existing password managers
-* [passwall/passwall-extension](https://github.com/passwall/passwall-extension): Official browser extension for Passwall
 * [sindresorhus/Pasteboard-Viewer](https://github.com/sindresorhus/Pasteboard-Viewer): 📋 Inspect the system pasteboards on macOS
 * [yozdas/PdfCombiner](https://github.com/yozdas/PdfCombiner): This is Automator app built in Mac
 * [benwiggy/PDFsuite](https://github.com/benwiggy/PDFsuite): Python scripts, Automator Services and Quartz Filters for MacOS (OS X) that create, manipulate, and query PDF files
