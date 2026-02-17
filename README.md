@@ -37,6 +37,7 @@ creating your own Awesome List by GitHub stars!
 * [earthlng/aboutconfig](https://github.com/earthlng/aboutconfig): None
 * [garywill/aboutconfig-menu](https://github.com/garywill/aboutconfig-menu): Shortcuts to settings in about:config (universal), through a button on toolbar. Firefox userChrome script 🛠️
 * [abp-filters/abp-filters-anti-cv](https://github.com/abp-filters/abp-filters-anti-cv): None
+* [blaise-io/acelink](https://github.com/blaise-io/acelink): Play Ace Streams on macOS using Docker.
 * [bartoszj/acextract](https://github.com/bartoszj/acextract): A tool to list and extract content from Assets.car file.
 * [pgrimaud/action-shopify](https://github.com/pgrimaud/action-shopify): Deploy Shopify theme with Theme Kit on GitHub Actions
 * [sindresorhus/Actions](https://github.com/sindresorhus/Actions): ⚙️ Supercharge your shortcuts
@@ -661,6 +662,7 @@ creating your own Awesome List by GitHub stars!
 * [DigiDNA/ColorSet](https://github.com/DigiDNA/ColorSet): ColorSet is a macOS utility and framework allowing developers to manage custom interface colors with ease.
 * [OsborneLabs/Columbia](https://github.com/OsborneLabs/Columbia): Columbia by Osborne - Blocks ads, analytics, popups, and trackers
 * [micz/ColumnsWizard](https://github.com/micz/ColumnsWizard): This is a Thunderbird addon that adds some magic to the folder list columns. Check the addon website for more info...
+* [pvrs12/comment-hover](https://github.com/pvrs12/comment-hover): None
 * [claustromaniac/Compare-UserJS](https://github.com/claustromaniac/Compare-UserJS): PowerShell script for comparing user.js (or prefs.js) files.
 * [timhettler/compass-photoshop-gradient-overlay](https://github.com/timhettler/compass-photoshop-gradient-overlay): A compass extension to translate between Photoshop gradient overlays and CSS linear-gradients
 * [erikkaashoek/Comskip](https://github.com/erikkaashoek/Comskip): A free commercial detector
@@ -674,7 +676,7 @@ creating your own Awesome List by GitHub stars!
 * [benbasson/contextsearch](https://github.com/benbasson/contextsearch): Firefox Extension - Context Search transforms the "Web Search for..." context item into a menu containing your Firefox Search Providers. This is very convenient, since it allows you to decide which search engine you use. Firefox's default is to use the currently selected search provider only. 
 * [ssborbis/ContextSearch-Native-App](https://github.com/ssborbis/ContextSearch-Native-App): Native App for use with Context Search
 * [ssborbis/ContextSearch-web-ext](https://github.com/ssborbis/ContextSearch-web-ext): Search engine manager for modern browsers
-* [continuedev/continue](https://github.com/continuedev/continue): ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent
+* [continuedev/continue](https://github.com/continuedev/continue): ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 * [dokterdok/Continuity-Activation-Tool](https://github.com/dokterdok/Continuity-Activation-Tool): An all-in-one tool to activate and diagnose macOS 10.10-12 Continuity on compatible Mac configurations.
 * [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter): Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - for desktop and mobile
 * [lotusshinoaki/converts-html-exported-from-pocket-into-an-importable-format](https://github.com/lotusshinoaki/converts-html-exported-from-pocket-into-an-importable-format): None
@@ -1100,7 +1102,7 @@ creating your own Awesome List by GitHub stars!
 * [wrestlerdude/Firefox-Proton-Square](https://github.com/wrestlerdude/Firefox-Proton-Square): Makes Firefox Proton UI look and feel like Quantum
 * [Sporif/firefox-quantum-userchromejs](https://github.com/Sporif/firefox-quantum-userchromejs): Firefox Quantum-compatible custom javascript in browser context — no extension, userChromeJS replacement
 * [xpmn/firefox-reading-list](https://github.com/xpmn/firefox-reading-list): A minimal Firefox extension for saving pages to read later.
-* [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar): A customisable userChrome.css style to improve the Firefox (130–145) find bar.
+* [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar): A customisable userChrome.css style to improve the Firefox (130–147) find bar.
 * [mobiusxp/firefox-remap-private-browsing](https://github.com/mobiusxp/firefox-remap-private-browsing): UserChrome JS script to remap Firefox's Private Browsing to match everything else
 * [BGMP/firefox-revert-proton](https://github.com/BGMP/firefox-revert-proton): Revert Firefox Proton to Photon & Photon Compact
 * [panjilp-lab/firefox-safari-noFix](https://github.com/panjilp-lab/firefox-safari-noFix): learning to make safari style for firefox
@@ -1639,6 +1641,7 @@ creating your own Awesome List by GitHub stars!
 * [uselibrary/KeepMyGoogleVoice](https://github.com/uselibrary/KeepMyGoogleVoice): Send SMS regularly through Python to keep Google Voice active
 * [dan-and/KeepToText](https://github.com/dan-and/KeepToText): Convert a Google Takeout zip file containing Google Keep notes to a directory of text files, suitable for import into systems such as Evernote
 * [keeweb/keeweb](https://github.com/keeweb/keeweb): Free cross-platform password manager compatible with KeePass
+* [amebalabs/Kefir](https://github.com/amebalabs/Kefir): Control KEF speakers from macOS menu bar
 * [aonez/Keka](https://github.com/aonez/Keka): The macOS & iOS file archiver
 * [theamallalgi/kenkaitheme](https://github.com/theamallalgi/kenkaitheme): KenKai Theme for Visual Studio Code
 * [acidburn0zzz/Kext-Droplet-Big-Sur](https://github.com/acidburn0zzz/Kext-Droplet-Big-Sur): Fork of archived repository from Kext-Droplet-Big-Sur by chris1111 HMF.
@@ -2998,6 +3001,7 @@ creating your own Awesome List by GitHub stars!
 * [team-crew/team-crew.github.io](https://github.com/team-crew/team-crew.github.io): None
 * [edo0/Technetium](https://github.com/edo0/Technetium): A focused approach to taming the new Firefox's Proton design
 * [64characters/Telephone](https://github.com/64characters/Telephone): SIP softphone for Mac
+* [llZektorll/Template_Hub](https://github.com/llZektorll/Template_Hub): Obsidian Template Hub started on the 13th of June 2022. It was set up to gather as many note templates as possible.
 * [SilentVoid13/Templater](https://github.com/SilentVoid13/Templater): A template plugin for obsidian
 * [stoically/temporary-containers](https://github.com/stoically/temporary-containers): Firefox Add-on that lets you open automatically managed disposable containers
 * [mgunyho/tere](https://github.com/mgunyho/tere): Terminal file explorer
