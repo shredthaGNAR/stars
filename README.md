@@ -230,12 +230,14 @@ creating your own Awesome List by GitHub stars!
 * [ixartz/Astro-boilerplate](https://github.com/ixartz/Astro-boilerplate): 🚀 Astro boilerplate with responsive blog and portfolio template using TypeScript and React styled with Tailwind CSS ⚡️ Made with developer experience first: TypeScript + ESLint + Prettier + Husky + Lint-Staged + Commitlint + VSCode
 * [tomcomtang/astro-cartoon-portfolio](https://github.com/tomcomtang/astro-cartoon-portfolio): Astro cartoon portfolio
 * [dofbi/astro-cv-theme](https://github.com/dofbi/astro-cv-theme): CV theme for Astro 🚀
+* [shredthaGNAR/astro-cv-theme](https://github.com/shredthaGNAR/astro-cv-theme): None
 * [Gothsec/Astro-portfolio](https://github.com/Gothsec/Astro-portfolio): Portfolio template built with Astro, React, TypeScript and TailwindCSS.
 * [uzzii-21/astro-portfolio](https://github.com/uzzii-21/astro-portfolio): This repo contains the source code for a personal portfolio website built with Astro, a framework for building fast and modern websites with your favorite frontend tools. The website showcases the developer's skills, projects, and contact information. The website is responsive, accessible, and SEO-friendly.
 * [netlify-templates/astro-quickstart](https://github.com/netlify-templates/astro-quickstart): A bare-bones Astro template to get you deployed to Netlify fast!
 * [wasutz/astro-resume-theme](https://github.com/wasutz/astro-resume-theme): Astro Resume Theme is a customizable and responsive template designed to help you create a beautiful online resume or portfolio quickly. Built with Astro and styled using Tailwind CSS.
 * [manuelernestog/astrofy](https://github.com/manuelernestog/astrofy): Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS. Create in minutes a website with Blog, CV, Project Section, Store and RSS Feed.
 * [zeon-studio/astroplate](https://github.com/zeon-studio/astroplate): Astroplate is a free starter template built with Astro, TailwindCSS & TypeScript providing everything you need to jumpstart your Astro project. Get started with Astroplate and save yourself hours of work!
+* [shredthaGNAR/astroship](https://github.com/shredthaGNAR/astroship): None
 * [surjithctly/astroship](https://github.com/surjithctly/astroship): Astroship is a starter template for startups, marketing websites, landing pages & blog. Built with Astro & TailwindCSS
 * [arthelokyo/astrowind](https://github.com/arthelokyo/astrowind): ⭕️ AstroWind: A free template using Astro 5 and Tailwind CSS. Astro starter theme.
 * [Zenlua/AT-YT](https://github.com/Zenlua/AT-YT): Tool build YouTube revanced mods auto.
@@ -609,6 +611,7 @@ creating your own Awesome List by GitHub stars!
 * [matthewfallshaw/chrome-window-management-scripts](https://github.com/matthewfallshaw/chrome-window-management-scripts): Chrome window and tab management scripts
 * [OtsoBear/chrome2moz](https://github.com/OtsoBear/chrome2moz): chrome extension to firefox extension converter
 * [priyankchheda/chrome_password_grabber](https://github.com/priyankchheda/chrome_password_grabber): Get unencrypted 'Saved Password' from Google Chrome
+* [0x2e73/ChromeFox](https://github.com/0x2e73/ChromeFox): Material Chrome Style Firefox 
 * [jimmyxu/circle](https://github.com/jimmyxu/circle): Logi Circle video downloader
 * [emvaized/circle-mouse-gestures](https://github.com/emvaized/circle-mouse-gestures): Firefox & Chrome extension for mouse gestures with visual representation of actions
 * [asilvas/circler](https://github.com/asilvas/circler): (non-official) Logitech Circle utility application (download etc)
@@ -821,6 +824,7 @@ creating your own Awesome List by GitHub stars!
 * [kkebo/DNSecure](https://github.com/kkebo/DNSecure): DNSecure is a configuration tool of DoT and DoH for iOS and iPadOS.
 * [cleanbrowsing/dnsperftest](https://github.com/cleanbrowsing/dnsperftest): DNS Performance test
 * [sindresorhus/do-not-disturb-cli](https://github.com/sindresorhus/do-not-disturb-cli): Control the macOS `Do Not Disturb` feature from the command-line
+* [SuffolkLITLab/docassemble-filler-extension](https://github.com/SuffolkLITLab/docassemble-filler-extension): A browser extension for Chrome, Edge and Firefox that fills dummy text in all input fields in a page. Adapted to work with Docassemble inputs.
 * [PepsRyuu/dock-window-preview](https://github.com/PepsRyuu/dock-window-preview): Mac OSX app that displays window previews when hovering over app icon on the Dock. 
 * [steventheworker/DockAltTab](https://github.com/steventheworker/DockAltTab): Window preview app for MacOS (on the dock) using AltTab.
 * [steventheworker/DockAltTab-home](https://github.com/steventheworker/DockAltTab-home): website for DockAltTab
@@ -988,6 +992,7 @@ creating your own Awesome List by GitHub stars!
 * [facebook-adblock/facebook_adblock](https://github.com/facebook-adblock/facebook_adblock): An open-source Ad Blocker for Facebook™
 * [facebookresearch/faiss](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors.
 * [FakeFiller/fake-filler-extension](https://github.com/FakeFiller/fake-filler-extension): A browser extension for Chrome, Edge and Firefox that fills dummy text in all input fields in a page.
+* [calvinballing/fake-filler-extension](https://github.com/calvinballing/fake-filler-extension): A free browser extension for Chrome, Edge and Firefox that fills dummy text in all input fields in a page.
 * [busiyiworld/fake-raycast-backend](https://github.com/busiyiworld/fake-raycast-backend): A fake Raycast backend that can be deployed to Vercel in just one step.
 * [dumbmatter/fakeIndexedDB](https://github.com/dumbmatter/fakeIndexedDB): A pure JS in-memory implementation of the IndexedDB API
 * [kfreitag1/FancyFolders](https://github.com/kfreitag1/FancyFolders): Fancy Folders is a macOS application for creating custom folder icons from SF symbols, text, or images.
@@ -1057,6 +1062,7 @@ creating your own Awesome List by GitHub stars!
 * [vallovic/firefox-colorize-container-toolbar](https://github.com/vallovic/firefox-colorize-container-toolbar): Firefox extension to automatically colorize browser toolbar by matching the color of the active container tab
 * [Mrbigdog99/Firefox-compact](https://github.com/Mrbigdog99/Firefox-compact): Compact userChrome for Firefox Proton
 * [krathalan/firefox-complement](https://github.com/krathalan/firefox-complement): None
+* [chroniflux/firefox-config](https://github.com/chroniflux/firefox-config): None
 * [HamletDuFromage/firefox-css](https://github.com/HamletDuFromage/firefox-css): None
 * [Shadow-of-Colossus/Firefox-CSS](https://github.com/Shadow-of-Colossus/Firefox-CSS): A mish mash of css files to change Firefox appearance, more of old style
 * [akisblack/firefox-css](https://github.com/akisblack/firefox-css): My custom CSS for Firefox 
@@ -1094,6 +1100,7 @@ creating your own Awesome List by GitHub stars!
 * [Godiesc/firefox-one](https://github.com/Godiesc/firefox-one): Firefox Theme for Opera One skin Lovers 
 * [nathandaven/firefox-paradise-theme](https://github.com/nathandaven/firefox-paradise-theme): My custom Firefox userChrome profile, setup with right handed vertical tabs, compact layout, and MacOS/Paradise theming. Also works on Windows!
 * [junocomp/firefox-phosh-theme](https://github.com/junocomp/firefox-phosh-theme): None
+* [ElliottSimmonds/Firefox-Photonify](https://github.com/ElliottSimmonds/Firefox-Photonify): Custom Firefox userChrome to replicate the style of Firefox Photon with some personal touches
 * [amnweb/firefox-plus](https://github.com/amnweb/firefox-plus): CSS tweaks for Firefox
 * [cat-in-136/firefox-prefjs-surveyer](https://github.com/cat-in-136/firefox-prefjs-surveyer): A quick-and-dirty tool of Firefox pref.js survey
 * [nt0g/firefox-profile-stuff](https://github.com/nt0g/firefox-profile-stuff): As advertised on TV !
@@ -1265,6 +1272,7 @@ creating your own Awesome List by GitHub stars!
 * [Kevin-De-Koninck/Get-It](https://github.com/Kevin-De-Koninck/Get-It): A macOS GUI for youtube-dl
 * [finia2NA/getter](https://github.com/finia2NA/getter): A multi-workflow YouTube downloader
 * [shredthaGNAR/gh-bookmarks](https://github.com/shredthaGNAR/gh-bookmarks): None
+* [ghostery/ghostery-extension](https://github.com/ghostery/ghostery-extension): Ghostery Browser Extension for Firefox, Chrome, Opera, Edge and Safari
 * [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS): Py2/py3 script that can download macOS components direct from Apple
 * [RaKeerS/Gif-Finder](https://github.com/RaKeerS/Gif-Finder): This is a web app created to be utilized in order to fetch the Gif Images from the Giphy Images Repository. It offer different categories and also a custom search tool in order to find what you exactly need! 
 * [defunkt/gist](https://github.com/defunkt/gist): Potentially the best command line gister.
@@ -1295,6 +1303,7 @@ creating your own Awesome List by GitHub stars!
 * [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator): 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
 * [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats): :zap: Dynamically generated stats for your github readmes
 * [Shywim/github-repo-size](https://github.com/Shywim/github-repo-size): A Firefox addon showing the size of a Github repository.
+* [pranavmangal/github-repo-size](https://github.com/pranavmangal/github-repo-size): Displays the size of a GitHub repository on its homepage
 * [edgarjs/github-repos-alfred-workflow](https://github.com/edgarjs/github-repos-alfred-workflow): Alfred workflow to easily open GitHub repositories
 * [BaseMax/GitHub-Repository-Export-List](https://github.com/BaseMax/GitHub-Repository-Export-List): Python: A tiny script to get list of all repository of a GitHub user and generate HTML output with style.
 * [sevenc-nanashi/github-snippets](https://github.com/sevenc-nanashi/github-snippets): Adds a section to copy snippet in GitHub repository page.
@@ -1400,6 +1409,8 @@ creating your own Awesome List by GitHub stars!
 * [arkenfox/gui](https://github.com/arkenfox/gui): A companion gui for arkenfox user.js
 * [samfromaway/Gulp-Boilerplate01](https://github.com/samfromaway/Gulp-Boilerplate01): Boilerplate for a Gulp-Workflow for a Youtube video. If you are lazy like me and are always on the watch out of how you can optimize your workflow especially in regards to deploying a HTML CSS Javascript website this boilerplate is for you. 
 * [jasewarner/gulp-shopify](https://github.com/jasewarner/gulp-shopify): Blank slate Shopify theme for Developers, packaged with Gulp.js for processing SCSS, JavaScript (ES6), images and fonts. Made to support Online Store 2.0 features and Shopify CLI.
+* [akkva/gwfox](https://github.com/akkva/gwfox): Bringing a refreshing macOS-inspired skin to Firefox
+* [akkva/GWfox-T](https://github.com/akkva/GWfox-T): A macOS Tahoe-style Firefox theme 
 * [glomatico/gytmdl](https://github.com/glomatico/gytmdl): A command-line app for downloading YouTube Music songs with tags from YouTube Music.
 * [mofach90/hackathon-24jan26-sponsor-skipper-firefox](https://github.com/mofach90/hackathon-24jan26-sponsor-skipper-firefox): None
 * [SirAlidadi/HackBar](https://github.com/SirAlidadi/HackBar): Hackbar Firefox Extension
@@ -1720,6 +1731,7 @@ creating your own Awesome List by GitHub stars!
 * [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden): ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 * [Shopify/liquid](https://github.com/Shopify/liquid): Liquid markup language. Safe, customer facing template language for flexible web apps. 
 * [EvgeniyMukhamedjanov/liquid-ajax-cart](https://github.com/EvgeniyMukhamedjanov/liquid-ajax-cart): Build a Shopify Ajax-cart without JavaScript coding
+* [miloszfalinski/liquid-fox](https://github.com/miloszfalinski/liquid-fox): A transparent Firefox theme for macOS with vibrancy blur, rounded panels, and a subtle gradient tint
 * [harttle/liquidjs](https://github.com/harttle/liquidjs): A simple, expressive, safe and Shopify compatible template engine in pure JavaScript.
 * [yousefebrahimi0/list-ai-extensions-chrome-addons-firefox](https://github.com/yousefebrahimi0/list-ai-extensions-chrome-addons-firefox): Complete list of AI-powered Extensions for Google Chrome & Addons for Firefox
 * [fregante/list-github-dir-content](https://github.com/fregante/list-github-dir-content): List all the files in a GitHub repo’s directory
@@ -1970,6 +1982,7 @@ creating your own Awesome List by GitHub stars!
 * [Thunderarea/music-mode-for-youtube](https://github.com/Thunderarea/music-mode-for-youtube): Browser extension for hiding the video on YouTube and blocking the video and playing only the audio on YouTube Music 
 * [shredthaGNAR/my-awesome-starred](https://github.com/shredthaGNAR/my-awesome-starred): None
 * [shredthaGNAR/my-awesome-stars](https://github.com/shredthaGNAR/my-awesome-stars): my list of github stars fork
+* [kd8tbs/my-Betterfox](https://github.com/kd8tbs/my-Betterfox): Betterfox fork with my prefered overrides
 * [abdel7ak96/my-email-signature](https://github.com/abdel7ak96/my-email-signature): Email signature
 * [pnthach95/my-firefox-theme](https://github.com/pnthach95/my-firefox-theme): None
 * [martinkorelic/my-joplin-theme](https://github.com/martinkorelic/my-joplin-theme): My Joplin App userstyle and userchrome theme style.
@@ -1982,6 +1995,7 @@ creating your own Awesome List by GitHub stars!
 * [mhss1/MyBrain](https://github.com/mhss1/MyBrain): All-in-one productivity app and AI assistant with Tasks, Notes, Calendar, Diary and Bookmarks.
 * [hisamafahri/mypocket](https://github.com/hisamafahri/mypocket): GetPocket but better!
 * [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail): A free and open-source email signature generator for Gmail, Outlook, Apple Mail, etc.
+* [shredthaGNAR/mysite](https://github.com/shredthaGNAR/mysite): None
 * [shredthaGNAR/mytheme](https://github.com/shredthaGNAR/mytheme): firefox userchrome css theme
 * [tj/n](https://github.com/tj/n): Node version management
 * [cyanfish/naps2](https://github.com/cyanfish/naps2): Scan documents to PDF and more, as simply as possible.
@@ -2629,6 +2643,7 @@ creating your own Awesome List by GitHub stars!
 * [117649/SavedPasswordEditorRedux](https://github.com/117649/SavedPasswordEditorRedux): Not Gecko, application to allow creating and editing saved passwords 
 * [mdreier/savetabs](https://github.com/mdreier/savetabs): Save current tabs extension for Firefox
 * [pvpscript/savetabs](https://github.com/pvpscript/savetabs): A web browser extension that allows the user to save every tab's url to a file
+* [shredthaGNAR/scaling-system](https://github.com/shredthaGNAR/scaling-system): None
 * [snlned/sci-hub-scholar](https://github.com/snlned/sci-hub-scholar): Add a Sci-Hub link in Google Scholar results.
 * [shoekla/ScrapeC](https://github.com/shoekla/ScrapeC): ScrapeC is a “mock” search engine, in the fact that it does a lot of what Bing, YouTube, and DuckDuckGo does, but instead of searching its own database it crawls and scrape these search engines and other websites. Along with return links, images, and videos of searches it also return PDFs, Social Media information (Facebook, Twitter, Google+), and Contact Information related to the links that it returns. On top of that ScrapeC also has the same features on a smaller scale for web addresses used as an input. Link: http://scrapec.pythonanywhere.com/
 * [Phisteven/scraping-bets](https://github.com/Phisteven/scraping-bets): Experiments with web srcaping from sports betting websites
