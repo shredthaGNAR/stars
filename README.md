@@ -653,7 +653,6 @@ creating your own Awesome List by GitHub stars!
 * [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim): ✨ AI Coding, Vim Style
 * [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit): 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 * [zai-org/CodeGeeX2](https://github.com/zai-org/CodeGeeX2): CodeGeeX2: A More Powerful Multilingual Code Generation Model
-* [febinbellamy/CodeHub](https://github.com/febinbellamy/CodeHub): CodeHub is an open-source browser extension that automatically pushes your Codewars submissions to GitHub.
 * [CodeverDotDev/codever](https://github.com/CodeverDotDev/codever): Bookmarks, Snippets and Notes Manager for Developers & Co (website)
 * [jcv8000/Codex](https://github.com/jcv8000/Codex): A free note-taking software for programmers and Computer Science students
 * [frankmdmc/CodexDidThis](https://github.com/frankmdmc/CodexDidThis): GPT Codex Did This
@@ -932,7 +931,6 @@ creating your own Awesome List by GitHub stars!
 * [Van-Code/email-signature-generator](https://github.com/Van-Code/email-signature-generator):  html email signature generator
 * [vinitshahdeo/Email-Signature-Template](https://github.com/vinitshahdeo/Email-Signature-Template): An email signature template made using HTML & CSS - let's make its easier for everyone!
 * [bluginbuhl/email-signatures](https://github.com/bluginbuhl/email-signatures): Custom HTML/CSS e-mail signatures for Gmail
-* [sangaline/email-spy](https://github.com/sangaline/email-spy): A browser extension that lets you find email addresses for any domain with a single click.
 * [ColorlibHQ/email-templates](https://github.com/ColorlibHQ/email-templates): Free HTML email templates for Mailchimp and other emails services
 * [maldevel/EmailHarvester](https://github.com/maldevel/EmailHarvester): Email addresses harvester
 * [crowdproperty/EmailSignatureMachine](https://github.com/crowdproperty/EmailSignatureMachine): You here to make some email signatures
@@ -2234,7 +2232,6 @@ creating your own Awesome List by GitHub stars!
 * [Yumeo0/pear-desktop](https://github.com/Yumeo0/pear-desktop): Pear 🍐 is extension for music player
 * [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop): Pear 🍐 is extension for music player
 * [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner): A free, source-available and fair-code licensed mac app cleaner
-* [Jarred-Sumner/peek](https://github.com/Jarred-Sumner/peek): 1-click from git repo to local editor
 * [u-Sir/peek-pop](https://github.com/u-Sir/peek-pop): A lightweight, open-source browser extension lets you preview, search, and save pages to read later.
 * [getpelican/pelican](https://github.com/getpelican/pelican): Static site generator that supports Markdown and reST syntax. Powered by Python.
 * [dgurkaynak/Penc](https://github.com/dgurkaynak/Penc): Trackpad-oriented window manager for macOS
@@ -2276,6 +2273,7 @@ creating your own Awesome List by GitHub stars!
 * [bhootd/pin-unpin-tab](https://github.com/bhootd/pin-unpin-tab): Firefox add-on to pin or unpin current tab in more efficient ways.
 * [pinterest/PINCache](https://github.com/pinterest/PINCache): Fast, non-deadlocking parallel object cache for iOS, tvOS and OS X
 * [gocom/pinceau](https://github.com/gocom/pinceau): Personal Firefox userChrome and preference customizations
+* [zer0biwan/piracy-list-23](https://github.com/zer0biwan/piracy-list-23): Forked from Igglybuff/awesome-piracy
 * [alextselegidis/plainpad](https://github.com/alextselegidis/plainpad): 📓 Plainpad - Self Hosted Note Taking App
 * [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic): Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
 * [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo): 🧩 The Browser Extension Framework
@@ -2707,6 +2705,7 @@ creating your own Awesome List by GitHub stars!
 * [umbrae/Serendipity](https://github.com/umbrae/Serendipity): /r/serendipity is a meta-subreddit meant to broaden the perspective of its subscribers. It takes a popular entry from a random subreddit and posts it every few hours. If you want to increase your exposure to niche subreddits, or just your perspective on things on the web in general, serendipity might help you do that. But it might not. It's a bot, after all.
 * [d-evil0per/serverless-hosting](https://github.com/d-evil0per/serverless-hosting): How to host websites using free cloud storage
 * [LeeluPradhan/Service-accounts-seperator-AutoRclone](https://github.com/LeeluPradhan/Service-accounts-seperator-AutoRclone): To split google service accounts after 10 accounts, to add in google group easily and use autorclone!
+* [knurling/ServiceStation](https://github.com/knurling/ServiceStation): Service Station
 * [tjluoma/servicestationscripts](https://github.com/tjluoma/servicestationscripts): Scripts to be used with the macOS App Service Station
 * [aderyabin/ServPane](https://github.com/aderyabin/ServPane): A launchd menu bar app for Mac
 * [oxen-io/session-android](https://github.com/oxen-io/session-android): Session Android - Onion routing based messenger [DEPRECATED SEE README]
@@ -3124,7 +3123,6 @@ creating your own Awesome List by GitHub stars!
 * [lilythstern/touchbar-cryptocoins](https://github.com/lilythstern/touchbar-cryptocoins): View BTC, LTC, ETH and NEO on your Macbook Touchbar using the BetterTouchTool.
 * [ZachAttackMLR/TouchBar-Fun](https://github.com/ZachAttackMLR/TouchBar-Fun): Using BetterTouchTool to display things on the new MacBook Pro's touch bar
 * [ValentinJesse/TouchBar_Bitcoin_Florincoin](https://github.com/ValentinJesse/TouchBar_Bitcoin_Florincoin): Bitcoin and Florincoin on the MacBook Pro TouchBar
-* [rknightuk/TouchBarWidgets](https://github.com/rknightuk/TouchBarWidgets): Scripts for my BetterTouchTool Touch Bar widgets
 * [rickkas7/TowerInfo](https://github.com/rickkas7/TowerInfo): Tool to show the location of nearby cellular towers on a mobile device, tablet, or laptop
 * [MrOtherGuy/ToyfoCSS](https://github.com/MrOtherGuy/ToyfoCSS): Guide to introduce basic CSS concepts and progressively advance into Firefox CSS hacking
 * [Nisarg03/Tracing-people-with-Facial-Recognition-using-OCR](https://github.com/Nisarg03/Tracing-people-with-Facial-Recognition-using-OCR): A computer vision project to develop a query based software that seeks string of words as input. It searches through the database using concepts of OCR by employing libraries like Tesseract and OpenCV to find the said string. The program then recognises the faces of individuals on the page, crops them, and arranges them in a strip to display.
@@ -3246,7 +3244,7 @@ creating your own Awesome List by GitHub stars!
 * [Yuhanawa/UserScript](https://github.com/Yuhanawa/UserScript): CSDN 极简\沉浸式阅读\免登录复制 | 博客园美化 | 哔哩哔哩美化 | GreasyFork脚本页面👇
 * [cyfung1031/userscript-supports](https://github.com/cyfung1031/userscript-supports): This is for the userscripts created on GreasyFork.org. 
 * [Trinovantes/userscript-youtube-playlist-organizer](https://github.com/Trinovantes/userscript-youtube-playlist-organizer): Drag and drop interface to organize playlists on YouTube
-* [masterofobzene/UserScriptRepo](https://github.com/masterofobzene/UserScriptRepo): A place to put the userscripts I make. Take a look, see if something is useful.
+* [masterofobzene/UserScriptRepo](https://github.com/masterofobzene/UserScriptRepo): A place to put the userscripts I come up with to make internet a less miserable place. Take a look, see if something is useful.
 * [FiorenMas/Userscripts](https://github.com/FiorenMas/Userscripts): Automatic compiled Userscript make it run faster
 * [Infocatcher/UserScripts](https://github.com/Infocatcher/UserScripts): UserScripts for Firefox with Greasemonkey extension and (may be) for other browsers with user.js support
 * [danydodson/userscripts](https://github.com/danydodson/userscripts): UserScript Collection.
