@@ -173,6 +173,7 @@ creating your own Awesome List by GitHub stars!
 * [ait-cs-IaaS/ansible-firefox-autoconfig](https://github.com/ait-cs-IaaS/ansible-firefox-autoconfig): Ansible Role Installs firefox and makes it configurable through environment variables
 * [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod): A podcast manager for Android
 * [AbdurazaaqMohammed/AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M): App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android
+* [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin): Personal theme for Obsidian
 * [nightmare-space/any_share](https://github.com/nightmare-space/any_share): Fast Share is a highly available file sharing terminal on LAN(local area network) like airdrop developed by flutter framework.
 * [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm): The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 * [Mintplex-Labs/anythingllm-extension](https://github.com/Mintplex-Labs/anythingllm-extension): Browser extension for AnythingLLM Docker & Desktop application
@@ -323,6 +324,7 @@ creating your own Awesome List by GitHub stars!
 * [Puliczek/awesome-list-of-secrets-in-environment-variables](https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables): 🦄🔒 Awesome list of secrets in environment variables 🖥️
 * [langgptai/awesome-llama-prompts](https://github.com/langgptai/awesome-llama-prompts): LLM prompts, llama3 prompts, llama2 prompts
 * [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM): Awesome-LLM: a curated list of Large Language Model
+* [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps): Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 * [vince-lam/awesome-local-llms](https://github.com/vince-lam/awesome-local-llms): Compare open-source local LLM inference projects by their metrics to assess popularity and activeness.
 * [HoMeCracKeR/awesome-mac](https://github.com/HoMeCracKeR/awesome-mac):  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 * [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac):  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -1139,6 +1141,7 @@ creating your own Awesome List by GitHub stars!
 * [fuyu0425/firefox-tweaks](https://github.com/fuyu0425/firefox-tweaks): My FireFox Tweaks
 * [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix): 🦊 I respect proton UI and aim to improve it.
 * [denis-g/firefox-user.js](https://github.com/denis-g/firefox-user.js): 🦊 Firefox user.js – based on arkenfox/user.js with additional UI fixes.
+* [razak17/firefox-user.js](https://github.com/razak17/firefox-user.js): fox_face Firefox user.js – based on arkenfox/user.js with additional UI enhancements. 
 * [icpantsparti/firefox-user.js-tool](https://github.com/icpantsparti/firefox-user.js-tool): Interactive view, compare, and more for Firefox user.js (eg arkenfox/user.js) + about:config functions
 * [icpantsparti2/firefox-user.js-tool](https://github.com/icpantsparti2/firefox-user.js-tool): Interactive view, compare, and more for Firefox user.js (eg arkenfox/user.js) + about:config functions
 * [Guerra24/Firefox-UWP-Style](https://github.com/Guerra24/Firefox-UWP-Style): Sun Valley + MDL2 Theme for Firefox
@@ -2364,6 +2367,7 @@ creating your own Awesome List by GitHub stars!
 * [goldfire/pokersolver](https://github.com/goldfire/pokersolver): Javascript poker hand solver.
 * [Jantero93/pokerstars-statistics-script](https://github.com/Jantero93/pokerstars-statistics-script): Script for tracking history on PokerStars
 * [andrewprock/pokerstove](https://github.com/andrewprock/pokerstove): poker evaluation and enumeration software
+* [Mattlk13/poogle](https://github.com/Mattlk13/poogle): Porn finder. Search simultaneously on different porn websites to display it once. 
 * [pilotmoon/PopClip-Extensions](https://github.com/pilotmoon/PopClip-Extensions): Source code for extensions in the official PopClip Extensions directory.
 * [martipops/popcorn-raycast](https://github.com/martipops/popcorn-raycast): A Raycast extension that uses the Stremio API to search for movies and TV shows and stream them to local media players using Stremio addons. 
 * [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime): Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
@@ -2607,6 +2611,8 @@ creating your own Awesome List by GitHub stars!
 * [chsbuffer/ReVancedXposed_Spotify](https://github.com/chsbuffer/ReVancedXposed_Spotify): None
 * [shekhawat2/RevancedYT](https://github.com/shekhawat2/RevancedYT): None
 * [decipher3114/Revancify](https://github.com/decipher3114/Revancify): The only revancify
+* [shredthaGNAR/reveal-md](https://github.com/shredthaGNAR/reveal-md): None
+* [gaerfield/reveal-md-github-pages](https://github.com/gaerfield/reveal-md-github-pages): Automatically deploys reveal-md presentations to github-pages
 * [YT-Advanced/ReX-patches](https://github.com/YT-Advanced/ReX-patches): 🧩 Patches for ReVanced
 * [timonus/Rhea](https://github.com/timonus/Rhea): A Mac status bar app for quickly sharing files and links.
 * [garywill/right-click-tab-close](https://github.com/garywill/right-click-tab-close): Firefox close tab by right clicking on tab button ,userchrome script  🖱️
@@ -3461,6 +3467,7 @@ creating your own Awesome List by GitHub stars!
 * [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp): A feature-rich command-line audio/video downloader
 * [ohmybahgosh/YT-DLP-SCRIPTS](https://github.com/ohmybahgosh/YT-DLP-SCRIPTS): ...Just a place for me to share my various YT-DLP & related bash scripts.
 * [shailshouryya/yt-videos-list](https://github.com/shailshouryya/yt-videos-list): Create and **automatically** update a list of all videos on a YouTube channel (in txt/csv/md form) via YouTube bot with end-to-end web scraping - no API tokens required. Multi-threaded support for YouTube videos list  updates.
+* [exwm/yt_clipper](https://github.com/exwm/yt_clipper): Mark up YouTube videos in browser and quickly generate video clips. Mark up local videos on https://exwm.github.io/yt_clipper.
 * [tyilo/yt_dlp_firefox](https://github.com/tyilo/yt_dlp_firefox): None
 * [ytb2mp3/ytb2mp3](https://github.com/ytb2mp3/ytb2mp3): Convert YouTube videos to mp3 files via the command-line
 * [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis): Full-featured audio/video downloader for Android using yt-dlp
