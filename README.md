@@ -1115,7 +1115,7 @@ creating your own Awesome List by GitHub stars!
 * [wrestlerdude/Firefox-Proton-Square](https://github.com/wrestlerdude/Firefox-Proton-Square): Makes Firefox Proton UI look and feel like Quantum
 * [Sporif/firefox-quantum-userchromejs](https://github.com/Sporif/firefox-quantum-userchromejs): Firefox Quantum-compatible custom javascript in browser context — no extension, userChromeJS replacement
 * [xpmn/firefox-reading-list](https://github.com/xpmn/firefox-reading-list): A minimal Firefox extension for saving pages to read later.
-* [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar): A customisable userChrome.css style to improve the Firefox (130–147) find bar.
+* [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar): A customisable userChrome.css style to improve the Firefox (130–148) find bar.
 * [mobiusxp/firefox-remap-private-browsing](https://github.com/mobiusxp/firefox-remap-private-browsing): UserChrome JS script to remap Firefox's Private Browsing to match everything else
 * [BGMP/firefox-revert-proton](https://github.com/BGMP/firefox-revert-proton): Revert Firefox Proton to Photon & Photon Compact
 * [panjilp-lab/firefox-safari-noFix](https://github.com/panjilp-lab/firefox-safari-noFix): learning to make safari style for firefox
@@ -1233,7 +1233,7 @@ creating your own Awesome List by GitHub stars!
 * [tssandor/gasbar](https://github.com/tssandor/gasbar): Ethereum Gas Fee for the MacBook Pro touchbar (using BetterTouchTool)
 * [2ndalpha/gasmask](https://github.com/2ndalpha/gasmask): Hosts file manager for OS X
 * [ttscoff/gather-cli](https://github.com/ttscoff/gather-cli): None
-* [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby): The best React-based framework with performance, scalability and security built in.
+* [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby): React-based framework with performance, scalability, and security built in.
 * [wonism/gatsby-advanced-blog](https://github.com/wonism/gatsby-advanced-blog): Gatsby starter for advanced blog
 * [Vagr9K/gatsby-advanced-starter](https://github.com/Vagr9K/gatsby-advanced-starter): A high performance skeleton starter for GatsbyJS with an advanced feature set.
 * [Vagr9K/gatsby-material-starter](https://github.com/Vagr9K/gatsby-material-starter): A high performance blog starter with Material design in mind for GatsbyJS.
