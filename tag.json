@@ -8,6 +8,9 @@
     "0x2e73/ChromeFox": [
         "Other"
     ],
+    "0x7370346365/classic-tabs-firefox": [
+        "Other"
+    ],
     "0xAwoL/firefox-tabs-clipboard-saver": [
         "Other"
     ],
@@ -9014,9 +9017,6 @@
     "sozercan/kaset": [
         "Other"
     ],
-    "sp4ceCCXXI/classic-tabs-firefox": [
-        "Other"
-    ],
     "spaceship-prompt/spaceship-prompt": [
         "Other"
     ],
@@ -10028,6 +10028,9 @@
     "webtorrent/webtorrent": [
         "Other"
     ],
+    "weierz/chrome-read-later": [
+        "Other"
+    ],
     "wesbos/burner-email-providers": [
         "Other"
     ],
@@ -10044,9 +10047,6 @@
         "Other"
     ],
     "will-stone/browserosaurus": [
-        "Other"
-    ],
-    "willbchang/chrome-read-later": [
         "Other"
     ],
     "willfarrell/alfred-youtube-workflow": [

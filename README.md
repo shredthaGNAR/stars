@@ -17,7 +17,7 @@ creating your own Awesome List by GitHub stars!
 
 # GitHub
 
-* [maguowei/starred](https://github.com/maguowei/starred): creating your own Awesome List by GitHub stars!
+* [maguowei/starred](https://github.com/maguowei/starred): Create and maintain your own Awesome-style list from GitHub stars!
 
 # Jekyll
 
@@ -611,7 +611,7 @@ creating your own Awesome List by GitHub stars!
 * [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples): Chrome Extensions Samples
 * [foray1010/chrome-manifest-loader](https://github.com/foray1010/chrome-manifest-loader): Chrome manifest loader for webpack
 * [AmiaaaZ/chrome-read-later](https://github.com/AmiaaaZ/chrome-read-later): A temporary bookmark focuses on reading later, rather than closing and removing, with several Vim keybindings!
-* [willbchang/chrome-read-later](https://github.com/willbchang/chrome-read-later): A temporary bookmark focused on reading later, rather than closing and removing, with several Vim keybindings!
+* [weierz/chrome-read-later](https://github.com/weierz/chrome-read-later): A temporary bookmark focused on reading later, rather than closing and removing, with several Vim keybindings!
 * [elgervb/chrome-readinglist2](https://github.com/elgervb/chrome-readinglist2): None
 * [Noitidart/Chrome-Store-Foxified](https://github.com/Noitidart/Chrome-Store-Foxified): Point and click to install extensions into your browser from the AMO, Chrome Web Store, Microsoft Store, or Opera Addons websites.
 * [matthewfallshaw/chrome-window-management-scripts](https://github.com/matthewfallshaw/chrome-window-management-scripts): Chrome window and tab management scripts
@@ -621,7 +621,7 @@ creating your own Awesome List by GitHub stars!
 * [jimmyxu/circle](https://github.com/jimmyxu/circle): Logi Circle video downloader
 * [emvaized/circle-mouse-gestures](https://github.com/emvaized/circle-mouse-gestures): Firefox & Chrome extension for mouse gestures with visual representation of actions
 * [asilvas/circler](https://github.com/asilvas/circler): (non-official) Logitech Circle utility application (download etc)
-* [sp4ceCCXXI/classic-tabs-firefox](https://github.com/sp4ceCCXXI/classic-tabs-firefox): None
+* [0x7370346365/classic-tabs-firefox](https://github.com/0x7370346365/classic-tabs-firefox): None
 * [opactorai/Claudable](https://github.com/opactorai/Claudable): Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.
 * [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router): Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 * [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts): All parts of Claude Code's system prompt, 18 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, security review, agent creation).  Updated for each Claude Code version.
@@ -1232,7 +1232,7 @@ creating your own Awesome List by GitHub stars!
 * [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery): A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
 * [sted9000/gambit](https://github.com/sted9000/gambit): Learn Pot Limit Omaha Starting Ranges
 * [tssandor/gasbar](https://github.com/tssandor/gasbar): Ethereum Gas Fee for the MacBook Pro touchbar (using BetterTouchTool)
-* [2ndalpha/gasmask](https://github.com/2ndalpha/gasmask): Hosts file manager for OS X
+* [2ndalpha/gasmask](https://github.com/2ndalpha/gasmask): Hosts file manager for macOS
 * [ttscoff/gather-cli](https://github.com/ttscoff/gather-cli): None
 * [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby): React-based framework with performance, scalability, and security built in.
 * [wonism/gatsby-advanced-blog](https://github.com/wonism/gatsby-advanced-blog): Gatsby starter for advanced blog
