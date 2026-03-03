@@ -1689,7 +1689,7 @@ creating your own Awesome List by GitHub stars!
 * [kondasoft/ks-bootshop](https://github.com/kondasoft/ks-bootshop): Our Free Shopify Theme focused on simplicity, speed, and user experience. Download it today and finish your Shopify store within days, not months. Powered by Bootstrap v5 framework and 15+ years of coding experience.
 * [lando/lando](https://github.com/lando/lando): A development tool for all your projects that is fast, easy, powerful and liberating
 * [LANDrop/LANDrop](https://github.com/LANDrop/LANDrop): Drop any files to any devices on your LAN.
-* [langchain-ai/langchain](https://github.com/langchain-ai/langchain): 🦜🔗 The platform for reliable agents.
+* [langchain-ai/langchain](https://github.com/langchain-ai/langchain): The agent engineering platform
 * [langfuse/langfuse](https://github.com/langfuse/langfuse): 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 
 * [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool): Style and Grammar Checker for 25+ Languages
 * [stuyam/laravel-phone-validator](https://github.com/stuyam/laravel-phone-validator): A phone validator for Laravel using the free Twilio phone lookup service.
@@ -1778,6 +1778,7 @@ creating your own Awesome List by GitHub stars!
 * [ParisNeo/lollms_legacy](https://github.com/ParisNeo/lollms_legacy): Lord of LLMS
 * [TB-throwback/LookOut-fix-version](https://github.com/TB-throwback/LookOut-fix-version): Fork of LookOut (fix version)
 * [MrKai77/Loop](https://github.com/MrKai77/Loop): Window management made elegant.
+* [vincentneo/LosslessSwitcher](https://github.com/vincentneo/LosslessSwitcher): Automated Apple Music Lossless Sample Rate Switching for Audio Devices on Macs.
 * [ThatOrJohn/lottery-texas-scratchoffs](https://github.com/ThatOrJohn/lottery-texas-scratchoffs): Populate Neo4J AuraDB with daily Texas Lottery Scratch Ticket claim data
 * [Wkasel/lottery_scraper](https://github.com/Wkasel/lottery_scraper): Scraper for lottery scratchers
 * [kawhyte/Lotto-Tickets-API](https://github.com/kawhyte/Lotto-Tickets-API): An API for the Florida Lottery Scratch-off game
@@ -2099,7 +2100,7 @@ creating your own Awesome List by GitHub stars!
 * [groepl/Obsidian-Templates](https://github.com/groepl/Obsidian-Templates): A repository containing templates and scripts for #Obsidian to support the #Zettelkasten method for note-taking.
 * [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin): Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
 * [KosmosisDire/obsidian-webpage-export](https://github.com/KosmosisDire/obsidian-webpage-export): Export html from single files, canvas pages, or whole vaults. Direct access to the exported HTML files allows you to publish your digital garden anywhere. Focuses on flexibility, features, and style parity.
-* [Lapis0x0/obsidian-yolo](https://github.com/Lapis0x0/obsidian-yolo): Agent-native AI assistant — chat, write, search, orchestrate, all in one.
+* [Lapis0x0/obsidian-yolo](https://github.com/Lapis0x0/obsidian-yolo): Smart, snappy, and multilingual AI assistant for your vault.
 * [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium): Get Android app updates straight from the source.
 * [DevipriyaSarkar/OCR-Reader](https://github.com/DevipriyaSarkar/OCR-Reader): An Android app to extract text from camera preview directly.
 * [dannyhines/odds-converter-extension](https://github.com/dannyhines/odds-converter-extension): Chrome extension to show the implied probability next to all instances of American odds (i.e. "+140") that appear on the webpage.
