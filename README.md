@@ -1099,6 +1099,7 @@ creating your own Awesome List by GitHub stars!
 * [Alan-Kuan/Firefox-Mod-Blur](https://github.com/Alan-Kuan/Firefox-Mod-Blur): A Fork with an Installer for "Firefox Mod Blur - Modular"
 * [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur): Firefox CSS Theme - For dark theme lovers / More compact / Modular / Blur
 * [MatthewCash/firefox-mods](https://github.com/MatthewCash/firefox-mods): Firefox CSS and JS Mods
+* [sonnenfell/firefox-new-duplicate-tab-closer](https://github.com/sonnenfell/firefox-new-duplicate-tab-closer): A small Firefox WebExtension to automatically close newly created duplicate tabs. Does not affect tabs that were already open before becoming duplicates by default.
 * [DivitMittal/firefox-nixCfg](https://github.com/DivitMittal/firefox-nixCfg): A declarative Firefox configuration using Nix home-manager, designed for enhanced performance, a streamlined UI, and powerful automation
 * [christiet/firefox-obsidian-bookmark](https://github.com/christiet/firefox-obsidian-bookmark): Firefox extension that allows users to create a "Bookmark" of their current tab into a specified document in Obsidian.
 * [patrikzudel/firefox-obsidian-bookmark](https://github.com/patrikzudel/firefox-obsidian-bookmark): Firefox extension that allows users to create a "Bookmark" of their current tab into a specified document in Obsidian.
@@ -1644,6 +1645,7 @@ creating your own Awesome List by GitHub stars!
 * [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements): Karabiner-Elements is a powerful tool for customizing keyboards on macOS
 * [rux616/karabiner-windows-mode](https://github.com/rux616/karabiner-windows-mode): Karabiner-Elements complex ruleset to make using macOS friendlier by enabling common keyboard functionality used in Linux and Windows.
 * [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep): A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+* [brianluby/karakeep-extractor](https://github.com/brianluby/karakeep-extractor): None
 * [duongdev/karakeep-social-ai](https://github.com/duongdev/karakeep-social-ai): A personal bookmark manager that auto-syncs saved posts from multiple social platforms (X, Reddit, YouTube, TikTok, Dribbble, Instagram, Facebook), with AI-powered summarization, categorization, and intelligent search using Claude.
 * [sozercan/kaset](https://github.com/sozercan/kaset): 📻 The missing YouTube Music macOS app
 * [kazimmt/kazimmt.github.io](https://github.com/kazimmt/kazimmt.github.io): Organized ReVanced & ReVanced Extended functionalities along with visual illustrations.
@@ -2581,7 +2583,7 @@ creating your own Awesome List by GitHub stars!
 * [briangershon/retrieve-pocket-bookmarks](https://github.com/briangershon/retrieve-pocket-bookmarks): Retrieves your bookmarks and meta data from Pocket API (via https://getpocket.com/developer/docs/v3/retrieve)
 * [cormiertyshawn895/Retroactive](https://github.com/cormiertyshawn895/Retroactive): Retroactive has been discontinued. You should transition from Retroactive to supported apps such as Music, iTunes for Windows, iMazing, Photos, Darktable, Lightroom Classic, and DaVinci Resolve.
 * [NoName-exe/revanced](https://github.com/NoName-exe/revanced): ReVanced YT and YT-M for both root and non-root users.
-* [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root): Real-time repository build Revanced and Revanced Extended about 10 minutes after patch release
+* [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root): Real-time repository build Morphe, Revanced and Revanced Extended about 10 minutes after patch release
 * [n0k0m3/revanced-build-template](https://github.com/n0k0m3/revanced-build-template): Github Template for building Revanced
 * [farag2/ReVanced-Builder](https://github.com/farag2/ReVanced-Builder): Build YouTube within a cloud ReVanced
 * [reisxd/revanced-builder](https://github.com/reisxd/revanced-builder): A NodeJS ReVanced builder
@@ -2592,7 +2594,7 @@ creating your own Awesome List by GitHub stars!
 * [ReVanced/revanced-documentation](https://github.com/ReVanced/revanced-documentation): 🗄 Collection of all ReVanced documentation
 * [inotia00/revanced-documentation](https://github.com/inotia00/revanced-documentation): 🗄 Documentation and guides for ReVanced Extended
 * [NoName-exe/revanced-extended](https://github.com/NoName-exe/revanced-extended): ReVanced eXtended YT and YT-M for both root and non-root users.
-* [thunderkex/revanced-extended](https://github.com/thunderkex/revanced-extended): Pre-built, auto-updated ReVanced Extended APKs for YouTube, YouTube Music, and more – with root (Magisk) and non-root support.
+* [thunderkex/revanced-extended](https://github.com/thunderkex/revanced-extended): Pre-built, All-In-One, auto-updated ReVanced / Morphed Extended APKs for YouTube, YouTube Music, and more – with root (Magisk) and non-root support.
 * [NoName-exe/revanced-extended-mnml](https://github.com/NoName-exe/revanced-extended-mnml): Minimal ReVanced eXtended YT and YT-M and more for both root and non-root users.
 * [ReVanced/revanced-integrations](https://github.com/ReVanced/revanced-integrations): 🔩 ReVanced Integrations containing classes to be merged by ReVanced Patcher
 * [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module): Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
@@ -3329,7 +3331,6 @@ creating your own Awesome List by GitHub stars!
 * [illixion/vscode-vibrancy-continued](https://github.com/illixion/vscode-vibrancy-continued): Enable Acrylic/Glass effect for your VS Code.
 * [andrejsharapov/vue-box-shadows](https://github.com/andrejsharapov/vue-box-shadows): Collection of CSS box-shadows for every taste contains more than 100 simple, beautiful and airy shadows.
 * [Kocal/vue-web-extension](https://github.com/Kocal/vue-web-extension): 🛠️ A Vue CLI 3+ preset (previously a Vue CLI 2 boilerplate) for quickly starting a web extension with Vue, Babel, ESLint and more!
-* [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension): Browser extension to spoof timezone, geolocation, locale and user agent.
 * [sedemmler/WagerBrain](https://github.com/sedemmler/WagerBrain): A package containing the essential math required for sports betting and gambling.
 * [wallabag/wallabag](https://github.com/wallabag/wallabag): wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 * [wallabag/wallabagger](https://github.com/wallabag/wallabagger): Chrome-like / Firefox plugin for wallabag v2.
