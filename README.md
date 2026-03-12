@@ -2405,7 +2405,7 @@ creating your own Awesome List by GitHub stars!
 * [ryanoasis/powerline-extra-symbols](https://github.com/ryanoasis/powerline-extra-symbols): :arrow_forward: Extra glyphs for your powerline separators
 * [DanaMW/PowerShell-TuneUp](https://github.com/DanaMW/PowerShell-TuneUp): PowerShell scripts and snips for the learning curve.
 * [krlvm/PowerTunnel](https://github.com/krlvm/PowerTunnel): Powerful and extensible proxy server with anti-censorship functionality
-* [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI): PraisonAI is a production-ready Multi AI Agents framework, designed to create AI Agents to automate and solve problems ranging from simple tasks to complex challenges. It provides a low-code solution to streamline the building and management of multi-agent LLM systems, emphasising simplicity, customisation, and effective human-agent collaboration.
+* [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI): PraisonAI 🦞 - Your 24/7 AI employee team. Automate and solve complex challenges with low-code multi-agent AI that plans, researches, codes, and delivers to Telegram, Discord, and WhatsApp. Handoffs, guardrails, memory, RAG, 100+ LLMs.
 * [parkermuir/preflop-poker](https://github.com/parkermuir/preflop-poker): Python scripts to navigate Texas Hold 'Em and Pot Limit Omaha preflop decision trees ♠️♣️
 * [MozillaSecurity/prefpicker](https://github.com/MozillaSecurity/prefpicker): Manage & generate prefs.js files
 * [neox387/premiumizer](https://github.com/neox387/premiumizer): None
@@ -2432,7 +2432,7 @@ creating your own Awesome List by GitHub stars!
 * [raycast/prompt-explorer](https://github.com/raycast/prompt-explorer): Easily browse, share, and add prompts to Raycast
 * [nkmr-jp/prompt-line](https://github.com/nkmr-jp/prompt-line): Prompt Line is a macOS app developed to improve the prompt input experience in the terminal for CLI-based AI coding agents such as Claude Code, Gemini CLI, OpenAI Codex CLI, and Aider. 
 * [sangddn/prompt_builder](https://github.com/sangddn/prompt_builder): A macOS tool to build long-context prompts for models like OpenAI o3 and Gemini 2.5.
-* [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo): Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
+* [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo): Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
 * [f/prompts.chat](https://github.com/f/prompts.chat): f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 * [corpnewt/ProperTree](https://github.com/corpnewt/ProperTree): Cross platform GUI plist editor written in python.
 * [vlvagerviwager/protect-your-privacy](https://github.com/vlvagerviwager/protect-your-privacy): Privacy resources for the layperson. Highlights resources, tools, VPNs, search engines, articles, books, and dark patterns. 
