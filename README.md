@@ -332,7 +332,7 @@ creating your own Awesome List by GitHub stars!
 * [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS):   A curated list of awesome applications, softwares, tools and shiny things for macOS.
 * [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos): A curated list of awesome software for Apple's macOS.
 * [wong2/awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers): A curated list of Model Context Protocol (MCP) servers
-* [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates): Supercharge your workflow automation with this curated collection of n8n templates! Instantly connect your favorite apps-like Gmail, Telegram, Google Drive, Slack, and more-with ready-to-use, AI-powered automations. Save time, boost productivity, and unlock the true potential of n8n in just a few clicks.
+* [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates): 280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RAG   chatbots, email automation, social media, DevOps, and document processing. The largest open-source n8n template collection.
 * [yjose/awesome-new](https://github.com/yjose/awesome-new): A list of `.new` domains to perform online actions in one quick action.
 * [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian): 🕶️ Awesome stuff for Obsidian
 * [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint): :scream: A curated list of amazingly awesome OSINT
@@ -415,7 +415,7 @@ creating your own Awesome List by GitHub stars!
 * [seanpquig/betting-odds-analyzer](https://github.com/seanpquig/betting-odds-analyzer): Analyze sports betting based on historical statistics and current odds
 * [SingularityLabs-ai/beyond-bard-mini](https://github.com/SingularityLabs-ai/beyond-bard-mini): Aims to bring Google Bard to  every website. For Google, Bing, Youtube, Yahoo, Baidu, Brave, Kagi, Duckduckgo, Github, Yandex, NAVER, Nikkei there are custom prompts written to enhance the summary(or insights) experience. 
 * [barrykn/big-sur-micropatcher](https://github.com/barrykn/big-sur-micropatcher): A primitive USB patcher for installing macOS Big Sur on unsupported Macs
-* [SuperBox64/bigmac](https://github.com/SuperBox64/bigmac): Big Mac, macOS 11 Big Sur and macOS Monterey disk installer and back up tool for Intel based Macs
+* [macOS26/bigmac](https://github.com/macOS26/bigmac): Big Mac, macOS 11 Big Sur and macOS Monterey disk installer and back up tool for Intel based Macs
 * [garywill/BigSearch](https://github.com/garywill/BigSearch): Browser extension. Definitly more than a GET/POST sender. Handily use search engines via a Flexible Tool! UI has Vimium-like feature 🌐🔍 (Pure-client. No 3rd-party server needed) 大术专搜 既专又广 手敲几下 纵横去往
 * [zjns/BiliRoamingX-patches](https://github.com/zjns/BiliRoamingX-patches): [Deprecated] Merged into https://github.com/BiliRoamingX/BiliRoamingX.
 * [sebaslogen/bitcoin-price-ticker](https://github.com/sebaslogen/bitcoin-price-ticker): Bitcoin Price Ticker Firefox Addon with multiple price sources and configuration options
@@ -1458,7 +1458,7 @@ creating your own Awesome List by GitHub stars!
 * [hensm/hide_private_mode](https://github.com/hensm/hide_private_mode): None
 * [amarsyla/hidutil-key-remapping-generator](https://github.com/amarsyla/hidutil-key-remapping-generator): Simple tool to generate HIDUTIL key remapping configurations for MacOS
 * [annedorko/highlight](https://github.com/annedorko/highlight): Static Site Generator (SSG) for creating multiple targeted portfolios and resumes with one website.
-* [homarr-labs/homarr](https://github.com/homarr-labs/homarr): A modern and easy to use dashboard. 30+ integrations. 10K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
+* [homarr-labs/homarr](https://github.com/homarr-labs/homarr): A modern and easy to use dashboard. 40+ integrations. 10K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
 * [agneevX/home-assistant](https://github.com/agneevX/home-assistant): Home Assistant lovelace layout and config
 * [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar): Displaying Home Assistant sensors in the Macbook Pro's touch bar using BTT 🤖💻
 * [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io): :blue_book: Home Assistant User documentation
@@ -1922,7 +1922,7 @@ creating your own Awesome List by GitHub stars!
 * [WorldBrain/Memex](https://github.com/WorldBrain/Memex): Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 * [kormyen/memex](https://github.com/kormyen/memex): Simple bookmarks and notes
 * [memex-life/memex](https://github.com/memex-life/memex): Your second brain for the web browsing. An AI powered Chrome extension that constructs personal knowledge base for you. 
-* [usememos/memos](https://github.com/usememos/memos): An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
+* [usememos/memos](https://github.com/usememos/memos): Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 * [xudaolong/memos-desktop](https://github.com/xudaolong/memos-desktop): Memos client built on electron cross-end framework
 * [austintraver/merge](https://github.com/austintraver/merge): Addon to replicate the Safari 'Merge All Windows' menu command
 * [wsmadsen/Merge-NHL-Odds](https://github.com/wsmadsen/Merge-NHL-Odds): Import NHL data from NHL website and merge odds
@@ -2390,6 +2390,7 @@ creating your own Awesome List by GitHub stars!
 * [iivvaannxx/portfolio](https://github.com/iivvaannxx/portfolio): ✨ The first iteration of my personal website. Made using Astro, React and Svelte.
 * [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio): My self coded personal website build with React.js
 * [techwithanirudh/portfolio](https://github.com/techwithanirudh/portfolio): Portfolio of Anirudh (techwithanirudh).
+* [toniRamos/portfolio](https://github.com/toniRamos/portfolio): Personal developer portfolio built with Astro, TypeScript, and CSS, featuring a responsive design, smooth animations, and multilingual support (EN/ES). Showcases profile, experience, highlighted projects, contact info, and social links — a clean and professional presentation.
 * [ThemeMarket/portfolio-demo-1](https://github.com/ThemeMarket/portfolio-demo-1): Plantilla de portafolio de desarrollador web
 * [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas): A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜 
 * [SofiDevO/portfolio-sofidev-garrux](https://github.com/SofiDevO/portfolio-sofidev-garrux): Primer blog con astro
