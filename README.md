@@ -1537,6 +1537,7 @@ creating your own Awesome List by GitHub stars!
 * [stefansl/image-shrinker](https://github.com/stefansl/image-shrinker): App for macOS. Minify your images and graphics with just one drop. Autorenamed in the same place where it comes from. Immediately!
 * [ashwinishet/Image-Web-Scraper](https://github.com/ashwinishet/Image-Web-Scraper): This application is used for scraping images from google image search
 * [idealo/imagededup](https://github.com/idealo/imagededup): 😎 Finding duplicate images made easy!
+* [jabberjabberjabber/ImageIndexer](https://github.com/jabberjabberjabber/ImageIndexer): Creates an index of images, queries a local LLM and adds tags to the image metadata
 * [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim): GUI image optimizer for Mac
 * [Danamir/imap-attachment-extractor](https://github.com/Danamir/imap-attachment-extractor): IMAP attachment exporter, with optional Thunderbird detach mode
 * [valinet/IMAPNotes](https://github.com/valinet/IMAPNotes): This is a simple Thunderbird extension (compatible with Thunderbird 78+ as of January 2021) that allows editing notes created, edited and synced from the iPhone Notes app.
@@ -1686,7 +1687,7 @@ creating your own Awesome List by GitHub stars!
 * [kenneth558/KingdomComeIMeanItAndIMeanNowSurveillance](https://github.com/kenneth558/KingdomComeIMeanItAndIMeanNowSurveillance): A web page (NOTE: Only Firefox & Pale Moon browsers give approved rendering) and some server-side web server scripting in a mini web server called bashttpd.  Even looks good on Android devices as far as I've seen, though working the sliders is more difficult when your finger touch point is larger than them.  With this tricked out version of bashttpd, you won't need a high-powered web server like Apache nor nginx (I didn't feel like learning nginx, and certainly don't care for learning Apache).  IN PROGRESS but does work way, way better than nothing.  Chrome renders differently, but in a pinch it will function halfway.
 * [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher): A lightweight, pure-Swift library for downloading and caching images from the web.
 * [HugoBlox/kit](https://github.com/HugoBlox/kit): ⚡ The Open Research Copilot. Build high-perf Portfolios, Lab Sites & Docs in Markdown + Jupyter. 100% Data Control. 🦫 数据科学家的开源 Copilot。一键部署 👇
-* [signerlabs/Klee](https://github.com/signerlabs/Klee): Secure and local AI on your desktop with a built-in RAG knowledge base and Markdown note support.
+* [signerlabs/Klee](https://github.com/signerlabs/Klee): A native macOS AI chat app powered by MLX. 100% local inference on Apple Silicon, no cloud required. Built with ShipSwift.
 * [KDE/kleopatra](https://github.com/KDE/kleopatra): Certificate manager and GUI for OpenPGP and CMS cryptography
 * [kkkgo/KMS_VL_ALL](https://github.com/kkkgo/KMS_VL_ALL): 🔑KMS_VL_ALL - Smart Activation Script
 * [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp): Run GGUF models easily with a KoboldAI UI. One File. Zero Install.
@@ -2504,6 +2505,7 @@ creating your own Awesome List by GitHub stars!
 * [isheeze/rawalpindis](https://github.com/isheeze/rawalpindis): Shopify os 2.0 first theme of mine
 * [raycast/ray-so](https://github.com/raycast/ray-so): Create code snippets, browse AI prompts, create extension icons and more.
 * [grndis/raycast](https://github.com/grndis/raycast): A local backend implementation for Raycast that provides AI chat completions and translation services using OpenAI APIs. This project allows you to run a self-hosted version of Raycast's AI features with your own OpenAI API key.
+* [Ernest0-Production/raycast-ai-custom-providers](https://github.com/Ernest0-Production/raycast-ai-custom-providers): Bring Your Own Model in Raycast AI via extension
 * [d-cu/raycast-ai-litellm-proxy](https://github.com/d-cu/raycast-ai-litellm-proxy): Use any LiteLLM model in Raycast AI without a subscription.
 * [miikkaylisiurunen/raycast-ai-openrouter-proxy](https://github.com/miikkaylisiurunen/raycast-ai-openrouter-proxy): Integrate any OpenAI-compatible API with Raycast AI
 * [m3lander/raycast-ai-proxy](https://github.com/m3lander/raycast-ai-proxy): Integrate any OpenAI-compatible API with Raycast AI
@@ -2858,6 +2860,7 @@ creating your own Awesome List by GitHub stars!
 * [ivarbrandt/skin.fentastic](https://github.com/ivarbrandt/skin.fentastic): None
 * [ErveI/skip-discord-update](https://github.com/ErveI/skip-discord-update): An easy way to skip Discord updates on the macOS app launch.
 * [jonashellmann/skip-prime-video-intro](https://github.com/jonashellmann/skip-prime-video-intro): Firefox addon to automatically skip intros on Amazon Prime Video
+* [xillwillx/skiptracer](https://github.com/xillwillx/skiptracer): OSINT python webscaping framework
 * [Skyflash/skyflash.github.io](https://github.com/Skyflash/skyflash.github.io): 🎨 My personal website
 * [MAGICGrants/skylight-wallet](https://github.com/MAGICGrants/skylight-wallet): None
 * [Etesam913/slick-fox](https://github.com/Etesam913/slick-fox): :fox_face: A firefox config that has rounded tabs and a url bar that can disappear when not selected on. It works with any theme.
@@ -3006,7 +3009,7 @@ creating your own Awesome List by GitHub stars!
 * [cdzombak/tab-lists-ext](https://github.com/cdzombak/tab-lists-ext): Send a tab list from the current window to the Things to-do app or to the clipboard.
 * [xatier/tab-manager](https://github.com/xatier/tab-manager): Simple OneTab replacement
 * [stefanXO/Tab-Manager-Plus](https://github.com/stefanXO/Tab-Manager-Plus): An updated and improved Chrome and Firefox extension of the old google chrome extension "Tab Manager". 
-* [xcv58/Tab-Manager-v2](https://github.com/xcv58/Tab-Manager-v2): Quickly and conveniently manage your open tabs https://tab-manager.vercel.app
+* [xcv58/Tab-Manager-v2](https://github.com/xcv58/Tab-Manager-v2): Search, group, move, and clean up tabs across browser windows with a keyboard-first workflow
 * [wildskyf/tab-notes](https://github.com/wildskyf/tab-notes): Browser Add-on: Allow you to write anything in new tab
 * [easonwong-de/Tab-Preview-On-Hover](https://github.com/easonwong-de/Tab-Preview-On-Hover): Adds on-hover tab preview to Firefox before Mozilla does.
 * [sienori/Tab-Session-Manager](https://github.com/sienori/Tab-Session-Manager): WebExtensions for restoring and saving window / tab states
@@ -3216,6 +3219,7 @@ creating your own Awesome List by GitHub stars!
 * [eigenwallet/unstoppableswap-gui](https://github.com/eigenwallet/unstoppableswap-gui):  Graphical User Interface (GUI) For Trustless Cross-Chain XMR<>BTC Atomic Swaps. This repository has been moved to: https://github.com/UnstoppableSwap/core
 * [blenderskool/untab](https://github.com/blenderskool/untab): 🔍 A productivity tool to boost your browser workflow!
 * [TheLoserCoder/unvisited_tabs_indicator](https://github.com/TheLoserCoder/unvisited_tabs_indicator): None
+* [2lach/update-all-repos](https://github.com/2lach/update-all-repos): One command to update all your repos
 * [alfredapp/update-automation-tasks-workflow](https://github.com/alfredapp/update-automation-tasks-workflow): Update Automation Tasks During Alfred 5 Early Access
 * [alfredapp/updated-third-party-python2-workflows](https://github.com/alfredapp/updated-third-party-python2-workflows): Third-party Python 2 Workflows updated to work on macOS Monterey 12.3 and above
 * [actions/upload-artifact](https://github.com/actions/upload-artifact): None
