@@ -845,6 +845,7 @@ creating your own Awesome List by GitHub stars!
 * [DeromirNeves/DockSeparator](https://github.com/DeromirNeves/DockSeparator): macOS utility to add multiple separators to Dock
 * [rippedpiracy/docs](https://github.com/rippedpiracy/docs): None
 * [doctorfree/DoctorFreeScripts](https://github.com/doctorfree/DoctorFreeScripts): Utility Bash shell scripts I've written - typically these will run on Unix, Linux, OS X, and Cygwin
+* [metriclogic26/domain-preflight](https://github.com/metriclogic26/domain-preflight): Free DNS pre-flight checker — audit SPF, DKIM, DMARC before your email breaks
 * [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list): List of Github repositories and articles with list of dorks for different search engines
 * [kstenschke/doShell](https://github.com/kstenschke/doShell): Headful automation on Linux and Mac OS
 * [zzamboni/dot-hammerspoon](https://github.com/zzamboni/dot-hammerspoon): My personal Hammerspoon configuration - mirrored from GitLab
