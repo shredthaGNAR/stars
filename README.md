@@ -310,7 +310,7 @@ creating your own Awesome List by GitHub stars!
 * [kr1sp1n/awesome-gemini](https://github.com/kr1sp1n/awesome-gemini): A collection of awesome things regarding the gemini protocol ecosystem.
 * [AbdooMohamedd/Awesome-Gemini-Apps](https://github.com/AbdooMohamedd/Awesome-Gemini-Apps): A curated list of projects powered by the Google Gemini API. Explore innovative applications and ideas from the Gemini API competition that showcase the capabilities of Gemini technology.
 * [bartcctv/awesome-gemini-prompts](https://github.com/bartcctv/awesome-gemini-prompts): Gemini Prompts, Bard Prompts, LLM Prompts, LangGPT
-* [saturn-abhishek/awesome-github-profile-readme](https://github.com/saturn-abhishek/awesome-github-profile-readme): 😎 A curated list of awesome GitHub Profile which updates in real time 
+* [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme): 😎 A curated list of awesome GitHub Profile which updates in real time 
 * [devisasari/awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store): A curated list of awesome GPTs in the GPT Store
 * [yulongwang12/awesome-gpt-store](https://github.com/yulongwang12/awesome-gpt-store): This repo includes all customized GPTs on openai gpt store
 * [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines): A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
@@ -978,7 +978,7 @@ creating your own Awesome List by GitHub stars!
 * [Pocket/extension-save-to-pocket](https://github.com/Pocket/extension-save-to-pocket): Save to Pocket is a browser extension that is used to save pages to a connected Pocket account
 * [namuorg/extension-starter-kit](https://github.com/namuorg/extension-starter-kit): Starter kit for building Chrome/Firefox extensions
 * [mozilla/extension-workshop](https://github.com/mozilla/extension-workshop): Firefox Extension Workshop
-* [extension-js/extension.js](https://github.com/extension-js/extension.js): Create, develop, build, and preview browser extensions for Chrome, Firefox, Edge, and Safari.
+* [extension-js/extension.js](https://github.com/extension-js/extension.js): The cross-browser extension framework.
 * [chrismessina/extensions](https://github.com/chrismessina/extensions): Everything you need to extend Raycast.
 * [raycast/extensions](https://github.com/raycast/extensions): Everything you need to extend Raycast.
 * [raycast/extensions-template](https://github.com/raycast/extensions-template): Template repository for automatic extensions publishing
@@ -2626,7 +2626,6 @@ creating your own Awesome List by GitHub stars!
 * [SinTan1729/ReVancedBuilder](https://github.com/SinTan1729/ReVancedBuilder): A script to automatically build latest releases of ReVanced apps
 * [programminghoch10/ReVancedRepackaged](https://github.com/programminghoch10/ReVancedRepackaged): ReVanced, but patched locally.
 * [chsbuffer/ReVancedXposed](https://github.com/chsbuffer/ReVancedXposed): ReVanced LSPosed module. YouTube & YT Music Remove ads, Background playback
-* [chsbuffer/ReVancedXposed_Spotify](https://github.com/chsbuffer/ReVancedXposed_Spotify): None
 * [shekhawat2/RevancedYT](https://github.com/shekhawat2/RevancedYT): None
 * [decipher3114/Revancify](https://github.com/decipher3114/Revancify): The only revancify
 * [shredthaGNAR/reveal-md](https://github.com/shredthaGNAR/reveal-md): None
