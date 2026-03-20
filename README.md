@@ -411,6 +411,7 @@ creating your own Awesome List by GitHub stars!
 * [homelab-admin/bettertouchtool-mcp-server](https://github.com/homelab-admin/bettertouchtool-mcp-server): None
 * [SichangHe/BetterTouchTool-SLite-Preset](https://github.com/SichangHe/BetterTouchTool-SLite-Preset): SLite is a preset of BetterTouchTool inspired by GoldenChaos and many other presets. It is a light preset that is also neat. Try it and you'll know.
 * [opentizen/bettertouchtool_apple_script](https://github.com/opentizen/bettertouchtool_apple_script): BettertouchTool Used User for AppleScript
+* [folivoraAI/BetterTouchToolPlugins](https://github.com/folivoraAI/BetterTouchToolPlugins): Development of BetterTouchTool Plugins
 * [Sv443/BetterYTM](https://github.com/Sv443/BetterYTM): Enhancements for YouTube Music and YouTube
 * [seanpquig/betting-odds-analyzer](https://github.com/seanpquig/betting-odds-analyzer): Analyze sports betting based on historical statistics and current odds
 * [SingularityLabs-ai/beyond-bard-mini](https://github.com/SingularityLabs-ai/beyond-bard-mini): Aims to bring Google Bard to  every website. For Google, Bing, Youtube, Yahoo, Baidu, Brave, Kagi, Duckduckgo, Github, Yandex, NAVER, Nikkei there are custom prompts written to enhance the summary(or insights) experience. 
@@ -619,7 +620,7 @@ creating your own Awesome List by GitHub stars!
 * [priyankchheda/chrome_password_grabber](https://github.com/priyankchheda/chrome_password_grabber): Get unencrypted 'Saved Password' from Google Chrome
 * [0x2e73/ChromeFox](https://github.com/0x2e73/ChromeFox): Material Chrome Style Firefox 
 * [jimmyxu/circle](https://github.com/jimmyxu/circle): Logi Circle video downloader
-* [emvaized/circle-mouse-gestures](https://github.com/emvaized/circle-mouse-gestures): Firefox & Chrome extension for mouse gestures with visual representation of actions
+* [emvaized/circle-mouse-gestures](https://github.com/emvaized/circle-mouse-gestures): Chrome and Firefox extension for mouse gestures with visual representation of actions as a circle
 * [asilvas/circler](https://github.com/asilvas/circler): (non-official) Logitech Circle utility application (download etc)
 * [0x7370346365/classic-tabs-firefox](https://github.com/0x7370346365/classic-tabs-firefox): None
 * [opactorai/Claudable](https://github.com/opactorai/Claudable): Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.
@@ -794,7 +795,7 @@ creating your own Awesome List by GitHub stars!
 * [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers): Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 * [OneKeePass/desktop](https://github.com/OneKeePass/desktop): A secure password manager for macOS,Linux and Windows platforms
 * [desktop/desktop](https://github.com/desktop/desktop): Focus on what matters instead of fighting with Git.
-* [Windscribe/Desktop-App](https://github.com/Windscribe/Desktop-App): Windscribe VPN desktop client for Windows, Mac and Linux
+* [Windscribe/Desktop-App](https://github.com/Windscribe/Desktop-App): Public mirror of the Windscribe VPN desktop client for Windows, Mac and Linux
 * [chriskol/Desktop-Google-Keep-OSX](https://github.com/chriskol/Desktop-Google-Keep-OSX): A Super Simple Desktop Client for Mac OSX Built in Javascript and MacGap
 * [b-inary/desktop-postflop](https://github.com/b-inary/desktop-postflop): [Development suspended] Advanced open-source Texas Hold'em GTO solver with optimized performance
 * [scriptingosx/desktoppr](https://github.com/scriptingosx/desktoppr): Simple command line tool to set the desktop picture on macOS
@@ -2523,7 +2524,7 @@ creating your own Awesome List by GitHub stars!
 * [rossinek/raycast-openai](https://github.com/rossinek/raycast-openai): Simple UI for OpenAI completion and chat API
 * [SKaplanOfficial/Raycast-PromptLab](https://github.com/SKaplanOfficial/Raycast-PromptLab): A Raycast extension for creating powerful, contextually-aware AI commands using placeholders, action scripts, selected files, and more.
 * [szcharlesji/raycast-relay](https://github.com/szcharlesji/raycast-relay): Relay your Raycast AI to an OpenAI compatible API endpoint
-* [jlwainwright/raycast-scripts](https://github.com/jlwainwright/raycast-scripts): Raycast automation scripts for AI services, API testing, and YouTube summarization
+* [DankeyDevDave/raycast-scripts](https://github.com/DankeyDevDave/raycast-scripts): Raycast automation scripts for AI services, API testing, and YouTube summarization
 * [Vincenzo160/Raycast-Spell](https://github.com/Vincenzo160/Raycast-Spell): Struggling to spell a word? With this Raycast extension, even with typos, you can type the word and receive a list of matching suggestions using the OneLook API.
 * [missuo/raycast2api](https://github.com/missuo/raycast2api): Relay your Raycast AI to an OpenAI compatible API endpoint
 * [xxxbrian/raycast2api](https://github.com/xxxbrian/raycast2api): Relay your Raycast AI to an OpenAI compatible API endpoint. Deployable to Cloudflare Workers / Docker / Local Binary with Raycast V2 signarure.
