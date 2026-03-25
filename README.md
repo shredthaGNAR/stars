@@ -2461,7 +2461,7 @@ creating your own Awesome List by GitHub stars!
 * [psequel/psequel](https://github.com/psequel/psequel): Free PostgreSQL GUI tool for macOS.
 * [ongots/pseudo-fullscreen-firefox](https://github.com/ongots/pseudo-fullscreen-firefox): Hides and improves interface Firefox and YouTube, giving maximum space for content and aiding concentration.
 * [dognotdog/ptpwebcam](https://github.com/dognotdog/ptpwebcam): Mac DSLR webcam plugin for using DSLRs for video conferencing and streaming.
-* [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists): 🚀 A hand-curated list of free, open, and developer-friendly APIs
+* [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists): A curated list of free public APIs across 48 categories — searchable, community-maintained, with a free JSON API.
 * [public-apis/public-apis](https://github.com/public-apis/public-apis): A collective list of free APIs
 * [GetPublii/Publii](https://github.com/GetPublii/Publii): The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 * [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer): JavaScript API for Chrome and Firefox
@@ -2513,7 +2513,6 @@ creating your own Awesome List by GitHub stars!
 * [hauxir/rapidbay](https://github.com/hauxir/rapidbay): Self-hosted torrent video streaming service compatible with Chromecast, AppleTV & Kodi deployable in the cloud
 * [LoneWanderer-GH/RaspiVWS](https://github.com/LoneWanderer-GH/RaspiVWS): Raspberry Pi Webcam Streaming with Logitech C920 and VLC
 * [librats/rats-search](https://github.com/librats/rats-search): rats-search: BitTorrent P2P multi-platform search engine for Desktop and Web servers with integrated torrent client
-* [ReVanced/ravanced-patches](https://github.com/ReVanced/ravanced-patches): 🧩 Patches for ReVanced
 * [isheeze/rawalpindis](https://github.com/isheeze/rawalpindis): Shopify os 2.0 first theme of mine
 * [raycast/ray-so](https://github.com/raycast/ray-so): Create code snippets, browse AI prompts, create extension icons and more.
 * [grndis/raycast](https://github.com/grndis/raycast): A local backend implementation for Raycast that provides AI chat completions and translation services using OpenAI APIs. This project allows you to run a self-hosted version of Raycast's AI features with your own OpenAI API key.
