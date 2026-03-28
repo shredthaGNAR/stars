@@ -100,7 +100,7 @@ creating your own Awesome List by GitHub stars!
 * [SethuSenthil/AirPush](https://github.com/SethuSenthil/AirPush): The all in one AirMessage (iMessage) script you can forget about
 * [pinetum/AirUnlock-for-Mac](https://github.com/pinetum/AirUnlock-for-Mac): Using android phone to establish a connection with your Mac via Bluetooth low-energy (BLE), controlling Mac lock state (Lock or Unlock).
 * [NightMachinery/aistudio_userscript](https://github.com/NightMachinery/aistudio_userscript): None
-* [superiorlu/AITreasureBox](https://github.com/superiorlu/AITreasureBox): 🤖 Automatically collected AI : repos, tools, websites, papers & tutorials. 实用AI百宝箱 💎
+* [superiorlu/AITreasureBox](https://github.com/superiorlu/AITreasureBox): 🤖 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 💎
 * [altano/alanglow](https://github.com/altano/alanglow): A Firefox theme
 * [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring): Menubar Tool to set Charge Limits and Prolong Battery Lifespan
 * [ajrosen/Alfred](https://github.com/ajrosen/Alfred): Alfred workflows
@@ -695,6 +695,7 @@ creating your own Awesome List by GitHub stars!
 * [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter): Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - for desktop and mobile
 * [lotusshinoaki/converts-html-exported-from-pocket-into-an-importable-format](https://github.com/lotusshinoaki/converts-html-exported-from-pocket-into-an-importable-format): None
 * [google-gemini/cookbook](https://github.com/google-gemini/cookbook): Examples and guides for using the Gemini API
+* [google-gemma/cookbook](https://github.com/google-gemma/cookbook): A collection of guides and examples for the Gemma open models from Google.
 * [Cookie-AutoDelete/Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete): Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
 * [Moustachauve/cookie-editor](https://github.com/Moustachauve/cookie-editor): A powerful browser extension to create, edit and delete cookies
 * [vinitshahdeo/Cookie-Manager](https://github.com/vinitshahdeo/Cookie-Manager): A chrome extension to manage browser cookies.
@@ -1274,7 +1275,6 @@ creating your own Awesome List by GitHub stars!
 * [googlecreativelab/gemini-demos](https://github.com/googlecreativelab/gemini-demos): None
 * [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat): Minimal web UI for GeminiPro.
 * [ShivamMMMxyz/GeminiPromptsIndexer](https://github.com/ShivamMMMxyz/GeminiPromptsIndexer): None
-* [google-gemini/gemma-cookbook](https://github.com/google-gemini/gemma-cookbook): A collection of guides and examples for the Gemma open models from Google.
 * [CJHwong/gems.sh](https://github.com/CJHwong/gems.sh): A Gemini Gem Manager in your MacBook powered by Gemma
 * [David-Kunz/gen.nvim](https://github.com/David-Kunz/gen.nvim): Neovim plugin to generate text using LLMs with customizable prompts
 * [microsoft/genaiscript](https://github.com/microsoft/genaiscript): Automatable GenAI Scripting
@@ -1798,6 +1798,7 @@ creating your own Awesome List by GitHub stars!
 * [vincentneo/LosslessSwitcher](https://github.com/vincentneo/LosslessSwitcher): Automated Apple Music Lossless Sample Rate Switching for Audio Devices on Macs.
 * [ThatOrJohn/lottery-texas-scratchoffs](https://github.com/ThatOrJohn/lottery-texas-scratchoffs): Populate Neo4J AuraDB with daily Texas Lottery Scratch Ticket claim data
 * [Wkasel/lottery_scraper](https://github.com/Wkasel/lottery_scraper): Scraper for lottery scratchers
+* [davidKolesar/LotteryTicketDataScraper](https://github.com/davidKolesar/LotteryTicketDataScraper): A program that analyzes all scratch off lottery tickets for the state of Pennsylvania and evalutes remaining winners & remaining prize monies for each given ticket (updates real time with Pennsylvania Website)
 * [kawhyte/Lotto-Tickets-API](https://github.com/kawhyte/Lotto-Tickets-API): An API for the Florida Lottery Scratch-off game
 * [musically-ut/lovely-forks](https://github.com/musically-ut/lovely-forks): 💚 🍴 Show notable forks of GitHub repositories under their names.
 * [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed): LSPosed Framework
@@ -2682,6 +2683,7 @@ creating your own Awesome List by GitHub stars!
 * [shoekla/ScrapeC](https://github.com/shoekla/ScrapeC): ScrapeC is a “mock” search engine, in the fact that it does a lot of what Bing, YouTube, and DuckDuckGo does, but instead of searching its own database it crawls and scrape these search engines and other websites. Along with return links, images, and videos of searches it also return PDFs, Social Media information (Facebook, Twitter, Google+), and Contact Information related to the links that it returns. On top of that ScrapeC also has the same features on a smaller scale for web addresses used as an input. Link: http://scrapec.pythonanywhere.com/
 * [Phisteven/scraping-bets](https://github.com/Phisteven/scraping-bets): Experiments with web srcaping from sports betting websites
 * [GChristensen/scrapyard](https://github.com/GChristensen/scrapyard): Bookmark heavy lifting
+* [EerieGoesD/scratch-ev](https://github.com/EerieGoesD/scratch-ev): Free EV calculator for scratch tickets & lottery. Compare expected value before and after taxes.
 * [AdamEshem/Scratch-Off-Probability](https://github.com/AdamEshem/Scratch-Off-Probability): Gives the probability of each scratch off ticket in the Ohio Lottery.
 * [nate-walter/Scratch-Off-Science](https://github.com/nate-walter/Scratch-Off-Science): A non-gambling data analyst and his scratch off lottery ticket experiment 
 * [ImmaZoni/scratcha](https://github.com/ImmaZoni/scratcha): A simple python script to scrape scratcher data from AZ Lottery website.
@@ -2697,6 +2699,7 @@ creating your own Awesome List by GitHub stars!
 * [duyquoc/ScreenToLayers](https://github.com/duyquoc/ScreenToLayers): macOS app to capture your screen as a layered PSD file
 * [mearashadowfax/ScrewFast](https://github.com/mearashadowfax/ScrewFast): Open-source Astro website template with sleek, customizable TailwindCSS components.
 * [raycast/script-commands](https://github.com/raycast/script-commands): Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
+* [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat): ScriptCat, a browser extension that can execute userscript; 脚本猫，一个可以执行用户脚本的浏览器扩展
 * [tombowditch/scripts](https://github.com/tombowditch/scripts): General Scripts
 * [d3ward/scriptz](https://github.com/d3ward/scriptz): An awesome collection of userscripts
 * [dfiiroz/scss-to-css](https://github.com/dfiiroz/scss-to-css): Now, This is Shopify Online Store 2.0. The importance of CSS is undeniable and Shopify Deprecated the SCSS support. I have converted the gift-card.sccs & theme.scss files to gift-card.css and theme.css files.
@@ -3209,8 +3212,8 @@ creating your own Awesome List by GitHub stars!
 * [pwn20wndstuff/Undecimus](https://github.com/pwn20wndstuff/Undecimus): unc0ver jailbreak for iOS 11.0 - 12.4
 * [pwn20wndstuff/Undecimus-Resources](https://github.com/pwn20wndstuff/Undecimus-Resources): None
 * [Seniblue/Underwater](https://github.com/Seniblue/Underwater): An obsidian.md theme
+* [victornpb/undiscord](https://github.com/victornpb/undiscord): Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete
 * [joshuacant/undo_closed_tabs_menu](https://github.com/joshuacant/undo_closed_tabs_menu): Firefox webextension to add an undo closed tabs menu to tabs.
-* [p1usminus/undoclosetabreplacement](https://github.com/p1usminus/undoclosetabreplacement): Updated for FF78+
 * [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit): Creates a link next to edited and deleted Reddit comments to show the original from before it was edited. The unedited comment gets displayed inline.
 * [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit): The easiest way to use git. On any platform. Anywhere.
 * [krvstek/uni-apks](https://github.com/krvstek/uni-apks): 📦 Pre-built APKs from various patch sources
@@ -3281,9 +3284,11 @@ creating your own Awesome List by GitHub stars!
 * [Infocatcher/UserScripts](https://github.com/Infocatcher/UserScripts): UserScripts for Firefox with Greasemonkey extension and (may be) for other browsers with user.js support
 * [danydodson/userscripts](https://github.com/danydodson/userscripts): UserScript Collection.
 * [darkred/Userscripts](https://github.com/darkred/Userscripts): My userscripts
+* [hoothin/UserScripts](https://github.com/hoothin/UserScripts): Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴腳本集 ユーザースクリプト集
 * [jerone/UserScripts](https://github.com/jerone/UserScripts): 🐵 My UserScripts
 * [jwilk/userscripts](https://github.com/jwilk/userscripts): Jakub's custom CSS and JavaScript (for dotPageMod Firefox extension)
 * [n3cr0cr0w/userscripts](https://github.com/n3cr0cr0w/userscripts): User Scripts for bingeing
+* [quoid/userscripts](https://github.com/quoid/userscripts): An open-source userscript manager for Safari
 * [sagiegurari/userscripts-ads-dom-remover](https://github.com/sagiegurari/userscripts-ads-dom-remover): Removes Ad Containers from DOM (doesn't replace adblocker extension, but blocks dynamic content which the adblocker fails to block by removing whole sections from the HTML DOM.)
 * [krisu5/userstyles](https://github.com/krisu5/userstyles): UserCSS for Stylus (for AniList, DuckDuckGo, Imgur, Twitter & more)
 * [utags/utags](https://github.com/utags/utags): 🏷️ Allow users to add custom tags to links.
@@ -3485,6 +3490,7 @@ creating your own Awesome List by GitHub stars!
 * [MANCrimSon/YouTube-ReVanced-Extended](https://github.com/MANCrimSon/YouTube-ReVanced-Extended): None
 * [alexmercerind/youtube-search-python](https://github.com/alexmercerind/youtube-search-python): 🔎 Search for YouTube videos, channels & playlists. Get 🎞 video &  📑 playlist info using link. Get search suggestions. WITHOUT YouTube Data API v3.
 * [PeerGroupSoftware/Youtube-To-Mac](https://github.com/PeerGroupSoftware/Youtube-To-Mac): Cocoa Interface for youtube-dl
+* [NikoboiNFTB/YouTube-Tweaks](https://github.com/NikoboiNFTB/YouTube-Tweaks): A collection of userscripts and a uBlock Origin blocklist for YouTube.
 * [Tatsh/youtube-unofficial](https://github.com/Tatsh/youtube-unofficial): Access parts of your account unavailable through normal YouTube API access.
 * [trizen/youtube-viewer](https://github.com/trizen/youtube-viewer): Lightweight YouTube client for Linux
 * [Tzahi12345/YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material): Self-hosted YouTube downloader built on Material Design
