@@ -281,7 +281,6 @@ creating your own Awesome List by GitHub stars!
 * [sdras/awesome-actions](https://github.com/sdras/awesome-actions): A curated list of awesome actions to use on GitHub
 * [robinrodricks/awesome-actionscript3](https://github.com/robinrodricks/awesome-actionscript3): A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.
 * [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents): A list of AI autonomous agents
-* [pyoneerC/awesome-ai-repos](https://github.com/pyoneerC/awesome-ai-repos): A curated list of the most high-leverage tools, papers, and systems for building in the age of AI.
 * [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools): A curated list of Artificial Intelligence Top Tools
 * [tankvn/awesome-ai-tools](https://github.com/tankvn/awesome-ai-tools): A curated list of 7766 awesome AI tools
 * [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search): List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
@@ -1146,7 +1145,7 @@ creating your own Awesome List by GitHub stars!
 * [SpitFire-666/Firefox-Stuff](https://github.com/SpitFire-666/Firefox-Stuff): Firefox info, addons, extensions, themes, customisation and stuff
 * [EliverLara/firefox-sweet-theme](https://github.com/EliverLara/firefox-sweet-theme): :candy: A dark and modern theme for firefox with vibrant colors
 * [0xAwoL/firefox-tabs-clipboard-saver](https://github.com/0xAwoL/firefox-tabs-clipboard-saver): Super simple firefox add-on
-* [UserNombre/firefox-tag-search](https://github.com/UserNombre/firefox-tag-search): Add a bookmark tag search sidebar to Firefox
+* [usernombre/firefox-tag-search](https://github.com/usernombre/firefox-tag-search): Add a bookmark tag search sidebar to Firefox
 * [BloodyHell619/Firefox-Theme-DarkMatter](https://github.com/BloodyHell619/Firefox-Theme-DarkMatter): None
 * [dazecoop/firefox-theme-macos-vibrant](https://github.com/dazecoop/firefox-theme-macos-vibrant): None
 * [LDK-iii/firefox-transparent-theme-mac](https://github.com/LDK-iii/firefox-transparent-theme-mac): One-line theme
@@ -1901,7 +1900,7 @@ creating your own Awesome List by GitHub stars!
 * [soxoj/marple](https://github.com/soxoj/marple): 📖 Collect links to profiles by username through search engines and analyze with various plugins
 * [arp242/MartinFox](https://github.com/arp242/MartinFox): Really simple userChrome.css for Firefox 89 to make the active tab stand out more
 * [mas-cli/mas](https://github.com/mas-cli/mas): :package: Mac App Store command-line interface
-* [massCodeIO/massCode](https://github.com/massCodeIO/massCode): A free and open source code snippet manager for developers
+* [massCodeIO/massCode](https://github.com/massCodeIO/massCode): A free, open-source developer workspace. Snippets, notes, calculations, and dev tools in one local-first app
 * [material-components/material-components-web](https://github.com/material-components/material-components-web): Modular and customizable Material Design UI components for the web
 * [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated): 🦊 Firefox user CSS theme looks similar to Chrome
 * [zacharee/material-fox-updated](https://github.com/zacharee/material-fox-updated): Firefox theme looks similar to Chrome
@@ -1917,7 +1916,7 @@ creating your own Awesome List by GitHub stars!
 * [ryosama/mbox_spliter](https://github.com/ryosama/mbox_spliter): Split large mbox files (from hunderbird) into smaller one, class by year of the message
 * [olivierodo/MBP-BTT-activity-monitor-touchbar](https://github.com/olivierodo/MBP-BTT-activity-monitor-touchbar):  Activity monitor toolbar widget for the Macbook Pro
 * [olivierodo/MBP-BTT-spotify-touchbar](https://github.com/olivierodo/MBP-BTT-spotify-touchbar):  Spotify touchbar widget for Macbook touchbar
-* [nikivdev/mbt](https://github.com/nikivdev/mbt): MoonBit tools, libraries and other code
+* [nikivdev/mbt](https://github.com/nikivdev/mbt): MoonBit tools, libraries
 * [alienator88/McBrew](https://github.com/alienator88/McBrew): A fast GUI for Homebrew written in SwiftUI
 * [srbhptl39/MCP-SuperAssistant](https://github.com/srbhptl39/MCP-SuperAssistant): Brings MCP to ChatGPT, DeepSeek, Perplexity, Grok, Gemini, Google AI Studio, OpenRouter, DeepSeek, T3 Chat and more...
 * [QuanBlue/mearn-portfolio](https://github.com/QuanBlue/mearn-portfolio): My first portfolio website, using MERN stack
@@ -2015,7 +2014,7 @@ creating your own Awesome List by GitHub stars!
 * [pnthach95/my-firefox-theme](https://github.com/pnthach95/my-firefox-theme): None
 * [martinkorelic/my-joplin-theme](https://github.com/martinkorelic/my-joplin-theme): My Joplin App userstyle and userchrome theme style.
 * [tansawit/my-mac-setup](https://github.com/tansawit/my-mac-setup): List of applications and tools that optimize my macOS experience. Inspired by https://github.com/nikitavoloboev/my-mac-os
-* [penge/my-notes](https://github.com/penge/my-notes): Simple and fast note-taking in Chrome with Google Drive support.
+* [penge/my-notes](https://github.com/penge/my-notes): Simple and fast note-taking in Chrome. Zero setup, works offline, no account needed.
 * [leohu1/My-UserChrome](https://github.com/leohu1/My-UserChrome): My UserChrome Css and Script
 * [iam-py-test/my_filters_001](https://github.com/iam-py-test/my_filters_001): My filter lists - feel free to add these lists to uBlock Origin
 * [shredthaGNAR/my_portfolio_site](https://github.com/shredthaGNAR/my_portfolio_site): Lucas McKay's Personal Website & Collections of Projects
