@@ -288,6 +288,7 @@ creating your own Awesome List by GitHub stars!
 * [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms): A curated list of awesome places to learn and/or practice algorithms.
 * [oxnr/awesome-analytics](https://github.com/oxnr/awesome-analytics): A curated list of analytics frameworks, software and other tools.
 * [devrsi0n/awesome-apple-notes](https://github.com/devrsi0n/awesome-apple-notes): A curated list of awesome websites, applications, tools, and shiny things for Apple Notes.
+* [awesome-assistants/awesome-assistants](https://github.com/awesome-assistants/awesome-assistants): A curated list of awesome AI assistants. Example Telegram bot with all these assistants can be tested on the link below. 
 * [one-aalam/awesome-astro](https://github.com/one-aalam/awesome-astro): Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.
 * [dogancelik/awesome-bookmarking](https://github.com/dogancelik/awesome-bookmarking): 🔖 Everything bookmarking related
 * [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github): A collection of awesome browser extensions for GitHub.
@@ -312,7 +313,9 @@ creating your own Awesome List by GitHub stars!
 * [kr1sp1n/awesome-gemini](https://github.com/kr1sp1n/awesome-gemini): A collection of awesome things regarding the gemini protocol ecosystem.
 * [AbdooMohamedd/Awesome-Gemini-Apps](https://github.com/AbdooMohamedd/Awesome-Gemini-Apps): A curated list of projects powered by the Google Gemini API. Explore innovative applications and ideas from the Gemini API competition that showcase the capabilities of Gemini technology.
 * [bartcctv/awesome-gemini-prompts](https://github.com/bartcctv/awesome-gemini-prompts): Gemini Prompts, Bard Prompts, LLM Prompts, LangGPT
+* [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai): A curated list of Generative AI tools, works, models, and references
 * [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme): 😎 A curated list of awesome GitHub Profile which updates in real time 
+* [snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering): A curated list of awesome resources, tools, and other shiny things for LLM prompt engineering.
 * [devisasari/awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store): A curated list of awesome GPTs in the GPT Store
 * [yulongwang12/awesome-gpt-store](https://github.com/yulongwang12/awesome-gpt-store): This repo includes all customized GPTs on openai gpt store
 * [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines): A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
@@ -602,6 +605,7 @@ creating your own Awesome List by GitHub stars!
 * [adamlui/chatgpt-omnibox](https://github.com/adamlui/chatgpt-omnibox): https://addons.mozilla.org/firefox/addon/chatgpt-omnibox
 * [yokoffing/ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts): ChatGPT and Bing AI prompt curation
 * [abielzulio/chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast): ChatGPT raycast extension
+* [oxylabs/chatgpt-scraper](https://github.com/oxylabs/chatgpt-scraper): Easily collect responses from ChatGPT scraper by providing a prompt along with valid Web Scraper API credentials.
 * [josStorer/chatGPT-search-engine-extension](https://github.com/josStorer/chatGPT-search-engine-extension): A browser extension to display ChatGPT response alongside Search Engine results
 * [SingularityLabs-ai/ChatGPT-Tool-List](https://github.com/SingularityLabs-ai/ChatGPT-Tool-List): Bots To be added
 * [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js): 🤖 A powerful, open source client-side JavaScript library for ChatGPT
@@ -798,7 +802,6 @@ creating your own Awesome List by GitHub stars!
 * [fynks/debrid-services-comparison](https://github.com/fynks/debrid-services-comparison): Compare leading debrid / multi-hoster services for pricing, host coverage, policies & tools.
 * [aayush210789/Deception-Detection-on-Amazon-reviews-dataset](https://github.com/aayush210789/Deception-Detection-on-Amazon-reviews-dataset): A SVM model that classifies the reviews as real or fake. Used both the review text and the additional features contained in the data set to build a model that predicted with over 85% accuracy without using any deep learning techniques. 
 * [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat): 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
-* [serengil/deepface](https://github.com/serengil/deepface): A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 * [shredthaGNAR/default-nightly-restart-main](https://github.com/shredthaGNAR/default-nightly-restart-main): None
 * [nbennett320/define-firefox](https://github.com/nbennett320/define-firefox): A quick dictionary and thesaurus.
 * [MohamedYoussouf/Design-Resources](https://github.com/MohamedYoussouf/Design-Resources): A curated list of design resources from design templates, stock photos, icons, colors, and much more.
@@ -810,6 +813,7 @@ creating your own Awesome List by GitHub stars!
 * [b-inary/desktop-postflop](https://github.com/b-inary/desktop-postflop): [Development suspended] Advanced open-source Texas Hold'em GTO solver with optimized performance
 * [scriptingosx/desktoppr](https://github.com/scriptingosx/desktoppr): Simple command line tool to set the desktop picture on macOS
 * [TASEmulators/desmume](https://github.com/TASEmulators/desmume): DeSmuME is a Nintendo DS emulator
+* [PickleBoxer/dev-chatgpt-prompts](https://github.com/PickleBoxer/dev-chatgpt-prompts): 📚 Personal collection of ChatGPT prompts for developers!
 * [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup): macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.
 * [0xdevalias/devalias.net](https://github.com/0xdevalias/devalias.net): Source for devalias.net
 * [thunderbird/developer-docs](https://github.com/thunderbird/developer-docs): Developer documentation for Thunderbird contributors.
@@ -2215,6 +2219,7 @@ creating your own Awesome List by GitHub stars!
 * [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM): Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.
 * [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp): OpenMTP  - Advanced Android File Transfer Application for macOS
 * [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt): An Open-Source Framework for Prompt-Learning.
+* [timqian/openprompt.co](https://github.com/timqian/openprompt.co): Create. Use. Share. ChatGPT prompts
 * [lukakerr/OpenQuickly](https://github.com/lukakerr/OpenQuickly): A custom 'open quickly' window that imitates macOS' Spotlight
 * [es-kumagai/OpenTerminal](https://github.com/es-kumagai/OpenTerminal): This is a app for macOS that to open a new Finder window and change the current directory to the folder this app launched.
 * [darktrojan/openwith](https://github.com/darktrojan/openwith): Open With add-on for Firefox
@@ -2604,6 +2609,7 @@ creating your own Awesome List by GitHub stars!
 * [jeevatkm/ReplyWithHeader-Thunderbird](https://github.com/jeevatkm/ReplyWithHeader-Thunderbird): Outlook style headers and few goodies for Thunderbird
 * [Zaxxon709/repo](https://github.com/Zaxxon709/repo): None
 * [srvaroa/repocket](https://github.com/srvaroa/repocket): Manage a local copy of articles saved in Pocket
+* [yamadashy/repomix](https://github.com/yamadashy/repomix): 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
 * [danmindru/responsive-html-email-signature](https://github.com/danmindru/responsive-html-email-signature): ✨ Template generator for (responsive) emails & email signatures 
 * [leemunroe/responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template): A free simple responsive HTML email template
 * [bedimcode/responsive-portfolio-website-Alexa](https://github.com/bedimcode/responsive-portfolio-website-Alexa): Responsive Portfolio Website Using HTML, CSS & JavaScript
