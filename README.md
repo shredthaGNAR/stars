@@ -825,6 +825,7 @@ creating your own Awesome List by GitHub stars!
 * [thunderbird/developer-docs](https://github.com/thunderbird/developer-docs): Developer documentation for Thunderbird contributors.
 * [lukeliasi/developer-portfolio](https://github.com/lukeliasi/developer-portfolio): Open source personal portfolio site of Luke Liasi built using Astro framework
 * [said7388/developer-portfolio](https://github.com/said7388/developer-portfolio): Software Developer Portfolio Website built with next.js and tailwind CSS that helps you showcase your work and skills as a software developer.
+* [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios): A list of developer portfolios for your inspiration
 * [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio): 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer. (This is currently not being actively maintained)
 * [SergioSuarezGil/DeveloperToolsTouchBar_BetterTouchTool](https://github.com/SergioSuarezGil/DeveloperToolsTouchBar_BetterTouchTool): A BetterTouchTool preset which provides TouchBar support for Chrome/Edge/Safari Debugger with Dev Tools.
 * [matomo-org/device-detector](https://github.com/matomo-org/device-detector): The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model. 
@@ -2080,6 +2081,7 @@ creating your own Awesome List by GitHub stars!
 * [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat): ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 * [web-dahuyou/NiceTab](https://github.com/web-dahuyou/NiceTab): 浏览器插件：OneTab、Toby、N-Tab、SessionBuddy、KepTab 等扩展的升级替代品，功能丰富易用 | A nice, convenient, powerful tab manager  serving as an upgraded alternative to OneTab, Toby, SessionBuddy, N-Tab，KepTab...
 * [santiagobaronz/Nickname-Generator](https://github.com/santiagobaronz/Nickname-Generator): The nickname generator is a tool designed to display random names following the parameters given by the user as the gender of the name.
+* [Nicolazzzz/nicolazzzz.github.io](https://github.com/Nicolazzzz/nicolazzzz.github.io): None
 * [nghtfall/nightfall-vsc](https://github.com/nghtfall/nightfall-vsc): a blue-ish gray with a purple accent color palette for Visual Studio Code.
 * [chvancooten/NimPackt-v1](https://github.com/chvancooten/NimPackt-v1): Nim-based assembly packer and shellcode loader for opsec & profit
 * [nixgates/nixgates](https://github.com/nixgates/nixgates): Repository for Kodi Addons
@@ -2280,7 +2282,7 @@ creating your own Awesome List by GitHub stars!
 * [Yumeo0/pear-desktop](https://github.com/Yumeo0/pear-desktop): Pear 🍐 is extension for music player
 * [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop): Pear 🍐 is extension for music player
 * [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner): A free, source-available and fair-code licensed mac app cleaner
-* [u-Sir/peek-pop](https://github.com/u-Sir/peek-pop): A lightweight, open-source browser extension lets you preview, search, and save pages to read later.
+* [u-Sir/peek-pop](https://github.com/u-Sir/peek-pop): Instantly preview links with a simple double-click, without breaking your workflow.
 * [getpelican/pelican](https://github.com/getpelican/pelican): Static site generator that supports Markdown and reST syntax. Powered by Python.
 * [dgurkaynak/Penc](https://github.com/dgurkaynak/Penc): Trackpad-oriented window manager for macOS
 * [shash007/People-Search-on-Social-Networks-using-Face-Recognition](https://github.com/shash007/People-Search-on-Social-Networks-using-Face-Recognition): Searching people on social networking sites using Face Recognition
