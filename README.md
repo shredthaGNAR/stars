@@ -559,6 +559,7 @@ creating your own Awesome List by GitHub stars!
 * [shemeshg/cakebrewjs](https://github.com/shemeshg/cakebrewjs): Homebrew GUI App written in electron
 * [mattlag/California-Gothic](https://github.com/mattlag/California-Gothic): A typeface for California vexillographers 
 * [Neil-Lal/California-Lotto-Scratchers-EV](https://github.com/Neil-Lal/California-Lotto-Scratchers-EV): This project is to pull data from the California lotto website into a local MSSQL server.  This data is used to calculate and report on the EV of each lotto ticket.  The goal is to make statistically "smart" scratcher purchases.
+* [NessieCanCode/California-State-Lottery-API](https://github.com/NessieCanCode/California-State-Lottery-API): AWS Lambda Function for custom API for IFTTT & LaMetric, this pulls results for various "Draw Games" from California State's Lottery API.
 * [Protovision/calottery-scratchers](https://github.com/Protovision/calottery-scratchers): Web scraper for california lottery scratchers
 * [babldev/camera-cli](https://github.com/babldev/camera-cli): Configure your webcam via the command line
 * [itaybre/CameraController](https://github.com/itaybre/CameraController): 📷 Control USB Cameras from an app
@@ -1767,7 +1768,7 @@ creating your own Awesome List by GitHub stars!
 * [eight04/linkify-plus-plus](https://github.com/eight04/linkify-plus-plus): A userscript/extension which can linkify almost everything. Based on Linkify Plus.
 * [eight04/linkify-plus-plus-core](https://github.com/eight04/linkify-plus-plus-core): A JavaScript library for linkification stuff. Used by linkify-plus-plus.
 * [halo/LinkLiar](https://github.com/halo/LinkLiar): :link: Link-Layer MAC spoofing GUI for macOS
-* [LinkoraApp/Linkora](https://github.com/LinkoraApp/Linkora): Local-first link organizer for Android and desktop with self-hosted sync.
+* [LinkoraApp/Linkora](https://github.com/LinkoraApp/Linkora): Local-first multiplatform link organizer with optional self-hosted sync.
 * [tetsuharuohzeki/linkplaces](https://github.com/tetsuharuohzeki/linkplaces): This is a add-on for Mozilla Firefox. This provides Sidebar to display "Unsorted Bookmarks" folder in Places, as "Temporary Links".
 * [czlin7/LinkQR](https://github.com/czlin7/LinkQR): A Firefox extension that instantly converts web links into QR codes with a single click from the address bar. Easily copy or download QR codes in PNG/SVG format for seamless sharing.
 * [velvia/links](https://github.com/velvia/links): Just a bunch of useful links
