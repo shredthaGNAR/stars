@@ -2445,7 +2445,7 @@ creating your own Awesome List by GitHub stars!
 * [ryanoasis/powerline-extra-symbols](https://github.com/ryanoasis/powerline-extra-symbols): :arrow_forward: Extra glyphs for your powerline separators
 * [DanaMW/PowerShell-TuneUp](https://github.com/DanaMW/PowerShell-TuneUp): PowerShell scripts and snips for the learning curve.
 * [krlvm/PowerTunnel](https://github.com/krlvm/PowerTunnel): Powerful and extensible proxy server with anti-censorship functionality
-* [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI): PraisonAI 🦞 - Your 24/7 AI employee team. Automate and solve complex challenges with low-code multi-agent AI that plans, researches, codes, and delivers to Telegram, Discord, and WhatsApp. Handoffs, guardrails, memory, RAG, 100+ LLMs.
+* [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI): PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with built-in memory, RAG, and support for 100+ LLMs.
 * [parkermuir/preflop-poker](https://github.com/parkermuir/preflop-poker): Python scripts to navigate Texas Hold 'Em and Pot Limit Omaha preflop decision trees ♠️♣️
 * [MozillaSecurity/prefpicker](https://github.com/MozillaSecurity/prefpicker): Manage & generate prefs.js files
 * [neox387/premiumizer](https://github.com/neox387/premiumizer): None
@@ -3473,7 +3473,7 @@ creating your own Awesome List by GitHub stars!
 * [drcheap/WindowSizer](https://github.com/drcheap/WindowSizer): WebExtension to quickly resize the window to one of your favorite sizes
 * [l10nelw/winger](https://github.com/l10nelw/winger): Window Manager: A Firefox web extension for switching windows, moving tabs between windows, and more
 * [curtisgray/wingman](https://github.com/curtisgray/wingman): Wingman is the fastest and easiest way to run Llama models on your PC or Mac.
-* [nbonamy/witsy](https://github.com/nbonamy/witsy): Witsy: desktop AI assistant / universal MCP client
+* [Kochava-Studios/witsy](https://github.com/Kochava-Studios/witsy): Witsy: desktop AI assistant / universal MCP client
 * [Zaxxon709/wizinstaller](https://github.com/Zaxxon709/wizinstaller): None
 * [shredthaGNAR/wokiee](https://github.com/shredthaGNAR/wokiee): None
 * [ShrekBytes/wordglance-extension](https://github.com/ShrekBytes/wordglance-extension): firefox extension to get instant dictionary definitions and translations for any text on any website
