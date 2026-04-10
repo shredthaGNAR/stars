@@ -604,7 +604,7 @@ creating your own Awesome List by GitHub stars!
 * [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity): ∞ Generate endless answers from all-knowing ChatGPT (on any topic!)
 * [swyxio/chatgpt-mac](https://github.com/swyxio/chatgpt-mac): ChatGPT for Mac, living in your menubar.
 * [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac): ChatGPT for Mac, living in your menubar.
-* [adamlui/chatgpt-omnibox](https://github.com/adamlui/chatgpt-omnibox): https://addons.mozilla.org/firefox/addon/chatgpt-omnibox
+* [KudoAI/chatgpt-omnibox](https://github.com/KudoAI/chatgpt-omnibox): https://addons.mozilla.org/firefox/addon/chatgpt-omnibox
 * [yokoffing/ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts): ChatGPT and Bing AI prompt curation
 * [abielzulio/chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast): ChatGPT raycast extension
 * [oxylabs/chatgpt-scraper](https://github.com/oxylabs/chatgpt-scraper): Easily collect responses from ChatGPT scraper by providing a prompt along with valid Web Scraper API credentials.
@@ -633,7 +633,6 @@ creating your own Awesome List by GitHub stars!
 * [OtsoBear/chrome2moz](https://github.com/OtsoBear/chrome2moz): chrome extension to firefox extension converter
 * [priyankchheda/chrome_password_grabber](https://github.com/priyankchheda/chrome_password_grabber): Get unencrypted 'Saved Password' from Google Chrome
 * [0x2e73/ChromeFox](https://github.com/0x2e73/ChromeFox): Material Chrome Style Firefox 
-* [jimmyxu/circle](https://github.com/jimmyxu/circle): Logi Circle video downloader
 * [emvaized/circle-mouse-gestures](https://github.com/emvaized/circle-mouse-gestures): Chrome and Firefox extension for mouse gestures with visual representation of actions as a circle
 * [asilvas/circler](https://github.com/asilvas/circler): (non-official) Logitech Circle utility application (download etc)
 * [0x7370346365/classic-tabs-firefox](https://github.com/0x7370346365/classic-tabs-firefox): None
