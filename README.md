@@ -1663,7 +1663,7 @@ creating your own Awesome List by GitHub stars!
 * [LaneCommunityCollege/jquery-signature](https://github.com/LaneCommunityCollege/jquery-signature): a jQuery based email signature generator
 * [MrOtherGuy/js-modules](https://github.com/MrOtherGuy/js-modules): None
 * [criblio/js2bin](https://github.com/criblio/js2bin): NodeJS application to native executable
-* [kucherenko/jscpd](https://github.com/kucherenko/jscpd): Copy/paste detector for programming source code.
+* [kucherenko/jscpd](https://github.com/kucherenko/jscpd): Copy/paste detector for programming source code. 
 * [jsdom/jsdom](https://github.com/jsdom/jsdom): A JavaScript implementation of various web standards, for use with Node.js
 * [1nfiniteloop/json-bookmarks](https://github.com/1nfiniteloop/json-bookmarks): Browser extension for Mozilla Firefox and Chrome for importing and exporting bookmarks with a json file
 * [litejs/json-lite](https://github.com/litejs/json-lite): Fast non-blocking JSON viewer for Chrome and Firefox
@@ -2003,7 +2003,7 @@ creating your own Awesome List by GitHub stars!
 * [peci1/more-snooze](https://github.com/peci1/more-snooze): More Snooze addon for Thunderbird
 * [MorpheApp/morphe-cli](https://github.com/MorpheApp/morphe-cli): Morphe console / terminal patching tool
 * [MorpheApp/morphe-documentation](https://github.com/MorpheApp/morphe-documentation): General documentation about Morphe
-* [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager): Morphe app patcher for Android
+* [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager): From the developers that brought you the greatest modded YouTube apps, comes Morphe - the powerful app modification tool that puts you in control
 * [MorpheApp/morphe-patches](https://github.com/MorpheApp/morphe-patches): Morphe Patches
 * [Caldis/Mos](https://github.com/Caldis/Mos): 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
 * [thePaulV/Most-Recent-Tab](https://github.com/thePaulV/Most-Recent-Tab): Firefox addon that adds a keyboard shortcut to switch back to your most recently selected tab. Useful to alternate between two tabs and to easily go back to your last tab if you switch to another briefly.
@@ -2128,7 +2128,7 @@ creating your own Awesome List by GitHub stars!
 * [nuthrash/obsidian-html-plugin](https://github.com/nuthrash/obsidian-html-plugin): This is a plugin for Obsidian (https://obsidian.md). Can open document with .html and .htm file extensions.
 * [mProjectsCode/obsidian-meta-bind-plugin](https://github.com/mProjectsCode/obsidian-meta-bind-plugin): A plugin for Obsidian to make your notes interactive with inline input fields, metadata displays, and buttons.
 * [hariiy-sys/Obsidian-NetClip](https://github.com/hariiy-sys/Obsidian-NetClip): this plugin is for Obsidian that allows you to browse the web and clip webpages directly into your vault.
-* [chrisgurney/obsidian-note-toolbar](https://github.com/chrisgurney/obsidian-note-toolbar): Create flexible, context-aware toolbars for your notes with this plugin for Obsidian.
+* [chrisgurney/obsidian-note-toolbar](https://github.com/chrisgurney/obsidian-note-toolbar): Flexible, context-aware toolbars for your notes in Obsidian.
 * [Jacobinwwey/obsidian-NotEMD](https://github.com/Jacobinwwey/obsidian-NotEMD): A Easy way to create your own Knowledge-base! Notemd enhances your Obsidian workflow by integrating with various Large Language Models (LLMs) to process your notes, automatically generate wiki-links for key concepts, create corresponding concept notes, perform web research, and more.
 * [hinterdupfinger/obsidian-ollama](https://github.com/hinterdupfinger/obsidian-ollama): None
 * [nybbles/obsidian-pocket](https://github.com/nybbles/obsidian-pocket): Pocket integration for Obsidian
