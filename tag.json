@@ -6701,6 +6701,9 @@
     "lorien/awesome-pastebins": [
         "Other"
     ],
+    "lorien/awesome-web-scraping": [
+        "Other"
+    ],
     "lostintangent/gistpad": [
         "Other"
     ],
@@ -7796,7 +7799,7 @@
     "onyx-dot-app/onyx": [
         "Other"
     ],
-    "oobabooga/text-generation-webui": [
+    "oobabooga/textgen": [
         "Other"
     ],
     "opa334/TrollStore": [
@@ -9237,6 +9240,9 @@
         "Other"
     ],
     "spmbt/googleSearchExtraButtons": [
+        "Other"
+    ],
+    "spmedia/Threat-Actor-Usernames-Scrape": [
         "Other"
     ],
     "spotlightishere/launchcontrol": [
