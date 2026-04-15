@@ -78,6 +78,7 @@ creating your own Awesome List by GitHub stars!
 * [Levi2288/AdvancedBlockList](https://github.com/Levi2288/AdvancedBlockList): Block list for PI hole 
 * [117649/AdvancedLocationbar2](https://github.com/117649/AdvancedLocationbar2): None
 * [Czarto/Adwords-Scripts](https://github.com/Czarto/Adwords-Scripts): Google Ads Bidding scripts
+* [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents): A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 * [uno-forge-hub/agency-landing-page-Astrojs](https://github.com/uno-forge-hub/agency-landing-page-Astrojs): A simple agency landing page made with astrojs and tailwindcss
 * [piroor/aggregate-tabs-to-main-window](https://github.com/piroor/aggregate-tabs-to-main-window): Aggregate new tabs to a window which has most many tabs and largest size.
 * [fastaddons/AI-Anywhere](https://github.com/fastaddons/AI-Anywhere): None
@@ -343,6 +344,7 @@ creating your own Awesome List by GitHub stars!
 * [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates): 280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RAG   chatbots, email automation, social media, DevOps, and document processing. The largest open-source n8n template collection.
 * [yjose/awesome-new](https://github.com/yjose/awesome-new): A list of `.new` domains to perform online actions in one quick action.
 * [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian): 🕶️ Awesome stuff for Obsidian
+* [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents): 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
 * [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint): :scream: A curated list of amazingly awesome OSINT
 * [Astrosp/Awesome-OSINT-For-Everything](https://github.com/Astrosp/Awesome-OSINT-For-Everything): OSINT tools for Information gathering, Cybersecurity, Reverse searching, bugbounty, trust and safety, red team oprations and more.
 * [lorien/awesome-pastebins](https://github.com/lorien/awesome-pastebins): List of pastebin services
@@ -2511,6 +2513,7 @@ creating your own Awesome List by GitHub stars!
 * [dustindmiller/QLab-Touchbar](https://github.com/dustindmiller/QLab-Touchbar): Touch Bar BTT config for QLab.
 * [sbarex/QLMarkdown](https://github.com/sbarex/QLMarkdown): macOS Quick Look extension for Markdown files.
 * [Watson1978/QLMarkdownGFM](https://github.com/Watson1978/QLMarkdownGFM): Quicklook plugin for Github Flavored Markdown
+* [sbarex/QLSyntaxHighlight](https://github.com/sbarex/QLSyntaxHighlight): Quick Look extension for highlight source code files on macOS 10.15 and later.
 * [srirangav/qlZipInfo](https://github.com/srirangav/qlZipInfo): MacOSX QuickLook Generator for zip, jar, tar, tar.gz (.tgz), tar.bz2 (.tbz2/.tbz), tar.Z, xar (.xar, .pkg), debian (.deb), RedHat Package Manager (.rpm), 7zip (.7z), xz, Microsoft cabinet (.cab), gzip (.gz), lha, BinHex 4.0 (.hqx), ePub (.epub), and Stuffit (.sit) archives, and ISO9660 images
 * [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes): QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
 * [monyxie/qr-lite](https://github.com/monyxie/qr-lite): A browser extension for generating and scanning QR codes.
@@ -2954,7 +2957,6 @@ creating your own Awesome List by GitHub stars!
 * [SortableJS/Sortable](https://github.com/SortableJS/Sortable): Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
 * [pesc101/SortRobot](https://github.com/pesc101/SortRobot): Python script to sort the mac download dir automatially
 * [mattingalls/Soundflower](https://github.com/mattingalls/Soundflower): MacOS system extension that allows applications to pass audio to other applications. Soundflower works on macOS Catalina.
-* [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight): Quick Look extension for highlight source code files on macOS 10.15 and later.
 * [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot): Code AI platform with Code Search & Cody
 * [sowdust/sowdust.github.io](https://github.com/sowdust/sowdust.github.io): Facebook search engine that works after the Graph API has been shut down
 * [soscripted/sox](https://github.com/soscripted/sox): Stack Overflow Extras: a userscript for the Stack Exchange websites to add a bunch of optional toggle-able features
