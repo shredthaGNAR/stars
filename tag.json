@@ -227,6 +227,9 @@
     "Andereoo/Cortland": [
         "Other"
     ],
+    "Android-App-Patches/build-apps": [
+        "Other"
+    ],
     "AngelCrawford/joplin-theme": [
         "Other"
     ],
@@ -8450,9 +8453,6 @@
     "retoaccess1/haveno-reto": [
         "Other"
     ],
-    "revanced-apks/build-apps": [
-        "Other"
-    ],
     "revblaze/AppleMusicUltra": [
         "Other"
     ],
@@ -8765,7 +8765,7 @@
     "sbarex/QLMarkdown": [
         "Other"
     ],
-    "sbarex/QLSyntaxHighlight": [
+    "sbarex/SourceCodeSyntaxHighlight": [
         "Other"
     ],
     "sblask-webextensions/webextension-skip-redirect": [
