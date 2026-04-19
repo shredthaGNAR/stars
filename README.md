@@ -832,7 +832,7 @@ creating your own Awesome List by GitHub stars!
 * [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio): 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer. (This is currently not being actively maintained)
 * [SergioSuarezGil/DeveloperToolsTouchBar_BetterTouchTool](https://github.com/SergioSuarezGil/DeveloperToolsTouchBar_BetterTouchTool): A BetterTouchTool preset which provides TouchBar support for Chrome/Edge/Safari Debugger with Dev Tools.
 * [matomo-org/device-detector](https://github.com/matomo-org/device-detector): The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model. 
-* [vorillaz/devicons](https://github.com/vorillaz/devicons): Devicons - An iconic font made for developers
+* [vorillaz/devicons](https://github.com/vorillaz/devicons): devicons - Crisp and clear logos & icons for developers. 
 * [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll): (FREE SITE GENERATOR) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS :rocket: in minutes built for developers. (with CMS) ✨
 * [devaradise/devolio](https://github.com/devaradise/devolio): A Simple Astro Portfolio & Blog Template for Developers
 * [BrettHuang2019/devportfolio](https://github.com/BrettHuang2019/devportfolio): A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
@@ -2083,6 +2083,7 @@ creating your own Awesome List by GitHub stars!
 * [mnw700x/News2Me-Archives](https://github.com/mnw700x/News2Me-Archives): Pages saved with SingleFile
 * [garywill/newtab-btn-menu](https://github.com/garywill/newtab-btn-menu): FIrefox open URL in clipboard by right-clicking new-tab-button then use context menu. Create new tab button's context menu with a menu item to open clipboard URL in new tab. (runs on Firefox 128) 📋🖱️🔗
 * [garywill/newTabClipboardUrl](https://github.com/garywill/newTabClipboardUrl): Quickly create new tab opening URL from clipboard. Firefox addon 📋🖱️🔗
+* [NexAlloy/NexAlloy](https://github.com/NexAlloy/NexAlloy): ChsBuffer's LSPosed module, powered by Morphe, ReVanced, and beyond. (formerly ReVanced Xposed)
 * [thewhiteh4t/nexfil](https://github.com/thewhiteh4t/nexfil): OSINT tool for finding profiles by username
 * [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat): ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 * [web-dahuyou/NiceTab](https://github.com/web-dahuyou/NiceTab): 浏览器插件：OneTab、Toby、N-Tab、SessionBuddy、KepTab 等扩展的升级替代品，功能丰富易用 | A nice, convenient, powerful tab manager  serving as an upgraded alternative to OneTab, Toby, SessionBuddy, N-Tab，KepTab...
@@ -2473,7 +2474,6 @@ creating your own Awesome List by GitHub stars!
 * [jairo-aguirre/product-comparison](https://github.com/jairo-aguirre/product-comparison): App enabling users in a simple and centralized way to compare product features or capabilities across multiple similar products.
 * [Shopify/product-reviews-sample-app](https://github.com/Shopify/product-reviews-sample-app): A sample Shopify application that creates and stores product reviews for a store, written in Node.js
 * [progit/progit2](https://github.com/progit/progit2): Pro Git 2nd Edition
-* [ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts): This is a collection of programming fonts, just share this with the programmers. Now there are 108 kinds of fantastic fonts!
 * [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 * [raycast/prompt-explorer](https://github.com/raycast/prompt-explorer): Easily browse, share, and add prompts to Raycast
 * [nkmr-jp/prompt-line](https://github.com/nkmr-jp/prompt-line): Prompt Line is a macOS app developed to improve the prompt input experience in the terminal for CLI-based AI coding agents such as Claude Code, Codex CLI, and Gemini CLI.
@@ -2678,7 +2678,6 @@ creating your own Awesome List by GitHub stars!
 * [inotia00/ReVanced_Extended](https://github.com/inotia00/ReVanced_Extended): ReVanced Extended Issues/Request repo
 * [SinTan1729/ReVancedBuilder](https://github.com/SinTan1729/ReVancedBuilder): A script to automatically build latest releases of ReVanced apps
 * [programminghoch10/ReVancedRepackaged](https://github.com/programminghoch10/ReVancedRepackaged): ReVanced, but patched locally.
-* [chsbuffer/ReVancedXposed](https://github.com/chsbuffer/ReVancedXposed): ReVanced LSPosed module. YouTube & YT Music Remove ads, Background playback
 * [shekhawat2/RevancedYT](https://github.com/shekhawat2/RevancedYT): None
 * [decipher3114/Revancify](https://github.com/decipher3114/Revancify): The only revancify
 * [shredthaGNAR/reveal-md](https://github.com/shredthaGNAR/reveal-md): None
@@ -2691,6 +2690,7 @@ creating your own Awesome List by GitHub stars!
 * [datamllab/rlcard](https://github.com/datamllab/rlcard): Reinforcement Learning / AI Bots in Card (Poker) Games - Blackjack, Leduc, Texas, DouDizhu, Mahjong, UNO.
 * [ciceronianus/Roam---custom-context-menu-in-BTT-macOS](https://github.com/ciceronianus/Roam---custom-context-menu-in-BTT-macOS): Custom context menu for Roamresearch.com made in BetterTouchTool for MacOS
 * [ohmybahgosh/RockYou2021.txt](https://github.com/ohmybahgosh/RockYou2021.txt): RockYou2021.txt is a MASSIVE WORDLIST compiled of various other wordlists.  RockYou2021.txt DOES NOT CONTAIN USER:PASS logins!  
+* [rootfont/rootfont](https://github.com/rootfont/rootfont): Next-generation font management system.
 * [mike-kfed/roundcube-thunderbird_labels](https://github.com/mike-kfed/roundcube-thunderbird_labels): Thunderbird Labels Plugin for Roundcube Webmail
 * [caro401/royal-velvet](https://github.com/caro401/royal-velvet): A dark theme for obsidian.md
 * [moisseev/rspamd-spamness](https://github.com/moisseev/rspamd-spamness): Thunderbird add-on for visualizing rspamd spam scores.
