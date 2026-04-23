@@ -1528,7 +1528,7 @@ creating your own Awesome List by GitHub stars!
 * [craftsmandigital/hugo-get-pocket](https://github.com/craftsmandigital/hugo-get-pocket): This is a Hugo project that view bookmars from my get-pocket app. Using get-pocket api to generate json to use in website.
 * [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod):  A fast, clean, responsive Hugo theme.
 * [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile): A highly customizable and mobile first Hugo template for personal portfolio and blog.
-* [HugoBlox/hugo-theme-academic-cv](https://github.com/HugoBlox/hugo-theme-academic-cv): 🎓 Academic portfolio that boosts your citations — not a PDF that gets lost. BibTeX auto-import, Jupyter notebooks, LaTeX math, presentation slides. AI generates your pages, you own them as Markdown. Free to host forever.
+* [HugoBlox/hugo-theme-academic-cv](https://github.com/HugoBlox/hugo-theme-academic-cv): 🎓 Academic portfolio that boosts citations. AI generates pages, you own as Markdown. BibTeX auto-import, Jupyter, LaTeX, slides, visual block editor — free to host forever. 学术主页，AI 生成，Markdown 拥有 👇
 * [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack): Card-style Hugo theme designed for bloggers
 * [spaghettiwews/hugonews](https://github.com/spaghettiwews/hugonews): hugo theme (based on https://news.ycombinator.com) for https://bookmarks.wews.co.zw
 * [hunspell/hunspell](https://github.com/hunspell/hunspell): The most popular spellchecking library.
@@ -1673,6 +1673,7 @@ creating your own Awesome List by GitHub stars!
 * [1nfiniteloop/json-bookmarks](https://github.com/1nfiniteloop/json-bookmarks): Browser extension for Mozilla Firefox and Chrome for importing and exporting bookmarks with a json file
 * [litejs/json-lite](https://github.com/litejs/json-lite): Fast non-blocking JSON viewer for Chrome and Firefox
 * [Automattic/juice](https://github.com/Automattic/juice): Juice inlines CSS stylesheets into your HTML source.
+* [codewithsadee/julia-portfolio](https://github.com/codewithsadee/julia-portfolio): A fully responsive personal portfolio website, Responsive for all devices, build using HTML, CSS, and JavaScript.
 * [snark/jumpcut](https://github.com/snark/jumpcut): Minimalist clipboard management for macOS
 * [RealRaven2000/JunQuilla](https://github.com/RealRaven2000/JunQuilla): Adopted Thunderbird Add-on from Kent James - adds column with percent likelihood that a message is spam
 * [huioi/Just-OneTab](https://github.com/huioi/Just-OneTab): 一款专为浏览器标签页收纳与整理打造的插件，可有效节省内存并缓解标签页杂乱问题，兼容 Chrome、Edge 等基于 Chromium 内核的浏览器。A browser extension designed for tab management and organization, effectively saving memory and reducing cluttered tabs. Compatible with Chrome, Edge, and other Chromium-based browsers.
@@ -1718,7 +1719,7 @@ creating your own Awesome List by GitHub stars!
 * [yogeshpaliyal/KeyPass](https://github.com/yogeshpaliyal/KeyPass): KeyPass: Open Source Project & An Offline Password Manager. Store, manage, and take control securely.
 * [khoj-ai/khoj](https://github.com/khoj-ai/khoj): Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
 * [t-mart/kill-sticky](https://github.com/t-mart/kill-sticky): Bookmarklet to remove sticky elements and restore scrolling to web pages!
-* [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode): Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 coding agent on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens processed
+* [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode): Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
 * [kenneth558/KingdomComeIMeanItAndIMeanNowSurveillance](https://github.com/kenneth558/KingdomComeIMeanItAndIMeanNowSurveillance): A web page (NOTE: Only Firefox & Pale Moon browsers give approved rendering) and some server-side web server scripting in a mini web server called bashttpd.  Even looks good on Android devices as far as I've seen, though working the sliders is more difficult when your finger touch point is larger than them.  With this tricked out version of bashttpd, you won't need a high-powered web server like Apache nor nginx (I didn't feel like learning nginx, and certainly don't care for learning Apache).  IN PROGRESS but does work way, way better than nothing.  Chrome renders differently, but in a pinch it will function halfway.
 * [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher): A lightweight, pure-Swift library for downloading and caching images from the web.
 * [HugoBlox/kit](https://github.com/HugoBlox/kit): 🧱 Describe your site, AI builds it, you own it as Markdown. Snap together Tailwind blocks like Lego — landing pages, blogs, portfolios, docs & more. No AI slop. Free to deploy anywhere 👇
@@ -2110,6 +2111,7 @@ creating your own Awesome List by GitHub stars!
 * [freaktechnik/notification-sounds](https://github.com/freaktechnik/notification-sounds): Makes a sound when a notification is shown
 * [vitorgalvao/notificator](https://github.com/vitorgalvao/notificator): Trigger macOS notifications from Alfred, using the Workflow icon
 * [MDP43140/NoTrash-PureClean-YT](https://github.com/MDP43140/NoTrash-PureClean-YT): Makes YouTube Less trashy by removing distracting features, and trash videos
+* [Dhravya/notty](https://github.com/Dhravya/notty): An open source, minimal AI powered note taking app and powerful markdown editor
 * [nonbili/NouTube](https://github.com/nonbili/NouTube): YouTube and YouTube Music in a single app. No ads, plays in the background.
 * [sindresorhus/np](https://github.com/sindresorhus/np): A better `npm publish`
 * [npmhub/npmhub](https://github.com/npmhub/npmhub): 🔎 A browser extension to explore npm dependencies on GitHub repos
@@ -2305,7 +2307,7 @@ creating your own Awesome List by GitHub stars!
 * [umutxyp/Personal-Website](https://github.com/umutxyp/Personal-Website): It is a quality portfolio site with a beautiful and simple design that you can personalize for yourself.
 * [thlorenz/phe](https://github.com/thlorenz/phe): Poker hand evaluator
 * [celenityy/Phoenix](https://github.com/celenityy/Phoenix): Phoenix is a suite of configurations & advanced modifications for Mozilla Firefox, designed to put the user first - with a focus on privacy, security, freedom, & usability. 
-* [fabiospampinato/phoenix](https://github.com/fabiospampinato/phoenix): My Phoenix setup. Powerful, easy to customize, tuned for web development, adds a space switcher.
+* [fabiospampinato/phoenix](https://github.com/fabiospampinato/phoenix): My Phoenix setup.
 * [kasper/phoenix](https://github.com/kasper/phoenix): A lightweight macOS window and app manager scriptable with JavaScript
 * [phcode-dev/phoenix](https://github.com/phcode-dev/phoenix): The text editor designed to make coding as simple and fun as playing a video game
 * [garrow/phoenix-configurations](https://github.com/garrow/phoenix-configurations): My custom configurations for the Phoenix macOS window Manager, ( https://github.com/kasper/phoenix )
