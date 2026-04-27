@@ -466,6 +466,7 @@ creating your own Awesome List by GitHub stars!
 * [iam4x/bobarr](https://github.com/iam4x/bobarr): 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 * [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy): Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
 * [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new): Prompt, run, edit, and deploy full-stack web applications. -- bolt.new -- Help Center: https://support.bolt.new/ -- Community Support: https://discord.com/invite/stackblitz
+* [bhattsameer/Bombers](https://github.com/bhattsameer/Bombers): SMS/Email/Whatsapp/Twitter/Instagram bombers Collection :bomb::bomb::bomb: :boom: Also added collection of some Fake SMS utilities which helps in skip phone number based SMS verification by using a temporary phone number that acts like a proxy.
 * [Tenica/bookMark](https://github.com/Tenica/bookMark): A bookmark webpage built with javaScript 
 * [luxuxl/bookmark](https://github.com/luxuxl/bookmark): This is my personal Shareable bookmarks
 * [MattRuetz/bookmark-app](https://github.com/MattRuetz/bookmark-app): Simple webpage to store bookmarks using localStorage. Flexible and simple UI using CSS variables and animations.
@@ -1367,6 +1368,7 @@ creating your own Awesome List by GitHub stars!
 * [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts): Userscripts to add functionality to GitHub
 * [zvizvi/GitHub-Web-IDE](https://github.com/zvizvi/GitHub-Web-IDE): ⚡ Open GitHub repositories in online web IDE
 * [ckeditor/github-writer](https://github.com/ckeditor/github-writer): GitHub Writer - WYSIWYG Rich-Text Editor for GitHub, powered by CKEditor.
+* [omar-azmi/github_aid_ts](https://github.com/omar-azmi/github_aid_ts): A Chromium and Firefox extension for viewing github Repository sizes, and Downloading files/subdirectories. It also features a simple tooling workflow that is capable of auto-generate web-extensions with: pure Typescript, Deno, and ES-modules. Along with the ability to bundle with minification and common-code-splitting.
 * [benbalter/github_records_archiver](https://github.com/benbalter/github_records_archiver): Backs up a GitHub organization's repositories and all their associated information for archival purposes.
 * [kevinapps/githubstar](https://github.com/kevinapps/githubstar): Export GitHub starred repositories, lists and topics to HTML, JSON, Markdown, or bookmark, grouped by language or topic, ordered by time, stargazer count etc.
 * [github/gitignore](https://github.com/github/gitignore): A collection of useful .gitignore templates
@@ -2692,7 +2694,7 @@ creating your own Awesome List by GitHub stars!
 * [inotia00/revanced-manager](https://github.com/inotia00/revanced-manager): 💊 Application to use ReVanced on Android 
 * [brosssh/revanced-manager-downloaders](https://github.com/brosssh/revanced-manager-downloaders): 🔌 ReVanced Manager downloaders
 * [peternmuller/revanced-morphe-builder](https://github.com/peternmuller/revanced-morphe-builder): An APK and Magisk/KernelSU module builder for RV/RVX/Morphe apps. Updated hourly.
-* [Jman-Github/ReVanced-Patch-Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles): Automatically aggregates alternative ReVanced patch and integration repositories into JSON files to import into the ReVanced Manager Compose.
+* [Jman-Github/ReVanced-Patch-Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles): Automatically aggregates alternative ReVanced & Morphe patch bundles into JSON files to import into the ReVanced & Morphe Managers.
 * [ReVanced/revanced-patcher](https://github.com/ReVanced/revanced-patcher): 💉 ReVanced Patcher used to patch Android applications
 * [anddea/revanced-patches](https://github.com/anddea/revanced-patches): 🧩 Patches for ReVanced
 * [inotia00/revanced-patches](https://github.com/inotia00/revanced-patches): 🧩 Patches for ReVanced
@@ -2705,6 +2707,7 @@ creating your own Awesome List by GitHub stars!
 * [decipher3114/Revancify](https://github.com/decipher3114/Revancify): The only revancify
 * [shredthaGNAR/reveal-md](https://github.com/shredthaGNAR/reveal-md): None
 * [gaerfield/reveal-md-github-pages](https://github.com/gaerfield/reveal-md-github-pages): Automatically deploys reveal-md presentations to github-pages
+* [Crimson7research/ReverseEngineering-AI](https://github.com/Crimson7research/ReverseEngineering-AI): None
 * [YT-Advanced/ReX-patches](https://github.com/YT-Advanced/ReX-patches): 🧩 Patches for ReVanced
 * [timonus/Rhea](https://github.com/timonus/Rhea): A Mac status bar app for quickly sharing files and links.
 * [garywill/right-click-tab-close](https://github.com/garywill/right-click-tab-close): Firefox close tab by right clicking on tab button ,userchrome script  🖱️
