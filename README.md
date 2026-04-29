@@ -674,7 +674,7 @@ creating your own Awesome List by GitHub stars!
 * [kepano/clipper-templates](https://github.com/kepano/clipper-templates): Obsidian Web Clipper templates for various sites.
 * [aecreations/clippings](https://github.com/aecreations/clippings): Save frequently-entered text for pasting later. An extension for Firefox.
 * [aecreations/clippings-tb](https://github.com/aecreations/clippings-tb): Save frequently-entered text for pasting later. An extension for Thunderbird.
-* [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI): Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude model through API
+* [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI): Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Claude model through API
 * [Clipy/Clipy](https://github.com/Clipy/Clipy): Clipboard extension app for macOS.
 * [ian4hu/Clipy](https://github.com/ian4hu/Clipy): Clipboard extension app for macOS.
 * [spieglt/Cloaker](https://github.com/spieglt/Cloaker): Simple, drag-and-drop, password-based file encryption
@@ -2289,7 +2289,7 @@ creating your own Awesome List by GitHub stars!
 * [bgebhardt/osx_scripts_folder](https://github.com/bgebhardt/osx_scripts_folder): My repository of miscellaneous AppleScripts I've written for OS X
 * [sveinbjornt/osxiconutils](https://github.com/sveinbjornt/osxiconutils): A suite of very old-school command line tools for working with Mac icons (.icns files) and custom Finder icons.
 * [vasi/osxutils](https://github.com/vasi/osxutils): Mac-specific command line utilities (UPDATES)
-* [ggozad/oterm](https://github.com/ggozad/oterm): the terminal client for Ollama
+* [ggozad/oterm](https://github.com/ggozad/oterm): the terminal client for LLMs
 * [OuterTune/OuterTune](https://github.com/OuterTune/OuterTune): A Material 3 Music Player for Android with local file & YouTube Music support. Forked from InnerTune
 * [CptFoobar/Owl](https://github.com/CptFoobar/Owl): A Mozilla Firefox add-on to make online reading comfortable.
 * [seemoo-lab/owl](https://github.com/seemoo-lab/owl): An open Apple Wireless Direct Link (AWDL) implementation written in C
