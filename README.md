@@ -628,7 +628,7 @@ creating your own Awesome List by GitHub stars!
 * [oxylabs/chatgpt-scraper](https://github.com/oxylabs/chatgpt-scraper): Easily collect responses from ChatGPT scraper by providing a prompt along with valid Web Scraper API credentials.
 * [josStorer/chatGPT-search-engine-extension](https://github.com/josStorer/chatGPT-search-engine-extension): A browser extension to display ChatGPT response alongside Search Engine results
 * [SingularityLabs-ai/ChatGPT-Tool-List](https://github.com/SingularityLabs-ai/ChatGPT-Tool-List): Bots To be added
-* [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js): 🤖 A powerful, open source client-side JavaScript library for ChatGPT
+* [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js): 🤖 A powerful, open source JavaScript library for ChatGPT
 * [XInTheDark/ChatGPT5AutoThinkPlugin](https://github.com/XInTheDark/ChatGPT5AutoThinkPlugin): None
 * [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN): ChatGPT DAN, Jailbreaks prompt
 * [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt): A collection of GPT system prompts and various prompt injection/leaking knowledge.
@@ -818,7 +818,6 @@ creating your own Awesome List by GitHub stars!
 * [shredthaGNAR/dawn](https://github.com/shredthaGNAR/dawn): Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.
 * [pedritobata/dawn-clone-shopify](https://github.com/pedritobata/dawn-clone-shopify): None
 * [dougpark/dayone](https://github.com/dougpark/dayone): Better Touch Tool create a DayOne journal entry
-* [zoonderkins/dbl-oisd-nl](https://github.com/zoonderkins/dbl-oisd-nl): abp.oisd.nl | Internet's #1 domain blocklist (Mirror)
 * [enokmadrid/deafink](https://github.com/enokmadrid/deafink): Custom Shopify Theme for Deafink
 * [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui): Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 * [khlam/debloat-samsung-android](https://github.com/khlam/debloat-samsung-android): ADB commands to aggressively de-bloat Samsung Android Phones without root. Make Samsung One UI closer to stock Android.
