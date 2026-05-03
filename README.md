@@ -84,9 +84,13 @@ creating your own Awesome List by GitHub stars!
 * [fastaddons/AI-Anywhere](https://github.com/fastaddons/AI-Anywhere): None
 * [vanrohan/ai-bookmark-organizer](https://github.com/vanrohan/ai-bookmark-organizer): None
 * [finxter/AI-Engineering-Learning-Resources](https://github.com/finxter/AI-Engineering-Learning-Resources): None
+* [frolvanya/ai-humanizer](https://github.com/frolvanya/ai-humanizer): AI Humanizer
+* [c1gee/AI-Humanizer-Clipboard-Raycast](https://github.com/c1gee/AI-Humanizer-Clipboard-Raycast): AI Humanizer Clipboard for Raycast
+* [EvanZhouDev/ai-model-index](https://github.com/EvanZhouDev/ai-model-index): Find the best models for any task. For free.
 * [Tolga1452/ai-prompts](https://github.com/Tolga1452/ai-prompts): A collection of original system prompts and tool data used for AI chatbots. Explore how companies such as ChatGPT prompt their AIs!
 * [houssinehn11/ai-proxy](https://github.com/houssinehn11/ai-proxy): 🚀 Streamline access to major AI models like ChatGPT and Claude with a unified API, enhancing reliability and reducing costs for developers in China.
 * [cpbotha/ai-screenshot-namer](https://github.com/cpbotha/ai-screenshot-namer): Rename your screenshots with ollama LLaVA, GPT-4o and macOS OCR
+* [tarurata/ai-text-transformer](https://github.com/tarurata/ai-text-transformer): Raycast extension to apply AI prompts to clipboard content
 * [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions): 🤖 AI browser extensions & userscripts to augment your web experience
 * [Aider-AI/aider](https://github.com/Aider-AI/aider): aider is AI pair programming in your terminal
 * [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists): A collection of unified blocklists designed to provide complete filtering capabilities for different online threats. These blocklists are curated from multiple sources, offering a robust solution for blocking ads, malware, trackers, and other unwanted content.
@@ -195,6 +199,7 @@ creating your own Awesome List by GitHub stars!
 * [aaronfreimark/Apple-ID-AppleScript](https://github.com/aaronfreimark/Apple-ID-AppleScript): AppleScript to programatically create Apple IDs
 * [Explosion-Scratch/apple-intelligence-prompts](https://github.com/Explosion-Scratch/apple-intelligence-prompts): System prompts from Apple's new Apple Intelligence on MacOS Sequoia
 * [agentcooper/apple-notes-bookmarklet](https://github.com/agentcooper/apple-notes-bookmarklet): Bookmarklet for saving selected text to Apple Notes
+* [EvanZhouDev/apple-prompt-injection](https://github.com/EvanZhouDev/apple-prompt-injection): A list of Apple Intelligence prompt injections.
 * [mikeroyal/Apple-Silicon-Guide](https://github.com/mikeroyal/Apple-Silicon-Guide): Apple Silicon Guide. Learn all about the A17 Pro, A16 Bionic, R1, M1-series,  M2-series, and M3-series chips. Along with all the Devices, Operating Systems, Tools, Gaming, and Software that Apple Silicon powers.
 * [threeplanetssoftware/apple_cloud_notes_parser](https://github.com/threeplanetssoftware/apple_cloud_notes_parser): Parser for Apple Notes data stored on the Cloud as seen on Apple handsets
 * [bunnysayzz/AppleAI](https://github.com/bunnysayzz/AppleAI): A MacOS menu bar app for ChatGPT, Gemini,  Claude, Perplexity, Copilot, DeepSeek, Grok and many more into one streamlined interface
@@ -373,6 +378,7 @@ creating your own Awesome List by GitHub stars!
 * [EliFuzz/awesome-system-prompts](https://github.com/EliFuzz/awesome-system-prompts): A collection of system prompts and tool definitions from various AI coding agents: Augment Code, Claude Code, Cluely, Cursor, Devin AI, Kiro, Perplexity, VSCode Agent, Gemini, Codex, OpenAI
 * [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link): Collection of Testflight public app link（iOS/iPad OS/macOS/tvOS）
 * [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling): List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
+* [rjaus/awesome-ublacklist](https://github.com/rjaus/awesome-ublacklist): Awesome list of uBlacklist subscriptions to block search results from google, bing, duckduckgo.
 * [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts): 📖  A curated list of Awesome Userscripts.
 * [jaredthecoder/awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security): 🚗  A curated list of resources for learning about vehicle security and car hacking.
 * [lkrjangid1/Awesome-Warez](https://github.com/lkrjangid1/Awesome-Warez): All your base are belong to us!
@@ -387,6 +393,7 @@ creating your own Awesome List by GitHub stars!
 * [jarmo/backpocket](https://github.com/jarmo/backpocket): Backpocket is a command line utility for storing a reading list of articles from the Internet to your local disk for the future. It's an alternative to Pocket offering all the required features without handing over all your private reading materials to any 3rd party.
 * [alx-xlx/backup-website-to-cloud](https://github.com/alx-xlx/backup-website-to-cloud): This is a script to push a backup of your website, forum etc to Cloud Storage using rclone
 * [joshuachough/backupOneTab](https://github.com/joshuachough/backupOneTab): Back up and restore your OneTab Chrome extension data
+* [popcar2/BadWebsiteBlocklist](https://github.com/popcar2/BadWebsiteBlocklist): A filter that blocks spam & misleading websites from appearing in search results via uBlocklist
 * [jameshealyio/bang-bookmarks](https://github.com/jameshealyio/bang-bookmarks): Replicate DuckDuckGo !bang's in Firefox using Keymarks!
 * [nathanchapman/bash-functions](https://github.com/nathanchapman/bash-functions): 🔮 A collection of useful Bash/ZSH functions
 * [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator): Customize your Bash Prompt by setting the PS1 variable.
@@ -434,6 +441,7 @@ creating your own Awesome List by GitHub stars!
 * [macOS26/bigmac](https://github.com/macOS26/bigmac): Big Mac, macOS 11 Big Sur and macOS Monterey disk installer and back up tool for Intel based Macs
 * [garywill/BigSearch](https://github.com/garywill/BigSearch): Browser extension. Definitly more than a GET/POST sender. Handily use search engines via a Flexible Tool! UI has Vimium-like feature 🌐🔍 (Pure-client. No 3rd-party server needed) 大术专搜 既专又广 手敲几下 纵横去往
 * [zjns/BiliRoamingX-patches](https://github.com/zjns/BiliRoamingX-patches): [Deprecated] Merged into https://github.com/BiliRoamingX/BiliRoamingX.
+* [toanbku/bing-chat-raycast-extension](https://github.com/toanbku/bing-chat-raycast-extension): None
 * [sebaslogen/bitcoin-price-ticker](https://github.com/sebaslogen/bitcoin-price-ticker): Bitcoin Price Ticker Firefox Addon with multiple price sources and configuration options
 * [kdmukai/bitcoin_resources](https://github.com/kdmukai/bitcoin_resources): My starter pack for people new to the bewildering world of bitcoin.
 * [ajmalshahabudeen/Bitwarden-Duplicate-remover](https://github.com/ajmalshahabudeen/Bitwarden-Duplicate-remover): When Importing multiple CSV files Bitwarden creates Duplicate Entries. So this Python script will remove duplicate entries and keep ONE.
@@ -558,6 +566,7 @@ creating your own Awesome List by GitHub stars!
 * [p-x9/BTTPluginHeadLineNews](https://github.com/p-x9/BTTPluginHeadLineNews): Headline News Widget for Better Touch Tool. You can display the articles fetched by rss.
 * [littleTurnip/BTTPluginsSPM](https://github.com/littleTurnip/BTTPluginsSPM): Development of BetterTouchTool Plugins
 * [Android-App-Patches/build-apps](https://github.com/Android-App-Patches/build-apps): The ReVanced APKs
+* [timrogers/build-raycast-extension](https://github.com/timrogers/build-raycast-extension): A GitHub action which ensures that a Raycast extension can be built successfully
 * [gityeop/build_better_prompt_raycast_extension](https://github.com/gityeop/build_better_prompt_raycast_extension): Interactive AI prompt builder using flipped learning - AI asks you questions to create better prompts
 * [jarun/buku](https://github.com/jarun/buku): :bookmark: Personal mini-web in text
 * [EuanRiggans/BulkURLOpener](https://github.com/EuanRiggans/BulkURLOpener): Bulk URL Opener is an application that provides the user with multiple utilities to help with managing and using large amounts of urls
@@ -572,6 +581,7 @@ creating your own Awesome List by GitHub stars!
 * [shredthaGNAR/buttons](https://github.com/shredthaGNAR/buttons): A collection of CSS buttons.
 * [romanvht/ByeByeDPI](https://github.com/romanvht/ByeByeDPI): Приложение локально запускает ByeDPI и перенаправляет весь трафик через него
 * [alextidalrise/bysofie-shipping-message](https://github.com/alextidalrise/bysofie-shipping-message): None
+* [cai-layer/cai-raycast-extension](https://github.com/cai-layer/cai-raycast-extension): A privacy-friendly, AI-powered Raycast clipboard assistant that analyzes copied content and suggests intelligent actions using locally-run language models
 * [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet): The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://docs.cakewallet.com
 * [brunophilipe/Cakebrew](https://github.com/brunophilipe/Cakebrew): Manage your Homebrew formulas with style using Cakebrew.
 * [shemeshg/cakebrewjs](https://github.com/shemeshg/cakebrewjs): Homebrew GUI App written in electron
@@ -595,6 +605,7 @@ creating your own Awesome List by GitHub stars!
 * [unixpickle/cbyge](https://github.com/unixpickle/cbyge): Reverse engineering Cync (formerly "C by GE") WiFi devices
 * [CaptainN/cbyge2mqtt](https://github.com/CaptainN/cbyge2mqtt): None
 * [chriswayg/CC-Offline-Package-Generator](https://github.com/chriswayg/CC-Offline-Package-Generator): Adobe CC 2018 to 2022 Direct Download and Offline Installer Package Generator 
+* [farion1231/cc-switch](https://github.com/farion1231/cc-switch): A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
 * [cc-archive/ccsearch-browser-extension](https://github.com/cc-archive/ccsearch-browser-extension): [PROJECT TRANSFERRED] Cross-Browser extension to search, filter and use images in the public domain and under Creative Commons licenses.
 * [t4rra/CCStopper](https://github.com/t4rra/CCStopper): [Archived] Stops Adobe's pesky background apps and more 😉
 * [w0lfschild/cDock](https://github.com/w0lfschild/cDock): :lollipop: Basic dock customization for macOS
@@ -653,6 +664,7 @@ creating your own Awesome List by GitHub stars!
 * [OtsoBear/chrome2moz](https://github.com/OtsoBear/chrome2moz): chrome extension to firefox extension converter
 * [priyankchheda/chrome_password_grabber](https://github.com/priyankchheda/chrome_password_grabber): Get unencrypted 'Saved Password' from Google Chrome
 * [0x2e73/ChromeFox](https://github.com/0x2e73/ChromeFox): Material Chrome Style Firefox 
+* [postmodern/chruby](https://github.com/postmodern/chruby): Changes the current Ruby
 * [emvaized/circle-mouse-gestures](https://github.com/emvaized/circle-mouse-gestures): Chrome and Firefox extension for mouse gestures with visual representation of actions as a circle
 * [asilvas/circler](https://github.com/asilvas/circler): (non-official) Logitech Circle utility application (download etc)
 * [0x7370346365/classic-tabs-firefox](https://github.com/0x7370346365/classic-tabs-firefox): None
@@ -660,6 +672,7 @@ creating your own Awesome List by GitHub stars!
 * [Haidzai/claude-code-proxy](https://github.com/Haidzai/claude-code-proxy): Monitor and visualize your Claude Code API interactions with Claude Code Proxy. Easily set up a transparent proxy and live dashboard. 🛠️🚀
 * [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router): Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 * [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts): All parts of Claude Code's system prompt, 24 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, security review, agent creation).  Updated for each Claude Code version.
+* [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code): The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 * [tomas-hartman/clean-the-mess](https://github.com/tomas-hartman/clean-the-mess): WebExtension to make your tabs clean
 * [jpmhouston/Cleepp](https://github.com/jpmhouston/Cleepp): Batch Clipboard is a Mac app that let's you copy then paste multiple clipboard items at a time, like magic! This is the repo for v1.0.x, titled after the app's codename. The repo for v2.0 and forward is https://github.com/jpmhouston/Batch-Clipboard
 * [cli/cli](https://github.com/cli/cli): GitHub’s official command line tool
@@ -686,6 +699,8 @@ creating your own Awesome List by GitHub stars!
 * [Micky1979/Clover-Configurator-Pro](https://github.com/Micky1979/Clover-Configurator-Pro): A free Plist Editor with some optional facilities for Clover UEFI boot loader
 * [imputnet/cobalt](https://github.com/imputnet/cobalt): best way to save what you love
 * [stephanemoni/cobalt-api](https://github.com/stephanemoni/cobalt-api): Media downloader
+* [infinilabs/coco-app](https://github.com/infinilabs/coco-app): 🥥 Coco AI App - Search, Connect, Collaborate, Personal AI Search and Assistant, all in one space.
+* [just-every/code](https://github.com/just-every/code): Every Code - push frontier AI to it limits. A fork of the Codex CLI with validation, automation, browser integration, multi-agents, theming, and much more. Orchestrate agents from OpenAI, Claude, Gemini or any provider.
 * [JudiniLabs/code-gpt-docs](https://github.com/JudiniLabs/code-gpt-docs): Docusaurus page
 * [lauthieb/code-notes](https://github.com/lauthieb/code-notes): (No longer maintained) A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 * [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt): A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
@@ -734,6 +749,8 @@ creating your own Awesome List by GitHub stars!
 * [zukixa/cool-ai-stuff](https://github.com/zukixa/cool-ai-stuff): This repository contains a list of free to use AI APIs and sites. We are NOT endorsing ANY of the listed services!
 * [hariprasd/cool-bookmarklets](https://github.com/hariprasd/cool-bookmarklets): Bookmarklets for Browsers, that are cool in some way for someone. Minimum Automation
 * [webkul/coolhue](https://github.com/webkul/coolhue): Coolest Gradient Hues and Swatches
+* [coollabsio/coolify](https://github.com/coollabsio/coolify): An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
+* [ericc-ch/copilot-api](https://github.com/ericc-ch/copilot-api): Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code!
 * [hugodemenez/copilot-openai-bridge](https://github.com/hugodemenez/copilot-openai-bridge): Exposes GitHub Copilot SDK as OpenAI-compatible API for Raycast Custom Providers
 * [piroor/copy-selected-tabs-to-clipboard](https://github.com/piroor/copy-selected-tabs-to-clipboard): Provides ability to copy title and URL of selected tabs to the clipboard for Firefox 63 and later.
 * [ctrlxc/copyaddrs](https://github.com/ctrlxc/copyaddrs): thunderbird webextentions
@@ -745,6 +762,7 @@ creating your own Awesome List by GitHub stars!
 * [home-assistant/core](https://github.com/home-assistant/core): :house_with_garden: Open source home automation that puts local control and privacy first.
 * [Andereoo/Cortland](https://github.com/Andereoo/Cortland): A sleek, modern, macOS-inspired theme for Firefox
 * [leminlimez/Cowabunga](https://github.com/leminlimez/Cowabunga): iOS 14.0-15.7.1 & 16.0-16.1.2 MacDirtyCow ToolBox
+* [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai): 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 * [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg): A shell script to build fancy DMGs
 * [luooooob/create-my-awesome](https://github.com/luooooob/create-my-awesome): Github Actions for automatically generating the personal awesome list from all of the repositories you starred.
 * [ololx/create-symlink](https://github.com/ololx/create-symlink): Create Symlink is a simple mac Automator workflow which provides a GUI for the symbolic links creation on macOS. There is an alternative https://github.com/ololx/quick-symlink
@@ -775,6 +793,7 @@ creating your own Awesome List by GitHub stars!
 * [skibitsky/current-task](https://github.com/skibitsky/current-task): 🗻 This utility allows me to focus on one task at a time.
 * [kingparks/cursor-vip](https://github.com/kingparks/cursor-vip): cursor IDE enjoy VIP
 * [thatisuday/curved-menu](https://github.com/thatisuday/curved-menu): VanillaJS fully configurable curved menu (circular navigation)
+* [RokiLai/custom-ai-provider](https://github.com/RokiLai/custom-ai-provider): translate plugin for raycast
 * [vitorgalvao/custom-alfred-iterm-scripts](https://github.com/vitorgalvao/custom-alfred-iterm-scripts): AppleScript for iTerm2 Alfred integration.
 * [samiyuru/custom-finder-right-click-menu](https://github.com/samiyuru/custom-finder-right-click-menu): This project allows macOS users to setup custom right click menu items for MacOS Finder directories.
 * [jaygandhie2msolutions/Custom-Options-For-Monogram---For-Shopify](https://github.com/jaygandhie2msolutions/Custom-Options-For-Monogram---For-Shopify): Monogram functionality using custom options
@@ -819,6 +838,7 @@ creating your own Awesome List by GitHub stars!
 * [shredthaGNAR/dawn](https://github.com/shredthaGNAR/dawn): Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.
 * [pedritobata/dawn-clone-shopify](https://github.com/pedritobata/dawn-clone-shopify): None
 * [dougpark/dayone](https://github.com/dougpark/dayone): Better Touch Tool create a DayOne journal entry
+* [deedy5/ddgs](https://github.com/deedy5/ddgs): A metasearch library that aggregates results from diverse web search services
 * [enokmadrid/deafink](https://github.com/enokmadrid/deafink): Custom Shopify Theme for Deafink
 * [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui): Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 * [khlam/debloat-samsung-android](https://github.com/khlam/debloat-samsung-android): ADB commands to aggressively de-bloat Samsung Android Phones without root. Make Samsung One UI closer to stock Android.
@@ -855,6 +875,7 @@ creating your own Awesome List by GitHub stars!
 * [BrettHuang2019/devportfolio](https://github.com/BrettHuang2019/devportfolio): A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 * [QJX-XXXX/devportfolio](https://github.com/QJX-XXXX/devportfolio): A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 * [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio): A modern, minimalist portfolio template built with Astro and Tailwind CSS. Perfect for developers looking to showcase their skills, experience, and projects in a clean, professional way.
+* [stevepeak/dexa-raycast](https://github.com/stevepeak/dexa-raycast): Dexa raycast extension
 * [Kavakuo/Dict.cc-Alfred-Workflow](https://github.com/Kavakuo/Dict.cc-Alfred-Workflow): None
 * [pnlpal/dictionariez](https://github.com/pnlpal/dictionariez): 📚 A customizable dictionary extension that supports double-click lookups in 20+ languages, 1000+ dictionaries, text-to-speech, translation and Anki integration.
 * [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy): Make your diffs human readable for improved code quality and faster defect detection. :tada:
@@ -1060,6 +1081,7 @@ creating your own Awesome List by GitHub stars!
 * [crestonbunch/ff-ctrl-e](https://github.com/crestonbunch/ff-ctrl-e): Ctrl+E shortcut for searching open tabs in Firefox
 * [martabal/ff-diff](https://github.com/martabal/ff-diff): ff-diff is a simple script to compare changes in user.js preference files between two versions of Firefox.
 * [B00ze64/FF-Menu-Icon-Plus-CSS](https://github.com/B00ze64/FF-Menu-Icon-Plus-CSS): Add icons to Firefox menus using userChrome/userContent.css
+* [larygwil/ff-src-part](https://github.com/larygwil/ff-src-part): Part of Firefox source code (unofficial), for userChrome css / js programmers and user customizers to explore
 * [soulhotel/FF-ULTIMA](https://github.com/soulhotel/FF-ULTIMA): The Firefox theme with too many options.. FF Ultima.
 * [gwennlbh/ffcss](https://github.com/gwennlbh/ffcss): A CLI interface to apply and configure FirefoxCSS themes
 * [mcosta3tc/FFCSS](https://github.com/mcosta3tc/FFCSS): Custom FireFox CSS
@@ -1280,6 +1302,7 @@ creating your own Awesome List by GitHub stars!
 * [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab): Replace zsh's default completion selection menu with fzf!
 * [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery): A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
 * [sted9000/gambit](https://github.com/sted9000/gambit): Learn Pot Limit Omaha Starting Ranges
+* [MrHiTech123/GameAISplineAndRaycast](https://github.com/MrHiTech123/GameAISplineAndRaycast): None
 * [tssandor/gasbar](https://github.com/tssandor/gasbar): Ethereum Gas Fee for the MacBook Pro touchbar (using BetterTouchTool)
 * [2ndalpha/gasmask](https://github.com/2ndalpha/gasmask): Hosts file manager for macOS
 * [ttscoff/gather-cli](https://github.com/ttscoff/gather-cli): None
@@ -1512,7 +1535,7 @@ creating your own Awesome List by GitHub stars!
 * [hensm/hide_private_mode](https://github.com/hensm/hide_private_mode): None
 * [amarsyla/hidutil-key-remapping-generator](https://github.com/amarsyla/hidutil-key-remapping-generator): Simple tool to generate HIDUTIL key remapping configurations for MacOS
 * [annedorko/highlight](https://github.com/annedorko/highlight): Static Site Generator (SSG) for creating multiple targeted portfolios and resumes with one website.
-* [homarr-labs/homarr](https://github.com/homarr-labs/homarr): A modern and easy to use dashboard. 40+ integrations. 10K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
+* [homarr-labs/homarr](https://github.com/homarr-labs/homarr): A modern and easy to use dashboard. 40+ integrations. 20K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
 * [agneevX/home-assistant](https://github.com/agneevX/home-assistant): Home Assistant lovelace layout and config
 * [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar): Displaying Home Assistant sensors in the Macbook Pro's touch bar using BTT 🤖💻
 * [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io): :blue_book: Home Assistant User documentation
@@ -1604,6 +1627,7 @@ creating your own Awesome List by GitHub stars!
 * [ram-on/imgurbash2](https://github.com/ram-on/imgurbash2): A bash script that uploads images & videos to IMGUR.  It can also delete previously uploaded images/videos.
 * [spidergears/import_chrome_bookmarks_to_pocket](https://github.com/spidergears/import_chrome_bookmarks_to_pocket): Simple chrome extension to import all your chrome bookmarks to Pocket.com account
 * [inai-sandy/inAI-wiki](https://github.com/inai-sandy/inAI-wiki): 🌍 The open-source Wikipedia of AI — 2M+ apps, agents, LLMs & datasets. Updated daily with tools, tutorials & news.
+* [foeken/inbox-ai-raycast](https://github.com/foeken/inbox-ai-raycast): None
 * [skratchdot/infinite-gradients](https://github.com/skratchdot/infinite-gradients): An HTML experiment for generating randomly created CSS3 gradients (both linear and radial)
 * [inject-X/injectX](https://github.com/inject-X/injectX): Simple injection of macOS applications
 * [tim-we/inspector-extension](https://github.com/tim-we/inspector-extension): Inspect extensions with web-ext-inspector
@@ -1768,6 +1792,7 @@ creating your own Awesome List by GitHub stars!
 * [folke/lazy.nvim](https://github.com/folke/lazy.nvim): 💤 A modern plugin manager for Neovim
 * [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit): simple terminal UI for git commands
 * [gildas-lormeau/LazyLoadify](https://github.com/gildas-lormeau/LazyLoadify): Web Extension to force the lazy loading of non-displayed resources (i.e. image, frame, video and audio contents)
+* [mikker/LeaderKey](https://github.com/mikker/LeaderKey): The *faster than your launcher* launcher
 * [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts): Collection of leaked system prompts
 * [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton): 💻     Democratizing Snippet Management (macOS/Win/Linux)
 * [te6-in/lepton-custom](https://github.com/te6-in/lepton-custom): 🦊 A macOS style theme for Firefox—forked from Lepton(Firefox-UI-Fix)
@@ -1808,6 +1833,7 @@ creating your own Awesome List by GitHub stars!
 * [fregante/list-github-dir-content](https://github.com/fregante/list-github-dir-content): List all the files in a GitHub repo’s directory
 * [blocklistproject/Lists](https://github.com/blocklistproject/Lists): Primary Block Lists
 * [jnv/lists](https://github.com/jnv/lists): The definitive list of lists (of lists) curated on GitHub and elsewhere
+* [BerriAI/litellm](https://github.com/BerriAI/litellm): Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]
 * [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM): None
 * [gzanuttinifrank/live-basketball-odds-scraper](https://github.com/gzanuttinifrank/live-basketball-odds-scraper): Scraper for all ongoing basketball games on Bovada
 * [webextensions/live-css-editor](https://github.com/webextensions/live-css-editor): Source code for Chrome/Edge/Firefox/Opera extension Magic CSS (Live editor for CSS, Less & Sass)
@@ -1832,6 +1858,7 @@ creating your own Awesome List by GitHub stars!
 * [kartikm7/llocal](https://github.com/kartikm7/llocal): Aiming to provide a seamless and privacy driven chatting experience with open-sourced technologies(Ollama), particularly open sourced LLM's(eg. Llama3, Phi-3, Mistral). Focused on ease of use. Available on both Windows and Mac.
 * [vybestack/llxprt-code](https://github.com/vybestack/llxprt-code): An open-source multi-provider AI assisted CLI development tool. Use whatever LLM you want to code in your terminal.
 * [lobehub/lobehub](https://github.com/lobehub/lobehub): The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
+* [qazi0/local-ai-raycast](https://github.com/qazi0/local-ai-raycast): Chat with local LLMs (Ollama, LM Studio, llama.cpp) directly from Raycast
 * [mudler/LocalAI](https://github.com/mudler/LocalAI): LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 * [nagaraj-real/localaipilot-api](https://github.com/nagaraj-real/localaipilot-api): API container for Local AI Pilot extension
 * [locale-switcher/locale-switcher](https://github.com/locale-switcher/locale-switcher): Browser Extension to quickly change your browser locale.
@@ -1842,6 +1869,7 @@ creating your own Awesome List by GitHub stars!
 * [ParisNeo/lollms](https://github.com/ParisNeo/lollms): An all in one AI solution compatible with any known AI service on the planet
 * [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui): Lord of Large Language and Multi modal Systems Web User Interface
 * [ParisNeo/lollms_legacy](https://github.com/ParisNeo/lollms_legacy): Lord of LLMS
+* [kunkka19xx/look](https://github.com/kunkka19xx/look): An open-source, community-driven launcher for macOS. A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.
 * [TB-throwback/LookOut-fix-version](https://github.com/TB-throwback/LookOut-fix-version): Fork of LookOut (fix version)
 * [MrKai77/Loop](https://github.com/MrKai77/Loop): Window management made elegant.
 * [vincentneo/LosslessSwitcher](https://github.com/vincentneo/LosslessSwitcher): Automated Apple Music Lossless Sample Rate Switching for Audio Devices on Macs.
@@ -1876,6 +1904,7 @@ creating your own Awesome List by GitHub stars!
 * [Renset/macai](https://github.com/Renset/macai): All-in-one native macOS AI chat application for virtually any AI provider
 * [glamorwish/MacAI](https://github.com/glamorwish/MacAI): All-in-one native macOS AI chat application: Deepseek, ChatGPT, Claude, xAI Grok, Google Gemini, Perplexity, OpenRouter, and all Open AI-compatible API services
 * [araa47/MacbookProTouchBar-Crypto-Ticker](https://github.com/araa47/MacbookProTouchBar-Crypto-Ticker): Customise your macbook pro touchbar into a cryptocurrency ticker 
+* [itsnex1s/MacClaw](https://github.com/itsnex1s/MacClaw): Raycast-style macOS client for OpenClaw
 * [p0deje/Maccy](https://github.com/p0deje/Maccy): Lightweight clipboard manager for macOS
 * [jonbeebe/MacDynamicWallpaper](https://github.com/jonbeebe/MacDynamicWallpaper): Mojave-style dynamic wallpapers for macOS.
 * [MacEnhance/MacForge](https://github.com/MacEnhance/MacForge): 📦 Plugin, App, and Theme store which includes plugin injection for macOS
@@ -1916,6 +1945,7 @@ creating your own Awesome List by GitHub stars!
 * [lodestone/macpaste](https://github.com/lodestone/macpaste): Global middle-mouse-click copy/paste for macOS (Like Unix X11 etc.) 
 * [w0lfschild/macplugins](https://github.com/w0lfschild/macplugins): :green_book: Community repo for MacForge
 * [macports/macports-base](https://github.com/macports/macports-base): The MacPorts command-line client
+* [lastIndexOf/macproxy](https://github.com/lastIndexOf/macproxy): Forward raycast ai chat interface to gpt4-turbo 
 * [sevagas/macro_pack](https://github.com/sevagas/macro_pack): macro_pack is a tool by @EmericNasi used to automatize obfuscation and generation of Office documents, VB scripts, shortcuts, and other formats for pentest, demo, and social engineering assessments. The goal of macro_pack is to simplify exploitation, antimalware bypass, and automatize the process from malicious macro and script generation to final document generation. It also provides a lot of helpful features useful for redteam or security research. 
 * [fharper/macsetup](https://github.com/fharper/macsetup): Scripts to setup my mac
 * [Pilaton/MacSync](https://github.com/Pilaton/MacSync): CLI tool to sync dotfiles, configurations, and folders across multiple Macs using your favorite cloud storage (Dropbox, iCloud, etc.).
@@ -2004,7 +2034,6 @@ creating your own Awesome List by GitHub stars!
 * [artginzburg/MiddleClick](https://github.com/artginzburg/MiddleClick):  "Wheel click" with three-finger click/tap for Trackpad and Magic Mouse.
 * [cl3m/MiddleClick](https://github.com/cl3m/MiddleClick): Emulate a middleclick with triple tap on MacBook trackpad and Magic Mouse.
 * [Midnight-Lizard/Midnight-Lizard](https://github.com/Midnight-Lizard/Midnight-Lizard): Сustom color schemes for all websites
-* [rainbowflesh/mimicfox](https://github.com/rainbowflesh/mimicfox): Cutting "edge" firefox userChrome.css
 * [mut-ex/minimal-functional-fox](https://github.com/mut-ex/minimal-functional-fox): A minimal, yet functional Firefox userChrome configuration.
 * [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes): :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 * [tortious/MintyFox](https://github.com/tortious/MintyFox): Customization of Firefox Quantum using userChrome, userContent, and various other files involving the userChrome.js hack that allows for uc.js docs to be incorporated. 
@@ -2100,6 +2129,7 @@ creating your own Awesome List by GitHub stars!
 * [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire): RSS reader for macOS and iOS.
 * [PhilippMatthes/neural-greenscreen](https://github.com/PhilippMatthes/neural-greenscreen): Real time background replacement on a mac os driven webcam using the DeepLabV3 neural network for image segmentation and the native CoreMediaIO DAL framework of Mac OS.
 * [synapp009/NeuroCalm](https://github.com/synapp009/NeuroCalm): Vagus nerve stimulator with vibration of the smartphone pressed on the cymba conchae of the left ear
+* [QuantumNous/new-api](https://github.com/QuantumNous/new-api): A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥
 * [ha0z1/New-Bing-Anywhere](https://github.com/ha0z1/New-Bing-Anywhere): 💬 New-Bing-Anywhere extension's source Always use Bing GPT-4
 * [WesleyBranton/New-Browser-Style](https://github.com/WesleyBranton/New-Browser-Style): A replacement for Firefox's builtin browser style CSS
 * [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe): A libre lightweight streaming front-end for Android.
@@ -2112,6 +2142,7 @@ creating your own Awesome List by GitHub stars!
 * [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat): ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 * [web-dahuyou/NiceTab](https://github.com/web-dahuyou/NiceTab): 浏览器插件：OneTab、Toby、N-Tab、SessionBuddy、KepTab 等扩展的升级替代品，功能丰富易用 | A nice, convenient, powerful tab manager  serving as an upgraded alternative to OneTab, Toby, SessionBuddy, N-Tab，KepTab...
 * [santiagobaronz/Nickname-Generator](https://github.com/santiagobaronz/Nickname-Generator): The nickname generator is a tool designed to display random names following the parameters given by the user as the gender of the name.
+* [nicoleahmed/nicoles-ublacklist](https://github.com/nicoleahmed/nicoles-ublacklist): Block bad & dangerous search results using uBlacklist. A collection of filter lists for different locales and settings. Additionally Nicole's personal subscription list
 * [nghtfall/nightfall-vsc](https://github.com/nghtfall/nightfall-vsc): a blue-ish gray with a purple accent color palette for Visual Studio Code.
 * [chvancooten/NimPackt-v1](https://github.com/chvancooten/NimPackt-v1): Nim-based assembly packer and shellcode loader for opsec & profit
 * [nixgates/nixgates](https://github.com/nixgates/nixgates): Repository for Kodi Addons
@@ -2250,6 +2281,7 @@ creating your own Awesome List by GitHub stars!
 * [XInTheDark/openai-to-ollama-api](https://github.com/XInTheDark/openai-to-ollama-api): A simple, lightweight OpenAI to Ollama API adapter
 * [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator): OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 * [openclaw/openclaw](https://github.com/openclaw/openclaw): Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+* [xiaotiyanlove-star/OpenClawForRaycast](https://github.com/xiaotiyanlove-star/OpenClawForRaycast): The official OpenClaw Gateway client for Raycast. Seamless, secure, and blazing fast AI chat.
 * [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher): Experience macOS just like before
 * [acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg): OpenCore bootloader
 * [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop): An open Apple AirDrop implementation written in Python
@@ -2354,6 +2386,8 @@ creating your own Awesome List by GitHub stars!
 * [bhootd/pin-unpin-tab](https://github.com/bhootd/pin-unpin-tab): Firefox add-on to pin or unpin current tab in more efficient ways.
 * [pinterest/PINCache](https://github.com/pinterest/PINCache): Fast, non-deadlocking parallel object cache for iOS, tvOS and OS X
 * [gocom/pinceau](https://github.com/gocom/pinceau): Personal Firefox userChrome and preference customizations
+* [LeakForge/Piracy-Extras](https://github.com/LeakForge/Piracy-Extras): A curated list of awesome warez and piracy links
+* [Queazified/Piracy-Extras](https://github.com/Queazified/Piracy-Extras): A curated list of awesome warez and piracy links
 * [zer0biwan/piracy-list-23](https://github.com/zer0biwan/piracy-list-23): Forked from Igglybuff/awesome-piracy
 * [alextselegidis/plainpad](https://github.com/alextselegidis/plainpad): 📓 Plainpad - Self Hosted Note Taking App
 * [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic): Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
@@ -2388,6 +2422,7 @@ creating your own Awesome List by GitHub stars!
 * [aleosd/pocket-manager](https://github.com/aleosd/pocket-manager): Python cli/curses utility to manage getpocket links
 * [haroldo-ok/pocket-platformer-exporter](https://github.com/haroldo-ok/pocket-platformer-exporter): Converts html files exported by pocket-platformer (https://the-l0bster.itch.io/pocket-platformer) into formats that should be more easily exported to other engines.
 * [mmagnus/Pocket-Plus-Calibre-Plugin](https://github.com/mmagnus/Pocket-Plus-Calibre-Plugin): 📚 Modified version of the Calibre plugin for Pocket. Now, you get your articles organized by your Pocket tags, and more!
+* [dpshde/pocket-prompt-suite](https://github.com/dpshde/pocket-prompt-suite): AI context management system with CLI, TUI, and Raycast integration
 * [eebmagic/pocket-pull](https://github.com/eebmagic/pocket-pull): Pull links from your pocket account and save them as text files with links
 * [andyw8/pocket-ruby](https://github.com/andyw8/pocket-ruby): Ruby wrapper for the Pocket REST and Search APIs
 * [ShockwaveNN/pocket-sinatra-interface](https://github.com/ShockwaveNN/pocket-sinatra-interface): Sinatra-based web interface for pocket api
@@ -2504,6 +2539,7 @@ creating your own Awesome List by GitHub stars!
 * [nkmr-jp/prompt-line](https://github.com/nkmr-jp/prompt-line): Prompt Line is a macOS app developed to improve the prompt input experience in the terminal for CLI-based AI coding agents such as Claude Code, Codex CLI, and Gemini CLI.
 * [sangddn/prompt_builder](https://github.com/sangddn/prompt_builder): A macOS tool to build long-context prompts for models like OpenAI o3 and Gemini 2.5.
 * [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo): Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.
+* [Thomas-Basadonne/promptify-raycast](https://github.com/Thomas-Basadonne/promptify-raycast): One-key prompt enhancer for any AI. Select → copy → Promptify shows a clean, structured version. Works locally with Ollama. History + JSON export.
 * [f/prompts.chat](https://github.com/f/prompts.chat): f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 * [corpnewt/ProperTree](https://github.com/corpnewt/ProperTree): Cross platform GUI plist editor written in python.
 * [vlvagerviwager/protect-your-privacy](https://github.com/vlvagerviwager/protect-your-privacy): Privacy resources for the layperson. Highlights resources, tools, VPNs, search engines, articles, books, and dark patterns. 
@@ -2516,6 +2552,7 @@ creating your own Awesome List by GitHub stars!
 * [bpwned/protovibrant](https://github.com/bpwned/protovibrant): None
 * [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr): Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
 * [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List): Get PROXY List  that gets updated everyday
+* [haad/proxychains](https://github.com/haad/proxychains): proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.  Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 * [psd-tools/psd-tools](https://github.com/psd-tools/psd-tools): Python package for reading Adobe Photoshop PSD files
 * [psequel/psequel](https://github.com/psequel/psequel): Free PostgreSQL GUI tool for macOS.
 * [ongots/pseudo-fullscreen-firefox](https://github.com/ongots/pseudo-fullscreen-firefox): Hides and improves interface Firefox and YouTube, giving maximum space for content and aiding concentration.
@@ -2545,6 +2582,7 @@ creating your own Awesome List by GitHub stars!
 * [dustindmiller/QLab-Touchbar](https://github.com/dustindmiller/QLab-Touchbar): Touch Bar BTT config for QLab.
 * [sbarex/QLMarkdown](https://github.com/sbarex/QLMarkdown): macOS Quick Look extension for Markdown files.
 * [Watson1978/QLMarkdownGFM](https://github.com/Watson1978/QLMarkdownGFM): Quicklook plugin for Github Flavored Markdown
+* [qltysh/qlty](https://github.com/qltysh/qlty): 💎 Code quality CLI for universal linting, auto-formatting, security scanning, and maintainability
 * [srirangav/qlZipInfo](https://github.com/srirangav/qlZipInfo): MacOSX QuickLook Generator for zip, jar, tar, tar.gz (.tgz), tar.bz2 (.tbz2/.tbz), tar.Z, xar (.xar, .pkg), debian (.deb), RedHat Package Manager (.rpm), 7zip (.7z), xz, Microsoft cabinet (.cab), gzip (.gz), lha, BinHex 4.0 (.hqx), ePub (.epub), and Stuffit (.sit) archives, and ISO9660 images
 * [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes): QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
 * [monyxie/qr-lite](https://github.com/monyxie/qr-lite): A browser extension for generating and scanning QR codes.
@@ -2578,37 +2616,57 @@ creating your own Awesome List by GitHub stars!
 * [isheeze/rawalpindis](https://github.com/isheeze/rawalpindis): Shopify os 2.0 first theme of mine
 * [raycast/ray-so](https://github.com/raycast/ray-so): Create code snippets, browse AI prompts, create extension icons and more.
 * [grndis/raycast](https://github.com/grndis/raycast): A local backend implementation for Raycast that provides AI chat completions and translation services using OpenAI APIs. This project allows you to run a self-hosted version of Raycast's AI features with your own OpenAI API key.
+* [SammyLin/raycast-ai-actions](https://github.com/SammyLin/raycast-ai-actions): None
+* [adrianavarrete/raycast-ai-actions](https://github.com/adrianavarrete/raycast-ai-actions): None
+* [pezzos/raycast-ai-assistant](https://github.com/pezzos/raycast-ai-assistant): A collection of AI-powered tools to enhance your productivity.
 * [Ernest0-Production/raycast-ai-custom-providers](https://github.com/Ernest0-Production/raycast-ai-custom-providers): Bring Your Own Model in Raycast AI via extension
+* [shanlan-L/raycast-ai-extension](https://github.com/shanlan-L/raycast-ai-extension): None
+* [connorholly11/raycast-ai-extensions-connor](https://github.com/connorholly11/raycast-ai-extensions-connor): None
 * [Halil9901/raycast-ai-grammar-fix-ext](https://github.com/Halil9901/raycast-ai-grammar-fix-ext): None
+* [arturepremian/raycast-ai-grammar-fixer](https://github.com/arturepremian/raycast-ai-grammar-fixer): Raycast Script Commands that fix grammar, spelling, and punctuation in selected text using Groq AI
 * [d-cu/raycast-ai-litellm-proxy](https://github.com/d-cu/raycast-ai-litellm-proxy): Use any LiteLLM model in Raycast AI without a subscription.
 * [miikkaylisiurunen/raycast-ai-openrouter-proxy](https://github.com/miikkaylisiurunen/raycast-ai-openrouter-proxy): Integrate any OpenAI-compatible API with Raycast AI
+* [jmaaloe/raycast-ai-prompts](https://github.com/jmaaloe/raycast-ai-prompts): None
 * [m3lander/raycast-ai-proxy](https://github.com/m3lander/raycast-ai-proxy): Integrate any OpenAI-compatible API with Raycast AI
+* [nagauta/raycast-ai-sdk](https://github.com/nagauta/raycast-ai-sdk): None
+* [pierremouchan/raycast-ai-writing-assistant](https://github.com/pierremouchan/raycast-ai-writing-assistant): AI Writing Assistant is here to assist you with any of your writing tasks, from fixing grammar to generating a list of action items.
+* [EvanZhouDev/raycast-apple-intelligence](https://github.com/EvanZhouDev/raycast-apple-intelligence): None
 * [LitoMore/raycast-backend-api](https://github.com/LitoMore/raycast-backend-api): Accessing the Raycast backend API delightfully
 * [pa1ar/raycast-bridges](https://github.com/pa1ar/raycast-bridges): Connect any REST API to Raycast AI — scaffolded by an agent, callable from any conversation
+* [ddryo/raycast-call-ai](https://github.com/ddryo/raycast-call-ai): None
 * [MorgDam/RayCast-Claude-Code-Config-Selector](https://github.com/MorgDam/RayCast-Claude-Code-Config-Selector): A Raycast extension for managing Claude Code API configurations. Easily switch between different Claude Code environments (DeepSeek, Kimi) with Raycast interface.
 * [nitindermohan/raycast-claude-text](https://github.com/nitindermohan/raycast-claude-text): This is the Raycast extension for improving text using Claude API
 * [aelew/raycast-cobalt](https://github.com/aelew/raycast-cobalt): 🧩 A Raycast extension for downloading video and audio from popular social media platforms using Cobalt's API.
 * [Lewinz/raycast-customusageai](https://github.com/Lewinz/raycast-customusageai): A Raycast extension that allows you to create and use custom prompt templates with any OpenAI-compatible API endpoints.
 * [sabazadam/raycast-dictionary-extension](https://github.com/sabazadam/raycast-dictionary-extension): Raycast extension for looking up English words using Google Gemini API with Cambridge-style definitions
 * [orionx-dev/raycast-extension](https://github.com/orionx-dev/raycast-extension): A raycast extension using Orionx API
+* [harunonsystem/raycast-extension-template](https://github.com/harunonsystem/raycast-extension-template): Template for Raycast extensions with AI rules, ESLint/Prettier, and store-ready structure
 * [XInTheDark/raycast-g4f](https://github.com/XInTheDark/raycast-g4f): Raycast extension to use GPT, Claude, Llama, and more... all for FREE! + Full support for custom APIs.
 * [SmetDenis/raycast-gemai](https://github.com/SmetDenis/raycast-gemai): GemAI is a Raycast extension designed to supercharge your productivity by integrating Google's Gemini AI models directly into your workflow.
 * [krsntn/raycast-guerrilla-mail](https://github.com/krsntn/raycast-guerrilla-mail): Generate a disposable temporary email address and quickly access any received emails - powered by Guerrilla Mail API
 * [plevik/raycast-hipster-ipsum](https://github.com/plevik/raycast-hipster-ipsum): Raycast free extension to generate placeholder content using the official Hipster Ipsum API https://hipsum.co/the-api/
+* [derhamderham/raycast-jan-ai](https://github.com/derhamderham/raycast-jan-ai): None
 * [chrismessina/raycast-karakeep](https://github.com/chrismessina/raycast-karakeep): A Raycast extension for Karakeep, a self-hostable bookmark manager with AI-powered tagging. Save, search, and manage your bookmarks, notes, and highlights without leaving Raycast.
 * [foru17/raycast-karakeep](https://github.com/foru17/raycast-karakeep): ✨ Raycast extension for Karakeep (previously Hoarder) - Your AI-powered bookmarks manager
 * [masaishi/raycast-llm-scripts](https://github.com/masaishi/raycast-llm-scripts): This repository is a collection of diverse and experimental Raycast scripts that integrate with popular LLMs (ChatGPT, Claude, and Perplexity) without requiring API keys. The scripts here are added organically as new ideas emerge, providing a playground for testing and evolving different use cases.
 * [masaishi/raycast-llm-scripts-template](https://github.com/masaishi/raycast-llm-scripts-template): This repository provides a template for creating Raycast scripts that integrate with popular LLMs (ChatGPT, Claude, and Perplexity) without requiring API keys. Simply write Python scripts with prompt templates, and launch your favorite LLM in the browser with pre-filled prompts.
+* [leveragedrobot/raycast-moltbot](https://github.com/leveragedrobot/raycast-moltbot): Raycast extension for Clawdbot AI assistant
 * [Alorse/raycast-omnipilot-extension](https://github.com/Alorse/raycast-omnipilot-extension): 🚀 OmniPilot - Advanced Raycast extension for AI-powered assistance with multiple providers support, streaming responses, and command history
 * [rossinek/raycast-openai](https://github.com/rossinek/raycast-openai): Simple UI for OpenAI completion and chat API
+* [kirel/raycast-openai-server](https://github.com/kirel/raycast-openai-server): Extension that thats local openai server which passes requests to Raycast AI.
 * [flowkscai/raycast-openai-translator](https://github.com/flowkscai/raycast-openai-translator): Raycast extension for translation based on ChatGPT compatible API.
+* [MattieTK/raycast-opencode](https://github.com/MattieTK/raycast-opencode): Raycast extension for OpenCode AI
+* [dpshde/raycast-opencode](https://github.com/dpshde/raycast-opencode): Raycast extension for OpenCode - AI coding assistant with session search and multi-terminal support
 * [leolionart/raycast-personal-tools](https://github.com/leolionart/raycast-personal-tools): Raycast extension to use AI with proxy API
 * [SKaplanOfficial/Raycast-PromptLab](https://github.com/SKaplanOfficial/Raycast-PromptLab): A Raycast extension for creating powerful, contextually-aware AI commands using placeholders, action scripts, selected files, and more.
+* [gabriel-moresco/raycast-quick-ai](https://github.com/gabriel-moresco/raycast-quick-ai): None
 * [szcharlesji/raycast-relay](https://github.com/szcharlesji/raycast-relay): Relay your Raycast AI to an OpenAI compatible API endpoint
 * [DankeyDevDave/raycast-scripts](https://github.com/DankeyDevDave/raycast-scripts): Raycast automation scripts for AI services, API testing, and YouTube summarization
 * [adriangrantdotorg/Raycast-Skill](https://github.com/adriangrantdotorg/Raycast-Skill): Agentic Skill for Raycast — best practices for building extensions, wrangling external APIs, and more! Compatible with Claude, Cursor, OpenAI, Gemini CLI, Google Antigravity.
+* [TimoBechtel/raycast-skillset](https://github.com/TimoBechtel/raycast-skillset): Adds skills support to Raycast AI
 * [Vincenzo160/Raycast-Spell](https://github.com/Vincenzo160/Raycast-Spell): Struggling to spell a word? With this Raycast extension, even with typos, you can type the word and receive a list of matching suggestions using the OneLook API.
 * [Joshlucpoll/raycast-tempmail](https://github.com/Joshlucpoll/raycast-tempmail): A Raycast extension that provides a temporary mailbox -- powered by Mail.tm API
+* [jjcall/raycast-vault-clipper](https://github.com/jjcall/raycast-vault-clipper): Raycast script to clip tweets, YouTube videos,  and web pages to Obsidian w/ AI summaries,  auto-tagging, and no browser extension required.
 * [missuo/raycast2api](https://github.com/missuo/raycast2api): Relay your Raycast AI to an OpenAI compatible API endpoint
 * [xxxbrian/raycast2api](https://github.com/xxxbrian/raycast2api): Relay your Raycast AI to an OpenAI compatible API endpoint. Deployable to Cloudflare Workers / Docker / Local Binary with Raycast V2 signarure.
 * [WToa/raycast_extensions_by_downloads](https://github.com/WToa/raycast_extensions_by_downloads): Rank raycast extensions by downloads
@@ -2616,6 +2674,7 @@ creating your own Awesome List by GitHub stars!
 * [MassimilianoPasquini97/raycast_ollama](https://github.com/MassimilianoPasquini97/raycast_ollama): Raycast extention for Ollama
 * [brunnorpdias/RaycastAI](https://github.com/brunnorpdias/RaycastAI): Access llms from various different apis from your computer launcher
 * [daihy8759/raychat](https://github.com/daihy8759/raychat): turn your Raycast pro AI to OpenAI API Compatible API server
+* [jinghaihan/rayext](https://github.com/jinghaihan/rayext): A decentralized extension manager for Raycast.
 * [rbenv/rbenv](https://github.com/rbenv/rbenv): Manage your app's Ruby environment
 * [rclone/rclone](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 * [iampueroo/rComments](https://github.com/iampueroo/rComments): Chrome and Firefox extension for quickly exploring Reddit comments and replies without having to click through to the post!
@@ -2646,6 +2705,7 @@ creating your own Awesome List by GitHub stars!
 * [tadwohlrapp/reddit-search-on-google](https://github.com/tadwohlrapp/reddit-search-on-google): A browser extension which adds a "Reddit" button to the Google search for only showing search results from reddit.
 * [umbrae/reddit-top-2.5-million](https://github.com/umbrae/reddit-top-2.5-million): This is a dataset of the all-time top 1,000 posts, from the top 2,500 subreddits by subscribers, pulled from reddit between August 15–20, 2013.
 * [Jorenar/RedditOld_MarkedJS.user.js](https://github.com/Jorenar/RedditOld_MarkedJS.user.js): None
+* [jibin2706/refine](https://github.com/jibin2706/refine): Raycast extension to improve grammar, spelling, and punctuation of selected text using AI
 * [refined-bitbucket/refined-bitbucket](https://github.com/refined-bitbucket/refined-bitbucket): Chrome and Firefox extension that improves Bitbucket's user experience
 * [refined-github/refined-github](https://github.com/refined-github/refined-github): :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 * [plibither8/refined-hacker-news](https://github.com/plibither8/refined-hacker-news): ✨ Hacker News, but refined — Interface tweaks and features to make the HN experience better
@@ -2670,6 +2730,7 @@ creating your own Awesome List by GitHub stars!
 * [Zaxxon709/repo](https://github.com/Zaxxon709/repo): None
 * [srvaroa/repocket](https://github.com/srvaroa/repocket): Manage a local copy of articles saved in Pocket
 * [yamadashy/repomix](https://github.com/yamadashy/repomix): 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
+* [JeremiahPetersen/RepoToText](https://github.com/JeremiahPetersen/RepoToText): Turn an entire GitHub Repo into a single organized .txt file to use with LLM's (ChatGPT, Claude, Gemini, etc)
 * [danmindru/responsive-html-email-signature](https://github.com/danmindru/responsive-html-email-signature): ✨ Template generator for (responsive) emails & email signatures 
 * [leemunroe/responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template): A free simple responsive HTML email template
 * [bedimcode/responsive-portfolio-website-Alexa](https://github.com/bedimcode/responsive-portfolio-website-Alexa): Responsive Portfolio Website Using HTML, CSS & JavaScript
@@ -2808,6 +2869,7 @@ creating your own Awesome List by GitHub stars!
 * [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide): Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
 * [pluja/Selfhosted-Google-Photos-Alternative](https://github.com/pluja/Selfhosted-Google-Photos-Alternative): A complete guide on exiting Google, Amazon or any proprietary service Photos storage with all the features you would want.
 * [josStorer/selfhostedAI](https://github.com/josStorer/selfhostedAI): A collection of one-click self-hosted AI
+* [Lin-Guanguo/SenseTypeAI](https://github.com/Lin-Guanguo/SenseTypeAI): AI-powered text transformation tool for Raycast - type messy text, get   polished output with customizable prompts.
 * [thcolin/sensorr](https://github.com/thcolin/sensorr): 🍿📼 Sensorr - Your Friendly Digital Video Recorder
 * [alienator88/Sentinel](https://github.com/alienator88/Sentinel): Configure Gatekeeper, remove apps from quarantine and self-sign apps
 * [umbrae/Serendipity](https://github.com/umbrae/Serendipity): /r/serendipity is a meta-subreddit meant to broaden the perspective of its subscribers. It takes a popular entry from a random subreddit and posts it every few hours. If you want to increase your exposure to niche subreddits, or just your perspective on things on the web in general, serendipity might help you do that. But it might not. It's a bot, after all.
@@ -2952,6 +3014,7 @@ creating your own Awesome List by GitHub stars!
 * [Etesam913/slick-fox](https://github.com/Etesam913/slick-fox): :fox_face: A firefox config that has rounded tabs and a url bar that can disappear when not selected on. It works with any theme.
 * [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth): Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
 * [dh1011/smart-bookmark](https://github.com/dh1011/smart-bookmark): Smart Bookmark is a simple, AI-powered tool to help you stay organized and make the most of your bookmarks. Features like smart search, automatic summaries, and tagging make it easy to search and organize your bookmarks.
+* [omar-haris/smart-coding-mcp](https://github.com/omar-haris/smart-coding-mcp): An extensible Model Context Protocol (MCP-Local-MRL-RAG-AST) server that provides intelligent semantic code search for AI assistants. Built with local AI models, inspired by Cursor's semantic search.
 * [brianpetro/smart-connect](https://github.com/brianpetro/smart-connect): None
 * [smartertechnologist/SmarterBookmarks-Android](https://github.com/smartertechnologist/SmarterBookmarks-Android): Official documentation for the SmarterBookmarks android app
 * [salarcode/SmartProxy](https://github.com/salarcode/SmartProxy): Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns.
@@ -3090,6 +3153,7 @@ creating your own Awesome List by GitHub stars!
 * [anlcan/synonyms](https://github.com/anlcan/synonyms): Mac Quick Action for finding synonyms while tracking the history on Firebase
 * [syphon-org/syphon](https://github.com/syphon-org/syphon): ⚗️  a privacy centric matrix client 
 * [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
+* [Wyattwalls/system_prompts](https://github.com/Wyattwalls/system_prompts): None
 * [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks): Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus 4.7, Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.3 beta), Perplexity, and more. Updated regularly.
 * [RoadToDream/SzContext](https://github.com/RoadToDream/SzContext): Add context menu to macOS Finder 
 * [janraasch/tab-ahead](https://github.com/janraasch/tab-ahead): Web Browser Extension that helps you to quickly find open tabs by title and URL.
@@ -3150,7 +3214,7 @@ creating your own Awesome List by GitHub stars!
 * [themez/texas-holdem-house](https://github.com/themez/texas-holdem-house): A texas hold'em game engine for bot players
 * [bupticybee/TexasHoldemSolverJava](https://github.com/bupticybee/TexasHoldemSolverJava): A Java implemented Texas holdem and short deck Solver
 * [bupticybee/TexasSolver](https://github.com/bupticybee/TexasSolver): 🚀 A very efficient Texas Holdem GTO solver :spades::hearts::clubs::diamonds:
-* [oobabooga/textgen](https://github.com/oobabooga/textgen): The original local LLM interface. Text, vision, tool-calling, training. UI + API, 100% offline and private.
+* [oobabooga/textgen](https://github.com/oobabooga/textgen): Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API.
 * [piroor/textlink](https://github.com/piroor/textlink): Text Link, Allows URI texts written in webpages to be loaded by double clicks.
 * [beowulf518/textnow-automation](https://github.com/beowulf518/textnow-automation): creating textnow account with temp email
 * [de1etenu11ptr/TGS-Extension](https://github.com/de1etenu11ptr/TGS-Extension): Tab Group Saver (TGS) Extension for firefox that mainly utilizes the bookmarks API to allow for reliable persistence of tab groups.
@@ -3265,11 +3329,13 @@ creating your own Awesome List by GitHub stars!
 * [meeb/tubesync](https://github.com/meeb/tubesync): Syncs YouTube channels and playlists to a locally hosted media server
 * [Leonetienne/Tubio](https://github.com/Leonetienne/Tubio): The free, open source video downloader! Mirror of https://code.ze.mawtrixx.net/leonetienne/Tubio
 * [unixorn/tumult.plugin.zsh](https://github.com/unixorn/tumult.plugin.zsh): Tumult is a collection of macOS-specific functions and scripts for your shell environment. It is packaged as a ZSH plugin, but can be used with other shells as well.
+* [dopeytree/TVx](https://github.com/dopeytree/TVx): 📺 TVx — the warmth of modern nostalgia  This is the way - television you remember feeling: present, unhurried, *analog*
 * [humandecoded/twayback](https://github.com/humandecoded/twayback): Automate downloading archived deleted Tweets.
 * [RobTrew/txtquery-tools](https://github.com/RobTrew/txtquery-tools): Tools for generating custom perspectives & reports from FoldingText and TaskPaper docs
 * [KarlPiper/typography-shortcuts](https://github.com/KarlPiper/typography-shortcuts): BetterTouchTool actions for typing special characters, and reference for macOS keyboard shortcuts.
 * [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets): Filter lists for uBlock Origin & uBlock Origin Lite
 * [iorate/ublacklist](https://github.com/iorate/ublacklist): Blocks specific sites from appearing in Google search results
+* [eallion/uBlacklist-subscription-compilation](https://github.com/eallion/uBlacklist-subscription-compilation): 🚫 uBlacklist subscription 订阅合集
 * [gorhill/uBlock](https://github.com/gorhill/uBlock): uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 * [mtxadmin/ublock](https://github.com/mtxadmin/ublock): Filters for uBlock Origin
 * [quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter): Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.
@@ -3375,6 +3441,7 @@ creating your own Awesome List by GitHub stars!
 * [sagiegurari/userscripts-ads-dom-remover](https://github.com/sagiegurari/userscripts-ads-dom-remover): Removes Ad Containers from DOM (doesn't replace adblocker extension, but blocks dynamic content which the adblocker fails to block by removing whole sections from the HTML DOM.)
 * [krisu5/userstyles](https://github.com/krisu5/userstyles): UserCSS for Stylus (for AniList, DuckDuckGo, Imgur, Twitter & more)
 * [utags/utags](https://github.com/utags/utags): 🏷️ Allow users to add custom tags to links.
+* [raycast/utils](https://github.com/raycast/utils): Set of utilities to streamline building Raycast extensions
 * [MiRO92/uYou-for-YouTube](https://github.com/MiRO92/uYou-for-YouTube): Enhance Your YouTube Experience
 * [arichornlover/uYouEnhanced](https://github.com/arichornlover/uYouEnhanced): uYouEnhanced (by @arichornlover) is an expanded version of uYou+ (made by @qnblackcat) with additional features and mainly made for non jailbroken users!
 * [qnblackcat/uYouPlus](https://github.com/qnblackcat/uYouPlus): uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
@@ -3391,6 +3458,7 @@ creating your own Awesome List by GitHub stars!
 * [Pravpro/Vibn-Central](https://github.com/Pravpro/Vibn-Central): An app being built with the goal of making Product Uploading exponentially faster for Shopify stores with one-off products.
 * [Kayno0o/vibrant-glass-theme](https://github.com/Kayno0o/vibrant-glass-theme): I made this theme for myself at first, but some friends found it cool, so I decided to share it here.
 * [jtlw99/vicefox](https://github.com/jtlw99/vicefox): ViceFox make your FireFox great and beter!
+* [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae): A focused launcher for your desktop - native, fast, extensible
 * [rubjo/victor-mono](https://github.com/rubjo/victor-mono): A free programming font with cursive italics and ligatures. Donations welcome ❤️
 * [jeanslack/Videomass](https://github.com/jeanslack/Videomass): Videomass is a free, open source and cross-platform GUI for FFmpeg
 * [fruiz500/VideoSkip-extension](https://github.com/fruiz500/VideoSkip-extension): Same as VideoSkip, but as a Chrome/Firefox/Edge extension so it can edit videos streaming from many sources
@@ -3520,6 +3588,7 @@ creating your own Awesome List by GitHub stars!
 * [teamniteo/work-hours-mac](https://github.com/teamniteo/work-hours-mac): Simple app that tracks your work hours from the status bar.
 * [utkarshsingh99/Workspace-Manager](https://github.com/utkarshsingh99/Workspace-Manager): A Firefox extension to save frequently used tabs as Workspaces
 * [rtfcv/worse-onetab](https://github.com/rtfcv/worse-onetab): None
+* [salemkode/writier-ai-raycast](https://github.com/salemkode/writier-ai-raycast): None
 * [theJayTea/WritingTools](https://github.com/theJayTea/WritingTools): The world's smartest system-wide grammar assistant; a better version of the Apple Intelligence Writing Tools. Works on Windows, Linux, & macOS, with the free Gemini API, local LLMs, & more.
 * [yjmp14/wulingate](https://github.com/yjmp14/wulingate): A Cross-Platform Files Transfer Web App. 
 * [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd): Shell Superpowers for AI Agents.
@@ -3604,6 +3673,7 @@ creating your own Awesome List by GitHub stars!
 * [marlonrichert/zcolors](https://github.com/marlonrichert/zcolors): 🌈 Generate a theme for git, grep, less and zsh that matches your $LS_COLORS
 * [mattmc3/zdotdir](https://github.com/mattmc3/zdotdir): My zsh config
 * [zbrateam/Zebra](https://github.com/zbrateam/Zebra): 🦓 A Useful Package Manager for iOS
+* [zed-industries/zed](https://github.com/zed-industries/zed): Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 * [RealRaven2000/ZombieKeys](https://github.com/RealRaven2000/ZombieKeys): Thunderbird / Waterfox Add-on: ZombieKeys
 * [zotero/zotero-connectors](https://github.com/zotero/zotero-connectors): Chrome, Firefox, Edge, and Safari extensions for Zotero
 * [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide): A smarter cd command. Supports all major shells.
