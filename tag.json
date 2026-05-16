@@ -41,6 +41,9 @@
     "117649/Tab-Groups": [
         "Other"
     ],
+    "11ty/eleventy": [
+        "Other"
+    ],
     "11ty/eleventy-base-blog": [
         "Other"
     ],
@@ -3980,6 +3983,9 @@
     "chidiwilliams/GPT-Automator": [
         "Other"
     ],
+    "chirag127/BookmarkMind-AI-Bookmark-Categorizer-Browser-Extension": [
+        "Other"
+    ],
     "chiumax/adobe-font-scraper": [
         "Other"
     ],
@@ -4425,6 +4431,9 @@
         "Other"
     ],
     "dblandin/Currency-Converter": [
+        "Other"
+    ],
+    "dd3v/favbox": [
         "Other"
     ],
     "ddawson/Link-Tools": [
@@ -6224,6 +6233,9 @@
     "jgressmann/harbour-vodman": [
         "Other"
     ],
+    "jhasubhash/btt-plugins": [
+        "Other"
+    ],
     "jhonatasrm/print-preview": [
         "Other"
     ],
@@ -6633,6 +6645,9 @@
         "Other"
     ],
     "kingparks/cursor-vip": [
+        "Other"
+    ],
+    "kireerik/refo": [
         "Other"
     ],
     "kirel/raycast-openai-server": [
@@ -7548,6 +7563,9 @@
         "Other"
     ],
     "mozilla-ai/llamafile": [
+        "Other"
+    ],
+    "mozilla-services/syncstorage-rs": [
         "Other"
     ],
     "mozilla/FirefoxColor": [
@@ -9828,9 +9846,6 @@
         "Other"
     ],
     "t-mart/kill-sticky": [
-        "Other"
-    ],
-    "t0xk/username-generator": [
         "Other"
     ],
     "t4rra/CCStopper": [
