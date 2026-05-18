@@ -692,7 +692,7 @@ creating your own Awesome List by GitHub stars!
 * [aecreations/clippings](https://github.com/aecreations/clippings): Save frequently-entered text for pasting later. An extension for Firefox.
 * [aecreations/clippings-tb](https://github.com/aecreations/clippings-tb): Save frequently-entered text for pasting later. An extension for Thunderbird.
 * [XInTheDark/CLIProxyAPI](https://github.com/XInTheDark/CLIProxyAPI): Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API
-* [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI): Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Claude model through API
+* [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI): Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through API
 * [Clipy/Clipy](https://github.com/Clipy/Clipy): Clipboard extension app for macOS.
 * [ian4hu/Clipy](https://github.com/ian4hu/Clipy): Clipboard extension app for macOS.
 * [spieglt/Cloaker](https://github.com/spieglt/Cloaker): Simple, drag-and-drop, password-based file encryption
@@ -1864,7 +1864,7 @@ creating your own Awesome List by GitHub stars!
 * [jatinkrmalik/LLMFeeder](https://github.com/jatinkrmalik/LLMFeeder): Brower extension to convert web pages to clean Markdown and copy to clipboard so you can feed it to your favorite LLM model as context with just 1 click!
 * [kartikm7/llocal](https://github.com/kartikm7/llocal): Aiming to provide a seamless and privacy driven chatting experience with open-sourced technologies(Ollama), particularly open sourced LLM's(eg. Llama3, Phi-3, Mistral). Focused on ease of use. Available on both Windows and Mac.
 * [vybestack/llxprt-code](https://github.com/vybestack/llxprt-code): An open-source multi-provider AI assisted CLI development tool. Use whatever LLM you want to code in your terminal.
-* [lobehub/lobehub](https://github.com/lobehub/lobehub): The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
+* [lobehub/lobehub](https://github.com/lobehub/lobehub): LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
 * [qazi0/local-ai-raycast](https://github.com/qazi0/local-ai-raycast): Chat with local LLMs (Ollama, LM Studio, llama.cpp) directly from Raycast
 * [mudler/LocalAI](https://github.com/mudler/LocalAI): LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 * [nagaraj-real/localaipilot-api](https://github.com/nagaraj-real/localaipilot-api): API container for Local AI Pilot extension
@@ -2555,7 +2555,7 @@ creating your own Awesome List by GitHub stars!
 * [raycast/prompt-explorer](https://github.com/raycast/prompt-explorer): Easily browse, share, and add prompts to Raycast
 * [nkmr-jp/prompt-line](https://github.com/nkmr-jp/prompt-line): Prompt Line is a macOS app developed to improve the prompt input experience in the terminal for CLI-based AI coding agents such as Claude Code, Codex CLI, and Gemini CLI.
 * [sangddn/prompt_builder](https://github.com/sangddn/prompt_builder): A macOS tool to build long-context prompts for models like OpenAI o3 and Gemini 2.5.
-* [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo): Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.
+* [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo): Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.
 * [Thomas-Basadonne/promptify-raycast](https://github.com/Thomas-Basadonne/promptify-raycast): One-key prompt enhancer for any AI. Select → copy → Promptify shows a clean, structured version. Works locally with Ollama. History + JSON export.
 * [f/prompts.chat](https://github.com/f/prompts.chat): f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 * [corpnewt/ProperTree](https://github.com/corpnewt/ProperTree): Cross platform GUI plist editor written in python.
