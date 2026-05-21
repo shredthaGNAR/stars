@@ -92,6 +92,7 @@ creating your own Awesome List by GitHub stars!
 * [cpbotha/ai-screenshot-namer](https://github.com/cpbotha/ai-screenshot-namer): Rename your screenshots with ollama LLaVA, GPT-4o and macOS OCR
 * [tarurata/ai-text-transformer](https://github.com/tarurata/ai-text-transformer): Raycast extension to apply AI prompts to clipboard content
 * [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions): 🤖 AI browser extensions & userscripts to augment your web experience
+* [lszefner/aiautomatize](https://github.com/lszefner/aiautomatize): A modern, multilingual landing page for AI Automatize - a service that helps businesses integrate AI-powered automation to improve conversion rates, save time, and scale operations.
 * [Aider-AI/aider](https://github.com/Aider-AI/aider): aider is AI pair programming in your terminal
 * [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists): A collection of unified blocklists designed to provide complete filtering capabilities for different online threats. These blocklists are curated from multiple sources, offering a robust solution for blocking ads, malware, trackers, and other unwanted content.
 * [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams): One addon to rule them all. AIOStreams consolidates multiple Stremio addons and debrid services into a single, highly customisable super-addon. 
@@ -234,6 +235,7 @@ creating your own Awesome List by GitHub stars!
 * [TKOxff/ASAP](https://github.com/TKOxff/ASAP): The Global Shortcuts for macOS, to launch any apps
 * [GSA/asis](https://github.com/GSA/asis): ASIS (Advanced Social Image Search) indexes Flickr and MRSS images and provides a search API across both indexes.
 * [phguo/AskGPT](https://github.com/phguo/AskGPT): AskGPT: an Alfred Workflow that enables you to ask ChatGPT from anywhere while typing.
+* [SuffolkLITLab/asklit](https://github.com/SuffolkLITLab/asklit): A no-code factory for publishing high-quality AI chatbots grounded in your own documents.
 * [withastro/astro](https://github.com/withastro/astro): The web framework for content-driven websites. ⭐️ Star to support our work!
 * [miantiao-me/astro-aria](https://github.com/miantiao-me/astro-aria): A personal blog, portfolio, or blog template
 * [Ladvace/astro-bento-portfolio](https://github.com/Ladvace/astro-bento-portfolio): Astro-bento-portfolio is a minimal bento-like (almost) single page portfolio website made in Astro
@@ -902,6 +904,7 @@ creating your own Awesome List by GitHub stars!
 * [kkebo/DNSecure](https://github.com/kkebo/DNSecure): DNSecure is a configuration tool of DoT and DoH for iOS and iPadOS.
 * [cleanbrowsing/dnsperftest](https://github.com/cleanbrowsing/dnsperftest): DNS Performance test
 * [sindresorhus/do-not-disturb-cli](https://github.com/sindresorhus/do-not-disturb-cli): Control the macOS `Do Not Disturb` feature from the command-line
+* [SuffolkLITLab/docassemble-ALToolbox](https://github.com/SuffolkLITLab/docassemble-ALToolbox): Collection of small utility functions, classes, and web components for Docassemble interviews
 * [SuffolkLITLab/docassemble-filler-extension](https://github.com/SuffolkLITLab/docassemble-filler-extension): A browser extension for Chrome, Edge and Firefox that fills dummy text in all input fields in a page. Adapted to work with Docassemble inputs.
 * [PepsRyuu/dock-window-preview](https://github.com/PepsRyuu/dock-window-preview): Mac OSX app that displays window previews when hovering over app icon on the Dock. 
 * [steventheworker/DockAltTab](https://github.com/steventheworker/DockAltTab): Window preview app for MacOS (on the dock) using AltTab.
@@ -1875,7 +1878,7 @@ creating your own Awesome List by GitHub stars!
 * [ParisNeo/lollms](https://github.com/ParisNeo/lollms): An all in one AI solution compatible with any known AI service on the planet
 * [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui): Lord of Large Language and Multi modal Systems Web User Interface
 * [ParisNeo/lollms_legacy](https://github.com/ParisNeo/lollms_legacy): Lord of LLMS
-* [kunkka19xx/look](https://github.com/kunkka19xx/look): An open-source, community-driven launcher for macOS (Linux and Windows). A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.
+* [kunkka19xx/look](https://github.com/kunkka19xx/look): An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.
 * [TB-throwback/LookOut-fix-version](https://github.com/TB-throwback/LookOut-fix-version): Fork of LookOut (fix version)
 * [MrKai77/Loop](https://github.com/MrKai77/Loop): Window management made elegant.
 * [vincentneo/LosslessSwitcher](https://github.com/vincentneo/LosslessSwitcher): Automated Apple Music Lossless Sample Rate Switching for Audio Devices on Macs.
@@ -2293,6 +2296,7 @@ creating your own Awesome List by GitHub stars!
 * [honsiorovskyi/open-url-in-container](https://github.com/honsiorovskyi/open-url-in-container): Firefox extension to open external links in a specific container
 * [open-webui/open-webui](https://github.com/open-webui/open-webui): User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 * [openai/openai-cookbook](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
+* [deboorn/openai-improve-text-extension](https://github.com/deboorn/openai-improve-text-extension): Chrome extension that elevates your writing using OpenAI's AI models. Simply select text on any webpage, use our lightning-fast keyboard shortcuts or right-click menu, and choose from five powerful improvement modes to instantly transform your writing.
 * [XInTheDark/openai-to-ollama-api](https://github.com/XInTheDark/openai-to-ollama-api): A simple, lightweight OpenAI to Ollama API adapter
 * [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator): OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 * [openclaw/openclaw](https://github.com/openclaw/openclaw): Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
@@ -3320,7 +3324,7 @@ creating your own Awesome List by GitHub stars!
 * [JimmyLaurent/torrent-search-api](https://github.com/JimmyLaurent/torrent-search-api): Yet another node torrent scraper (supports iptorrents, torrentleech, torrent9, torrentz2, 1337x, thepiratebay, Yggtorrent, TorrentProject, Eztv, Yts, LimeTorrents)
 * [r12habh/Torrent-To-Google-Drive-Downloader](https://github.com/r12habh/Torrent-To-Google-Drive-Downloader): Simple notebook to stream torrent files to Google Drive using Google Colab and python3.
 * [TheBeastLT/torrentio-scraper](https://github.com/TheBeastLT/torrentio-scraper): None
-* [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch): A Material 3 designed Android app for searching and downloading torrents from multiple providers.
+* [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch): An Android app for searching torrents across multiple providers - fast, detailed, and packed with actions.
 * [sindresorhus/touch-bar-simulator](https://github.com/sindresorhus/touch-bar-simulator): Use the Touch Bar on any Mac
 * [ris58h/Touch-Tab](https://github.com/ris58h/Touch-Tab): Switch apps with trackpad on macOS.
 * [GaffaSnobb/touchbar-crypto](https://github.com/GaffaSnobb/touchbar-crypto): Live update crypto prices on the Touch Bar.
