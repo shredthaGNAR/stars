@@ -224,7 +224,7 @@ creating your own Awesome List by GitHub stars!
 * [TaylorJadin/applescripts-btt](https://github.com/TaylorJadin/applescripts-btt): a collection of applescripts that I have use with BetterTouchTool or KeyboardMaestro on my mac
 * [JT5D/AppleTree](https://github.com/JT5D/AppleTree): Applescripts, apps, services, droplets, actions & automator workflows grow abudant on this Apple Tree, some fruit made by me, while many come from Web tuts & altruist worker bees
 * [milanvarady/Applite](https://github.com/milanvarady/Applite): User-friendly GUI macOS application for Homebrew Casks
-* [abcpeak/apps-and-sites-collection](https://github.com/abcpeak/apps-and-sites-collection): Apps suggestion, Websites recommendation, Websites guide.
+* [abcpeak/apps-and-sites-collection](https://github.com/abcpeak/apps-and-sites-collection): Welcome to the Curated List of Best Awesome Apps & Sites Collection! Apps suggestion, Websites recommendation, Websites guide.
 * [axross/aqua](https://github.com/axross/aqua):  ♠️ Beautiful iOS/Android poker odds calculator app made of Flutter.
 * [yuuiko/AquaNotch](https://github.com/yuuiko/AquaNotch): Add a Notch to your old Macbook with BetterTouchTool.
 * [yuuiko/AquaTouch](https://github.com/yuuiko/AquaTouch): Dynamic Custom Macros for your MacBook TouchBar! (Supports 40+ Apps and Websites)
@@ -357,7 +357,7 @@ creating your own Awesome List by GitHub stars!
 * [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian): 🕶️ Awesome stuff for Obsidian
 * [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents): 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
 * [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint): :scream: A curated list of amazingly awesome OSINT
-* [Astrosp/Awesome-OSINT-List](https://github.com/Astrosp/Awesome-OSINT-List): OSINT tools for Information gathering, Cybersecurity, Reverse searching, bugbounty, trust and safety, red team oprations and more.
+* [Astrosp/Awesome-OSINT-List](https://github.com/Astrosp/Awesome-OSINT-List): 📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI.
 * [lorien/awesome-pastebins](https://github.com/lorien/awesome-pastebins): List of pastebin services
 * [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy): A curated list of awesome warez and piracy links
 * [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy): A curated list of awesome warez and piracy links.
@@ -414,6 +414,7 @@ creating your own Awesome List by GitHub stars!
 * [themeselection/best-chrome-extensions](https://github.com/themeselection/best-chrome-extensions): A curated list of Best Awesome Chrome Extensions to boost your productivity in your Browsers
 * [tomhaydn/BetArbit](https://github.com/tomhaydn/BetArbit): Sports betting arbitrage algorithm
 * [dashee87/betScrapeR](https://github.com/dashee87/betScrapeR): R package to scrape live sports betting odds
+* [tromoSM/Better-Firefox](https://github.com/tromoSM/Better-Firefox): Enhance the firefox user interface with betterFirefox
 * [aligo/better-google](https://github.com/aligo/better-google): Userscript to Better (or Older and Good) Google
 * [cnwangjie/better-onetab](https://github.com/cnwangjie/better-onetab): :bookmark_tabs: A better OneTab for Chrome  :memo:
 * [structunit/better-onetab](https://github.com/structunit/better-onetab): :bookmark_tabs: A better OneTab for Chrome (Temporarily removed from firefox & without maintain in a period & any cooperative purpose are welcome)
@@ -586,6 +587,7 @@ creating your own Awesome List by GitHub stars!
 * [shredthaGNAR/buttons](https://github.com/shredthaGNAR/buttons): A collection of CSS buttons.
 * [romanvht/ByeByeDPI](https://github.com/romanvht/ByeByeDPI): Приложение локально запускает ByeDPI и перенаправляет весь трафик через него
 * [alextidalrise/bysofie-shipping-message](https://github.com/alextidalrise/bysofie-shipping-message): None
+* [jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash): A code snippet storage solution written in React & node.js
 * [cai-layer/cai-raycast-extension](https://github.com/cai-layer/cai-raycast-extension): A privacy-friendly, AI-powered Raycast clipboard assistant that analyzes copied content and suggests intelligent actions using locally-run language models
 * [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet): The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://docs.cakewallet.com
 * [brunophilipe/Cakebrew](https://github.com/brunophilipe/Cakebrew): Manage your Homebrew formulas with style using Cakebrew.
@@ -1130,6 +1132,7 @@ creating your own Awesome List by GitHub stars!
 * [bennypowers/fireblocks](https://github.com/bennypowers/fireblocks): Chonky Firefox tabs for square developers
 * [Explosion-Scratch/firebuilder](https://github.com/Explosion-Scratch/firebuilder): A comprehensive firefox profile, themes, userCSS and userChrome builder
 * [Lexxrt/FireFly](https://github.com/Lexxrt/FireFly): 📱ᴘʜᴏɴᴇ ɴᴜᴍʙᴇʀ ʟᴏᴏᴋᴜᴘ📱
+* [Rotmayer24/Firefox](https://github.com/Rotmayer24/Firefox): None
 * [Thomashighbaugh/firefox](https://github.com/Thomashighbaugh/firefox): Torturing Firefox with userchrome.js and userchrome.css in response to Mozilla's successive degradation of the browser window. 
 * [awesome-windows11/firefox](https://github.com/awesome-windows11/firefox): 🦊 Awesome Firefox
 * [crssi/Firefox](https://github.com/crssi/Firefox): None
@@ -1181,6 +1184,7 @@ creating your own Awesome List by GitHub stars!
 * [datttran/Firefox-mod](https://github.com/datttran/Firefox-mod): None
 * [Alan-Kuan/Firefox-Mod-Blur](https://github.com/Alan-Kuan/Firefox-Mod-Blur): A Fork with an Installer for "Firefox Mod Blur - Modular"
 * [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur): Firefox CSS Theme - For dark theme lovers / More compact / Modular / Blur
+* [go2tom42/Firefox-Mod-Blur-override](https://github.com/go2tom42/Firefox-Mod-Blur-override): Personal touches, more square more compact
 * [MatthewCash/firefox-mods](https://github.com/MatthewCash/firefox-mods): Firefox CSS and JS Mods
 * [sonnenfell/firefox-new-duplicate-tab-closer](https://github.com/sonnenfell/firefox-new-duplicate-tab-closer): A small Firefox WebExtension to automatically close newly created duplicate tabs. Does not affect tabs that were already open before becoming duplicates by default.
 * [DivitMittal/firefox-nixCfg](https://github.com/DivitMittal/firefox-nixCfg): A declarative Firefox configuration using Nix home-manager, designed for enhanced performance, a streamlined UI, and powerful automation
@@ -1249,6 +1253,7 @@ creating your own Awesome List by GitHub stars!
 * [Tenmag/FirefoxPrivacyConfig](https://github.com/Tenmag/FirefoxPrivacyConfig): Firefox privacy configuration (help + user.js)
 * [macleod-ee/FirefoxSidebar](https://github.com/macleod-ee/FirefoxSidebar): Vertical tab design for Firefox with dynamic indentation:: Sidebery and TreeStyleTabs (Legacy) themes available! [!] Moved to https://codeberg.org/macleod/FirefoxSidebar
 * [garywill/FirefoxTaskMonitor](https://github.com/garywill/FirefoxTaskMonitor): Show CPU & memory bar, per tab and all tasks. Firefox userChrome script. 🛠️📊 
+* [Yeove/FirefoxTweaks](https://github.com/Yeove/FirefoxTweaks): None
 * [gomita/firegestures](https://github.com/gomita/firegestures): FireGestures, a Firefox extension.
 * [josepedromonteiro/fireze](https://github.com/josepedromonteiro/fireze): Custome safari theme for Firefox
 * [kosimst/Firicico](https://github.com/kosimst/Firicico): Combined programming mono font with italics and font ligatures made from Fira Code and Pacifico for Italics
@@ -1884,7 +1889,7 @@ creating your own Awesome List by GitHub stars!
 * [ParisNeo/lollms_legacy](https://github.com/ParisNeo/lollms_legacy): Lord of LLMS
 * [kunkka19xx/look](https://github.com/kunkka19xx/look): An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.
 * [TB-throwback/LookOut-fix-version](https://github.com/TB-throwback/LookOut-fix-version): Fork of LookOut (fix version)
-* [MrKai77/Loop](https://github.com/MrKai77/Loop): Window management made elegant.
+* [mrkai77/Loop](https://github.com/mrkai77/Loop): Window management made elegant.
 * [vincentneo/LosslessSwitcher](https://github.com/vincentneo/LosslessSwitcher): Automated Apple Music Lossless Sample Rate Switching for Audio Devices on Macs.
 * [ThatOrJohn/lottery-texas-scratchoffs](https://github.com/ThatOrJohn/lottery-texas-scratchoffs): Populate Neo4J AuraDB with daily Texas Lottery Scratch Ticket claim data
 * [Wkasel/lottery_scraper](https://github.com/Wkasel/lottery_scraper): Scraper for lottery scratchers
@@ -2153,6 +2158,7 @@ creating your own Awesome List by GitHub stars!
 * [QuantumNous/new-api](https://github.com/QuantumNous/new-api): A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥
 * [ha0z1/New-Bing-Anywhere](https://github.com/ha0z1/New-Bing-Anywhere): 💬 New-Bing-Anywhere extension's source Always use Bing GPT-4
 * [WesleyBranton/New-Browser-Style](https://github.com/WesleyBranton/New-Browser-Style): A replacement for Firefox's builtin browser style CSS
+* [Biinladen/NewFox](https://github.com/Biinladen/NewFox): 🦊 Customize your Firefox experience with NewFox, a minimal theme featuring userContent and userChrome for a sleek, personalized look.
 * [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe): A libre lightweight streaming front-end for Android.
 * [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe): A fork of NewPipe with SponsorBlock functionality.
 * [mnw700x/News2Me-Archives](https://github.com/mnw700x/News2Me-Archives): Pages saved with SingleFile
