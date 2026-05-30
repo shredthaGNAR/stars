@@ -1546,6 +1546,7 @@ creating your own Awesome List by GitHub stars!
 * [headcaver/headcaver.github.io](https://github.com/headcaver/headcaver.github.io): satan's underpants motorcycle club
 * [Benjamin-Dobell/Heimdall](https://github.com/Benjamin-Dobell/Heimdall): Heimdall is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung Galaxy devices.
 * [blanklob/helium](https://github.com/blanklob/helium): Helium is a modern Shopify development workflow ⚙️, with Online Store 2.0 features. Built with performance ⚡️ and best practices in mind.. 
+* [OldManJax/helperplayers](https://github.com/OldManJax/helperplayers): json players for TheMovieDb-Helper in Kodi 21
 * [p-e-w/heretic](https://github.com/p-e-w/heretic): Fully automatic censorship removal for language models
 * [demtario/hes-gallery](https://github.com/demtario/hes-gallery): Light, dependency free, responsive gallery script
 * [HexFiend/HexFiend](https://github.com/HexFiend/HexFiend): A fast and clever hex editor for macOS
@@ -1853,7 +1854,7 @@ creating your own Awesome List by GitHub stars!
 * [blocklistproject/Lists](https://github.com/blocklistproject/Lists): Primary Block Lists
 * [jnv/lists](https://github.com/jnv/lists): The definitive list of lists (of lists) curated on GitHub and elsewhere
 * [BerriAI/litellm](https://github.com/BerriAI/litellm): Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]
-* [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM): None
+* [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM): LiteRT-LM is Google's production-ready, high-performance, open-source inference framework for deploying Large Language Models on edge devices.
 * [gzanuttinifrank/live-basketball-odds-scraper](https://github.com/gzanuttinifrank/live-basketball-odds-scraper): Scraper for all ongoing basketball games on Bovada
 * [webextensions/live-css-editor](https://github.com/webextensions/live-css-editor): Source code for Chrome/Edge/Firefox/Opera extension Magic CSS (Live editor for CSS, Less & Sass)
 * [Rivens7/Livelist](https://github.com/Rivens7/Livelist): IPTV-ipv6直播源同步及常看直播
