@@ -5069,6 +5069,9 @@
     "facebookresearch/faiss": [
         "Other"
     ],
+    "faker-js/faker": [
+        "Other"
+    ],
     "fanesz/session-switcher": [
         "Other"
     ],
@@ -10041,9 +10044,6 @@
         "Other"
     ],
     "theamallalgi/kenkaitheme": [
-        "Other"
-    ],
-    "theapplegates/obsidian-astro-suite": [
         "Other"
     ],
     "thebaer/MMRA": [
