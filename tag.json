@@ -1973,6 +1973,9 @@
     "ReVanced/revanced-patches-template": [
         "Other"
     ],
+    "ReVanced/where-is-revanced-patches": [
+        "Other"
+    ],
     "RealRaven2000/FiltaQuilla": [
         "Other"
     ],
@@ -4766,9 +4769,6 @@
     "dvdn/bookmarks-reader": [
         "Other"
     ],
-    "dwarvesf/blurred": [
-        "Other"
-    ],
     "dwarvesf/hidden": [
         "Other"
     ],
@@ -6408,6 +6408,9 @@
         "Other"
     ],
     "josStorer/selfhostedAI": [
+        "Other"
+    ],
+    "joschiv1977/proton_to_apple_password": [
         "Other"
     ],
     "josepedromonteiro/fireze": [
