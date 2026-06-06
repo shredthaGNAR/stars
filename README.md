@@ -687,7 +687,7 @@ creating your own Awesome List by GitHub stars!
 * [jpmhouston/Cleepp](https://github.com/jpmhouston/Cleepp): Batch Clipboard is a Mac app that let's you copy then paste multiple clipboard items at a time, like magic! This is the repo for v1.0.x, titled after the app's codename. The repo for v2.0 and forward is https://github.com/jpmhouston/Batch-Clipboard
 * [cli/cli](https://github.com/cli/cli): GitHub’s official command line tool
 * [spicetify/cli](https://github.com/spicetify/cli): Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
-* [PKxk8J/click-tab-move](https://github.com/PKxk8J/click-tab-move): タブ右クリックからタブを別のウインドウに送る Firefox アドオン 
+* [PKxk8J/click-tab-move](https://github.com/PKxk8J/click-tab-move): 右クリックからタブを別のウインドウに送る Firefox アドオン 
 * [DevNurAlam/ClickableEmailSignatureDesign-2](https://github.com/DevNurAlam/ClickableEmailSignatureDesign-2): None
 * [pietervanheijningen/clickbait-remover-for-youtube](https://github.com/pietervanheijningen/clickbait-remover-for-youtube): Replaces thumbnails and modifies titles of videos on youtube.com
 * [Wilbird/clickToPrivate](https://github.com/Wilbird/clickToPrivate): Firefox add-on to open links or current page in private mode
@@ -2230,7 +2230,7 @@ creating your own Awesome List by GitHub stars!
 * [mtopping/obsidian-raindrop](https://github.com/mtopping/obsidian-raindrop): This plugin allows for basic integration with Raindrop.io, a bookmarking service and Obsidian.
 * [marcjulianschwarz/obsidian-raycast](https://github.com/marcjulianschwarz/obsidian-raycast): Raycast extension with commands for the note taking app Obsidian.
 * [DominikPieper/obsidian-ReadItLater](https://github.com/DominikPieper/obsidian-ReadItLater): None
-* [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections): Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3
+* [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections): Find related notes and excerpts while writing. Your link building copilot displays relevant content in graph + list view. A local embedding model powers semantic search. Zero setup. No API key.
 * [masonlr/obsidian-starter-templates](https://github.com/masonlr/obsidian-starter-templates): :rocket: Starter templates for Obsidian.md
 * [obsidian-community/obsidian-style-settings](https://github.com/obsidian-community/obsidian-style-settings): A dynamic user interface for adjusting theme, plugin, and snippet CSS variables within Obsidian
 * [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template): Starter templates for Obsidian
