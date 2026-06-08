@@ -672,6 +672,7 @@ creating your own Awesome List by GitHub stars!
 * [OtsoBear/chrome2moz](https://github.com/OtsoBear/chrome2moz): chrome extension to firefox extension converter
 * [priyankchheda/chrome_password_grabber](https://github.com/priyankchheda/chrome_password_grabber): Get unencrypted 'Saved Password' from Google Chrome
 * [0x2e73/ChromeFox](https://github.com/0x2e73/ChromeFox): Material Chrome Style Firefox 
+* [FoxRefire/ChromeXPIPorter](https://github.com/FoxRefire/ChromeXPIPorter): Install Chrome extension to Floorp/Firefox Nightly/Librewolf
 * [postmodern/chruby](https://github.com/postmodern/chruby): Changes the current Ruby
 * [emvaized/circle-mouse-gestures](https://github.com/emvaized/circle-mouse-gestures): Chrome and Firefox extension for mouse gestures with visual representation of actions as a circle
 * [asilvas/circler](https://github.com/asilvas/circler): (non-official) Logitech Circle utility application (download etc)
@@ -895,6 +896,7 @@ creating your own Awesome List by GitHub stars!
 * [nokeya/direct-links-out](https://github.com/nokeya/direct-links-out): Removes all "You are leaving our site" stuff from links
 * [zanetu/direct_google_images](https://github.com/zanetu/direct_google_images): Direct Google Images
 * [bluppus20/Disable-Gatekeeper-macOS-Sequoia-beta-3](https://github.com/bluppus20/Disable-Gatekeeper-macOS-Sequoia-beta-3):  Disable Gatekeeper macOS Sequoia beta 3 
+* [cygnusx-1-org/Discoverium](https://github.com/cygnusx-1-org/Discoverium): Android app for discovering open source Android apps
 * [Homebrew/discussions](https://github.com/Homebrew/discussions): 🗣 Public open-ended discussions. Replacement for our Discourse.
 * [disposable/disposable-email-domains](https://github.com/disposable/disposable-email-domains): Daily updated repository for https://github.com/disposable/disposable
 * [tapans/DIY-Surveillance-with-Smartphones](https://github.com/tapans/DIY-Surveillance-with-Smartphones): DIY hack for a complete CCTV solution using open source software and smartphones. 
@@ -2424,7 +2426,6 @@ creating your own Awesome List by GitHub stars!
 * [pinterest/PINCache](https://github.com/pinterest/PINCache): Fast, non-deadlocking parallel object cache for iOS, tvOS and OS X
 * [gocom/pinceau](https://github.com/gocom/pinceau): Personal Firefox userChrome and preference customizations
 * [LeakForge/Piracy-Extras](https://github.com/LeakForge/Piracy-Extras): A curated list of awesome warez and piracy links
-* [Queazified/Piracy-Extras](https://github.com/Queazified/Piracy-Extras): A curated list of awesome warez and piracy links
 * [zer0biwan/piracy-list-23](https://github.com/zer0biwan/piracy-list-23): Forked from Igglybuff/awesome-piracy
 * [alextselegidis/plainpad](https://github.com/alextselegidis/plainpad): 📓 Plainpad - Self Hosted Note Taking App
 * [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic): Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
