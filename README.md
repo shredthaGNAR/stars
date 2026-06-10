@@ -648,7 +648,7 @@ creating your own Awesome List by GitHub stars!
 * [oxylabs/chatgpt-scraper](https://github.com/oxylabs/chatgpt-scraper): Easily collect responses from ChatGPT scraper by providing a prompt along with valid Web Scraper API credentials.
 * [josStorer/chatGPT-search-engine-extension](https://github.com/josStorer/chatGPT-search-engine-extension): A browser extension to display ChatGPT response alongside Search Engine results
 * [SingularityLabs-ai/ChatGPT-Tool-List](https://github.com/SingularityLabs-ai/ChatGPT-Tool-List): Bots To be added
-* [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js): 🤖 A powerful, open source JavaScript library for ChatGPT
+* [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js): 🤖 A powerful, open source JavaScript library + interactive CLI for ChatGPT
 * [XInTheDark/ChatGPT5AutoThinkPlugin](https://github.com/XInTheDark/ChatGPT5AutoThinkPlugin): None
 * [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN): ChatGPT DAN, Jailbreaks prompt
 * [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt): A collection of GPT system prompts and various prompt injection/leaking knowledge.
@@ -1801,7 +1801,7 @@ creating your own Awesome List by GitHub stars!
 * [lando/lando](https://github.com/lando/lando): A development tool for all your projects that is fast, easy, powerful and liberating
 * [LANDrop/LANDrop](https://github.com/LANDrop/LANDrop): Drop any files to any devices on your LAN.
 * [langchain-ai/langchain](https://github.com/langchain-ai/langchain): The agent engineering platform.
-* [langfuse/langfuse](https://github.com/langfuse/langfuse): 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 
+* [langfuse/langfuse](https://github.com/langfuse/langfuse): 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 
 * [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool): Style and Grammar Checker for 25+ Languages
 * [stuyam/laravel-phone-validator](https://github.com/stuyam/laravel-phone-validator): A phone validator for Laravel using the free Twilio phone lookup service.
 * [arekusandr/last_layer](https://github.com/arekusandr/last_layer): Ultra-fast, low latency LLM prompt injection/jailbreak detection ⛓️
@@ -2726,7 +2726,7 @@ creating your own Awesome List by GitHub stars!
 * [SamR1/rdltr](https://github.com/SamR1/rdltr): a simple read-it later app
 * [SamR1/rdltr-addon](https://github.com/SamR1/rdltr-addon): Firefox add-on for rdltr (read-it-later app)
 * [rogerfar/rdt-client](https://github.com/rogerfar/rdt-client): Real-Debrid Client Proxy
-* [facebook/react](https://github.com/facebook/react): The library for web and native user interfaces.
+* [react/react](https://github.com/react/react): The library for web and native user interfaces.
 * [SuniRein/read-it-later](https://github.com/SuniRein/read-it-later): A light web browser extension to manage your read-it-later list easily.
 * [XcrossD/read-later-bookmarks](https://github.com/XcrossD/read-later-bookmarks): A chrome extension that add a read later view for chrome bookmarks
 * [rNeomy/reader-view](https://github.com/rNeomy/reader-view): Access Firefox's built in reader view from right click context menu
@@ -3204,7 +3204,7 @@ creating your own Awesome List by GitHub stars!
 * [syphon-org/syphon](https://github.com/syphon-org/syphon): ⚗️  a privacy centric matrix client 
 * [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
 * [Wyattwalls/system_prompts](https://github.com/Wyattwalls/system_prompts): None
-* [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks): Extracted system prompts from Anthropic - Claude Code, Claude Design, Opus 4.8, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex, Google - Gemini - 3.5 Flash, 3.1 Pro, Antigravity, xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
+* [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks): Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
 * [RoadToDream/SzContext](https://github.com/RoadToDream/SzContext): Add context menu to macOS Finder 
 * [janraasch/tab-ahead](https://github.com/janraasch/tab-ahead): Web Browser Extension that helps you to quickly find open tabs by title and URL.
 * [Lej77/tab-count-in-window-title](https://github.com/Lej77/tab-count-in-window-title): None
