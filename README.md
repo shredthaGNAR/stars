@@ -784,7 +784,7 @@ creating your own Awesome List by GitHub stars!
 * [ololx/create-symlink](https://github.com/ololx/create-symlink): Create Symlink is a simple mac Automator workflow which provides a GUI for the symbolic links creation on macOS. There is an alternative https://github.com/ololx/quick-symlink
 * [schollz/croc](https://github.com/schollz/croc): Easily and securely send things from one computer to another :crocodile: :package:
 * [uazo/cromite](https://github.com/uazo/cromite): Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
-* [Medformatik/CrossDrop](https://github.com/Medformatik/CrossDrop): CrossDrop is a partial implementation of Google's Quick Share in Flutter for macOS, iOS and Linux. CrossDrop is based on NearDrop, a Swift implementation of Nearby Share for macOS.
+* [Medformatik/CrossDrop](https://github.com/Medformatik/CrossDrop): CrossDrop is a partial implementation of Google's Quick Share in Flutter for macOS, iOS and Linux. CrossDrop is based on NearDrop, a Swift implementation of Quick Share for macOS.
 * [charmbracelet/crush](https://github.com/charmbracelet/crush): Glamourous agentic coding for all 💘
 * [warren-bank/crx-Tubi-TV](https://github.com/warren-bank/crx-Tubi-TV): website userscript: redirect embedded videos from "tubitv.com" to an external player
 * [Rob--W/crxviewer](https://github.com/Rob--W/crxviewer): Add-on / web app to view the source code of Chrome / Firefox / Opera 15 extensions and zip files.
@@ -3500,7 +3500,7 @@ creating your own Awesome List by GitHub stars!
 * [arichornlover/uYouEnhanced](https://github.com/arichornlover/uYouEnhanced): uYouEnhanced (by @arichornlover) is an expanded version of uYou+ (made by @qnblackcat) with additional features and mainly made for non jailbroken users!
 * [qnblackcat/uYouPlus](https://github.com/qnblackcat/uYouPlus): uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
 * [bchiang7/v4](https://github.com/bchiang7/v4): Fourth iteration of my personal website built with Gatsby
-* [Vallek/vallek-firefox-custom-css](https://github.com/Vallek/vallek-firefox-custom-css): Custom Firefox UI styles based on https://github.com/Aris-t2/CustomCSSforFx
+* [Vallek/vallek-firefox-custom-css](https://github.com/Vallek/vallek-firefox-custom-css): Classic Firefox UI style based on https://github.com/Aris-t2/CustomCSSforFx
 * [TeamVanced/VancedMicroG](https://github.com/TeamVanced/VancedMicroG): MicroG tweaked to work for applications such as Vanced.
 * [inotia00/VancedMicroG](https://github.com/inotia00/VancedMicroG): MicroG tweaked to work for applications such as Vanced.
 * [vegetableman/vandal](https://github.com/vegetableman/vandal): Navigator for Web Archive
