@@ -509,7 +509,7 @@ creating your own Awesome List by GitHub stars!
 * [atkinsio/bookmarks-html-generator](https://github.com/atkinsio/bookmarks-html-generator): A tool which allows you to convert a list of URLs into Bookmarks for use with all major browsers.
 * [scraggo/bookmarks-markdown-utils](https://github.com/scraggo/bookmarks-markdown-utils): Collection of command-line tools for Chrome, OneTab, Evernote, and FireFox bookmark management. The tools are mostly to convert proprietary formats to markdown and organizing and add tags.
 * [cadeyrn/bookmarks-organizer](https://github.com/cadeyrn/bookmarks-organizer): With the Bookmarks Organizer it's easy to put order in your bookmarks. The Bookmarks Organizer finds no longer working bookmarks, redirects, duplicates and more!
-* [rb81/bookmarks-organizer](https://github.com/rb81/bookmarks-organizer): A powerful and automated way of organizing your browser bookmarks.
+* [rb81/bookmarks-organizer](https://github.com/rb81/bookmarks-organizer): AI-powered bookmark organizer that reads your exported bookmarks (Netscape format), categorizes them into folders using any OpenAI-compatible LLM, and exports them back — ready to import into any browser.
 * [dvdn/bookmarks-reader](https://github.com/dvdn/bookmarks-reader): Display all your bookmarks files on a webpage
 * [shredthaGNAR/bookmarks2git](https://github.com/shredthaGNAR/bookmarks2git): None
 * [mabdelaal86/bookmarks_gkeep](https://github.com/mabdelaal86/bookmarks_gkeep): Copy bookmarks from Google Keep into Pocket/Instapaper
@@ -1268,7 +1268,7 @@ creating your own Awesome List by GitHub stars!
 * [pmiddlet72/fix_onetab](https://github.com/pmiddlet72/fix_onetab): Scripts to help extract OneTab urls and/or fix the OneTab extension when this app fails in the Google Chrome browser (currently only tested in Linux --> Ubuntu 24.04 and Linux Mint 22.1). 
 * [jsoto3000/fl_lottery](https://github.com/jsoto3000/fl_lottery): Webscrapes for Florida Lotttery Scratch Game Data
 * [daniruiz/flat-remix-css](https://github.com/daniruiz/flat-remix-css): A lightweight CSS library that provides a set of predesigned elements useful for rapid web development. It follows a modern flat design using a colorful palette with some shadows, highlights, and gradients for some depth.
-* [yuuqilin/FlexFox](https://github.com/yuuqilin/FlexFox): A lightweight Firefox theme focused on usability, flexibility, and smooth performance.
+* [yuuqilin/FlexFox](https://github.com/yuuqilin/FlexFox): A lightweight Firefox userChrome theme designed to optimize screen space without sacrificing accessibility.
 * [d3ward/floatly](https://github.com/d3ward/floatly): An extension that adds a floating button for browser quick actions 
 * [floccusaddon/floccus](https://github.com/floccusaddon/floccus): :cloud: Sync your bookmarks privately across browsers and devices
 * [julianandrews/flopferret](https://github.com/julianandrews/flopferret): Texas Hold'em board texture analyzer.
