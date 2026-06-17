@@ -44,7 +44,7 @@
     "117649/Tab-Groups": [
         "Other"
     ],
-    "11ty/eleventy": [
+    "11ty/buildawesome": [
         "Other"
     ],
     "11ty/eleventy-base-blog": [
@@ -8919,6 +8919,9 @@
         "Other"
     ],
     "rkokkelk/todo.txt-ext": [
+        "Other"
+    ],
+    "rleroi/Stremio-Streaming-Catalogs-Addon": [
         "Other"
     ],
     "rlgrpe/ocr-raycast": [

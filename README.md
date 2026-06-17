@@ -374,7 +374,7 @@ creating your own Awesome List by GitHub stars!
 * [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi): 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 * [alx-xlx/awesome-raspberry-r4nchy](https://github.com/alx-xlx/awesome-raspberry-r4nchy): This repo consists of useful tools, scripts and tutorials for Raspberry Pi
 * [j3lte/awesome-raycast](https://github.com/j3lte/awesome-raycast): Automated list of all Raycast extensions
-* [Jman-Github/Awesome-ReVanced](https://github.com/Jman-Github/Awesome-ReVanced): A curated list of all ReVanced resources, patches and projects!
+* [Jman-Github/Awesome-ReVanced](https://github.com/Jman-Github/Awesome-ReVanced): A curated list of all ReVanced and Morphe resources, patches and projects!
 * [o19s/awesome-search-relevance](https://github.com/o19s/awesome-search-relevance): Tools and other things for people who work on search relevance & information retrieval
 * [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted): A list of Free Software network services and web applications which can be hosted on your own servers
 * [LeCoupa/awesome-shopify](https://github.com/LeCoupa/awesome-shopify): 👩‍🎓👨‍🎓 Must-read articles, videos and books for store owners, app and theme developers.
@@ -577,6 +577,7 @@ creating your own Awesome List by GitHub stars!
 * [Android-App-Patches/build-apps](https://github.com/Android-App-Patches/build-apps): The ReVanced APKs
 * [timrogers/build-raycast-extension](https://github.com/timrogers/build-raycast-extension): A GitHub action which ensures that a Raycast extension can be built successfully
 * [gityeop/build_better_prompt_raycast_extension](https://github.com/gityeop/build_better_prompt_raycast_extension): Interactive AI prompt builder using flipped learning - AI asks you questions to create better prompts
+* [11ty/buildawesome](https://github.com/11ty/buildawesome): A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 * [jarun/buku](https://github.com/jarun/buku): :bookmark: Personal mini-web in text
 * [EuanRiggans/BulkURLOpener](https://github.com/EuanRiggans/BulkURLOpener): Bulk URL Opener is an application that provides the user with multiple utilities to help with managing and using large amounts of urls
 * [caiogondim/bullet-train.zsh](https://github.com/caiogondim/bullet-train.zsh): :bullettrain_side: An oh-my-zsh shell theme based on the Powerline Vim plugin
@@ -1004,7 +1005,6 @@ creating your own Awesome List by GitHub stars!
 * [ayushhroyy/elegantfox](https://github.com/ayushhroyy/elegantfox): An "elegent" theme for Firefox 
 * [Zonnev/elementaryos-firefox-theme](https://github.com/Zonnev/elementaryos-firefox-theme): This theme for Firefox supports all the window buttons layouts from Tweaks and it blends into the elementary OS user interface.
 * [Zonnev/elementaryos5-firefox-theme](https://github.com/Zonnev/elementaryos5-firefox-theme): This theme for Firefox supports all the window buttons layouts from Tweaks and it blends into the elementary OS 5 (Hera) user interface.
-* [11ty/eleventy](https://github.com/11ty/eleventy): A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 * [11ty/eleventy-base-blog](https://github.com/11ty/eleventy-base-blog): A starter repository for a blog web site using the Eleventy static site generator.
 * [blake-regalia/elitouch.bttpreset](https://github.com/blake-regalia/elitouch.bttpreset): A generative BetterTouchTool preset w/ special support for Spotify, Sublime Text 3, and Terminal
 * [jmathai/elodie](https://github.com/jmathai/elodie): An EXIF-based photo assistant, organizer  and workflow automation tool.
@@ -3160,6 +3160,7 @@ creating your own Awesome List by GitHub stars!
 * [MrMonkey42/stremio-addon-debrid-search](https://github.com/MrMonkey42/stremio-addon-debrid-search): Stremio Addon to search downloads and torrents in your Debrid cloud
 * [pancake3000/stremio-addon-manager](https://github.com/pancake3000/stremio-addon-manager): Manage your Stremio Addons
 * [Zaarrg/stremio-community-v5](https://github.com/Zaarrg/stremio-community-v5): 🐚 WebView2 and Qt6-based shell, desktop app for Stremio with latest web ui support
+* [rleroi/Stremio-Streaming-Catalogs-Addon](https://github.com/rleroi/Stremio-Streaming-Catalogs-Addon): Stremio Streaming Catalogs Addon
 * [MunifTanjim/stremthru](https://github.com/MunifTanjim/stremthru): Companion for Stremio.
 * [charlesLoder/stylometry](https://github.com/charlesLoder/stylometry): A comparison of different strategies for affecting an LLM's output style, with attention given towards library science.
 * [NoureldinAmer/stylometry-based-trigger-llm-backdoor-attack](https://github.com/NoureldinAmer/stylometry-based-trigger-llm-backdoor-attack): None
