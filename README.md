@@ -64,6 +64,7 @@ creating your own Awesome List by GitHub stars!
 * [CleanMachine1/AdlistTXTS](https://github.com/CleanMachine1/AdlistTXTS): A repository dedicated to mirroring some block-lists into 1 file for ease of use
 * [ethanaicode/Adobe-Block-Hosts-List](https://github.com/ethanaicode/Adobe-Block-Hosts-List): Adobe Block Hosts List to block Adobe activation.
 * [FlickyOs/Adobe-Debloater](https://github.com/FlickyOs/Adobe-Debloater): Adobe Deloater
+* [A-Archives-and-Forks/Adobe-Downloader](https://github.com/A-Archives-and-Forks/Adobe-Downloader): macOS Adobe apps download & installer
 * [X1a0He/Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader): macOS Adobe apps download & installer
 * [chiumax/adobe-font-scraper](https://github.com/chiumax/adobe-font-scraper): 💢 don't have adobe plan and want their fonts? no need to worry! download from us ;)
 * [baileylatimer/adobe-illustrator](https://github.com/baileylatimer/adobe-illustrator): None
@@ -974,7 +975,6 @@ creating your own Awesome List by GitHub stars!
 * [sjackwu/DualFinder](https://github.com/sjackwu/DualFinder): Make Finder a two-pane file manager on Mac OS X
 * [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt): 🐤 AI chat & search summaries in DuckDuckGo, powered by the latest LLMs
 * [JosephAlton/duckemail](https://github.com/JosephAlton/duckemail): RayCast extension ( TypeScript, React, Raycast API with useContext .etc )
-* [hake12345/DumpChromeSecrets](https://github.com/hake12345/DumpChromeSecrets): 🔍 Extract sensitive data from modern Chrome versions, including credentials, cookies, and browsing history, for improved security management.
 * [notable/dumper](https://github.com/notable/dumper): Library for extracting attachments, notes and metadata out of formats used by popular note-taking apps.
 * [fmhy/dupe-checker](https://github.com/fmhy/dupe-checker): A simple, fast tool to compare links against the FMHY wiki, and display their redirect chains.
 * [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru): Find duplicate files
@@ -1210,7 +1210,7 @@ creating your own Awesome List by GitHub stars!
 * [Sporif/firefox-quantum-userchromejs](https://github.com/Sporif/firefox-quantum-userchromejs): Firefox Quantum-compatible custom javascript in browser context — no extension, userChromeJS replacement
 * [deseven/firefox-quickllm](https://github.com/deseven/firefox-quickllm): Firefox extension that integrates LLMs into your browser
 * [xpmn/firefox-reading-list](https://github.com/xpmn/firefox-reading-list): A minimal Firefox extension for saving pages to read later.
-* [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar): A customisable userChrome.css style to improve the Firefox (130–151) find bar.
+* [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar): A customisable userChrome.css style to improve the Firefox (130–152) find bar.
 * [mobiusxp/firefox-remap-private-browsing](https://github.com/mobiusxp/firefox-remap-private-browsing): UserChrome JS script to remap Firefox's Private Browsing to match everything else
 * [BGMP/firefox-revert-proton](https://github.com/BGMP/firefox-revert-proton): Revert Firefox Proton to Photon & Photon Compact
 * [panjilp-lab/firefox-safari-noFix](https://github.com/panjilp-lab/firefox-safari-noFix): learning to make safari style for firefox
@@ -2165,7 +2165,6 @@ creating your own Awesome List by GitHub stars!
 * [QuantumNous/new-api](https://github.com/QuantumNous/new-api): A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥
 * [ha0z1/New-Bing-Anywhere](https://github.com/ha0z1/New-Bing-Anywhere): 💬 New-Bing-Anywhere extension's source Always use Bing GPT-4
 * [WesleyBranton/New-Browser-Style](https://github.com/WesleyBranton/New-Browser-Style): A replacement for Firefox's builtin browser style CSS
-* [Biinladen/NewFox](https://github.com/Biinladen/NewFox): 🦊 Customize your Firefox experience with NewFox, a minimal theme featuring userContent and userChrome for a sleek, personalized look.
 * [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe): A libre lightweight streaming front-end for Android.
 * [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe): A fork of NewPipe with SponsorBlock functionality.
 * [mnw700x/News2Me-Archives](https://github.com/mnw700x/News2Me-Archives): Pages saved with SingleFile
