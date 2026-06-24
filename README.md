@@ -195,6 +195,7 @@ creating your own Awesome List by GitHub stars!
 * [vincenzocaputo/API-s-for-OSINT](https://github.com/vincenzocaputo/API-s-for-OSINT): List of API's for gathering information about phone numbers, addresses, domains etc
 * [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor): Powerful android apk editor - aapt/aapt2 independent
 * [APKLab/APKLab](https://github.com/APKLab/APKLab): Android Reverse-Engineering Workbench for VS Code
+* [MorpheApp/Apktool](https://github.com/MorpheApp/Apktool): A tool for reverse engineering Android apk files
 * [amirgamil/apollo](https://github.com/amirgamil/apollo): A Unix-style personal search engine and web crawler for your digital footprint.
 * [xbrowsersync/app](https://github.com/xbrowsersync/app): xBrowserSync browser extensions / mobile app
 * [yiisoft/app](https://github.com/yiisoft/app): Yii3 web application template
@@ -253,7 +254,7 @@ creating your own Awesome List by GitHub stars!
 * [MarcusHoltz/astro-portfolio-theme](https://github.com/MarcusHoltz/astro-portfolio-theme): Astro Portfolio Theme. Use on almost any host. Ditch the CMS. Edit a few JSON files - personal info, skills, project showcases - build, and deploy. 
 * [netlify-templates/astro-quickstart](https://github.com/netlify-templates/astro-quickstart): A bare-bones Astro template to get you deployed to Netlify fast!
 * [wasutz/astro-resume-theme](https://github.com/wasutz/astro-resume-theme): Astro Resume Theme is a customizable and responsive template designed to help you create a beautiful online resume or portfolio quickly. Built with Astro and styled using Tailwind CSS.
-* [hansmartensdev/Astro-Rocket](https://github.com/hansmartensdev/Astro-Rocket): A production-ready Astro 6 starter with 12 beautiful themes, 57+ components, built-in i18n, dark mode and a fast, modern foundation to build anything on.
+* [hansmartensdev/Astro-Rocket](https://github.com/hansmartensdev/Astro-Rocket): A production-ready Astro 7 starter with 12 beautiful themes, 57+ components, built-in i18n, dark mode and a fast, modern foundation to build anything on.
 * [devgelo-labs/astro-starter-pro](https://github.com/devgelo-labs/astro-starter-pro): Astro Starter Pro: A free, production-ready Astro starter focused on SEO, performance, and best practices.
 * [immois/astro-zen](https://github.com/immois/astro-zen): Minimalist, accessible and SEO-optimized personal portfolio website template.
 * [manuelernestog/astrofy](https://github.com/manuelernestog/astrofy): Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS. Create in minutes a website with Blog, CV, Project Section, Store and RSS Feed.
@@ -723,6 +724,7 @@ creating your own Awesome List by GitHub stars!
 * [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit): 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 * [zai-org/CodeGeeX2](https://github.com/zai-org/CodeGeeX2): CodeGeeX2: A More Powerful Multilingual Code Generation Model
 * [CodeverDotDev/codever](https://github.com/CodeverDotDev/codever): Bookmarks & Notes Manager for Developers — with Markdown and Code Snippets support
+* [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat): Connect VS Code with free chatbots
 * [jcv8000/Codex](https://github.com/jcv8000/Codex): A free note-taking software for programmers and Computer Science students
 * [openai/codex](https://github.com/openai/codex): Lightweight coding agent that runs in your terminal
 * [frankmdmc/CodexDidThis](https://github.com/frankmdmc/CodexDidThis): GPT Codex Did This
@@ -1188,7 +1190,7 @@ creating your own Awesome List by GitHub stars!
 * [D3SOX/firefox-minimal-compact-css](https://github.com/D3SOX/firefox-minimal-compact-css): My personal Firefox theme based on Sidebery and CSS hacks - Inspired by Zen
 * [datttran/Firefox-mod](https://github.com/datttran/Firefox-mod): None
 * [Alan-Kuan/Firefox-Mod-Blur](https://github.com/Alan-Kuan/Firefox-Mod-Blur): A Fork with an Installer for "Firefox Mod Blur - Modular"
-* [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur): Firefox CSS Theme - For dark theme lovers / More compact / Modular / Blur
+* [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur): Firefox CSS Theme - Dark theme / More compact / Modular / Blur
 * [go2tom42/Firefox-Mod-Blur-override](https://github.com/go2tom42/Firefox-Mod-Blur-override): Personal touches, more square more compact
 * [MatthewCash/firefox-mods](https://github.com/MatthewCash/firefox-mods): Firefox CSS and JS Mods
 * [sonnenfell/firefox-new-duplicate-tab-closer](https://github.com/sonnenfell/firefox-new-duplicate-tab-closer): A small Firefox WebExtension to automatically close newly created duplicate tabs. Does not affect tabs that were already open before becoming duplicates by default.
@@ -2669,7 +2671,6 @@ creating your own Awesome List by GitHub stars!
 * [d-cu/raycast-ai-litellm-proxy](https://github.com/d-cu/raycast-ai-litellm-proxy): Use any LiteLLM model in Raycast AI without a subscription.
 * [miikkaylisiurunen/raycast-ai-openrouter-proxy](https://github.com/miikkaylisiurunen/raycast-ai-openrouter-proxy): Integrate any OpenAI-compatible API with Raycast AI
 * [jmaaloe/raycast-ai-prompts](https://github.com/jmaaloe/raycast-ai-prompts): None
-* [m3lander/raycast-ai-proxy](https://github.com/m3lander/raycast-ai-proxy): Integrate any OpenAI-compatible API with Raycast AI
 * [nagauta/raycast-ai-sdk](https://github.com/nagauta/raycast-ai-sdk): None
 * [pierremouchan/raycast-ai-writing-assistant](https://github.com/pierremouchan/raycast-ai-writing-assistant): AI Writing Assistant is here to assist you with any of your writing tasks, from fixing grammar to generating a list of action items.
 * [EvanZhouDev/raycast-apple-intelligence](https://github.com/EvanZhouDev/raycast-apple-intelligence): None
@@ -2786,7 +2787,7 @@ creating your own Awesome List by GitHub stars!
 * [izzydoesizzy/resumetemplate](https://github.com/izzydoesizzy/resumetemplate): Creative: Personal website/landing page template.
 * [celzero/rethink-app](https://github.com/celzero/rethink-app): DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 * [briangershon/retrieve-pocket-bookmarks](https://github.com/briangershon/retrieve-pocket-bookmarks): Retrieves your bookmarks and meta data from Pocket API (via https://getpocket.com/developer/docs/v3/retrieve)
-* [cormiertyshawn895/Retroactive](https://github.com/cormiertyshawn895/Retroactive): Retroactive has been discontinued. You should transition from Retroactive to supported apps such as Music, iTunes for Windows, iMazing, Photos, Darktable, Lightroom Classic, and DaVinci Resolve.
+* [cormiertyshawn895/Retroactive](https://github.com/cormiertyshawn895/Retroactive): Run Aperture, iPhoto, and iTunes on macOS Golden Gate, macOS Tahoe, macOS Sequoia, macOS Sonoma, macOS Ventura, macOS Monterey, macOS Big Sur, and macOS Catalina. Xcode 11.7 on macOS Mojave. Final Cut Pro 7, Logic Pro 9, and iWork ’09 on macOS Mojave or macOS High Sierra.
 * [NoName-exe/revanced](https://github.com/NoName-exe/revanced): ReVanced YT and YT-M for both root and non-root users.
 * [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root): Real-time repository build Morphe, Revanced and Revanced Extended about 10 minutes after patch release
 * [n0k0m3/revanced-build-template](https://github.com/n0k0m3/revanced-build-template): Github Template for building Revanced
