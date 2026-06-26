@@ -2017,7 +2017,6 @@ creating your own Awesome List by GitHub stars!
 * [muckSponge/MaterialFox](https://github.com/muckSponge/MaterialFox): A Material Design-inspired userChrome.css theme for Firefox
 * [te6-in/MaterialFox-BigSur](https://github.com/te6-in/MaterialFox-BigSur): 🦊 A cleaner, more refined userChrome.css theme for Firefox—forked from MaterialFox
 * [typeling1578/MaterialFox-Plus](https://github.com/typeling1578/MaterialFox-Plus): A Material Design-inspired userChrome.css theme for Firefox. This repository is a Fork of muckSponge/MaterialFox.
-* [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome): 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
 * [square/maximum-awesome](https://github.com/square/maximum-awesome): Config files for vim and tmux.
 * [qsniyg/maxurl](https://github.com/qsniyg/maxurl): Finds larger/original versions of images and videos
 * [tanrax/maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking): Simple, native and efficient local ad blocker. Only Bash.
@@ -2414,7 +2413,7 @@ creating your own Awesome List by GitHub stars!
 * [s0md3v/Photon](https://github.com/s0md3v/Photon): Incredibly fast crawler designed for OSINT.
 * [wilfredwee/photon-australis](https://github.com/wilfredwee/photon-australis): Bringing sexy curves back to Firefox Photon.
 * [eszdman/PhotonCamera](https://github.com/eszdman/PhotonCamera): Android Camera that uses Enhanced image processing
-* [photoprism/photoprism](https://github.com/photoprism/photoprism): AI-Powered Photos App for the Decentralized Web 🌈💎✨
+* [photoprism/photoprism](https://github.com/photoprism/photoprism): AI-Powered Photos App 🌈💎✨
 * [peter-sk/photosdup](https://github.com/peter-sk/photosdup): Mac Photos Duplicate Finder
 * [antipalindrome/Photoshop-Export-Layers-to-Files-Fast](https://github.com/antipalindrome/Photoshop-Export-Layers-to-Files-Fast): This script allows you to export your layers as individual files at a speed much faster than the built-in script from Adobe.
 * [dermesser/photosync](https://github.com/dermesser/photosync): Now that Google deprecated the Photos<->Drive synchronization, I need another way to back up my photos locally. This program downloads all photos from your Google Photos account and organizes them locally. It is not very user friendly yet, but definitely usable
@@ -2946,6 +2945,7 @@ creating your own Awesome List by GitHub stars!
 * [ShareDropio/sharedrop](https://github.com/ShareDropio/sharedrop): Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 * [jimmod/ShareToComputer](https://github.com/jimmod/ShareToComputer): None
 * [marcosdiez/shareviahttp](https://github.com/marcosdiez/shareviahttp): Share Via Http - Android
+* [ShareX/ShareX](https://github.com/ShareX/ShareX): ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.
 * [jlord/sheetsee-pocket](https://github.com/jlord/sheetsee-pocket): A website for your Pocket article archive. Fork-n-Go!
 * [koalaman/shellcheck](https://github.com/koalaman/shellcheck): ShellCheck, a static analysis tool for shell scripts
 * [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock): Hunt down social media accounts by username across social networks
