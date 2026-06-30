@@ -2350,7 +2350,7 @@ creating your own Awesome List by GitHub stars!
 * [shredthaGNAR/OS-Folder-Icons](https://github.com/shredthaGNAR/OS-Folder-Icons): A collection of custom folder icons for (Mac, Linux and Windows)
 * [opengaming/osgameclones](https://github.com/opengaming/osgameclones): Open Source Clones of Popular Games
 * [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet): OSINT cheat sheet, list OSINT tools, wiki, dataset, article, book , red team OSINT for hackers and OSINT tips and OSINT branch. This repository will grow every time will research, there is a research, science and technology, tutorial. Please use it wisely.
-* [soxoj/osint-namecheckers-list](https://github.com/soxoj/osint-namecheckers-list): A list of tools to search accounts by username
+* [soxoj/osint-namecheckers-list](https://github.com/soxoj/osint-namecheckers-list):  🕵🏽‍♀️ Curated list of OSINT tools and online services to find social media accounts by username
 * [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection): A collection of several hundred online tools for OSINT
 * [rly0nheart/osinteye](https://github.com/rly0nheart/osinteye): Username enumeration & reconnaisance suite
 * [awareseven/OSINTsources](https://github.com/awareseven/OSINTsources): This is a repo containing several osint sources
@@ -3107,7 +3107,7 @@ creating your own Awesome List by GitHub stars!
 * [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot): Code AI platform with Code Search & Cody
 * [sowdust/sowdust.github.io](https://github.com/sowdust/sowdust.github.io): Facebook search engine that works after the Graph API has been shut down
 * [soscripted/sox](https://github.com/soscripted/sox): Stack Overflow Extras: a userscript for the Stack Exchange websites to add a bunch of optional toggle-able features
-* [djsiddz/space-ahead](https://github.com/djsiddz/space-ahead): Space Ahead! An Astro v6 powered personal blog template.
+* [djsiddz/space-ahead](https://github.com/djsiddz/space-ahead): Space Ahead! An Astro v7 powered personal blog template.
 * [cmacrae/spacebar](https://github.com/cmacrae/spacebar): A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
 * [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt): 🚀✨ Minimalistic, powerful and extremely customizable Zsh prompt
 * [friedPotat0/Spam-Scores](https://github.com/friedPotat0/Spam-Scores): Thunderbird add-on to display spam scores according to mail headers. Supports spam/ham score headers of Rspamd and SpamAssassin. The add-on adds a column with the overall spam score to the mail list view and shows details of any matched spam/ham rule.
@@ -3542,6 +3542,7 @@ creating your own Awesome List by GitHub stars!
 * [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples): Sample code illustrating the VS Code extension API.
 * [kenhowardpdx/vscode-gist](https://github.com/kenhowardpdx/vscode-gist): vscode extension for quick gists
 * [SimonSiefke/vscode-html-missing-features](https://github.com/SimonSiefke/vscode-html-missing-features): None
+* [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons): Icons for Visual Studio Code
 * [paulhoughton/vscode-jscpd](https://github.com/paulhoughton/vscode-jscpd): Copy/Paste Detector (jscpd) for Visual Studio Code
 * [panoply/vscode-liquid](https://github.com/panoply/vscode-liquid): 💧Liquid language support for VS Code
 * [killalau/vscode-liquid-snippets](https://github.com/killalau/vscode-liquid-snippets): Shopify Liquid Template Snippets
