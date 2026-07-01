@@ -91,6 +91,7 @@ creating your own Awesome List by GitHub stars!
 * [EvanZhouDev/ai-model-index](https://github.com/EvanZhouDev/ai-model-index): Find the best models for any task. For free.
 * [Tolga1452/ai-prompts](https://github.com/Tolga1452/ai-prompts): A collection of original system prompts and tool data used for AI chatbots. Explore how companies such as ChatGPT prompt their AIs!
 * [houssinehn11/ai-proxy](https://github.com/houssinehn11/ai-proxy): 🚀 Streamline access to major AI models like ChatGPT and Claude with a unified API, enhancing reliability and reducing costs for developers in China.
+* [asleepace/ai-rename-screenshot](https://github.com/asleepace/ai-rename-screenshot): Swift helper for renaming Screenshots with Ai
 * [cpbotha/ai-screenshot-namer](https://github.com/cpbotha/ai-screenshot-namer): Rename your screenshots with ollama LLaVA, GPT-4o and macOS OCR
 * [tarurata/ai-text-transformer](https://github.com/tarurata/ai-text-transformer): Raycast extension to apply AI prompts to clipboard content
 * [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions): 🤖 AI browser extensions & userscripts to augment your web experience
@@ -361,6 +362,7 @@ creating your own Awesome List by GitHub stars!
 * [yjose/awesome-new](https://github.com/yjose/awesome-new): A list of `.new` domains to perform online actions in one quick action.
 * [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian): 🕶️ Awesome stuff for Obsidian
 * [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents): 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
+* [weisser-dev/awesome-opencode](https://github.com/weisser-dev/awesome-opencode): 108 agents, 15 skills, smart model config, and interactive CLI for OpenCode — npx @weisser-dev/awesome-opencode
 * [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint): :scream: A curated list of amazingly awesome OSINT
 * [Astrosp/Awesome-OSINT-List](https://github.com/Astrosp/Awesome-OSINT-List): 📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI.
 * [lorien/awesome-pastebins](https://github.com/lorien/awesome-pastebins): List of pastebin services
@@ -717,7 +719,7 @@ creating your own Awesome List by GitHub stars!
 * [stephanemoni/cobalt-api](https://github.com/stephanemoni/cobalt-api): Media downloader
 * [infinilabs/coco-app](https://github.com/infinilabs/coco-app): 🥥 Coco AI App - Search, Connect, Collaborate, Personal AI Search and Assistant, all in one space.
 * [just-every/code](https://github.com/just-every/code): Every Code - push frontier AI to it limits. A fork of the Codex CLI with validation, automation, browser integration, multi-agents, theming, and much more. Orchestrate agents from OpenAI, Claude, Gemini or any provider.
-* [JudiniLabs/code-gpt-docs](https://github.com/JudiniLabs/code-gpt-docs): Docusaurus page
+* [diffbot/code-gpt-docs](https://github.com/diffbot/code-gpt-docs): Docusaurus page
 * [lauthieb/code-notes](https://github.com/lauthieb/code-notes): (No longer maintained) A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 * [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt): A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 * [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim): ✨ AI Coding, Vim Style
@@ -892,7 +894,6 @@ creating your own Awesome List by GitHub stars!
 * [vorillaz/devicons](https://github.com/vorillaz/devicons): devicons - Crisp and clear logos & icons for developers. 
 * [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll): (FREE SITE GENERATOR) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS :rocket: in minutes built for developers. (with CMS) ✨
 * [devaradise/devolio](https://github.com/devaradise/devolio): A Simple Astro Portfolio & Blog Template for Developers
-* [BrettHuang2019/devportfolio](https://github.com/BrettHuang2019/devportfolio): A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 * [QJX-XXXX/devportfolio](https://github.com/QJX-XXXX/devportfolio): A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 * [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio): A modern, minimalist portfolio template built with Astro and Tailwind CSS. Perfect for developers looking to showcase their skills, experience, and projects in a clean, professional way.
 * [stevepeak/dexa-raycast](https://github.com/stevepeak/dexa-raycast): Dexa raycast extension
@@ -1759,7 +1760,7 @@ creating your own Awesome List by GitHub stars!
 * [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep): A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 * [brianluby/karakeep-extractor](https://github.com/brianluby/karakeep-extractor): None
 * [duongdev/karakeep-social-ai](https://github.com/duongdev/karakeep-social-ai): A personal bookmark manager that auto-syncs saved posts from multiple social platforms (X, Reddit, YouTube, TikTok, Dribbble, Instagram, Facebook), with AI-powered summarization, categorization, and intelligent search using Claude.
-* [sozercan/kaset](https://github.com/sozercan/kaset): 📻 The missing YouTube and YouTube Music macOS app
+* [sozercan/kaset](https://github.com/sozercan/kaset): 📼 The missing YouTube and YouTube Music macOS app
 * [kazimmt/kazimmt.github.io](https://github.com/kazimmt/kazimmt.github.io): Organized ReVanced & ReVanced Extended functionalities along with visual illustrations.
 * [pqrs-org/KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications): Karabiner-Elements complex_modifications rules
 * [tmcinerney/keep](https://github.com/tmcinerney/keep): Run Google Keep in the menu bar
