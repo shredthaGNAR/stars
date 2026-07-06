@@ -27,6 +27,7 @@ creating your own Awesome List by GitHub stars!
 
 * [zhekazuev/.mac-dotfiles](https://github.com/zhekazuev/.mac-dotfiles): My configs for prompt and terminal
 * [badmojr/1Hosts](https://github.com/badmojr/1Hosts): Advanced DNS filter/blocklists for privacy, security, and clean browsing.
+* [arch3rPro/1Panel-Appstore](https://github.com/arch3rPro/1Panel-Appstore): 1Panel-第三方应用商店(运维监控、免费大模型API、Nas工具、容器管理)
 * [tortious/2019Firefox](https://github.com/tortious/2019Firefox): None
 * [tortious/2021_Firefox](https://github.com/tortious/2021_Firefox): Updated config settings & possibilities for Firefox. This includes all file types (css; uc.js; js; etc) and other tips and tricks, including about:config tweaks
 * [rsapkf/42](https://github.com/rsapkf/42): @rsapkf's wiki. [Merged into rsapkf/www]
@@ -636,7 +637,6 @@ creating your own Awesome List by GitHub stars!
 * [qnguyen3/chat-with-mlx](https://github.com/qnguyen3/chat-with-mlx): An all-in-one LLMs Chat UI for Apple Silicon Mac using MLX Framework.
 * [ivanfioravanti/chatbot-ollama](https://github.com/ivanfioravanti/chatbot-ollama): Chatbot Ollama is an open source chat UI for Ollama.
 * [chatboxai/chatbox](https://github.com/chatboxai/chatbox): Powerful AI Client
-* [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT): OpenAI API Free Reverse Proxy
 * [khzg/ChatGPT](https://github.com/khzg/ChatGPT): Ai Chat everywhere (firefox addons)
 * [lencx/ChatGPT](https://github.com/lencx/ChatGPT): 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 * [ZohaibAhmed/chatgpt-api](https://github.com/ZohaibAhmed/chatgpt-api): This repo is unofficial ChatGPT api. It is based on Daniel Gross's WhatsApp GPT
@@ -727,7 +727,7 @@ creating your own Awesome List by GitHub stars!
 * [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit): 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 * [zai-org/CodeGeeX2](https://github.com/zai-org/CodeGeeX2): CodeGeeX2: A More Powerful Multilingual Code Generation Model
 * [CodeverDotDev/codever](https://github.com/CodeverDotDev/codever): Bookmarks & Notes Manager for Developers — with Markdown and Code Snippets support
-* [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat): Connect VS Code with free chatbots
+* [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat): Connect VS Code with chatbots
 * [jcv8000/Codex](https://github.com/jcv8000/Codex): A free note-taking software for programmers and Computer Science students
 * [openai/codex](https://github.com/openai/codex): Lightweight coding agent that runs in your terminal
 * [frankmdmc/CodexDidThis](https://github.com/frankmdmc/CodexDidThis): GPT Codex Did This
@@ -2326,6 +2326,7 @@ creating your own Awesome List by GitHub stars!
 * [anomalyco/opencode](https://github.com/anomalyco/opencode): The open source coding agent.
 * [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher): Experience macOS just like before
 * [acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg): OpenCore bootloader
+* [PawanOsman/OpenCursor](https://github.com/PawanOsman/OpenCursor): Open-source Cursor-like AI coding agent for VS Code — agentic chat, multi-provider LLMs (OpenAI, Ollama, llama.cpp), semantic search, and MCP support
 * [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop): An open Apple AirDrop implementation written in Python
 * [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu): 🕹 Retro video game emulation for macOS
 * [hjerpbakk/OpenFolderInVSCode](https://github.com/hjerpbakk/OpenFolderInVSCode): With this macOS service, you can quickly open any given folder as a project in Visual Studio Code from the Finders context menu.
