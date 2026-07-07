@@ -727,7 +727,7 @@ creating your own Awesome List by GitHub stars!
 * [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit): 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 * [zai-org/CodeGeeX2](https://github.com/zai-org/CodeGeeX2): CodeGeeX2: A More Powerful Multilingual Code Generation Model
 * [CodeverDotDev/codever](https://github.com/CodeverDotDev/codever): Bookmarks & Notes Manager for Developers — with Markdown and Code Snippets support
-* [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat): Connect VS Code with chatbots
+* [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat): Chatbot-first AI coding for VS Code
 * [jcv8000/Codex](https://github.com/jcv8000/Codex): A free note-taking software for programmers and Computer Science students
 * [openai/codex](https://github.com/openai/codex): Lightweight coding agent that runs in your terminal
 * [frankmdmc/CodexDidThis](https://github.com/frankmdmc/CodexDidThis): GPT Codex Did This
@@ -1164,7 +1164,6 @@ creating your own Awesome List by GitHub stars!
 * [anewuser/firefox-clean-dark-theme](https://github.com/anewuser/firefox-clean-dark-theme): Firefox dark theme with a less cluttered UI
 * [vallovic/firefox-colorize-container-toolbar](https://github.com/vallovic/firefox-colorize-container-toolbar): Firefox extension to automatically colorize browser toolbar by matching the color of the active container tab
 * [Mrbigdog99/Firefox-compact](https://github.com/Mrbigdog99/Firefox-compact): Compact userChrome for Firefox Proton
-* [krathalan/firefox-complement](https://github.com/krathalan/firefox-complement): None
 * [chroniflux/firefox-config](https://github.com/chroniflux/firefox-config): None
 * [HamletDuFromage/firefox-css](https://github.com/HamletDuFromage/firefox-css): None
 * [Shadow-of-Colossus/Firefox-CSS](https://github.com/Shadow-of-Colossus/Firefox-CSS): A mish mash of css files to change Firefox appearance, more of old style
