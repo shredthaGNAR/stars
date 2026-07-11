@@ -1522,7 +1522,7 @@ creating your own Awesome List by GitHub stars!
 * [arkenfox/gui](https://github.com/arkenfox/gui): A companion gui for arkenfox user.js
 * [samfromaway/Gulp-Boilerplate01](https://github.com/samfromaway/Gulp-Boilerplate01): Boilerplate for a Gulp-Workflow for a Youtube video. If you are lazy like me and are always on the watch out of how you can optimize your workflow especially in regards to deploying a HTML CSS Javascript website this boilerplate is for you. 
 * [jasewarner/gulp-shopify](https://github.com/jasewarner/gulp-shopify): Blank slate Shopify theme for Developers, packaged with Gulp.js for processing SCSS, JavaScript (ES6), images and fonts. Made to support Online Store 2.0 features and Shopify CLI.
-* [akkva/gwfox](https://github.com/akkva/gwfox): Bringing a refreshing macOS-inspired skin to Firefox
+* [akkva/gwfox](https://github.com/akkva/gwfox): Bringing a crisp new look to Firefox
 * [akkva/GWfox-T](https://github.com/akkva/GWfox-T): A macOS Tahoe-style Firefox theme 
 * [glomatico/gytmdl](https://github.com/glomatico/gytmdl): A command-line app for downloading YouTube Music songs with tags from YouTube Music.
 * [Mattlk13/h4cker](https://github.com/Mattlk13/h4cker): This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
@@ -3177,7 +3177,7 @@ creating your own Awesome List by GitHub stars!
 * [erosman/support](https://github.com/erosman/support): Support Location for all my extensions
 * [pieces-app/support](https://github.com/pieces-app/support): None
 * [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys): Map your keys for web surfing, expand your browser with javascript and keyboard.
-* [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense): NotebookLM for Competitive Intelligence. Give your AI agents Competitive Intelligence. Join our Discord: https://discord.gg/ejRNvftDp9
+* [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense): NotebookLM for Competitive Intelligence Research. Give your AI agents Competitive Intelligence. Join our Discord: https://discord.gg/ejRNvftDp9
 * [Loyalsoldier/surge-rules](https://github.com/Loyalsoldier/surge-rules): 🦄 🎃 👻 Surge 规则集(DOMAIN-SET 和 RULE-SET)，适用于 Surge for iOS 和 Surge for Mac 客户端。
 * [jekyllt/sustain](https://github.com/jekyllt/sustain): 🎹 Personal blog powered by Jekyll
 * [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler): Open source browser extension for finding, editing, exporting, optimizing, and managing SVG content.
@@ -3209,7 +3209,7 @@ creating your own Awesome List by GitHub stars!
 * [syphon-org/syphon](https://github.com/syphon-org/syphon): ⚗️  a privacy centric matrix client 
 * [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
 * [Wyattwalls/system_prompts](https://github.com/Wyattwalls/system_prompts): None
-* [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks): Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
+* [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks): Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
 * [RoadToDream/SzContext](https://github.com/RoadToDream/SzContext): Add context menu to macOS Finder 
 * [janraasch/tab-ahead](https://github.com/janraasch/tab-ahead): Web Browser Extension that helps you to quickly find open tabs by title and URL.
 * [Lej77/tab-count-in-window-title](https://github.com/Lej77/tab-count-in-window-title): None
