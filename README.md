@@ -98,7 +98,7 @@ creating your own Awesome List by GitHub stars!
 * [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions): 🤖 AI browser extensions & userscripts to augment your web experience
 * [lszefner/aiautomatize](https://github.com/lszefner/aiautomatize): A modern, multilingual landing page for AI Automatize - a service that helps businesses integrate AI-powered automation to improve conversion rates, save time, and scale operations.
 * [Aider-AI/aider](https://github.com/Aider-AI/aider): aider is AI pair programming in your terminal
-* [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists): A collection of unified blocklists designed to provide complete filtering capabilities for different online threats. These blocklists are curated from multiple sources (click 🔴 The Sources 🔴 to view), offering a robust solution for blocking ads, malware, trackers, and other unwanted content.
+* [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists): A collection of unified blocklists designed to provide complete filtering capabilities for different online threats. These blocklists are curated from multiple sources (click 🔴 The Sources 🔴 in README.md to view), offering a robust solution for blocking ads, malware, trackers, and other unwanted content.
 * [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams): One addon to rule them all. AIOStreams consolidates multiple Stremio addons and debrid services into a single, highly customisable super-addon. 
 * [NeloF4/AIOTools](https://github.com/NeloF4/AIOTools): All In One Tools Hacking 
 * [AIPexStudio/AIPex](https://github.com/AIPexStudio/AIPex): AIPex: AI browser automation assistant, no migration and privacy first. Alternative to Manus Browser Operator、 Claude Chrome and Agent Browser
@@ -256,7 +256,7 @@ creating your own Awesome List by GitHub stars!
 * [MarcusHoltz/astro-portfolio-theme](https://github.com/MarcusHoltz/astro-portfolio-theme): Astro Portfolio Theme. Use on almost any host. Ditch the CMS. Edit a few JSON files - personal info, skills, project showcases - build, and deploy. 
 * [netlify-templates/astro-quickstart](https://github.com/netlify-templates/astro-quickstart): A bare-bones Astro template to get you deployed to Netlify fast!
 * [wasutz/astro-resume-theme](https://github.com/wasutz/astro-resume-theme): Astro Resume Theme is a customizable and responsive template designed to help you create a beautiful online resume or portfolio quickly. Built with Astro and styled using Tailwind CSS.
-* [hansmartensdev/Astro-Rocket](https://github.com/hansmartensdev/Astro-Rocket): A production-ready Astro 7 starter with 12 beautiful themes, 57+ components, built-in i18n, dark mode and a fast, modern foundation to build anything on.
+* [hansmartensdev/Astro-Rocket](https://github.com/hansmartensdev/Astro-Rocket): Lightning-fast Astro 7 starter theme to build anything on: 57+ designed components, 12 colour themes, dark mode and built-in i18n. Astro Rocket is created by Hans Martens Dev — Freelance Astro Developer.  https://hansmartens.dev
 * [devgelo-labs/astro-starter-pro](https://github.com/devgelo-labs/astro-starter-pro): Astro Starter Pro: A free, production-ready Astro starter focused on SEO, performance, and best practices.
 * [immois/astro-zen](https://github.com/immois/astro-zen): Minimalist, accessible and SEO-optimized personal portfolio website template.
 * [manuelernestog/astrofy](https://github.com/manuelernestog/astrofy): Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS. Create in minutes a website with Blog, CV, Project Section, Store and RSS Feed.
@@ -492,6 +492,7 @@ creating your own Awesome List by GitHub stars!
 * [TarekJor/bookmark-archiver](https://github.com/TarekJor/bookmark-archiver): 🗄 Save an archived copy of websites from Pocket/Pinboard/Bookmarks/RSS. Outputs HTML, PDFs, and more...
 * [MrOtherGuy/bookmark-batch-updater](https://github.com/MrOtherGuy/bookmark-batch-updater): A webextension tool to update multiple bookmarks at once
 * [Rob--W/bookmark-container-tab](https://github.com/Rob--W/bookmark-container-tab): Firefox add-on to add "Open in Container Tab" menu item to bookmark menus
+* [chirag127/bookmark-mind](https://github.com/chirag127/bookmark-mind): AI-driven browser extension that automatically categorizes bookmarks using Gemini, Groq, and other LLMs, offering snapshot/undo, performance insights, and seamless cross‑browser support.
 * [aaFn/Bookmark-search-plus-2](https://github.com/aaFn/Bookmark-search-plus-2): Displays and filters bookmarks on search string, show parent folders.  This is a Web Extension add-on version of the old "Bookmark search plus" XUL extension published by Alice0775, not working anymore in latest Firefox, and which was very useful.
 * [Kiuryy/Bookmark_Sidebar](https://github.com/Kiuryy/Bookmark_Sidebar): Browser extension, which adds a toggleable sidebar with all your bookmarks on the left or right side of your screen.
 * [last-arg/bookmark_with_pocket](https://github.com/last-arg/bookmark_with_pocket): Browser extension that adds bookmark to Pocket if rules allow it
@@ -1054,7 +1055,6 @@ creating your own Awesome List by GitHub stars!
 * [Zabakes/export-tabs-urls](https://github.com/Zabakes/export-tabs-urls): https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
 * [alct/export-tabs-urls](https://github.com/alct/export-tabs-urls): https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
 * [clach04/export-tabs-urls-phoenix](https://github.com/clach04/export-tabs-urls-phoenix): Fork of the original Export Tab URLs - for Chrome, Edge, and Firefox with html export and text import (open tab) support
-* [chirag127/ext-bookmark-mind](https://github.com/chirag127/ext-bookmark-mind): AI-driven browser extension that automatically categorizes bookmarks using Gemini, Groq, and other LLMs, offering snapshot/undo, performance insights, and seamless cross‑browser support.
 * [zaksid/ext-duplicate-bookmarks-finder](https://github.com/zaksid/ext-duplicate-bookmarks-finder): Browser extension that allows to find and delete duplicate bookmarks.
 * [crimx/ext-saladict](https://github.com/crimx/ext-saladict): 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
 * [Tuhinshubhra/ExtAnalysis](https://github.com/Tuhinshubhra/ExtAnalysis): Browser Extension Analysis Framework - Scan, Analyze Chrome, firefox and Brave extensions for vulnerabilities and intels
@@ -1896,7 +1896,7 @@ creating your own Awesome List by GitHub stars!
 * [ParisNeo/lollms](https://github.com/ParisNeo/lollms): An all in one AI solution compatible with any known AI service on the planet
 * [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui): Lord of Large Language and Multi modal Systems Web User Interface
 * [ParisNeo/lollms_legacy](https://github.com/ParisNeo/lollms_legacy): Lord of LLMS
-* [kunkka19xx/look](https://github.com/kunkka19xx/look): An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.
+* [kunkka19xx/look](https://github.com/kunkka19xx/look): An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳
 * [TB-throwback/LookOut-fix-version](https://github.com/TB-throwback/LookOut-fix-version): Fork of LookOut (fix version)
 * [mrkai77/Loop](https://github.com/mrkai77/Loop): Window management made elegant.
 * [vincentneo/LosslessSwitcher](https://github.com/vincentneo/LosslessSwitcher): Automated Apple Music Lossless Sample Rate Switching for Audio Devices on Macs.
@@ -2709,7 +2709,6 @@ creating your own Awesome List by GitHub stars!
 * [SKaplanOfficial/Raycast-PromptLab](https://github.com/SKaplanOfficial/Raycast-PromptLab): A Raycast extension for creating powerful, contextually-aware AI commands using placeholders, action scripts, selected files, and more.
 * [gabriel-moresco/raycast-quick-ai](https://github.com/gabriel-moresco/raycast-quick-ai): None
 * [szcharlesji/raycast-relay](https://github.com/szcharlesji/raycast-relay): Relay your Raycast AI to an OpenAI compatible API endpoint
-* [DankeyDevDave/raycast-scripts](https://github.com/DankeyDevDave/raycast-scripts): Raycast automation scripts for AI services, API testing, and YouTube summarization
 * [adriangrantdotorg/Raycast-Skill](https://github.com/adriangrantdotorg/Raycast-Skill): Agentic Skill for Raycast — best practices for building extensions, wrangling external APIs, and more! Compatible with Claude, Cursor, OpenAI, Gemini CLI, Google Antigravity.
 * [TimoBechtel/raycast-skillset](https://github.com/TimoBechtel/raycast-skillset): Adds skills support to Raycast AI
 * [Vincenzo160/Raycast-Spell](https://github.com/Vincenzo160/Raycast-Spell): Struggling to spell a word? With this Raycast extension, even with typos, you can type the word and receive a list of matching suggestions using the OneLook API.
@@ -3675,7 +3674,7 @@ creating your own Awesome List by GitHub stars!
 * [purocean/yn](https://github.com/purocean/yn): A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macro replacement.
 * [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript): CSS is powerful, you can do a lot of things without JS.
 * [soimort/you-get](https://github.com/soimort/you-get): :arrow_double_down: Dumb downloader that scrapes the web
-* [code-charity/youtube](https://github.com/code-charity/youtube): YouTube / Video Browser-Extension. [Top1 Foss.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌250+ tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quality|codec|full tab|full screen|no distraction|shorts}
+* [code-charity/youtube](https://github.com/code-charity/youtube): YouTube / Video Browser-Extension. [Top1 FOSS.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌350+ tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quality|codec|full tab|full screen|no distraction|shorts}
 * [OsaSoft/youtube-better-subscriptions](https://github.com/OsaSoft/youtube-better-subscriptions): This extension for Firefox and Chrome aims to make navigating YouTube's subscription grid easier by allowing users to hide watched videos
 * [KikoTs/youtube-desktop](https://github.com/KikoTs/youtube-desktop): YouTube Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 * [Jeeaaasus/youtube-dl](https://github.com/Jeeaaasus/youtube-dl): Automated yt-dlp Docker image
