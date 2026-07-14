@@ -2644,7 +2644,7 @@ creating your own Awesome List by GitHub stars!
 * [chhoumann/quickadd](https://github.com/chhoumann/quickadd): QuickAdd for Obsidian
 * [RealRaven2000/quickFilters](https://github.com/RealRaven2000/quickFilters): Thunderbird Add-on: quickFilters 
 * [RealRaven2000/QuickFolders](https://github.com/RealRaven2000/QuickFolders): Thunderbird Add-on: QuickFolders
-* [Marginal/QuickLookVideo](https://github.com/Marginal/QuickLookVideo): This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files.
+* [Marginal/QuickLookVideo](https://github.com/Marginal/QuickLookVideo): Finder Thumbnails, Quick Look previews, Get Info metadata and previews for most types of audio and video files.
 * [quicksilver/Quicksilver](https://github.com/quicksilver/Quicksilver): Quicksilver Project Source
 * [jobisoft/quicktext](https://github.com/jobisoft/quicktext): An extension for Thunderbird that lets you create templates that can be easily inserted into your own emails.
 * [kamryn404/quietfox](https://github.com/kamryn404/quietfox): Very Clean Firefox userChrome Mod
@@ -3231,7 +3231,6 @@ creating your own Awesome List by GitHub stars!
 * [onemen/TabMixPlus](https://github.com/onemen/TabMixPlus): New Tab mix plus for modern Firefox
 * [DanielDe/TabRearranger](https://github.com/DanielDe/TabRearranger): Chrome extension to rearrange tabs and move them between windows using keyboard shortcuts
 * [tim-we/tabs-aside](https://github.com/tim-we/tabs-aside): A session/tab manager web extension for Firefox based on the Microsoft Edge feature.
-* [ClementGre/Tabs-Groups-Manager](https://github.com/ClementGre/Tabs-Groups-Manager): Firefox Add-ons to sync tabs between browsers and to manage tabs with custom tabs groups
 * [jingyu9575/tabs-to-bookmark-groups](https://github.com/jingyu9575/tabs-to-bookmark-groups): (Work in progress) Firefox extension to save the tabs to a bookmark group and switch between different groups.
 * [deniszanin/tabs2text](https://github.com/deniszanin/tabs2text): Tabs2Text is a Firefox extension to export all your opened tabs to a text file.
 * [nekoramuza/tabsaver](https://github.com/nekoramuza/tabsaver): Allows you to easily save all of your tabs for later use, reducing clutter
