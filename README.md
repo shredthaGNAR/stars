@@ -83,6 +83,7 @@ creating your own Awesome List by GitHub stars!
 * [Czarto/Adwords-Scripts](https://github.com/Czarto/Adwords-Scripts): Google Ads Bidding scripts
 * [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents): A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 * [uno-forge-hub/agency-landing-page-Astrojs](https://github.com/uno-forge-hub/agency-landing-page-Astrojs): A simple agency landing page made with astrojs and tailwindcss
+* [jazzyalex/agent-sessions](https://github.com/jazzyalex/agent-sessions): Local-first macOS app to browse, search, analyze, and resume supported AI coding-agent session history across Codex, Claude Code, OpenCode, Cursor Agent, Hermes, OpenClaw, Copilot CLI, and more.
 * [piroor/aggregate-tabs-to-main-window](https://github.com/piroor/aggregate-tabs-to-main-window): Aggregate new tabs to a window which has most many tabs and largest size.
 * [fastaddons/AI-Anywhere](https://github.com/fastaddons/AI-Anywhere): None
 * [vanrohan/ai-bookmark-organizer](https://github.com/vanrohan/ai-bookmark-organizer): None
@@ -169,6 +170,7 @@ creating your own Awesome List by GitHub stars!
 * [shredthaGNAR/AlpenBr0-firefox-theme](https://github.com/shredthaGNAR/AlpenBr0-firefox-theme): Alpenfox custom theme eith glowing gradient active tab and gradient to transparent hover plus other mods. Use with firefox alpenglow for look in pics or use default dark/light for transparent theme with cool look.
 * [marcel8121/alpenglow-thunderbird](https://github.com/marcel8121/alpenglow-thunderbird): The Firefox "Alpenglow" Theme for Thunderbird.
 * [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme): Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
+* [TroopJostle/alt-tab-community](https://github.com/TroopJostle/alt-tab-community): Windows alt-tab on macOS 
 * [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos): Windows alt-tab on macOS 
 * [steventheworker/alt-tab-macos](https://github.com/steventheworker/alt-tab-macos): AltTab - scriptable branch
 * [javi11/altmount](https://github.com/javi11/altmount): usenet virtual fs
@@ -234,7 +236,7 @@ creating your own Awesome List by GitHub stars!
 * [axross/aqua](https://github.com/axross/aqua):  ♠️ Beautiful iOS/Android poker odds calculator app made of Flutter.
 * [yuuiko/AquaNotch](https://github.com/yuuiko/AquaNotch): Add a Notch to your old Macbook with BetterTouchTool.
 * [yuuiko/AquaTouch](https://github.com/yuuiko/AquaTouch): Dynamic Custom Macros for your MacBook TouchBar! (Supports 40+ Apps and Websites)
-* [betterbrowser/arcfox](https://github.com/betterbrowser/arcfox): Make your production flow
+* [betterbrowser/arcfox](https://github.com/betterbrowser/arcfox): Make your production flow.
 * [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox): 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 * [archivy/archivy](https://github.com/archivy/archivy): Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 * [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF): A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work with Windows, Linux and macOS ✨
@@ -1363,7 +1365,6 @@ creating your own Awesome List by GitHub stars!
 * [XInTheDark/gemini-ai-sdk](https://github.com/XInTheDark/gemini-ai-sdk): The better Google Gemini SDK (TypeScript)
 * [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli): An open-source AI agent that brings the power of Gemini directly into your terminal.
 * [googlecreativelab/gemini-demos](https://github.com/googlecreativelab/gemini-demos): None
-* [Nagi-ovo/gemini-voyager](https://github.com/Nagi-ovo/gemini-voyager): An all-in-one enhancement suite for Google Gemini & AI Studio - timeline navigation, folder management, prompt library, and chat export in one powerful extension. / Google Gemini & AI Studio 全能增强插件：集成时间轴导航、文件夹管理、提示词库及聊天导出等众多功能。
 * [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat): Minimal web UI for GeminiPro.
 * [ShivamMMMxyz/GeminiPromptsIndexer](https://github.com/ShivamMMMxyz/GeminiPromptsIndexer): None
 * [CJHwong/gems.sh](https://github.com/CJHwong/gems.sh): A Gemini Gem Manager in your MacBook powered by Gemma
@@ -1923,6 +1924,7 @@ creating your own Awesome List by GitHub stars!
 * [eth-p/mac-icons](https://github.com/eth-p/mac-icons): An assortment of custom MacOS folder icons, editable without Adobe products.
 * [zhuochun/mac-keyboard](https://github.com/zhuochun/mac-keyboard): 🎹 Keyboard Enhancements for Mac
 * [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix): Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!
+* [noah-nuebling/mac-mouse-fix-scripts](https://github.com/noah-nuebling/mac-mouse-fix-scripts): Collection of scripts which we want to share between the mac-mouse-fix and mac-mouse-fix-website repos. 
 * [maximbilan/Mac-OS-X-App-Menu-Bar-Popup](https://github.com/maximbilan/Mac-OS-X-App-Menu-Bar-Popup): Mac OS X Application like a menu bar popup message
 * [anonymousaga/mac-passwords-app](https://github.com/anonymousaga/mac-passwords-app): An app that allows you to view keychain passwords with one click.
 * [haokaiyang/Mac-QuickLook](https://github.com/haokaiyang/Mac-QuickLook): QuickLook plugins and packages
@@ -2257,7 +2259,7 @@ creating your own Awesome List by GitHub stars!
 * [OhShINT/ohshint.gitbook.io](https://github.com/OhShINT/ohshint.gitbook.io): So what is this all about? Yep, its an OSINT blog and a collection of OSINT resources and tools. Suggestions for new OSINT resources is always welcomed.
 * [cbuijs/oisd](https://github.com/cbuijs/oisd): Optimized version of OISD BlockLists
 * [tom-james-watson/old-reddit-redirect](https://github.com/tom-james-watson/old-reddit-redirect): Ensure Reddit always loads the old design
-* [ollama/ollama](https://github.com/ollama/ollama): Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+* [ollama/ollama](https://github.com/ollama/ollama): Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 * [ollama-ui/ollama-ui](https://github.com/ollama-ui/ollama-ui): Simple HTML UI for Ollama
 * [kevinhermawan/Ollamac](https://github.com/kevinhermawan/Ollamac): Mac app for Ollama
 * [Sine-Of-Time/Omaha-Poker](https://github.com/Sine-Of-Time/Omaha-Poker):  A program that evaluates the winner of a 2-player Omaha-High Hold’em poker game.
@@ -3177,7 +3179,7 @@ creating your own Awesome List by GitHub stars!
 * [erosman/support](https://github.com/erosman/support): Support Location for all my extensions
 * [pieces-app/support](https://github.com/pieces-app/support): None
 * [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys): Map your keys for web surfing, expand your browser with javascript and keyboard.
-* [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense): NotebookLM for Competitive Intelligence Research. Give your AI agents access to live data from the Internet. Join our Discord: https://discord.gg/ejRNvftDp9
+* [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense): Open-source NotebookLM alternative for AI agents. Research the open web with live data connectors for Reddit, YouTube, Amazon, Google Maps, and Google Search, through one API or MCP server. Join our Discord: https://discord.gg/ejRNvftDp9
 * [Loyalsoldier/surge-rules](https://github.com/Loyalsoldier/surge-rules): 🦄 🎃 👻 Surge 规则集(DOMAIN-SET 和 RULE-SET)，适用于 Surge for iOS 和 Surge for Mac 客户端。
 * [jekyllt/sustain](https://github.com/jekyllt/sustain): 🎹 Personal blog powered by Jekyll
 * [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler): Open source browser extension for finding, editing, exporting, optimizing, and managing SVG content.
@@ -3529,6 +3531,7 @@ creating your own Awesome List by GitHub stars!
 * [nt1m/vivaldi-fox](https://github.com/nt1m/vivaldi-fox): An add-on that aims to add Vivaldi style toolbar colouring to the Firefox UI
 * [sharkdp/vivid](https://github.com/sharkdp/vivid): A themeable LS_COLORS generator with a rich filetype datebase
 * [muhummadPatel/vLoader](https://github.com/muhummadPatel/vLoader): An extremely simple, no frills, GUI-based video downloader
+* [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager): Voyager — an all-in-one enhancement suite for AI Studio, Gemini, Claude & ChatGPT: timelines, folders, prompts, usage tracking, chat export, plugins, and more. / 面向 AI Studio、Gemini、Claude 与 ChatGPT 的全能增强套件。
 * [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot): Share your VPN connection over hotspot or repeater! (root required)
 * [AdamCaviness/vs-code-theme-monokai-dark-soda](https://github.com/AdamCaviness/vs-code-theme-monokai-dark-soda): A VS Code theme
 * [microsoft/vscode](https://github.com/microsoft/vscode): Visual Studio Code
@@ -3558,7 +3561,7 @@ creating your own Awesome List by GitHub stars!
 * [benhcai/VSCode-Theme-Snazzy](https://github.com/benhcai/VSCode-Theme-Snazzy): None
 * [phoihos/vscode-translate-it](https://github.com/phoihos/vscode-translate-it): Text/Comment Translator Extension for VS Code    https://marketplace.visualstudio.com/items?itemName=phoihos.translate-it
 * [EYHN/vscode-vibrancy](https://github.com/EYHN/vscode-vibrancy): Enable Acrylic/Glass effect for your VS Code.
-* [illixion/vscode-vibrancy-continued](https://github.com/illixion/vscode-vibrancy-continued): Enable Acrylic/Mica/Glass effect for your VS Code.
+* [illixion/vscode-vibrancy-continued](https://github.com/illixion/vscode-vibrancy-continued): Enable Acrylic/Mica/Glass effect for your VS Code
 * [andrejsharapov/vue-box-shadows](https://github.com/andrejsharapov/vue-box-shadows): Collection of CSS box-shadows for every taste contains more than 100 simple, beautiful and airy shadows.
 * [Kocal/vue-web-extension](https://github.com/Kocal/vue-web-extension): 🛠️ A Vue CLI 3+ preset (previously a Vue CLI 2 boilerplate) for quickly starting a web extension with Vue, Babel, ESLint and more!
 * [sedemmler/WagerBrain](https://github.com/sedemmler/WagerBrain): A package containing the essential math required for sports betting and gambling.
