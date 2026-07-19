@@ -1862,7 +1862,7 @@ creating your own Awesome List by GitHub stars!
 * [fregante/list-github-dir-content](https://github.com/fregante/list-github-dir-content): List all the files in a GitHub repo’s directory
 * [blocklistproject/Lists](https://github.com/blocklistproject/Lists): Primary Block Lists
 * [jnv/lists](https://github.com/jnv/lists): The definitive list of lists (of lists) curated on GitHub and elsewhere
-* [BerriAI/litellm](https://github.com/BerriAI/litellm): Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]
+* [BerriAI/litellm](https://github.com/BerriAI/litellm): The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]
 * [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM): LiteRT-LM is Google's production-ready, high-performance, open-source inference framework for deploying Large Language Models on edge devices.
 * [gzanuttinifrank/live-basketball-odds-scraper](https://github.com/gzanuttinifrank/live-basketball-odds-scraper): Scraper for all ongoing basketball games on Bovada
 * [webextensions/live-css-editor](https://github.com/webextensions/live-css-editor): Source code for Chrome/Edge/Firefox/Opera extension Magic CSS (Live editor for CSS, Less & Sass)
@@ -3179,7 +3179,7 @@ creating your own Awesome List by GitHub stars!
 * [erosman/support](https://github.com/erosman/support): Support Location for all my extensions
 * [pieces-app/support](https://github.com/pieces-app/support): None
 * [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys): Map your keys for web surfing, expand your browser with javascript and keyboard.
-* [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense): Open-source NotebookLM alternative for AI agents. Research the open web with live data connectors for Reddit, YouTube, Amazon, Google Maps, and Google Search, through one API or MCP server. Join our Discord: https://discord.gg/ejRNvftDp9
+* [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense): Open-source NotebookLM alternative. Research the open web with live data, through one platform, API or MCP server. Join our Discord: https://discord.gg/ejRNvftDp9
 * [Loyalsoldier/surge-rules](https://github.com/Loyalsoldier/surge-rules): 🦄 🎃 👻 Surge 规则集(DOMAIN-SET 和 RULE-SET)，适用于 Surge for iOS 和 Surge for Mac 客户端。
 * [jekyllt/sustain](https://github.com/jekyllt/sustain): 🎹 Personal blog powered by Jekyll
 * [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler): Open source browser extension for finding, editing, exporting, optimizing, and managing SVG content.
