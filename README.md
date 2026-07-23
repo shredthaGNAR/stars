@@ -85,7 +85,7 @@ creating your own Awesome List by GitHub stars!
 * [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents): A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 * [uno-forge-hub/agency-landing-page-Astrojs](https://github.com/uno-forge-hub/agency-landing-page-Astrojs): A simple agency landing page made with astrojs and tailwindcss
 * [jazzyalex/agent-sessions](https://github.com/jazzyalex/agent-sessions): Local-first macOS app to browse, search, analyze, and resume supported AI coding-agent session history across Codex, Claude Code, OpenCode, Cursor Agent, Hermes, OpenClaw, Copilot CLI, and more.
-* [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills): AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 1,969+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.
+* [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills): AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 1,987+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.
 * [piroor/aggregate-tabs-to-main-window](https://github.com/piroor/aggregate-tabs-to-main-window): Aggregate new tabs to a window which has most many tabs and largest size.
 * [fastaddons/AI-Anywhere](https://github.com/fastaddons/AI-Anywhere): None
 * [vanrohan/ai-bookmark-organizer](https://github.com/vanrohan/ai-bookmark-organizer): None
@@ -262,7 +262,7 @@ creating your own Awesome List by GitHub stars!
 * [MarcusHoltz/astro-portfolio-theme](https://github.com/MarcusHoltz/astro-portfolio-theme): Astro Portfolio Theme. Use on almost any host. Ditch the CMS. Edit a few JSON files - personal info, skills, project showcases - build, and deploy. 
 * [netlify-templates/astro-quickstart](https://github.com/netlify-templates/astro-quickstart): A bare-bones Astro template to get you deployed to Netlify fast!
 * [wasutz/astro-resume-theme](https://github.com/wasutz/astro-resume-theme): Astro Resume Theme is a customizable and responsive template designed to help you create a beautiful online resume or portfolio quickly. Built with Astro and styled using Tailwind CSS.
-* [hansmartensdev/Astro-Rocket](https://github.com/hansmartensdev/Astro-Rocket): Lightning-fast Astro 7 starter theme to build anything on: 57+ designed components, 12 colour themes, dark mode and built-in i18n. Astro Rocket is created by Hans Martens Dev — Freelance Astro Developer.  https://hansmartens.dev
+* [hansmartensdev/Astro-Rocket](https://github.com/hansmartensdev/Astro-Rocket): Lightning-fast Astro 7 starter theme to build anything on: 57+ designed components, 12 colour themes, dark mode and built-in i18n. Astro Rocket is created by Hans Martens Dev — Astro Theme Developer.  https://hansmartens.dev
 * [devgelo-labs/astro-starter-pro](https://github.com/devgelo-labs/astro-starter-pro): Astro Starter Pro: A free, production-ready Astro starter focused on SEO, performance, and best practices.
 * [immois/astro-zen](https://github.com/immois/astro-zen): Minimalist, accessible and SEO-optimized personal portfolio website template.
 * [manuelernestog/astrofy](https://github.com/manuelernestog/astrofy): Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS. Create in minutes a website with Blog, CV, Project Section, Store and RSS Feed.
@@ -357,7 +357,7 @@ creating your own Awesome List by GitHub stars!
 * [Puliczek/awesome-list-of-secrets-in-environment-variables](https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables): 🦄🔒 Awesome list of secrets in environment variables 🖥️
 * [langgptai/awesome-llama-prompts](https://github.com/langgptai/awesome-llama-prompts): LLM prompts, llama3 prompts, llama2 prompts
 * [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM): Awesome-LLM: a curated list of Large Language Model
-* [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps): 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
+* [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps): 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
 * [WangRongsheng/awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources): 🧑‍🚀 全世界最好的LLM资料总结（多模态生成、Agent、辅助编程、AI审稿、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources. 
 * [ilsilfverskiold/Awesome-LLM-Resources-List](https://github.com/ilsilfverskiold/Awesome-LLM-Resources-List): A Curated Collection of resources for applied AI engineering (work in progress).
 * [vince-lam/awesome-local-llms](https://github.com/vince-lam/awesome-local-llms): Compare compatible open-source local LLM projects by their metrics to assess popularity and activeness.
@@ -646,7 +646,7 @@ creating your own Awesome List by GitHub stars!
 * [ivanfioravanti/chatbot-ollama](https://github.com/ivanfioravanti/chatbot-ollama): Chatbot Ollama is an open source chat UI for Ollama.
 * [chatboxai/chatbox](https://github.com/chatboxai/chatbox): Powerful AI Client
 * [khzg/ChatGPT](https://github.com/khzg/ChatGPT): Ai Chat everywhere (firefox addons)
-* [lencx/ChatGPT](https://github.com/lencx/ChatGPT): 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+* [lencx/ChatGPT](https://github.com/lencx/ChatGPT): ❄️ ChatGPT Desktop Application (Mac, Windows and Linux)
 * [ZohaibAhmed/chatgpt-api](https://github.com/ZohaibAhmed/chatgpt-api): This repo is unofficial ChatGPT api. It is based on Daniel Gross's WhatsApp GPT
 * [hunkimForks/chatgpt-arxiv-extension](https://github.com/hunkimForks/chatgpt-arxiv-extension): A browser extension that enhance search engines with ChatGPT
 * [ishandutta2007/chatgpt-arxiv-extension_hunkimForks](https://github.com/ishandutta2007/chatgpt-arxiv-extension_hunkimForks): A browser extension that enhance search engines with ChatGPT
@@ -737,7 +737,7 @@ creating your own Awesome List by GitHub stars!
 * [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit): 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 * [zai-org/CodeGeeX2](https://github.com/zai-org/CodeGeeX2): CodeGeeX2: A More Powerful Multilingual Code Generation Model
 * [CodeverDotDev/codever](https://github.com/CodeverDotDev/codever): Bookmarks & Notes Manager for Developers — with Markdown and Code Snippets support
-* [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat): Chatbot-first AI coding for VS Code
+* [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat): AI coding with static context
 * [jcv8000/Codex](https://github.com/jcv8000/Codex): A free note-taking software for programmers and Computer Science students
 * [openai/codex](https://github.com/openai/codex): Lightweight coding agent that runs in your terminal
 * [frankmdmc/CodexDidThis](https://github.com/frankmdmc/CodexDidThis): GPT Codex Did This
@@ -2246,6 +2246,7 @@ creating your own Awesome List by GitHub stars!
 * [mtopping/obsidian-raindrop](https://github.com/mtopping/obsidian-raindrop): This plugin allows for basic integration with Raindrop.io, a bookmarking service and Obsidian.
 * [marcjulianschwarz/obsidian-raycast](https://github.com/marcjulianschwarz/obsidian-raycast): Raycast extension with commands for the note taking app Obsidian.
 * [DominikPieper/obsidian-ReadItLater](https://github.com/DominikPieper/obsidian-ReadItLater): None
+* [swalker326/obsidian-smart-capture](https://github.com/swalker326/obsidian-smart-capture): A Raycast extension that uses AI to organize captured notes in an Obsidian vault
 * [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections): Find related notes and excerpts while writing. Your link building copilot displays relevant content in graph + list view. A local embedding model powers semantic search. Zero setup. No API key.
 * [masonlr/obsidian-starter-templates](https://github.com/masonlr/obsidian-starter-templates): :rocket: Starter templates for Obsidian.md
 * [obsidian-community/obsidian-style-settings](https://github.com/obsidian-community/obsidian-style-settings): A dynamic user interface for adjusting theme, plugin, and snippet CSS variables within Obsidian
@@ -3195,7 +3196,7 @@ creating your own Awesome List by GitHub stars!
 * [erosman/support](https://github.com/erosman/support): Support Location for all my extensions
 * [pieces-app/support](https://github.com/pieces-app/support): None
 * [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys): Map your keys for web surfing, expand your browser with javascript and keyboard.
-* [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense): Open-source NotebookLM alternative. Research the open web with live data, through one platform, API or MCP server. Join our Discord: https://discord.gg/ejRNvftDp9
+* [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense): Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://discord.gg/ejRNvftDp9
 * [Loyalsoldier/surge-rules](https://github.com/Loyalsoldier/surge-rules): 🦄 🎃 👻 Surge 规则集(DOMAIN-SET 和 RULE-SET)，适用于 Surge for iOS 和 Surge for Mac 客户端。
 * [jekyllt/sustain](https://github.com/jekyllt/sustain): 🎹 Personal blog powered by Jekyll
 * [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler): Open source browser extension for finding, editing, exporting, optimizing, and managing SVG content.
@@ -3547,6 +3548,7 @@ creating your own Awesome List by GitHub stars!
 * [nt1m/vivaldi-fox](https://github.com/nt1m/vivaldi-fox): An add-on that aims to add Vivaldi style toolbar colouring to the Firefox UI
 * [sharkdp/vivid](https://github.com/sharkdp/vivid): A themeable LS_COLORS generator with a rich filetype datebase
 * [muhummadPatel/vLoader](https://github.com/muhummadPatel/vLoader): An extremely simple, no frills, GUI-based video downloader
+* [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils): Free and open-source macOS menu bar toolkit.
 * [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager): Voyager — an all-in-one enhancement suite for AI Studio, Gemini, Claude & ChatGPT: timelines, folders, prompts, usage tracking, chat export, plugins, and more. / 面向 AI Studio、Gemini、Claude 与 ChatGPT 的全能增强套件。
 * [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot): Share your VPN connection over hotspot or repeater! (root required)
 * [AdamCaviness/vs-code-theme-monokai-dark-soda](https://github.com/AdamCaviness/vs-code-theme-monokai-dark-soda): A VS Code theme
