@@ -1032,7 +1032,6 @@ creating your own Awesome List by GitHub stars!
 * [taroontyagi/email-signature](https://github.com/taroontyagi/email-signature): Retire those uncool email signatures, use the template to customize and create your won cool email signature.
 * [Van-Code/email-signature-generator](https://github.com/Van-Code/email-signature-generator):  html email signature generator
 * [vinitshahdeo/Email-Signature-Template](https://github.com/vinitshahdeo/Email-Signature-Template): An email signature template made using HTML & CSS - let's make its easier for everyone!
-* [bluginbuhl/email-signatures](https://github.com/bluginbuhl/email-signatures): Custom HTML/CSS e-mail signatures for Gmail
 * [ColorlibHQ/email-templates](https://github.com/ColorlibHQ/email-templates): Free HTML email templates for Mailchimp and other emails services
 * [maldevel/EmailHarvester](https://github.com/maldevel/EmailHarvester): Email addresses harvester
 * [crowdproperty/EmailSignatureMachine](https://github.com/crowdproperty/EmailSignatureMachine): You here to make some email signatures
@@ -1377,7 +1376,7 @@ creating your own Awesome List by GitHub stars!
 * [ShivamMMMxyz/GeminiPromptsIndexer](https://github.com/ShivamMMMxyz/GeminiPromptsIndexer): None
 * [CJHwong/gems.sh](https://github.com/CJHwong/gems.sh): A Gemini Gem Manager in your MacBook powered by Gemma
 * [David-Kunz/gen.nvim](https://github.com/David-Kunz/gen.nvim): Neovim plugin to generate text using LLMs with customizable prompts
-* [microsoft/genaiscript](https://github.com/microsoft/genaiscript): Automatable GenAI Scripting
+* [microsoft/genaiscript](https://github.com/microsoft/genaiscript): DEPRECATED
 * [google/generative-ai-docs](https://github.com/google/generative-ai-docs): This repository is deprecated and will be archived
 * [webextension-toolbox/generator-web-extension](https://github.com/webextension-toolbox/generator-web-extension): Advanced WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
 * [alfaaarex/GentleFox](https://github.com/alfaaarex/GentleFox): A Firefox theme, which features gentle curves, transparency and a minimal interface.
