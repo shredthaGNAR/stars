@@ -560,6 +560,9 @@
     "David-Kunz/gen.nvim": [
         "Other"
     ],
+    "DavidMoore/ipfilter": [
+        "Other"
+    ],
     "DebianArch64/DebProvision": [
         "Other"
     ],
@@ -762,6 +765,9 @@
         "Other"
     ],
     "Feng6611/mac-command-reopen": [
+        "Other"
+    ],
+    "FezVrasta/raycast-toolkit": [
         "Other"
     ],
     "Filip-Sutkowy/blurclean-firefox-theme": [
@@ -1908,6 +1914,9 @@
         "Other"
     ],
     "PushkraJ99/ParamSpider": [
+        "Other"
+    ],
+    "Pyenb/Pi-hole-blocklist": [
         "Other"
     ],
     "QJX-XXXX/devportfolio": [
@@ -3243,9 +3252,6 @@
         "Other"
     ],
     "amirgamil/apollo": [
-        "Other"
-    ],
-    "amitness/cutcode": [
         "Other"
     ],
     "amix/vimrc": [
@@ -8471,6 +8477,9 @@
     "phillipkingston/Shopify---Change-Image-On-Hover": [
         "Other"
     ],
+    "phishdestroy/trustname-evidence": [
+        "Other"
+    ],
     "phmullins/awesome-macos": [
         "Other"
     ],
@@ -8708,6 +8717,9 @@
     "pullup/OneTab-Night-Mode": [
         "Other"
     ],
+    "punkpeye/awesome-mcp-servers": [
+        "Other"
+    ],
     "puppeteer/puppeteer": [
         "Other"
     ],
@@ -8847,6 +8859,9 @@
         "Other"
     ],
     "raycast/extensions": [
+        "Other"
+    ],
+    "raycast/extensions-swift-tools": [
         "Other"
     ],
     "raycast/extensions-template": [
@@ -9032,6 +9047,9 @@
     "roleoroleo/yi-hack_ha_integration": [
         "Other"
     ],
+    "romainmarcoux/malicious-domains": [
+        "Other"
+    ],
     "roman-r-m/joplin-plugin-table-formatter": [
         "Other"
     ],
@@ -9206,6 +9224,9 @@
     "salvoventura/save-my-tabs": [
         "Other"
     ],
+    "samber/the-great-gpt-firewall": [
+        "Other"
+    ],
     "samfromaway/Gulp-Boilerplate01": [
         "Other"
     ],
@@ -9363,6 +9384,9 @@
         "Other"
     ],
     "sevenc-nanashi/github-snippets": [
+        "Other"
+    ],
+    "sh2/extension-summarize-translate-gemini": [
         "Other"
     ],
     "shaarli/Shaarli": [
@@ -10328,6 +10352,9 @@
     "totu/Swipe2Nav": [
         "Other"
     ],
+    "touhidurrr/iplist-youtube": [
+        "Other"
+    ],
     "tpamula/webextension-window-titler": [
         "Other"
     ],
@@ -11048,6 +11075,9 @@
     "yokoffing/ChatGPT-Prompts": [
         "Other"
     ],
+    "yokoffing/NextDNS-Config": [
+        "Other"
+    ],
     "yokoffing/filterlists": [
         "Other"
     ],
@@ -11148,6 +11178,9 @@
         "Other"
     ],
     "zanetu/direct_google_images": [
+        "Other"
+    ],
+    "zangadoprojets/pi-hole-blocklist": [
         "Other"
     ],
     "zanonmark/Google-4-TbSync": [
