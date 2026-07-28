@@ -1064,7 +1064,7 @@ creating your own Awesome List by GitHub stars!
 * [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner): Cross-platform desktop GUI app to clean image metadata
 * [KhashayarKhm/export-tabs-urls](https://github.com/KhashayarKhm/export-tabs-urls): https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
 * [Zabakes/export-tabs-urls](https://github.com/Zabakes/export-tabs-urls): https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
-* [alct/export-tabs-urls](https://github.com/alct/export-tabs-urls): https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
+* [alct/export-tabs-urls](https://github.com/alct/export-tabs-urls): A Firefox extension to list and filter open tabs, export the result to a file.
 * [clach04/export-tabs-urls-phoenix](https://github.com/clach04/export-tabs-urls-phoenix): Fork of the original Export Tab URLs - for Chrome, Edge, and Firefox with html export and text import (open tab) support
 * [zaksid/ext-duplicate-bookmarks-finder](https://github.com/zaksid/ext-duplicate-bookmarks-finder): Browser extension that allows to find and delete duplicate bookmarks.
 * [crimx/ext-saladict](https://github.com/crimx/ext-saladict): 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
@@ -3260,6 +3260,7 @@ creating your own Awesome List by GitHub stars!
 * [onemen/TabMixPlus](https://github.com/onemen/TabMixPlus): New Tab mix plus for modern Firefox
 * [DanielDe/TabRearranger](https://github.com/DanielDe/TabRearranger): Chrome extension to rearrange tabs and move them between windows using keyboard shortcuts
 * [tim-we/tabs-aside](https://github.com/tim-we/tabs-aside): A session/tab manager web extension for Firefox based on the Microsoft Edge feature.
+* [ClementGre/Tabs-Groups-Manager](https://github.com/ClementGre/Tabs-Groups-Manager): Firefox Add-ons to sync tabs between browsers and to manage tabs with custom tabs groups
 * [jingyu9575/tabs-to-bookmark-groups](https://github.com/jingyu9575/tabs-to-bookmark-groups): (Work in progress) Firefox extension to save the tabs to a bookmark group and switch between different groups.
 * [deniszanin/tabs2text](https://github.com/deniszanin/tabs2text): Tabs2Text is a Firefox extension to export all your opened tabs to a text file.
 * [nekoramuza/tabsaver](https://github.com/nekoramuza/tabsaver): Allows you to easily save all of your tabs for later use, reducing clutter
