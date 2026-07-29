@@ -9620,6 +9620,9 @@
     "sissbruecker/linkding-extension": [
         "Other"
     ],
+    "siteplay-ai/minimal": [
+        "Other"
+    ],
     "sivel/speedtest-cli": [
         "Other"
     ],
@@ -9876,9 +9879,6 @@
         "Other"
     ],
     "stoically/temporary-containers": [
-        "Other"
-    ],
-    "stonerl/Thaw": [
         "Other"
     ],
     "stravo1/obsidian-gdrive-sync": [
@@ -10143,6 +10143,9 @@
         "Other"
     ],
     "thatisuday/curved-menu": [
+        "Other"
+    ],
+    "thaw-app/Thaw": [
         "Other"
     ],
     "thcolin/sensorr": [
