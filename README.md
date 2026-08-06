@@ -100,7 +100,6 @@ creating your own Awesome List by GitHub stars!
 * [cpbotha/ai-screenshot-namer](https://github.com/cpbotha/ai-screenshot-namer): Rename your screenshots with ollama LLaVA, GPT-4o and macOS OCR
 * [fahmidme/ai-screenshot-renamer](https://github.com/fahmidme/ai-screenshot-renamer): This project automatically renames screenshots using AI-generated descriptions. It's designed to work with macOS and uses OpenAI's GPT-4 Vision model to analyze and describe screenshots.
 * [tarurata/ai-text-transformer](https://github.com/tarurata/ai-text-transformer): Raycast extension to apply AI prompts to clipboard content
-* [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions): 🤖 AI browser extensions & userscripts to augment your web experience
 * [lszefner/aiautomatize](https://github.com/lszefner/aiautomatize): A modern, multilingual landing page for AI Automatize - a service that helps businesses integrate AI-powered automation to improve conversion rates, save time, and scale operations.
 * [Aider-AI/aider](https://github.com/Aider-AI/aider): aider is AI pair programming in your terminal
 * [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists): A collection of unified blocklists designed to provide complete filtering capabilities for different online threats. Curated from multiple sources (click 🔴 The Sources 🔴 in README.md to view), these blocklists offer a robust solution for blocking ads, malware, trackers, and other unwanted content.
@@ -269,7 +268,7 @@ creating your own Awesome List by GitHub stars!
 * [zeon-studio/astroplate](https://github.com/zeon-studio/astroplate): Astroplate is a free starter template built with Astro, TailwindCSS & TypeScript providing everything you need to jumpstart your Astro project. Get started with Astroplate and save yourself hours of work!
 * [shredthaGNAR/astroship](https://github.com/shredthaGNAR/astroship): None
 * [surjithctly/astroship](https://github.com/surjithctly/astroship): Astroship is a starter template for startups, marketing websites, landing pages & blog. Built with Astro & TailwindCSS
-* [arthelokyo/astrowind](https://github.com/arthelokyo/astrowind): ⭕️ AstroWind: A free template using Astro v6 and Tailwind CSS v4. Astro starter theme.
+* [arthelokyo/astrowind](https://github.com/arthelokyo/astrowind): ⭕️ AstroWind: A free template using Astro v7 and Tailwind CSS v4. Astro starter theme.
 * [Zenlua/AT-YT](https://github.com/Zenlua/AT-YT): Tool build YouTube revanced mods auto.
 * [atom/atom](https://github.com/atom/atom): :atom: The hackable text editor
 * [Hann8n/Atom-for-Firefox](https://github.com/Hann8n/Atom-for-Firefox): Restores UI to default settings but keeps the translucency effects of FluidFox for MacOS
@@ -651,11 +650,9 @@ creating your own Awesome List by GitHub stars!
 * [ZohaibAhmed/chatgpt-api](https://github.com/ZohaibAhmed/chatgpt-api): This repo is unofficial ChatGPT api. It is based on Daniel Gross's WhatsApp GPT
 * [hunkimForks/chatgpt-arxiv-extension](https://github.com/hunkimForks/chatgpt-arxiv-extension): A browser extension that enhance search engines with ChatGPT
 * [ishandutta2007/chatgpt-arxiv-extension_hunkimForks](https://github.com/ishandutta2007/chatgpt-arxiv-extension_hunkimForks): A browser extension that enhance search engines with ChatGPT
-* [adamlui/chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue): ⏩ Automatically continue generating answers when ChatGPT responses get cut-off
 * [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone): ChatGPT interface with better UI 
 * [ZohaibAhmed/ChatGPT-Google](https://github.com/ZohaibAhmed/ChatGPT-Google): Chrome Extension that Integrates ChatGPT (Unofficial) into Google Search
 * [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension): This project is deprecated. Check my new project ChatHub:
-* [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity): ∞ Generate endless answers from all-knowing ChatGPT (on any topic!)
 * [swyxio/chatgpt-mac](https://github.com/swyxio/chatgpt-mac): ChatGPT for Mac, living in your menubar.
 * [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac): ChatGPT for Mac, living in your menubar.
 * [KudoAI/chatgpt-omnibox](https://github.com/KudoAI/chatgpt-omnibox): https://addons.mozilla.org/firefox/addon/chatgpt-omnibox
@@ -3386,7 +3383,6 @@ creating your own Awesome List by GitHub stars!
 * [GaffaSnobb/touchbar-crypto](https://github.com/GaffaSnobb/touchbar-crypto): Live update crypto prices on the Touch Bar.
 * [lilythstern/touchbar-cryptocoins](https://github.com/lilythstern/touchbar-cryptocoins): View BTC, LTC, ETH and NEO on your Macbook Touchbar using the BetterTouchTool.
 * [ZachAttackMLR/TouchBar-Fun](https://github.com/ZachAttackMLR/TouchBar-Fun): Using BetterTouchTool to display things on the new MacBook Pro's touch bar
-* [ValentinJesse/TouchBar_Bitcoin_Florincoin](https://github.com/ValentinJesse/TouchBar_Bitcoin_Florincoin): Bitcoin and Florincoin on the MacBook Pro TouchBar
 * [rickkas7/TowerInfo](https://github.com/rickkas7/TowerInfo): Tool to show the location of nearby cellular towers on a mobile device, tablet, or laptop
 * [MrOtherGuy/ToyfoCSS](https://github.com/MrOtherGuy/ToyfoCSS): Guide to introduce basic CSS concepts and progressively advance into Firefox CSS hacking
 * [Nisarg03/Tracing-people-with-Facial-Recognition-using-OCR](https://github.com/Nisarg03/Tracing-people-with-Facial-Recognition-using-OCR): A computer vision project to develop a query based software that seeks string of words as input. It searches through the database using concepts of OCR by employing libraries like Tesseract and OpenCV to find the said string. The program then recognises the faces of individuals on the page, crops them, and arranges them in a strip to display.
@@ -3408,7 +3404,7 @@ creating your own Awesome List by GitHub stars!
 * [trockerapp/trocker](https://github.com/trockerapp/trocker): This chrome/Firefox extension is an email Tracker Blocker, hence the name: Trocker!
 * [opa334/TrollStore](https://github.com/opa334/TrollStore): Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 * [thehappydinoa/TruePeopleSearch](https://github.com/thehappydinoa/TruePeopleSearch): Gets info from truepeoplesearch.com and adds it to Maltego
-* [phishdestroy/trustname-evidence](https://github.com/phishdestroy/trustname-evidence): Phase II evidence package: complete-zone scan of ICANN registrar #4318 Trustname.com / Fewmoretaps OÜ — 7,641 domains,   86% of active content confirmed malicious.
+* [phishdestroy/trustname-evidence](https://github.com/phishdestroy/trustname-evidence): Phase II evidence package: complete-zone scan of ICANN registrar #4318 Trustname.com / Fewmoretaps OÜ — 15,040 domains tracked, 4,276 classified IOC (3,293 HIGH). Daily updated IOC feeds, SIEM CSV, operator clusters.
 * [TrustTunnel/TrustTunnel](https://github.com/TrustTunnel/TrustTunnel): Modern, fast and obfuscated VPN protocol
 * [syanle/ts-commercials-remover](https://github.com/syanle/ts-commercials-remover): MPEG-TS stream workflow
 * [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist): Your self hosted YouTube media server
@@ -3658,7 +3654,6 @@ creating your own Awesome List by GitHub stars!
 * [ReVanced/where-is-revanced-patches](https://github.com/ReVanced/where-is-revanced-patches): https://gitlab.com/revanced/revanced-patches
 * [Jay-Karia/wherewasi](https://github.com/Jay-Karia/wherewasi): Chrome extension that remembers your search sessions and captures context.
 * [vinceliuice/WhiteSur-firefox-theme](https://github.com/vinceliuice/WhiteSur-firefox-theme): Mac OS Safari theme for Firefox on Linux
-* [FirefoxCSSThemers/WhiteSur-FirefoxTheme](https://github.com/FirefoxCSSThemers/WhiteSur-FirefoxTheme): A Firefox theme made by Agnihotra Nath, to simulate Safari on macOS Big Sur 11. Works best on Proton.
 * [AdamXweb/WhiteSurFirefoxThemeMacOS](https://github.com/AdamXweb/WhiteSurFirefoxThemeMacOS): MacOS Big Sur like theme for Firefox on MacOS & Windows. Make your Firefox look like Safari.
 * [aprilmaccydee/WhiteSurFirefoxThemeMacOS-Fork](https://github.com/aprilmaccydee/WhiteSurFirefoxThemeMacOS-Fork): None
 * [ATechnocratis/widefox](https://github.com/ATechnocratis/widefox): A wide screen friendly browser
@@ -3761,7 +3756,7 @@ creating your own Awesome List by GitHub stars!
 * [rupa/z](https://github.com/rupa/z): z - jump around
 * [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy): The ZAP by Checkmarx Core project
 * [zapSNH/zapsCoolPhotonTheme](https://github.com/zapSNH/zapsCoolPhotonTheme): party like it's firefox 87!
-* [marlonrichert/zcolors](https://github.com/marlonrichert/zcolors): 🌈 Generate a theme for git, grep, less and zsh that matches your $LS_COLORS
+* [marlonrichert/zcolors](https://github.com/marlonrichert/zcolors): 🌈 Generate a single, coherent theme for ls, git, grep, less and zsh
 * [mattmc3/zdotdir](https://github.com/mattmc3/zdotdir): My zsh config
 * [zbrateam/Zebra](https://github.com/zbrateam/Zebra): 🦓 A Useful Package Manager for iOS
 * [zed-industries/zed](https://github.com/zed-industries/zed): Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
