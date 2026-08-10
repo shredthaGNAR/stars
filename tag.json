@@ -560,6 +560,9 @@
     "DanielDe/TabRearranger": [
         "Other"
     ],
+    "Darkcast/tids": [
+        "Other"
+    ],
     "David-Kunz/gen.nvim": [
         "Other"
     ],
@@ -5687,9 +5690,6 @@
     "hackjutsu/Lepton": [
         "Other"
     ],
-    "hagezi/dns-blocklists": [
-        "Other"
-    ],
     "halfhelix/shopify-guide": [
         "Other"
     ],
@@ -8937,6 +8937,9 @@
         "Other"
     ],
     "rickkas7/TowerInfo": [
+        "Other"
+    ],
+    "ricocc/ricoui-astro-starter": [
         "Other"
     ],
     "ridvanbaluyos/btt-touchbar-presets": [
