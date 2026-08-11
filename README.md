@@ -511,6 +511,7 @@ creating your own Awesome List by GitHub stars!
 * [K2SOsint/Bookmarklets](https://github.com/K2SOsint/Bookmarklets): A small collection of bookmarklets that are useful for OSINT, including ones for e-mail addresses, Facebook, extracting links and WhatsMyName.app.
 * [mems/bookmarklets-context-menu](https://github.com/mems/bookmarklets-context-menu): WebExtension allow to execute bookmarklets as privileged scripts
 * [CodeverDotDev/bookmarks](https://github.com/CodeverDotDev/bookmarks): :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.dev 
+* [SansGuidon/bookmarks](https://github.com/SansGuidon/bookmarks): :warning: Mirrored from https://gitea.zoemp.be/sansguidon/bookmarks ! :bookmark: +5K awesome resources for geeks and software crafters :beer: 
 * [br4adam/bookmarks](https://github.com/br4adam/bookmarks): Organize your bookmarks with ease.
 * [dyu/bookmarks](https://github.com/dyu/bookmarks): a simple self-hosted bookmarking app that can import bookmarks from delicious and chrome
 * [fmhy/bookmarks](https://github.com/fmhy/bookmarks): None
@@ -2947,6 +2948,7 @@ creating your own Awesome List by GitHub stars!
 * [thcolin/sensorr](https://github.com/thcolin/sensorr): 🍿📼 Sensorr - Your Friendly Digital Video Recorder
 * [alienator88/Sentinel](https://github.com/alienator88/Sentinel): Configure Gatekeeper, remove apps from quarantine and self-sign apps
 * [umbrae/Serendipity](https://github.com/umbrae/Serendipity): /r/serendipity is a meta-subreddit meant to broaden the perspective of its subscribers. It takes a popular entry from a random subreddit and posts it every few hours. If you want to increase your exposure to niche subreddits, or just your perspective on things on the web in general, serendipity might help you do that. But it might not. It's a bot, after all.
+* [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers): Model Context Protocol Servers
 * [LeeluPradhan/Service-accounts-seperator-AutoRclone](https://github.com/LeeluPradhan/Service-accounts-seperator-AutoRclone): To split google service accounts after 10 accounts, to add in google group easily and use autorclone!
 * [knurling/ServiceStation](https://github.com/knurling/ServiceStation): Service Station
 * [tjluoma/servicestationscripts](https://github.com/tjluoma/servicestationscripts): Scripts to be used with the macOS App Service Station
@@ -3300,6 +3302,7 @@ creating your own Awesome List by GitHub stars!
 * [beowulf518/textnow-automation](https://github.com/beowulf518/textnow-automation): creating textnow account with temp email
 * [de1etenu11ptr/TGS-Extension](https://github.com/de1etenu11ptr/TGS-Extension): Tab Group Saver (TGS) Extension for firefox that mainly utilizes the bookmarks API to allow for reliable persistence of tab groups.
 * [thaw-app/Thaw](https://github.com/thaw-app/Thaw): The menu bar manager for macOS
+* [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge): A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 * [samber/the-great-gpt-firewall](https://github.com/samber/the-great-gpt-firewall): 🤖 A curated list of websites that restrict access to AI Agents, AI crawlers and GPTs
 * [passthesh3ll/The-Pika-s-OSINT-ToolBox](https://github.com/passthesh3ll/The-Pika-s-OSINT-ToolBox): A curated list of free OSINT tools ⚡️
 * [balvin-perrie/the-pirate-bay-torrent-search](https://github.com/balvin-perrie/the-pirate-bay-torrent-search): A browser extension to search for magnet links from The Pirate Bay directly from a popup toolbar
