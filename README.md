@@ -502,7 +502,7 @@ creating your own Awesome List by GitHub stars!
 * [TarekJor/bookmark-archiver](https://github.com/TarekJor/bookmark-archiver): 🗄 Save an archived copy of websites from Pocket/Pinboard/Bookmarks/RSS. Outputs HTML, PDFs, and more...
 * [MrOtherGuy/bookmark-batch-updater](https://github.com/MrOtherGuy/bookmark-batch-updater): A webextension tool to update multiple bookmarks at once
 * [Rob--W/bookmark-container-tab](https://github.com/Rob--W/bookmark-container-tab): Firefox add-on to add "Open in Container Tab" menu item to bookmark menus
-* [chirag127/bookmark-mind](https://github.com/chirag127/bookmark-mind): AI-driven browser extension that automatically categorizes bookmarks using Gemini, Groq, and other LLMs, offering snapshot/undo, performance insights, and seamless cross‑browser support.
+* [chirag127/bookmark-mind](https://github.com/chirag127/bookmark-mind): Browser extension that auto-organizes bookmarks with any OpenAI-compatible LLM — bring your own key. 13 built-in providers (Groq, OpenRouter, Gemini, Mistral, DeepSeek, OpenAI, LM Studio, Ollama, LiteLLM…) + any custom endpoint via one uniform adapter. AES-256-GCM key storage, provider fallback, zero telemetry.
 * [aaFn/Bookmark-search-plus-2](https://github.com/aaFn/Bookmark-search-plus-2): Displays and filters bookmarks on search string, show parent folders.  This is a Web Extension add-on version of the old "Bookmark search plus" XUL extension published by Alice0775, not working anymore in latest Firefox, and which was very useful.
 * [Kiuryy/Bookmark_Sidebar](https://github.com/Kiuryy/Bookmark_Sidebar): Browser extension, which adds a toggleable sidebar with all your bookmarks on the left or right side of your screen.
 * [last-arg/bookmark_with_pocket](https://github.com/last-arg/bookmark_with_pocket): Browser extension that adds bookmark to Pocket if rules allow it
@@ -926,6 +926,7 @@ creating your own Awesome List by GitHub stars!
 * [julian-klode/dns66](https://github.com/julian-klode/dns66): DNS-based Host Blocker (and lightweight ad blocker) for Android
 * [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy): dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 * [kkebo/DNSecure](https://github.com/kkebo/DNSecure): DNSecure is a configuration tool of DoT and DoH for iOS and iPadOS.
+* [dnshe/DNSHE-FreeDomains](https://github.com/dnshe/DNSHE-FreeDomains): 🌐 DNSHE Official - Stable & Free Subdomains for Developers. Support 180-day renewal window, Anycast DNS, and REST API. (us.ci, cc.cd, de5.net, ccwu.cc)
 * [cleanbrowsing/dnsperftest](https://github.com/cleanbrowsing/dnsperftest): DNS Performance test
 * [sindresorhus/do-not-disturb-cli](https://github.com/sindresorhus/do-not-disturb-cli): Control the macOS `Do Not Disturb` feature from the command-line
 * [SuffolkLITLab/docassemble-ALToolbox](https://github.com/SuffolkLITLab/docassemble-ALToolbox): Collection of small utility functions, classes, and web components for Docassemble interviews
@@ -1306,7 +1307,7 @@ creating your own Awesome List by GitHub stars!
 * [bnpoirier/foxify](https://github.com/bnpoirier/foxify): Converts Chrome extensions to Firefox
 * [marklieberman/foxygestures](https://github.com/marklieberman/foxygestures): Mouse gestures for Firefox
 * [vincenzocaputo/FoxyRecon](https://github.com/vincenzocaputo/FoxyRecon): A Firefox add-on for OSINT investigations
-* [Free-The-Ai/free-ai](https://github.com/Free-The-Ai/free-ai): FreeTheAi (Free The AI): free OpenAI-compatible AI API with 50+ models, Discord key signup, streaming, tools, images, Messages, and Responses. No credit card.
+* [fangzesheng/free-api](https://github.com/fangzesheng/free-api): 收集免费的接口服务,做一个api的搬运工
 * [guihubie/free-astro-template](https://github.com/guihubie/free-astro-template): None
 * [prabunagrajan/free-design-resources](https://github.com/prabunagrajan/free-design-resources): A collection of websites for free UI design materials for Sketch, Adobe XD, Figma, and other design tools.
 * [LightAPIs/free-export-bookmarks](https://github.com/LightAPIs/free-export-bookmarks): Freely bookmark export tool. 自由地书签导出工具。
@@ -1314,6 +1315,7 @@ creating your own Awesome List by GitHub stars!
 * [jamesjingyi/free-mac-apps](https://github.com/jamesjingyi/free-mac-apps): A list of apps I use on my MacBook
 * [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list): 🚀 Free HTTP, SOCKS4, & SOCKS5 proxy list * Updated every 5 minutes * and rotating proxy API (100+ countries)
 * [psugihara/FreeChat](https://github.com/psugihara/FreeChat): llama.cpp based AI chat app for macOS
+* [meetDeveloper/freeDictionaryAPI](https://github.com/meetDeveloper/freeDictionaryAPI): There was no free Dictionary API on the web when I wanted one for my friend, so I created one.
 * [OSSPhilippines/freefolio](https://github.com/OSSPhilippines/freefolio): 100% FREE professional portfolio website templates
 * [cliouo/FreeGPT35-Vercel](https://github.com/cliouo/FreeGPT35-Vercel): Utilize the unlimited free ChatGPT3.5-Turbo API service provided by the login-free ChatGPT Web. Supporting Vercel Deployments.
 * [jeromelachaud/freelancer-theme](https://github.com/jeromelachaud/freelancer-theme): Jekyll theme based on Freelancer Start Bootstrap theme
@@ -1527,6 +1529,7 @@ creating your own Awesome List by GitHub stars!
 * [vitalif/grive2](https://github.com/vitalif/grive2): Google Drive client with support for new Drive REST API and partial sync
 * [tardisx/gropple](https://github.com/tardisx/gropple): Server and bookmarklet to download files via youtube-dl directly from your browser. Cross platform single binary installation, web browser configurable.
 * [xslhub/gruvbox-gnomeish-firefox-theme](https://github.com/xslhub/gruvbox-gnomeish-firefox-theme): A minimal Firefox theme inspired by the aesthetics of Gruvbox and GNOME.
+* [open-gsd/gsd-core](https://github.com/open-gsd/gsd-core): Git. Ship. Done - Core
 * [arkenfox/gui](https://github.com/arkenfox/gui): A companion gui for arkenfox user.js
 * [samfromaway/Gulp-Boilerplate01](https://github.com/samfromaway/Gulp-Boilerplate01): Boilerplate for a Gulp-Workflow for a Youtube video. If you are lazy like me and are always on the watch out of how you can optimize your workflow especially in regards to deploying a HTML CSS Javascript website this boilerplate is for you. 
 * [jasewarner/gulp-shopify](https://github.com/jasewarner/gulp-shopify): Blank slate Shopify theme for Developers, packaged with Gulp.js for processing SCSS, JavaScript (ES6), images and fonts. Made to support Online Store 2.0 features and Shopify CLI.
@@ -2198,6 +2201,7 @@ creating your own Awesome List by GitHub stars!
 * [nghtfall/nightfall-vsc](https://github.com/nghtfall/nightfall-vsc): a blue-ish gray with a purple accent color palette for Visual Studio Code.
 * [chvancooten/NimPackt-v1](https://github.com/chvancooten/NimPackt-v1): Nim-based assembly packer and shellcode loader for opsec & profit
 * [nixgates/nixgates](https://github.com/nixgates/nixgates): Repository for Kodi Addons
+* [zebbern/no-cost-ai](https://github.com/zebbern/no-cost-ai): 80+ free AI services for chat, image, video, voice & APIs (may sometimes include access to lead gen ai models for free)
 * [calibr/node-bookmarks-parser](https://github.com/calibr/node-bookmarks-parser): Parses Firefox/Chrome HTML bookmarks files
 * [alex-phillips/node-clouddrive](https://github.com/alex-phillips/node-clouddrive): Node SDK and CLI for Amazon's Cloud Drive
 * [Bellisario/node-snapdrop](https://github.com/Bellisario/node-snapdrop): Node.js version of the original Snapdrop
@@ -2847,7 +2851,7 @@ creating your own Awesome List by GitHub stars!
 * [shredthaGNAR/reveal-md](https://github.com/shredthaGNAR/reveal-md): None
 * [gaerfield/reveal-md-github-pages](https://github.com/gaerfield/reveal-md-github-pages): Automatically deploys reveal-md presentations to github-pages
 * [Crimson7research/ReverseEngineering-AI](https://github.com/Crimson7research/ReverseEngineering-AI): None
-* [YT-Advanced/ReX-patches](https://github.com/YT-Advanced/ReX-patches): 🧩 Patches for ReVanced
+* [fromhgbwithluv/ReX-patches](https://github.com/fromhgbwithluv/ReX-patches): 🧩 Patches for ReVanced
 * [timonus/Rhea](https://github.com/timonus/Rhea): A Mac status bar app for quickly sharing files and links.
 * [ricocc/ricoui-astro-starter](https://github.com/ricocc/ricoui-astro-starter): Astro Starter template
 * [garywill/right-click-tab-close](https://github.com/garywill/right-click-tab-close): Firefox close tab by right clicking on tab button ,userchrome script  🖱️
@@ -3113,7 +3117,7 @@ creating your own Awesome List by GitHub stars!
 * [akarlsten/snazzy-plus](https://github.com/akarlsten/snazzy-plus): VS Code color theme
 * [snthcy/snazzy-vscode](https://github.com/snthcy/snazzy-vscode): A snazzy looking theme for Visual Studio Code.
 * [Bebrowskiy/Sniffle](https://github.com/Bebrowskiy/Sniffle): Feel like a real spy with Sniffle! A powerful set of tools for OSINT that makes data mining fast and fun. Everything you need to analyze is now at your fingertips - easy and hassle-free!
-* [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet): Comfortably monitor your Internet traffic 🕵️‍♂️
+* [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet): Comfortably monitor your network traffic 🕵️‍♂️
 * [gocomet/snippets](https://github.com/gocomet/snippets): A collection of code snippets, generally for use with Shopify
 * [JustAnotherArchivist/snscrape](https://github.com/JustAnotherArchivist/snscrape): A social networking service scraper in Python
 * [Nick-Gottschlich/Social-Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia): Forget the past. Social Amnesia makes sure your social media accounts only show your posts from recent history, not from "that phase" 5 years ago.
@@ -3353,7 +3357,7 @@ creating your own Awesome List by GitHub stars!
 * [PierreLebedel/ThunderbirdLargerMessageList](https://github.com/PierreLebedel/ThunderbirdLargerMessageList): Thunderbird extension that enlarges the display of the message list, and the folder tree view too
 * [eromatiya/thunderblurred](https://github.com/eromatiya/thunderblurred): A theme for Thunderbird
 * [cleidigh/ThunderKdB](https://github.com/cleidigh/ThunderKdB): Thunderbird Addon Code Knowledge Base
-* [networkException/thundersort](https://github.com/networkException/thundersort): Sort incoming mails based on recipient slug
+* [networkException/thundersort](https://github.com/networkException/thundersort): Sort Thunderbird mails with regex
 * [cleidigh/ThunderStorm](https://github.com/cleidigh/ThunderStorm): Tips, Tricks & Examples for Thunderbird E-mail New Add-On Development
 * [snchong/thunderthings](https://github.com/snchong/thunderthings): Integration between Thunderbird and Cultured Code's Things on macOS
 * [Darkcast/tids](https://github.com/Darkcast/tids): Automate Touch ID for sudo commands directly in your macOS terminal! Gain secure fingerprint authentication for elevated privileges, effectively replacing passwords and boosting your command-line security.
