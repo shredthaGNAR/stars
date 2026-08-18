@@ -87,6 +87,7 @@ creating your own Awesome List by GitHub stars!
 * [jazzyalex/agent-sessions](https://github.com/jazzyalex/agent-sessions): Local-first macOS app to browse, search, analyze, and resume supported AI coding-agent session history across Codex, Claude Code, OpenCode, Cursor Agent, Hermes, OpenClaw, Copilot CLI, and more.
 * [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills): AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,005+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.
 * [piroor/aggregate-tabs-to-main-window](https://github.com/piroor/aggregate-tabs-to-main-window): Aggregate new tabs to a window which has most many tabs and largest size.
+* [AI-Anywhere/AI-Anywhere](https://github.com/AI-Anywhere/AI-Anywhere): Your agents. Any browser. Anywhere
 * [fastaddons/AI-Anywhere](https://github.com/fastaddons/AI-Anywhere): None
 * [vanrohan/ai-bookmark-organizer](https://github.com/vanrohan/ai-bookmark-organizer): None
 * [finxter/AI-Engineering-Learning-Resources](https://github.com/finxter/AI-Engineering-Learning-Resources): None
@@ -265,6 +266,7 @@ creating your own Awesome List by GitHub stars!
 * [devgelo-labs/astro-starter-pro](https://github.com/devgelo-labs/astro-starter-pro): Astro Starter Pro: A free, production-ready Astro starter focused on SEO, performance, and best practices.
 * [immois/astro-zen](https://github.com/immois/astro-zen): Minimalist, accessible and SEO-optimized personal portfolio website template.
 * [manuelernestog/astrofy](https://github.com/manuelernestog/astrofy): Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS. Create in minutes a website with Blog, CV, Project Section, Store and RSS Feed.
+* [denv17/astrolify](https://github.com/denv17/astrolify): None
 * [zeon-studio/astroplate](https://github.com/zeon-studio/astroplate): Astroplate is a free starter template built with Astro, TailwindCSS & TypeScript providing everything you need to jumpstart your Astro project. Get started with Astroplate and save yourself hours of work!
 * [shredthaGNAR/astroship](https://github.com/shredthaGNAR/astroship): None
 * [surjithctly/astroship](https://github.com/surjithctly/astroship): Astroship is a starter template for startups, marketing websites, landing pages & blog. Built with Astro & TailwindCSS
@@ -1200,7 +1202,7 @@ creating your own Awesome List by GitHub stars!
 * [eko5/Firefox-Mac-os-X-](https://github.com/eko5/Firefox-Mac-os-X-): Light theme on Firefox 
 * [zvuc/firefox-macos-native-tabbar](https://github.com/zvuc/firefox-macos-native-tabbar): macOS Native-looking Translucent Tabbar for Firefox
 * [jeremyperkin/Firefox-macOS-setup](https://github.com/jeremyperkin/Firefox-macOS-setup): userChrome.css and userContent.css files.
-* [D3SOX/firefox-minimal-compact-css](https://github.com/D3SOX/firefox-minimal-compact-css): My personal Firefox theme based on Sidebery and CSS hacks - Inspired by Zen
+* [D3SOX/firefox-minimal-compact-css](https://github.com/D3SOX/firefox-minimal-compact-css): 🧘 My personal Firefox theme based on Sidebery and CSS hacks - Inspired by Zen
 * [datttran/Firefox-mod](https://github.com/datttran/Firefox-mod): None
 * [Alan-Kuan/Firefox-Mod-Blur](https://github.com/Alan-Kuan/Firefox-Mod-Blur): A Fork with an Installer for "Firefox Mod Blur - Modular"
 * [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur): Firefox CSS Theme - Dark theme / More compact / Modular / Blur
@@ -2186,7 +2188,6 @@ creating your own Awesome List by GitHub stars!
 * [PhilippMatthes/neural-greenscreen](https://github.com/PhilippMatthes/neural-greenscreen): Real time background replacement on a mac os driven webcam using the DeepLabV3 neural network for image segmentation and the native CoreMediaIO DAL framework of Mac OS.
 * [synapp009/NeuroCalm](https://github.com/synapp009/NeuroCalm): Vagus nerve stimulator with vibration of the smartphone pressed on the cymba conchae of the left ear
 * [QuantumNous/new-api](https://github.com/QuantumNous/new-api): A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥
-* [ha0z1/New-Bing-Anywhere](https://github.com/ha0z1/New-Bing-Anywhere): 💬 New-Bing-Anywhere extension's source Always use Bing GPT-4
 * [WesleyBranton/New-Browser-Style](https://github.com/WesleyBranton/New-Browser-Style): A replacement for Firefox's builtin browser style CSS
 * [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe): A libre lightweight streaming front-end for Android.
 * [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe): A fork of NewPipe with SponsorBlock functionality.
@@ -2233,7 +2234,7 @@ creating your own Awesome List by GitHub stars!
 * [Nevesto/NullSpawn](https://github.com/Nevesto/NullSpawn): Cybersecurity-themed Nickname Generator.
 * [apilayer/numverify-API](https://github.com/apilayer/numverify-API): Free global phone number validation & lookup JSON API
 * [edgars21/nuxtjs-shopify-flex-theme-section-with-vue](https://github.com/edgars21/nuxtjs-shopify-flex-theme-section-with-vue): None
-* [nvm-sh/nvm](https://github.com/nvm-sh/nvm): Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+* [nvm-sh/nvm](https://github.com/nvm-sh/nvm): Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
 * [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop): Node Version Manager Desktop - A desktop application to manage multiple active node.js versions.
 * [trafilea/nx-shopify](https://github.com/trafilea/nx-shopify): Nx plugin for developing performance-first Shopify themes 🚀
 * [nzbdav-dev/nzbdav](https://github.com/nzbdav-dev/nzbdav): Usenet streaming with a WebDAV server and a SABnzbd-compatible API
@@ -2554,7 +2555,7 @@ creating your own Awesome List by GitHub stars!
 * [Jantero93/pokerstars-statistics-script](https://github.com/Jantero93/pokerstars-statistics-script): Script for tracking history on PokerStars
 * [andrewprock/pokerstove](https://github.com/andrewprock/pokerstove): poker evaluation and enumeration software
 * [Mattlk13/poogle](https://github.com/Mattlk13/poogle): Porn finder. Search simultaneously on different porn websites to display it once. 
-* [pilotmoon/PopClip-Extensions](https://github.com/pilotmoon/PopClip-Extensions): Source code for extensions in the official PopClip Extensions directory.
+* [pilotmoon/PopClip-Extensions](https://github.com/pilotmoon/PopClip-Extensions): Source code for extensions maintained by @pilotmoon in the official PopClip Extension Directory
 * [martipops/popcorn-raycast](https://github.com/martipops/popcorn-raycast): A Raycast extension that uses the Stremio API to search for movies and TV shows and stream them to local media players using Stremio addons. 
 * [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime): Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
 * [iSapozhnik/Popover](https://github.com/iSapozhnik/Popover): Custom macOS Popover 💬
@@ -2633,6 +2634,7 @@ creating your own Awesome List by GitHub stars!
 * [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists): A curated list of free public APIs — searchable, community-maintained, with a free JSON API.
 * [public-apis/public-apis](https://github.com/public-apis/public-apis): A collective list of free APIs
 * [GetPublii/Publii](https://github.com/GetPublii/Publii): The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
+* [cbetz/pulsar-lite](https://github.com/cbetz/pulsar-lite): Free dark landing-page + blog theme for devtool companies. Astro 6 + Tailwind 4, no UI frameworks.
 * [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer): JavaScript API for Chrome and Firefox
 * [sindresorhus/pure](https://github.com/sindresorhus/pure): Pretty, minimal and fast ZSH prompt
 * [WaldiPL/purplePrivateWindows](https://github.com/WaldiPL/purplePrivateWindows):  Extension for Firefox
@@ -3194,6 +3196,7 @@ creating your own Awesome List by GitHub stars!
 * [mikropsoft/StevenBlock](https://github.com/mikropsoft/StevenBlock): 🚫 Advanced Ad-Blocking Module for Android | Compatible with Magisk, KernelSU, and APatch 🔒
 * [Shopify/storefront-api-feedback](https://github.com/Shopify/storefront-api-feedback): The home of discussions and feedback surrounding the evolution of Shopify's Storefront API.
 * [streamlink/streamlink](https://github.com/streamlink/streamlink): Streamlink is a CLI utility which pipes video streams from various services into a video player
+* [Davidona/StreamVault-IPTV](https://github.com/Davidona/StreamVault-IPTV): StreamVault is a TV-first free IPTV player for Android TV built with Kotlin, Jetpack Compose, Room, Hilt, and Media3.
 * [MrMonkey42/stremio-addon-debrid-search](https://github.com/MrMonkey42/stremio-addon-debrid-search): Stremio Addon to search downloads and torrents in your Debrid cloud
 * [pancake3000/stremio-addon-manager](https://github.com/pancake3000/stremio-addon-manager): Manage your Stremio Addons
 * [Zaarrg/stremio-community-v5](https://github.com/Zaarrg/stremio-community-v5): 🐚 WebView2 and Qt6-based shell, desktop app for Stremio with latest web ui support
@@ -3773,6 +3776,7 @@ creating your own Awesome List by GitHub stars!
 * [mattmc3/zdotdir](https://github.com/mattmc3/zdotdir): My zsh config
 * [zbrateam/Zebra](https://github.com/zbrateam/Zebra): 🦓 A Useful Package Manager for iOS
 * [zed-industries/zed](https://github.com/zed-industries/zed): Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+* [anastasiiaxfr/zeepay](https://github.com/anastasiiaxfr/zeepay): Zeepay Fintech Template
 * [farrosfr/zenix](https://github.com/farrosfr/zenix): A high-performance Astro 6 SaaS theme by Farros FR. 100/100 Lighthouse optimized with dark mode, MDX blog, changelog, and command palette search.
 * [nathanchapman/zfunctions](https://github.com/nathanchapman/zfunctions): 🔮 A collection of useful zsh functions
 * [RealRaven2000/ZombieKeys](https://github.com/RealRaven2000/ZombieKeys): Thunderbird / Waterfox Add-on: ZombieKeys
