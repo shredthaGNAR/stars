@@ -307,6 +307,7 @@ creating your own Awesome List by GitHub stars!
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of interesting topics
 * [robinrodricks/awesome-actionscript3](https://github.com/robinrodricks/awesome-actionscript3): A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.
 * [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents): A list of AI autonomous agents
+* [ai-for-developers/awesome-ai-coding-tools](https://github.com/ai-for-developers/awesome-ai-coding-tools): A curated list of AI-powered coding tools
 * [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools): A curated list of Artificial Intelligence Top Tools
 * [tankvn/awesome-ai-tools](https://github.com/tankvn/awesome-ai-tools): A curated list of 7766 awesome AI tools
 * [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search): List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
@@ -670,6 +671,7 @@ creating your own Awesome List by GitHub stars!
 * [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN): ChatGPT DAN, Jailbreaks prompt
 * [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt): A collection of GPT system prompts and various prompt injection/leaking knowledge.
 * [NightMachinery/chatgpt_userscript](https://github.com/NightMachinery/chatgpt_userscript): None
+* [urtrulyanish/ChatGPTAPIFree](https://github.com/urtrulyanish/ChatGPTAPIFree): A simple and open-source proxy API that allows you to access OpenAI's ChatGPT API for free!
 * [ChatGPTBox-dev/chatGPTBox](https://github.com/ChatGPTBox-dev/chatGPTBox): Integrating ChatGPT into your browser deeply, everything you need is here
 * [VuHoaBinh/chatGPTBox](https://github.com/VuHoaBinh/chatGPTBox): Integrating ChatGPT into your browser deeply, everything you need is here
 * [chathub-dev/chathub](https://github.com/chathub-dev/chathub): None
@@ -1339,6 +1341,7 @@ creating your own Awesome List by GitHub stars!
 * [MrOtherGuy/fx-nightly-changelog](https://github.com/MrOtherGuy/fx-nightly-changelog): Generated list of daily bug fixes
 * [hensm/fx_cast](https://github.com/hensm/fx_cast): Chromecast Web Sender SDK implementation for Firefox
 * [MrOtherGuy/FxChromeViewer](https://github.com/MrOtherGuy/FxChromeViewer): None
+* [AdamXweb/fxcss](https://github.com/AdamXweb/fxcss): 🦊 Live-reload, inspect and screenshot-test Firefox userChrome.css themes
 * [johannjhang/fz.sh](https://github.com/johannjhang/fz.sh): Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
 * [junegunn/fzf](https://github.com/junegunn/fzf): :cherry_blossom: A command-line fuzzy finder
 * [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab): Replace zsh's default completion selection menu with fzf!
@@ -1443,6 +1446,7 @@ creating your own Awesome List by GitHub stars!
 * [to-ie/gitswitch](https://github.com/to-ie/gitswitch): This script helps with users who have multiple GitHub profiles and require to switch between them on a regular basis.  
 * [k0src/GitSync](https://github.com/k0src/GitSync): Sync Firefox windows, tabs, and tab groups via GitHub
 * [d0dg3r/GitSyncMarks](https://github.com/d0dg3r/GitSyncMarks): Browser extension for bidirectional bookmark sync with Git (GitHub, GitLab, Codeberg, Gitea & more). One JSON file per bookmark, three-way merge, auto-sync, multiple profiles. Chrome & Firefox & Companion App. Linkwarden, Smart Search. Add via Git, CLI, or Actions. No middleman.
+* [d0dg3r/GitSyncMarks-App](https://github.com/d0dg3r/GitSyncMarks-App): Cross-platform app (Android, iOS, Windows, macOS, Linux) that syncs bookmarks from your GitHub repo. Companion to the GitSyncMarks browser extension.
 * [aritrakrbasu/gitty](https://github.com/aritrakrbasu/gitty): Gitty is a handy tool that will instantly transform your github account to a presentable portfolio website that you can share. 
 * [gitx/gitx](https://github.com/gitx/gitx): The best fork of the best lightweight, visual git client for macOS.
 * [KinoLien/gitzip](https://github.com/KinoLien/gitzip): It can make sub-folder/sub-directory of github repository as zip and download it.
@@ -1622,7 +1626,7 @@ creating your own Awesome List by GitHub stars!
 * [dnnsmnstrr/HydroTouch](https://github.com/dnnsmnstrr/HydroTouch): A collection of presets for BetterTouchTool
 * [penance316/hyper-dark-vibrancy](https://github.com/penance316/hyper-dark-vibrancy): A demo theme for hyperterm to demonstrate the vibrancy effect on macOS
 * [zt64/Hyperion](https://github.com/zt64/Hyperion): An alternative YouTube front-end
-* [apernet/hysteria](https://github.com/apernet/hysteria): Hysteria is a powerful, lightning fast and censorship resistant proxy.
+* [HyNetworks/hysteria](https://github.com/HyNetworks/hysteria): Hysteria is powerful, lightning-fast, and censorship-resistant open-source proxy software
 * [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies): Debloated fork of the extension "I don't care about cookies"
 * [potsky/iajai-email-signature](https://github.com/potsky/iajai-email-signature): None
 * [deseven/iCanHazShortcut](https://github.com/deseven/iCanHazShortcut): simple shortcut manager for macOS
@@ -1816,6 +1820,7 @@ creating your own Awesome List by GitHub stars!
 * [KDE/kleopatra](https://github.com/KDE/kleopatra): Certificate manager and GUI for OpenPGP and CMS cryptography
 * [kkkgo/KMS_VL_ALL](https://github.com/kkkgo/KMS_VL_ALL): 🔑KMS_VL_ALL - Smart Activation Script
 * [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp): Run GGUF models easily with a KoboldAI UI. One File. Zero Install.
+* [Bitte-ein-Git/kodi-repo](https://github.com/Bitte-ein-Git/kodi-repo): heyFordy's Kodi Repository
 * [gnonio/korporize](https://github.com/gnonio/korporize): OCR - Object Character Recognition for any image you browse upon
 * [onekiloparsec/KPCTabsControl](https://github.com/onekiloparsec/KPCTabsControl): A macOS control for tabs with enhanced capabilities, and styles: Safari, Chrome and custom ones.
 * [kondasoft/ks-bootshop](https://github.com/kondasoft/ks-bootshop): Our Free Shopify Theme focused on simplicity, speed, and user experience. Download it today and finish your Shopify store within days, not months. Powered by Bootstrap v5 framework and 15+ years of coding experience.
@@ -2417,6 +2422,8 @@ creating your own Awesome List by GitHub stars!
 * [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop): Pear 🍐 is extension for music player
 * [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner): A free, source-available and fair-code licensed mac app cleaner
 * [u-Sir/peek-pop](https://github.com/u-Sir/peek-pop): Instantly preview links with a simple double-click, without breaking your workflow.
+* [anubhavitis/peeksy](https://github.com/anubhavitis/peeksy): screenshot name automation tool for macos
+* [anubhavitis/peeksy-app](https://github.com/anubhavitis/peeksy-app): None
 * [getpelican/pelican](https://github.com/getpelican/pelican): Static site generator that supports Markdown and reST syntax. Powered by Python.
 * [dgurkaynak/Penc](https://github.com/dgurkaynak/Penc): Trackpad-oriented window manager for macOS
 * [shash007/People-Search-on-Social-Networks-using-Face-Recognition](https://github.com/shash007/People-Search-on-Social-Networks-using-Face-Recognition): Searching people on social networking sites using Face Recognition
