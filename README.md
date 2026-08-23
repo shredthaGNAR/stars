@@ -304,7 +304,7 @@ creating your own Awesome List by GitHub stars!
 * [sbmpost/AutoRaise](https://github.com/sbmpost/AutoRaise): AutoRaise (and focus) a window when hovering over it with the mouse
 * [Josua996/AutoTag](https://github.com/Josua996/AutoTag): A Thunderbird Add-on that automatically tag emails based on the sender address 🤖🏷
 * [tamcore/autoupdate-oh-my-zsh-plugins](https://github.com/tamcore/autoupdate-oh-my-zsh-plugins): Plugin for oh-my-zsh to automatically update custom-plugins
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of interesting topics
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 * [robinrodricks/awesome-actionscript3](https://github.com/robinrodricks/awesome-actionscript3): A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.
 * [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents): A list of AI autonomous agents
 * [ai-for-developers/awesome-ai-coding-tools](https://github.com/ai-for-developers/awesome-ai-coding-tools): A curated list of AI-powered coding tools
@@ -376,6 +376,7 @@ creating your own Awesome List by GitHub stars!
 * [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian): 🕶️ Awesome stuff for Obsidian
 * [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents): 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
 * [weisser-dev/awesome-opencode](https://github.com/weisser-dev/awesome-opencode): 108 agents, 15 skills, smart model config, and interactive CLI for OpenCode — npx @weisser-dev/awesome-opencode
+* [OpenRouterTeam/awesome-openrouter](https://github.com/OpenRouterTeam/awesome-openrouter): Awesome list of apps that work with OpenRouter. OpenRouter provides access to 300+ AI Models through a single API.
 * [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint): :scream: A curated list of amazingly awesome OSINT
 * [Astrosp/Awesome-OSINT-List](https://github.com/Astrosp/Awesome-OSINT-List): 📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI.
 * [lorien/awesome-pastebins](https://github.com/lorien/awesome-pastebins): List of pastebin services
@@ -3801,7 +3802,7 @@ creating your own Awesome List by GitHub stars!
 * [zsh-users/zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search): 🐠 ZSH port of Fish history search (up arrow)
 * [johannjhang/zsh-interactive-cd](https://github.com/johannjhang/zsh-interactive-cd): Fish like interactive tab completion for cd in zsh
 * [marlonrichert/zsh-launchpad](https://github.com/marlonrichert/zsh-launchpad): 🚀 Simple, educational dotfiles template to get started with Zsh and learn about its features
-* [MenkeTechnologies/zsh-more-completions](https://github.com/MenkeTechnologies/zsh-more-completions): Worlds largest collection of zsh completions
+* [MenkeTechnologies/zsh-more-completions](https://github.com/MenkeTechnologies/zsh-more-completions): Curated zsh completion corpus
 * [lukechilds/zsh-nvm](https://github.com/lukechilds/zsh-nvm): Zsh plugin for installing, updating and loading nvm
 * [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit): A simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins. It is designed to be easy to customize without requiring you to maintain your own fork.
 * [agkozak/zsh-z](https://github.com/agkozak/zsh-z): Jump quickly to directories that you have visited "frecently." A native Zsh port of z.sh with added features.
