@@ -1175,7 +1175,7 @@ creating your own Awesome List by GitHub stars!
 * [Tagggar/Firefox-Alpha](https://github.com/Tagggar/Firefox-Alpha): 🗿 Super clear desktop browser with zero buttons and intuitive gesture controls
 * [JoBuettner/firefox-autoconfig-customizations](https://github.com/JoBuettner/firefox-autoconfig-customizations): None
 * [GrosBourrin/FIREFOX-BLUE-MOON](https://github.com/GrosBourrin/FIREFOX-BLUE-MOON): Firefox blueish & dark theme 
-* [tagler/firefox-bookmark-toolbar-dark-theme](https://github.com/tagler/firefox-bookmark-toolbar-dark-theme): Custom CSS file for Firefox bookmark toolbar dark theme, v92+ (mac)
+* [tagler/firefox-bookmark-toolbar-dark-theme](https://github.com/tagler/firefox-bookmark-toolbar-dark-theme): Custom CSS file for Firefox bookmark toolbar dark theme, v154+ (mac)
 * [james-cube/firefox-bookmarks-merger](https://github.com/james-cube/firefox-bookmarks-merger): Tool for merging firefox bookmarks backups.
 * [gabeweb/Firefox-Browser-Proton-Custom](https://github.com/gabeweb/Firefox-Browser-Proton-Custom): A custom userChrome.css for Firefox 86+ (February 2021). For personal purpose only. 
 * [anewuser/firefox-clean-dark-theme](https://github.com/anewuser/firefox-clean-dark-theme): Firefox dark theme with a less cluttered UI
@@ -2648,7 +2648,7 @@ creating your own Awesome List by GitHub stars!
 * [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer): JavaScript API for Chrome and Firefox
 * [sindresorhus/pure](https://github.com/sindresorhus/pure): Pretty, minimal and fast ZSH prompt
 * [WaldiPL/purplePrivateWindows](https://github.com/WaldiPL/purplePrivateWindows):  Extension for Firefox
-* [drduh/Purse](https://github.com/drduh/Purse): GnuPG asymmetric secrets manager - works with YubiKey!
+* [drduh/Purse](https://github.com/drduh/Purse): Manage secrets with Bash and GnuPG asymmetric encryption (YubiKey)
 * [filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox): A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
 * [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt): Desktop AI Assistant powered by GPT-5, GPT-4, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, speech synthesis and recognition, web search, memory, presets, assistants,and more. Linux, Windows, Mac
 * [kevinschaich/py-imessage-shortcuts](https://github.com/kevinschaich/py-imessage-shortcuts): 💬 Send iMessages using Python through the Shortcuts app.
