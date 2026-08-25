@@ -403,7 +403,7 @@ creating your own Awesome List by GitHub stars!
 * [vintagesucks/awesome-stars](https://github.com/vintagesucks/awesome-stars): :star: A curated list of my GitHub stars
 * [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators): A curated list of static web site generators.
 * [EliFuzz/awesome-system-prompts](https://github.com/EliFuzz/awesome-system-prompts): A collection of system prompts and tool definitions from various AI coding agents: Augment Code, Claude Code, Cluely, Cursor, Devin AI, Kiro, Perplexity, VSCode Agent, Gemini, Codex, OpenAI
-* [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link): Collection of Testflight public app link（iOS/iPad OS/macOS/tvOS）
+* [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link): Collection of Testflight public app link（iOS/iPad OS/macOS/tvOS/visionOS）
 * [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling): List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 * [rjaus/awesome-ublacklist](https://github.com/rjaus/awesome-ublacklist): Awesome list of uBlacklist subscriptions to block search results from google, bing, duckduckgo.
 * [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts): 📖  A curated list of Awesome Userscripts.
@@ -1230,7 +1230,7 @@ creating your own Awesome List by GitHub stars!
 * [Sporif/firefox-quantum-userchromejs](https://github.com/Sporif/firefox-quantum-userchromejs): Firefox Quantum-compatible custom javascript in browser context — no extension, userChromeJS replacement
 * [deseven/firefox-quickllm](https://github.com/deseven/firefox-quickllm): Firefox extension that integrates LLMs into your browser
 * [xpmn/firefox-reading-list](https://github.com/xpmn/firefox-reading-list): A minimal Firefox extension for saving pages to read later.
-* [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar): A customisable userChrome.css style to improve the Firefox (130–152) find bar.
+* [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar): A customisable userChrome.css style to improve the Firefox (130–154) find bar.
 * [mobiusxp/firefox-remap-private-browsing](https://github.com/mobiusxp/firefox-remap-private-browsing): UserChrome JS script to remap Firefox's Private Browsing to match everything else
 * [BGMP/firefox-revert-proton](https://github.com/BGMP/firefox-revert-proton): Revert Firefox Proton to Photon & Photon Compact
 * [panjilp-lab/firefox-safari-noFix](https://github.com/panjilp-lab/firefox-safari-noFix): learning to make safari style for firefox
@@ -2193,7 +2193,7 @@ creating your own Awesome List by GitHub stars!
 * [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire): RSS reader for macOS and iOS.
 * [PhilippMatthes/neural-greenscreen](https://github.com/PhilippMatthes/neural-greenscreen): Real time background replacement on a mac os driven webcam using the DeepLabV3 neural network for image segmentation and the native CoreMediaIO DAL framework of Mac OS.
 * [synapp009/NeuroCalm](https://github.com/synapp009/NeuroCalm): Vagus nerve stimulator with vibration of the smartphone pressed on the cymba conchae of the left ear
-* [QuantumNous/new-api](https://github.com/QuantumNous/new-api): A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥
+* [QuantumNous/new-api](https://github.com/QuantumNous/new-api): A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.
 * [WesleyBranton/New-Browser-Style](https://github.com/WesleyBranton/New-Browser-Style): A replacement for Firefox's builtin browser style CSS
 * [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe): A libre lightweight streaming front-end for Android.
 * [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe): A fork of NewPipe with SponsorBlock functionality.
@@ -3586,7 +3586,7 @@ creating your own Awesome List by GitHub stars!
 * [nt1m/vivaldi-fox](https://github.com/nt1m/vivaldi-fox): An add-on that aims to add Vivaldi style toolbar colouring to the Firefox UI
 * [sharkdp/vivid](https://github.com/sharkdp/vivid): A themeable LS_COLORS generator with a rich filetype datebase
 * [muhummadPatel/vLoader](https://github.com/muhummadPatel/vLoader): An extremely simple, no frills, GUI-based video downloader
-* [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils): Free and open-source macOS menu bar toolkit.
+* [vorssaintapp/vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils): Free and open-source macOS menu bar toolkit.
 * [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager): Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。
 * [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot): Share your VPN connection over hotspot or repeater! (root required)
 * [AdamCaviness/vs-code-theme-monokai-dark-soda](https://github.com/AdamCaviness/vs-code-theme-monokai-dark-soda): A VS Code theme
