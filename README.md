@@ -3553,7 +3553,7 @@ creating your own Awesome List by GitHub stars!
 * [utags/utags](https://github.com/utags/utags): 🏷️ Allow users to add custom tags to links.
 * [raycast/utils](https://github.com/raycast/utils): Set of utilities to streamline building Raycast extensions
 * [MiRO92/uYou-for-YouTube](https://github.com/MiRO92/uYou-for-YouTube): Enhance Your YouTube Experience
-* [arichornlover/uYouEnhanced](https://github.com/arichornlover/uYouEnhanced): uYouEnhanced (by @arichornlover) is an expanded version of uYou+ (made by @qnblackcat) with additional features and mainly made for non jailbroken users!
+* [arichornlover/uYouEnhanced](https://github.com/arichornlover/uYouEnhanced): uYouEnhanced (by @arichornlover) is a continuation of uYou+ (made by @qnblackcat) with so much more features and mainly built for sideloaded users!
 * [qnblackcat/uYouPlus](https://github.com/qnblackcat/uYouPlus): uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
 * [bchiang7/v4](https://github.com/bchiang7/v4): Fourth iteration of my personal website built with Gatsby
 * [Vallek/vallek-firefox-custom-css](https://github.com/Vallek/vallek-firefox-custom-css): Classic Firefox UI style based on https://github.com/Aris-t2/CustomCSSforFx
@@ -3754,7 +3754,7 @@ creating your own Awesome List by GitHub stars!
 * [pateldevang/Youtube-music-macOS](https://github.com/pateldevang/Youtube-music-macOS): Youtube Music for macOS (Ads free) & Download Music For Free.
 * [organization/youtube-music-next](https://github.com/organization/youtube-music-next): YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader). forked from th-ch/youtube-music
 * [farag2/YouTube-Patcher](https://github.com/farag2/YouTube-Patcher): Build your YouTube ReVanced client in a cloud
-* [MANCrimSon/YouTube-ReVanced-Extended](https://github.com/MANCrimSon/YouTube-ReVanced-Extended): None
+* [MANCrimSon/YouTube-ReVanced-Extended](https://github.com/MANCrimSon/YouTube-ReVanced-Extended): Automated builds of YouTube & YT Music (ReVanced Extended (anddea) & Morphe + Yandex VoT) for Magisk/KernelSU and Non-Root (Obtainium).
 * [alexmercerind/youtube-search-python](https://github.com/alexmercerind/youtube-search-python): 🔎 Search for YouTube videos, channels & playlists. Get 🎞 video &  📑 playlist info using link. Get search suggestions. WITHOUT YouTube Data API v3.
 * [PeerGroupSoftware/Youtube-To-Mac](https://github.com/PeerGroupSoftware/Youtube-To-Mac): Cocoa Interface for youtube-dl
 * [NikoboiNFTB/YouTube-Tweaks](https://github.com/NikoboiNFTB/YouTube-Tweaks): A collection of userscripts and a uBlock Origin blocklist for YouTube.
