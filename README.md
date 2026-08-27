@@ -1230,7 +1230,7 @@ creating your own Awesome List by GitHub stars!
 * [Sporif/firefox-quantum-userchromejs](https://github.com/Sporif/firefox-quantum-userchromejs): Firefox Quantum-compatible custom javascript in browser context — no extension, userChromeJS replacement
 * [deseven/firefox-quickllm](https://github.com/deseven/firefox-quickllm): Firefox extension that integrates LLMs into your browser
 * [xpmn/firefox-reading-list](https://github.com/xpmn/firefox-reading-list): A minimal Firefox extension for saving pages to read later.
-* [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar): A customisable userChrome.css style to improve the Firefox (130–154) find bar.
+* [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar): A customisable userChrome.css style to improve the Firefox (150-155) find bar.
 * [mobiusxp/firefox-remap-private-browsing](https://github.com/mobiusxp/firefox-remap-private-browsing): UserChrome JS script to remap Firefox's Private Browsing to match everything else
 * [BGMP/firefox-revert-proton](https://github.com/BGMP/firefox-revert-proton): Revert Firefox Proton to Photon & Photon Compact
 * [panjilp-lab/firefox-safari-noFix](https://github.com/panjilp-lab/firefox-safari-noFix): learning to make safari style for firefox
@@ -1943,7 +1943,7 @@ creating your own Awesome List by GitHub stars!
 * [Feng6611/mac-command-reopen](https://github.com/Feng6611/mac-command-reopen): Reopen closed & minimized windows with Command+Tab
 * [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook): Mac setup and configuration via Ansible.
 * [michaelschwobe/mac-dev-setup](https://github.com/michaelschwobe/mac-dev-setup): A macOS setup guide specific to front-end development.
-* [andrewpetrochenkov/mac-finder](https://github.com/andrewpetrochenkov/mac-finder): :apple: macOS Finder scripts
+* [petrochenkov-ak/mac-finder](https://github.com/petrochenkov-ak/mac-finder): :apple: macOS Finder scripts
 * [eth-p/mac-icons](https://github.com/eth-p/mac-icons): An assortment of custom MacOS folder icons, editable without Adobe products.
 * [zhuochun/mac-keyboard](https://github.com/zhuochun/mac-keyboard): 🎹 Keyboard Enhancements for Mac
 * [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix): Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!
@@ -3441,7 +3441,6 @@ creating your own Awesome List by GitHub stars!
 * [unixorn/tumult.plugin.zsh](https://github.com/unixorn/tumult.plugin.zsh): Tumult is a collection of macOS-specific functions and scripts for your shell environment. It is packaged as a ZSH plugin, but can be used with other shells as well.
 * [dopeytree/TVx](https://github.com/dopeytree/TVx): 📺 TVx — the warmth of modern nostalgia  This is the way - television you remember feeling: present, unhurried, *analog*
 * [humandecoded/twayback](https://github.com/humandecoded/twayback): Automate downloading archived deleted Tweets.
-* [crimera/twitter-apk](https://github.com/crimera/twitter-apk): Apk builds of piko patches
 * [RobTrew/txtquery-tools](https://github.com/RobTrew/txtquery-tools): Tools for generating custom perspectives & reports from FoldingText and TaskPaper docs
 * [KarlPiper/typography-shortcuts](https://github.com/KarlPiper/typography-shortcuts): BetterTouchTool actions for typing special characters, and reference for macOS keyboard shortcuts.
 * [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets): Filter lists for uBlock Origin & uBlock Origin Lite
