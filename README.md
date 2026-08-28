@@ -1442,7 +1442,7 @@ creating your own Awesome List by GitHub stars!
 * [github/gitignore](https://github.com/github/gitignore): A collection of useful .gitignore templates
 * [coderamp-labs/gitingest-extension](https://github.com/coderamp-labs/gitingest-extension): ✨ A extension can help you open git ingest to turn any git repository into a prompt-friendly text ingest for LLMs.
 * [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal): Mobile first Note Taking integrated with Git
-* [arifszn/gitprofile](https://github.com/arifszn/gitprofile): 🚀 Create and publish a dynamic portfolio by just providing your GitHub username.
+* [arifszn/gitprofile](https://github.com/arifszn/gitprofile): 🚀 Create and publish a GitHub-synced portfolio by just providing your GitHub username.
 * [gorse-io/gitrec](https://github.com/gorse-io/gitrec): A recommender system for GitHub repositories based on Gorse provides personalized recommendations and similar repositories 
 * [to-ie/gitswitch](https://github.com/to-ie/gitswitch): This script helps with users who have multiple GitHub profiles and require to switch between them on a regular basis.  
 * [k0src/GitSync](https://github.com/k0src/GitSync): Sync Firefox windows, tabs, and tab groups via GitHub
@@ -2239,6 +2239,7 @@ creating your own Awesome List by GitHub stars!
 * [nukeop/nuclear](https://github.com/nukeop/nuclear): Streaming music player that finds free music for you
 * [Nevesto/NullSpawn](https://github.com/Nevesto/NullSpawn): Cybersecurity-themed Nickname Generator.
 * [apilayer/numverify-API](https://github.com/apilayer/numverify-API): Free global phone number validation & lookup JSON API
+* [NuvioMedia/NuvioMobile](https://github.com/NuvioMedia/NuvioMobile): Official Nuvio Mobile Repository
 * [edgars21/nuxtjs-shopify-flex-theme-section-with-vue](https://github.com/edgars21/nuxtjs-shopify-flex-theme-section-with-vue): None
 * [nvm-sh/nvm](https://github.com/nvm-sh/nvm): Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
 * [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop): Node Version Manager Desktop - A desktop application to manage multiple active node.js versions.
@@ -2616,6 +2617,7 @@ creating your own Awesome List by GitHub stars!
 * [progit/progit2](https://github.com/progit/progit2): Pro Git 2nd Edition
 * [dujonwalker/project-nova](https://github.com/dujonwalker/project-nova): A multi-agent AI architecture that connects 25+ specialized agents through n8n and MCP servers. Project NOVA routes requests to domain-specific experts, enabling control of applications from knowledge bases to DAWs, home automation to development tools. Includes system prompts, Dockerfiles, and workflows for a complete AI assistant ecosystem.
 * [masoudsoleymani/projects-portfolio-template](https://github.com/masoudsoleymani/projects-portfolio-template): Astro portfolio template to showcase projects and experiences- fast, customizable, and deploy-ready.
+* [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial): Anthropic's Interactive Prompt Engineering Tutorial
 * [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 * [raycast/prompt-explorer](https://github.com/raycast/prompt-explorer): Easily browse, share, and add prompts to Raycast
 * [nkmr-jp/prompt-line](https://github.com/nkmr-jp/prompt-line): Prompt Line is a macOS app developed to improve the prompt input experience in the terminal for CLI-based AI coding agents such as Claude Code, Codex CLI, and Gemini CLI.
@@ -2931,6 +2933,7 @@ creating your own Awesome List by GitHub stars!
 * [duyquoc/ScreenToLayers](https://github.com/duyquoc/ScreenToLayers): macOS app to capture your screen as a layered PSD file
 * [mearashadowfax/ScrewFast](https://github.com/mearashadowfax/ScrewFast): Open-source Astro website template with sleek, customizable TailwindCSS components.
 * [raycast/script-commands](https://github.com/raycast/script-commands): Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
+* [SIMKL/script.simkl](https://github.com/SIMKL/script.simkl): Kodi add-on for Simkl
 * [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat): ScriptCat, a browser extension that can execute userscript; 脚本猫，一个可以执行用户脚本的浏览器扩展
 * [tombowditch/scripts](https://github.com/tombowditch/scripts): General Scripts
 * [d3ward/scriptz](https://github.com/d3ward/scriptz): An awesome collection of userscripts
