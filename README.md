@@ -383,7 +383,6 @@ creating your own Awesome List by GitHub stars!
 * [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy): A curated list of awesome warez and piracy links
 * [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy): A curated list of awesome warez and piracy links.
 * [aviranzerioniac/awesome-piracy](https://github.com/aviranzerioniac/awesome-piracy): This is oftentimes a clone of the original awesome piracy repo. At times, i just go along editing a little too many links from the collection, and it becomes something else.
-* [wonkru-bot/Awesome-Piracy-](https://github.com/wonkru-bot/Awesome-Piracy-): None
 * [makarandjadhav1/awesome-piracy-master](https://github.com/makarandjadhav1/awesome-piracy-master): None
 * [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts): Collection of awesome podcasts
 * [apehex/awesome-poker](https://github.com/apehex/awesome-poker): :spades: :hearts: :clubs: :diamonds: A curated list of awesome poker resources & tools to improve your game.
@@ -2210,6 +2209,7 @@ creating your own Awesome List by GitHub stars!
 * [nicoleahmed/nicoles-ublacklist](https://github.com/nicoleahmed/nicoles-ublacklist): Block bad & dangerous search results using uBlacklist. A collection of filter lists for different locales and settings. Additionally Nicole's personal subscription list
 * [nghtfall/nightfall-vsc](https://github.com/nghtfall/nightfall-vsc): a blue-ish gray with a purple accent color palette for Visual Studio Code.
 * [chvancooten/NimPackt-v1](https://github.com/chvancooten/NimPackt-v1): Nim-based assembly packer and shellcode loader for opsec & profit
+* [RandomNinjaAtk/Ninja-Streams](https://github.com/RandomNinjaAtk/Ninja-Streams): This page features AIOStreams templates and AIOMetadata configs for your perfect all-in-one stremio setup.
 * [nixgates/nixgates](https://github.com/nixgates/nixgates): Repository for Kodi Addons
 * [zebbern/no-cost-ai](https://github.com/zebbern/no-cost-ai): 80+ free AI services for chat, image, video, voice & APIs (may sometimes include access to lead gen ai models for free)
 * [calibr/node-bookmarks-parser](https://github.com/calibr/node-bookmarks-parser): Parses Firefox/Chrome HTML bookmarks files
