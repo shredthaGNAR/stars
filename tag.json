@@ -179,6 +179,9 @@
     "Adobe-CEP/CEP-Resources": [
         "Other"
     ],
+    "AgentiLoop/bigmac": [
+        "Other"
+    ],
     "Ahmed-Elswerky/custom-tampermonkey-scripts": [
         "Other"
     ],
@@ -7226,9 +7229,6 @@
     "mabdelaal86/bookmarks_gkeep": [
         "Other"
     ],
-    "macOS26/bigmac": [
-        "Other"
-    ],
     "maccman/macgap-rb": [
         "Other"
     ],
@@ -10629,9 +10629,6 @@
         "Other"
     ],
     "urtrulyanish/ChatGPTAPIFree": [
-        "Other"
-    ],
-    "urzeye/ophel": [
         "Other"
     ],
     "usc-isi-i2/Web-Karma": [
