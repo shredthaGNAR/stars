@@ -46,7 +46,7 @@ creating your own Awesome List by GitHub stars!
 * [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages): GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 * [UniAlternative/activation-script](https://github.com/UniAlternative/activation-script): A script designed to generate configuration files and activate software for the Surge
 * [techgaun/active-forks](https://github.com/techgaun/active-forks): Find active github forks of a repo https://git.io/vSnrC
-* [easonwong-de/Adaptive-Tab-Bar-Colour](https://github.com/easonwong-de/Adaptive-Tab-Bar-Colour): Changes the colour of Firefox theme to match the website’s appearance.
+* [atbc-org/Adaptive-Tab-Bar-Colour](https://github.com/atbc-org/Adaptive-Tab-Bar-Colour): Changes the colour of Firefox theme to match the website’s appearance.
 * [AdAway/AdAway](https://github.com/AdAway/AdAway): AdAway is a free and open source ad blocker for Android. 
 * [robertocaldas/AdbInstallService](https://github.com/robertocaldas/AdbInstallService): Simple adb install APK Automator Service for Mac with Notification
 * [Yuki2718/adblock](https://github.com/Yuki2718/adblock): Personal filters and rules for AdGuard/uBlock Origin
@@ -3327,7 +3327,7 @@ creating your own Awesome List by GitHub stars!
 * [piroor/textlink](https://github.com/piroor/textlink): Text Link, Allows URI texts written in webpages to be loaded by double clicks.
 * [beowulf518/textnow-automation](https://github.com/beowulf518/textnow-automation): creating textnow account with temp email
 * [de1etenu11ptr/TGS-Extension](https://github.com/de1etenu11ptr/TGS-Extension): Tab Group Saver (TGS) Extension for firefox that mainly utilizes the bookmarks API to allow for reliable persistence of tab groups.
-* [thaw-app/Thaw](https://github.com/thaw-app/Thaw): The menu bar manager for macOS
+* [thaw-app/Thaw](https://github.com/thaw-app/Thaw): The only app that owns your whole menu bar, in and out.
 * [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge): A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 * [samber/the-great-gpt-firewall](https://github.com/samber/the-great-gpt-firewall): 🤖 A curated list of websites that restrict access to AI Agents, AI crawlers and GPTs
 * [passthesh3ll/The-Pika-s-OSINT-ToolBox](https://github.com/passthesh3ll/The-Pika-s-OSINT-ToolBox): A curated list of free OSINT tools ⚡️
