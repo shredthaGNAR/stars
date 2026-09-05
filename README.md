@@ -85,7 +85,7 @@ creating your own Awesome List by GitHub stars!
 * [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents): A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 * [uno-forge-hub/agency-landing-page-Astrojs](https://github.com/uno-forge-hub/agency-landing-page-Astrojs): A simple agency landing page made with astrojs and tailwindcss
 * [jazzyalex/agent-sessions](https://github.com/jazzyalex/agent-sessions): Local-first macOS app to browse, search, analyze, and resume supported AI coding-agent session history across Codex, Claude Code, OpenCode, Cursor Agent, Hermes, OpenClaw, Copilot CLI, and more.
-* [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills): AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,005+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.
+* [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills): AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,100+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.
 * [piroor/aggregate-tabs-to-main-window](https://github.com/piroor/aggregate-tabs-to-main-window): Aggregate new tabs to a window which has most many tabs and largest size.
 * [AI-Anywhere/AI-Anywhere](https://github.com/AI-Anywhere/AI-Anywhere): Your agents. Any browser. Anywhere
 * [fastaddons/AI-Anywhere](https://github.com/fastaddons/AI-Anywhere): None
@@ -257,7 +257,6 @@ creating your own Awesome List by GitHub stars!
 * [milzamsz/astro-cloudflare-starter](https://github.com/milzamsz/astro-cloudflare-starter): Static Astro marketing + blog + docs starter for Cloudflare Pages. Markdown content, Starlight docs with full-text search, i18n-ready, SEO, light/dark — no CMS, no database.
 * [dofbi/astro-cv-theme](https://github.com/dofbi/astro-cv-theme): CV theme for Astro 🚀
 * [shredthaGNAR/astro-cv-theme](https://github.com/shredthaGNAR/astro-cv-theme): None
-* [Gothsec/Astro-portfolio](https://github.com/Gothsec/Astro-portfolio): Portfolio template built with Astro, React, TypeScript and TailwindCSS. (Handcrafted with Figma)
 * [uzzii-21/astro-portfolio](https://github.com/uzzii-21/astro-portfolio): This repo contains the source code for a personal portfolio website built with Astro, a framework for building fast and modern websites with your favorite frontend tools. The website showcases the developer's skills, projects, and contact information. The website is responsive, accessible, and SEO-friendly.
 * [MarcusHoltz/astro-portfolio-theme](https://github.com/MarcusHoltz/astro-portfolio-theme): Astro Portfolio Theme. Use on almost any host. Ditch the CMS. Edit a few JSON files - personal info, skills, project showcases - build, and deploy. 
 * [netlify-templates/astro-quickstart](https://github.com/netlify-templates/astro-quickstart): A bare-bones Astro template to get you deployed to Netlify fast!
@@ -698,7 +697,7 @@ creating your own Awesome List by GitHub stars!
 * [postmodern/chruby](https://github.com/postmodern/chruby): Changes the current Ruby
 * [emvaized/circle-mouse-gestures](https://github.com/emvaized/circle-mouse-gestures): Chrome and Firefox extension for mouse gestures with visual representation of actions as a circle
 * [asilvas/circler](https://github.com/asilvas/circler): (non-official) Logitech Circle utility application (download etc)
-* [sp4ce99/classic-tabs-firefox](https://github.com/sp4ce99/classic-tabs-firefox): None
+* [sp4ce84/classic-tabs-firefox](https://github.com/sp4ce84/classic-tabs-firefox): None
 * [anymorph-ai/Claudable](https://github.com/anymorph-ai/Claudable): Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.
 * [anthropics/claude-code](https://github.com/anthropics/claude-code): Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 * [StamKavid/claude-code-prompting-101](https://github.com/StamKavid/claude-code-prompting-101): A comprehensive educational repository for mastering prompt engineering with Anthropic's Claude AI, from basic concepts to production-ready systems. Based on Anthropic's official Claude Code Prompting 101 tutorial with extensive enhancements.
@@ -858,6 +857,7 @@ creating your own Awesome List by GitHub stars!
 * [JarryShaw/darc](https://github.com/JarryShaw/darc): Darkweb Crawler Project
 * [m-khvoinitsky/dark-background-light-text-extension](https://github.com/m-khvoinitsky/dark-background-light-text-extension): Firefox addon that turns every page colors into "light text on dark background"
 * [FilkCH/dark-filk-theme](https://github.com/FilkCH/dark-filk-theme): Visual Studio Code theme inspired by Monokai.
+* [Gothsec/dark-minimal](https://github.com/Gothsec/dark-minimal): Portfolio template built with Astro, React, TypeScript and TailwindCSS. (Handcrafted with Figma)
 * [apurvsinghgautam/dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools): OSINT Tools for the Dark Web
 * [octokami/darknet_forum](https://github.com/octokami/darknet_forum): Scraping darknet forums has been the object of research in the field of intelligence and security informatics.  In this repository we scraped three different sources of forums, and performed Sentiment Analysis, Topic Modelling, and Linguistic Analysis.
 * [fastaddons/Darko](https://github.com/fastaddons/Darko): None
@@ -2203,7 +2203,7 @@ creating your own Awesome List by GitHub stars!
 * [garywill/newTabClipboardUrl](https://github.com/garywill/newTabClipboardUrl): Quickly create new tab opening URL from clipboard. Firefox addon 📋🖱️🔗
 * [NexAlloy/NexAlloy](https://github.com/NexAlloy/NexAlloy): ChsBuffer's LSPosed module, powered by Morphe, ReVanced, and beyond. (formerly ReVanced Xposed)
 * [thewhiteh4t/nexfil](https://github.com/thewhiteh4t/nexfil): OSINT tool for finding profiles by username
-* [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat): ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+* [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat): ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS, Android, Linux, Windows.
 * [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config): Setup guide for NextDNS, a DoH proxy with advanced capabilities
 * [anilbeesetti/nextplayer](https://github.com/anilbeesetti/nextplayer): An Android native video player
 * [web-dahuyou/NiceTab](https://github.com/web-dahuyou/NiceTab): 浏览器插件：OneTab、Toby、N-Tab、SessionBuddy、KepTab 等扩展的升级替代品，功能丰富易用 | A nice, convenient, powerful tab manager  serving as an upgraded alternative to OneTab, Toby, SessionBuddy, N-Tab，KepTab...
@@ -2357,7 +2357,7 @@ creating your own Awesome List by GitHub stars!
 * [deboorn/openai-improve-text-extension](https://github.com/deboorn/openai-improve-text-extension): Chrome extension that elevates your writing using OpenAI's AI models. Simply select text on any webpage, use our lightning-fast keyboard shortcuts or right-click menu, and choose from five powerful improvement modes to instantly transform your writing.
 * [XInTheDark/openai-to-ollama-api](https://github.com/XInTheDark/openai-to-ollama-api): A simple, lightweight OpenAI to Ollama API adapter
 * [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator): OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
-* [openclaw/openclaw](https://github.com/openclaw/openclaw): Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+* [openclaw/openclaw](https://github.com/openclaw/openclaw): The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
 * [xiaotiyanlove-star/OpenClawForRaycast](https://github.com/xiaotiyanlove-star/OpenClawForRaycast): The official OpenClaw Gateway client for Raycast. Seamless, secure, and blazing fast AI chat.
 * [anomalyco/opencode](https://github.com/anomalyco/opencode): The open source coding agent.
 * [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher): Experience macOS just like before
@@ -3589,7 +3589,7 @@ creating your own Awesome List by GitHub stars!
 * [nt1m/vivaldi-fox](https://github.com/nt1m/vivaldi-fox): An add-on that aims to add Vivaldi style toolbar colouring to the Firefox UI
 * [sharkdp/vivid](https://github.com/sharkdp/vivid): A themeable LS_COLORS generator with a rich filetype datebase
 * [muhummadPatel/vLoader](https://github.com/muhummadPatel/vLoader): An extremely simple, no frills, GUI-based video downloader
-* [vorssaintapp/vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils): Free and open-source macOS menu bar toolkit.
+* [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils): Free and open-source macOS menu bar toolkit.
 * [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager): Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。
 * [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot): Share your VPN connection over hotspot or repeater! (root required)
 * [AdamCaviness/vs-code-theme-monokai-dark-soda](https://github.com/AdamCaviness/vs-code-theme-monokai-dark-soda): A VS Code theme
