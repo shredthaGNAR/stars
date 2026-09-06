@@ -270,7 +270,7 @@ creating your own Awesome List by GitHub stars!
 * [shredthaGNAR/astroship](https://github.com/shredthaGNAR/astroship): None
 * [surjithctly/astroship](https://github.com/surjithctly/astroship): Astroship is a starter template for startups, marketing websites, landing pages & blog. Built with Astro & TailwindCSS
 * [arthelokyo/astrowind](https://github.com/arthelokyo/astrowind): ⭕️ AstroWind: A free template using Astro v7 and Tailwind CSS v4. Astro starter theme.
-* [Zenlua/AT-YT](https://github.com/Zenlua/AT-YT): Tool build YouTube revanced mods auto.
+* [Kakathic/AT-YT](https://github.com/Kakathic/AT-YT): Tool build YouTube revanced mods auto.
 * [atom/atom](https://github.com/atom/atom): :atom: The hackable text editor
 * [Hann8n/Atom-for-Firefox](https://github.com/Hann8n/Atom-for-Firefox): Restores UI to default settings but keeps the translucency effects of FluidFox for MacOS
 * [nathanbuchar/atom-one-dark-terminal](https://github.com/nathanbuchar/atom-one-dark-terminal): A Terminal theme that mimics the One Dark theme made by the Atom team.
@@ -1781,6 +1781,7 @@ creating your own Awesome List by GitHub stars!
 * [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep): A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 * [brianluby/karakeep-extractor](https://github.com/brianluby/karakeep-extractor): None
 * [duongdev/karakeep-social-ai](https://github.com/duongdev/karakeep-social-ai): A personal bookmark manager that auto-syncs saved posts from multiple social platforms (X, Reddit, YouTube, TikTok, Dribbble, Instagram, Facebook), with AI-powered summarization, categorization, and intelligent search using Claude.
+* [thiswillbeyourgithub/karakeep_python_api](https://github.com/thiswillbeyourgithub/karakeep_python_api): Community-driven Python client & CLI for the Karakeep API.
 * [sozercan/kaset](https://github.com/sozercan/kaset): 📼 The missing YouTube and YouTube Music macOS app
 * [kazimmt/kazimmt.github.io](https://github.com/kazimmt/kazimmt.github.io): Organized ReVanced & ReVanced Extended functionalities along with visual illustrations.
 * [pqrs-org/KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications): Karabiner-Elements complex_modifications rules
@@ -1906,7 +1907,7 @@ creating your own Awesome List by GitHub stars!
 * [jamesponddotco/llm-prompts](https://github.com/jamesponddotco/llm-prompts): [READ-ONLY] A collection of prompts for enhancing productivity with large language models.
 * [brkunver/llm-toolbox](https://github.com/brkunver/llm-toolbox): Browser extension for popular LLMs 
 * [top-on/llmask](https://github.com/top-on/llmask): A command-line tool for masking authorship of text, by changing the writing style with a Large Language Model.
-* [jatinkrmalik/LLMFeeder](https://github.com/jatinkrmalik/LLMFeeder): Brower extension to convert web pages to clean Markdown and copy to clipboard so you can feed it to your favorite LLM model as context with just 1 click!
+* [jatinkrmalik/LLMFeeder](https://github.com/jatinkrmalik/LLMFeeder): Browser extension to convert web pages to clean Markdown and copy to clipboard so you can feed it to your favorite LLM model as context with just 1 click!
 * [kartikm7/llocal](https://github.com/kartikm7/llocal): Aiming to provide a seamless and privacy driven chatting experience with open-sourced technologies(Ollama), particularly open sourced LLM's(eg. Llama3, Phi-3, Mistral). Focused on ease of use. Available on both Windows and Mac.
 * [vybestack/llxprt-code](https://github.com/vybestack/llxprt-code): An open-source multi-provider AI assisted CLI development tool. Use whatever LLM you want to code in your terminal.
 * [lobehub/lobehub](https://github.com/lobehub/lobehub): 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
@@ -2406,6 +2407,7 @@ creating your own Awesome List by GitHub stars!
 * [OuterTune/OuterTune](https://github.com/OuterTune/OuterTune): A Material 3 Music Player for Android with local file & YouTube Music support. Forked from InnerTune
 * [CptFoobar/Owl](https://github.com/CptFoobar/Owl): A Mozilla Firefox add-on to make online reading comfortable.
 * [seemoo-lab/owl](https://github.com/seemoo-lab/owl): An open Apple Wireless Direct Link (AWDL) implementation written in C
+* [ahXN00/OwnTV](https://github.com/ahXN00/OwnTV): Native Android TV IPTV player — Kotlin, Compose for TV, ExoPlayer + mpv. Xtream, M3U and Stalker portals, EPG, catch-up TV, profiles and downloads.
 * [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist): Use your locally running AI models to assist you in your web browsing
 * [fm-sys/pairdrop-android](https://github.com/fm-sys/pairdrop-android): Android client for local file sharing via https://pairdrop.net and self-hosted snapdrop 
 * [AaronSoria/PAnalizer](https://github.com/AaronSoria/PAnalizer): PAnalizer is a forensic tool, you can search pornographic images in a specific directory, this is util in Pedestrian Detection. Also you can search a specific person in image set, is necesesary give to the aplication a few pictures of the person of interest
@@ -3590,7 +3592,7 @@ creating your own Awesome List by GitHub stars!
 * [sharkdp/vivid](https://github.com/sharkdp/vivid): A themeable LS_COLORS generator with a rich filetype datebase
 * [muhummadPatel/vLoader](https://github.com/muhummadPatel/vLoader): An extremely simple, no frills, GUI-based video downloader
 * [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils): Free and open-source macOS menu bar toolkit.
-* [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager): Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。
+* [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager): Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；其中的提示词管理器可用于任意 Web UI，含 DeepSeek Harness。
 * [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot): Share your VPN connection over hotspot or repeater! (root required)
 * [AdamCaviness/vs-code-theme-monokai-dark-soda](https://github.com/AdamCaviness/vs-code-theme-monokai-dark-soda): A VS Code theme
 * [microsoft/vscode](https://github.com/microsoft/vscode): Visual Studio Code
