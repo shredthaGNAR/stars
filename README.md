@@ -30,7 +30,7 @@ creating your own Awesome List by GitHub stars!
 * [arch3rPro/1Panel-Appstore](https://github.com/arch3rPro/1Panel-Appstore): 1Panel-第三方应用商店(运维监控、免费大模型API、Nas工具、容器管理)
 * [tortious/2019Firefox](https://github.com/tortious/2019Firefox): None
 * [tortious/2021_Firefox](https://github.com/tortious/2021_Firefox): Updated config settings & possibilities for Firefox. This includes all file types (css; uc.js; js; etc) and other tips and tricks, including about:config tweaks
-* [rsapkf/42](https://github.com/rsapkf/42): @rsapkf's wiki. [Merged into rsapkf/www]
+* [rspk1/42](https://github.com/rspk1/42): @rsapkf's wiki. [Merged into rsapkf/www]
 * [Lexxrt/9xe3](https://github.com/Lexxrt/9xe3): 🔍sᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ ʟᴏᴏᴋᴜᴘ🔍
 * [ignaciocastro/a-dove-is-dumb](https://github.com/ignaciocastro/a-dove-is-dumb): Easily block Adobe telemetry checking domains. Continuously Updated. Useful for HostsMan / SwitchHosts / Pi-hole users ✨
 * [ffoodd/a11y.css-webextension](https://github.com/ffoodd/a11y.css-webextension): a11y.css webextension repository — for both Chromium and Firefox
@@ -175,7 +175,7 @@ creating your own Awesome List by GitHub stars!
 * [TroopJostle/alt-tab-community](https://github.com/TroopJostle/alt-tab-community): Windows alt-tab on macOS 
 * [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos): Windows alt-tab on macOS 
 * [steventheworker/alt-tab-macos](https://github.com/steventheworker/alt-tab-macos): AltTab - scriptable branch
-* [javi11/altmount](https://github.com/javi11/altmount): usenet virtual fs
+* [kipsilabs/altmount](https://github.com/kipsilabs/altmount): usenet virtual fs
 * [altstoreio/AltStore](https://github.com/altstoreio/AltStore): AltStore is an alternative app store for non-jailbroken iOS devices.
 * [ryanpcmcquen/amatron](https://github.com/ryanpcmcquen/amatron): A cross-platform electron Amazon Cloud Drive app.
 * [BoolenBread/Amazon-Drive-Video-Stream-API](https://github.com/BoolenBread/Amazon-Drive-Video-Stream-API): Grabs direct mp4 link from amazon drive with filename and picture.
@@ -472,7 +472,7 @@ creating your own Awesome List by GitHub stars!
 * [3j14/bitwarden-menubar](https://github.com/3j14/bitwarden-menubar): Bitwarden in the macOS menu bar
 * [eliasfloreteng/bitwarden_find_duplicates](https://github.com/eliasfloreteng/bitwarden_find_duplicates): Find duplicate logins based on domain, from Bitwarden export. Open source for your safety.
 * [black7375/BlaCk-Void-Zsh](https://github.com/black7375/BlaCk-Void-Zsh): 🔮 Awesome, Customable Zsh Starter Kit 🌠🌠
-* [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird): An OSINT tool to search for accounts by username and email in social networks.
+* [antoniaci/blackbird](https://github.com/antoniaci/blackbird): An OSINT tool to search for accounts by username and email in social networks.
 * [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts): List of free GPTs that doesn't require plus subscription 
 * [danielmiessler/blackhat-arsenal-tools](https://github.com/danielmiessler/blackhat-arsenal-tools): Official Black Hat Arsenal Security Tools Repository
 * [jmadden12/blackjack-bs-trainer](https://github.com/jmadden12/blackjack-bs-trainer): None
@@ -862,7 +862,7 @@ creating your own Awesome List by GitHub stars!
 * [octokami/darknet_forum](https://github.com/octokami/darknet_forum): Scraping darknet forums has been the object of research in the field of intelligence and security informatics.  In this repository we scraped three different sources of forums, and performed Sentiment Analysis, Topic Modelling, and Linguistic Analysis.
 * [fastaddons/Darko](https://github.com/fastaddons/Darko): None
 * [darkreader/darkreader](https://github.com/darkreader/darkreader): Dark Reader Chrome and Firefox extension
-* [tonyantony300/dashbeam](https://github.com/tonyantony300/dashbeam): Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions ( previously Altsendme )
+* [tonyantony300/dashbeam](https://github.com/tonyantony300/dashbeam): Share files nearby and beyond. 
 * [uso-archive/data](https://github.com/uso-archive/data): Full mirror of UserStyles.org
 * [akashahmed11/data-scraping](https://github.com/akashahmed11/data-scraping): 📊 Collect historical intraday minute-level data for major Indian stock market indices using a clean, modular Python project designed for educational purposes.
 * [d4t4x/data-selfie](https://github.com/d4t4x/data-selfie): Data Selfie - a browser extension to track yourself on Facebook and analyze your data. 
@@ -3267,7 +3267,7 @@ creating your own Awesome List by GitHub stars!
 * [syphon-org/syphon](https://github.com/syphon-org/syphon): ⚗️  a privacy centric matrix client 
 * [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
 * [Wyattwalls/system_prompts](https://github.com/Wyattwalls/system_prompts): None
-* [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks): Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
+* [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks): Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.
 * [RoadToDream/SzContext](https://github.com/RoadToDream/SzContext): Add context menu to macOS Finder 
 * [janraasch/tab-ahead](https://github.com/janraasch/tab-ahead): Web Browser Extension that helps you to quickly find open tabs by title and URL.
 * [rtfcv/tab-attic](https://github.com/rtfcv/tab-attic): None
