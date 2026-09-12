@@ -74,7 +74,7 @@ creating your own Awesome List by GitHub stars!
 * [Drovosek01/adobe-packager](https://github.com/Drovosek01/adobe-packager): Script that allows to download portable installers of different versions Adobe software for macOS
 * [benstonezhang/adobe-packager](https://github.com/benstonezhang/adobe-packager): Script that allows to download portable installers of different versions Adobe software
 * [Korveld/Adobe-URL-Block-List](https://github.com/Korveld/Adobe-URL-Block-List): This is the Adobe URL/IP block list for the Hosts file.
-* [Ruddernation-Designs/Adobe-URL-Block-List](https://github.com/Ruddernation-Designs/Adobe-URL-Block-List): This is the Adobe URL/IP block list for the Host file.
+* [Ruddernation-Designs/Adobe-URL-Block-List](https://github.com/Ruddernation-Designs/Adobe-URL-Block-List): This is the Adobe URL/IP block list for the Host file, Now works on Mac and Linux.
 * [adsbypasser/adsbypasser](https://github.com/adsbypasser/adsbypasser): Bypass ad counter if possible.
 * [adsbypasser/adsbypasser.github.io](https://github.com/adsbypasser/adsbypasser.github.io): None
 * [polywock/advanced-image-search](https://github.com/polywock/advanced-image-search): An extension to search Google images. 
@@ -1828,7 +1828,7 @@ creating your own Awesome List by GitHub stars!
 * [lando/lando](https://github.com/lando/lando): A development tool for all your projects that is fast, easy, powerful and liberating
 * [LANDrop/LANDrop](https://github.com/LANDrop/LANDrop): Drop any files to any devices on your LAN.
 * [langchain-ai/langchain](https://github.com/langchain-ai/langchain): The agent engineering platform.
-* [langfuse/langfuse](https://github.com/langfuse/langfuse): 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 
+* [langfuse/langfuse](https://github.com/langfuse/langfuse): 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.
 * [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool): Style and Grammar Checker for 25+ Languages
 * [stuyam/laravel-phone-validator](https://github.com/stuyam/laravel-phone-validator): A phone validator for Laravel using the free Twilio phone lookup service.
 * [arekusandr/last_layer](https://github.com/arekusandr/last_layer): Ultra-fast, low latency LLM prompt injection/jailbreak detection ⛓️
@@ -1893,7 +1893,7 @@ creating your own Awesome List by GitHub stars!
 * [ex3ndr/llama-coder](https://github.com/ex3ndr/llama-coder): Replace Copilot local AI
 * [run-llama/llama-lab](https://github.com/run-llama/llama-lab): None
 * [tuan3w/llama-raycast](https://github.com/tuan3w/llama-raycast): Chat with LLaMa in Raycast
-* [run-llama/llama_index](https://github.com/run-llama/llama_index): LlamaIndex is the leading document agent and OCR platform
+* [run-llama/llama_index](https://github.com/run-llama/llama_index): LlamaIndex is the document processing platform for AI
 * [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile): Distribute and run LLMs with a single file.
 * [lliurex/lliurex-gdrive](https://github.com/lliurex/lliurex-gdrive): App to manage google drive accounts
 * [Mirrowel/LLM-API-Key-Proxy](https://github.com/Mirrowel/LLM-API-Key-Proxy): Universal LLM Gateway: One API, every LLM. OpenAI/Anthropic-compatible endpoints with multi-provider translation and intelligent load-balancing.
@@ -2865,7 +2865,7 @@ creating your own Awesome List by GitHub stars!
 * [SinTan1729/ReVancedBuilder](https://github.com/SinTan1729/ReVancedBuilder): A script to automatically build latest releases of ReVanced apps
 * [programminghoch10/ReVancedRepackaged](https://github.com/programminghoch10/ReVancedRepackaged): ReVanced, but patched locally.
 * [shekhawat2/RevancedYT](https://github.com/shekhawat2/RevancedYT): None
-* [thunderkex/revancex](https://github.com/thunderkex/revancex): Pre-built, All-In-One, auto-updated ReVanced / Morphed Extended APKs for YouTube, YouTube Music, and more – with root (Magisk) and non-root support.
+* [thunderkex/revancex](https://github.com/thunderkex/revancex): Modern, high-performance Rust patcher & orchestrator for ReVanced, Morphe, Magisk, and KernelSU modules with WebUI and dynamic config.
 * [decipher3114/Revancify](https://github.com/decipher3114/Revancify): The only revancify
 * [shredthaGNAR/reveal-md](https://github.com/shredthaGNAR/reveal-md): None
 * [gaerfield/reveal-md-github-pages](https://github.com/gaerfield/reveal-md-github-pages): Automatically deploys reveal-md presentations to github-pages
