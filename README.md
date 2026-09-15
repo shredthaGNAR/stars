@@ -261,7 +261,7 @@ creating your own Awesome List by GitHub stars!
 * [MarcusHoltz/astro-portfolio-theme](https://github.com/MarcusHoltz/astro-portfolio-theme): Astro Portfolio Theme. Use on almost any host. Ditch the CMS. Edit a few JSON files - personal info, skills, project showcases - build, and deploy. 
 * [netlify-templates/astro-quickstart](https://github.com/netlify-templates/astro-quickstart): A bare-bones Astro template to get you deployed to Netlify fast!
 * [wasutz/astro-resume-theme](https://github.com/wasutz/astro-resume-theme): Astro Resume Theme is a customizable and responsive template designed to help you create a beautiful online resume or portfolio quickly. Built with Astro and styled using Tailwind CSS.
-* [hansmartensdev/Astro-Rocket](https://github.com/hansmartensdev/Astro-Rocket): Lightning-fast Astro 7 starter theme to build anything on: 44 designed components, 12 colour themes, dark mode and built-in i18n. Astro Rocket is created by Hans Martens Dev — Astro Theme Developer.  https://hansmartens.dev
+* [hansmartensdev/Astro-Rocket](https://github.com/hansmartensdev/Astro-Rocket): Lightning-fast Astro 7 starter theme to build anything on: 44 designed components, 8 colour themes, dark mode and built-in i18n. Astro Rocket is created by Hans Martens Dev — Astro Theme Developer.  https://hansmartens.dev
 * [devgelo-labs/astro-starter-pro](https://github.com/devgelo-labs/astro-starter-pro): Astro Starter Pro: A free, production-ready Astro starter focused on SEO, performance, and best practices.
 * [immois/astro-zen](https://github.com/immois/astro-zen): Minimalist, accessible and SEO-optimized personal portfolio website template.
 * [manuelernestog/astrofy](https://github.com/manuelernestog/astrofy): Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS. Create in minutes a website with Blog, CV, Project Section, Store and RSS Feed.
@@ -2243,7 +2243,7 @@ creating your own Awesome List by GitHub stars!
 * [apilayer/numverify-API](https://github.com/apilayer/numverify-API): Free global phone number validation & lookup JSON API
 * [NuvioMedia/NuvioMobile](https://github.com/NuvioMedia/NuvioMobile): Official Nuvio Mobile Repository
 * [edgars21/nuxtjs-shopify-flex-theme-section-with-vue](https://github.com/edgars21/nuxtjs-shopify-flex-theme-section-with-vue): None
-* [nvm-sh/nvm](https://github.com/nvm-sh/nvm): Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
+* [nvm-sh/nvm](https://github.com/nvm-sh/nvm): Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
 * [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop): Node Version Manager Desktop - A desktop application to manage multiple active node.js versions.
 * [trafilea/nx-shopify](https://github.com/trafilea/nx-shopify): Nx plugin for developing performance-first Shopify themes 🚀
 * [nzbdav-dev/nzbdav](https://github.com/nzbdav-dev/nzbdav): Usenet streaming with a WebDAV server and a SABnzbd-compatible API
@@ -2292,7 +2292,7 @@ creating your own Awesome List by GitHub stars!
 * [OhShINT/ohshint.gitbook.io](https://github.com/OhShINT/ohshint.gitbook.io): So what is this all about? Yep, its an OSINT blog and a collection of OSINT resources and tools. Suggestions for new OSINT resources is always welcomed.
 * [cbuijs/oisd](https://github.com/cbuijs/oisd): Optimized version of OISD BlockLists
 * [tom-james-watson/old-reddit-redirect](https://github.com/tom-james-watson/old-reddit-redirect): Ensure Reddit always loads the old design
-* [ollama/ollama](https://github.com/ollama/ollama): Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+* [ollama/ollama](https://github.com/ollama/ollama): Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 * [ollama-ui/ollama-ui](https://github.com/ollama-ui/ollama-ui): Simple HTML UI for Ollama
 * [kevinhermawan/Ollamac](https://github.com/kevinhermawan/Ollamac): Mac app for Ollama
 * [Sine-Of-Time/Omaha-Poker](https://github.com/Sine-Of-Time/Omaha-Poker):  A program that evaluates the winner of a 2-player Omaha-High Hold’em poker game.
@@ -2351,6 +2351,7 @@ creating your own Awesome List by GitHub stars!
 * [open-pocket/open-pocket](https://github.com/open-pocket/open-pocket): Building a 'clean room' open-source implementation of Pocket
 * [TCM-Course-Resources/Open-Source-Intellingence-Resources](https://github.com/TCM-Course-Resources/Open-Source-Intellingence-Resources): Compilation of Resources from TCM's OSINT Course
 * [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps): 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
+* [Fredolx/open-tv](https://github.com/Fredolx/open-tv): Ultra-fast, simple and powerful cross-platform IPTV app
 * [honsiorovskyi/open-url-in-container](https://github.com/honsiorovskyi/open-url-in-container): Firefox extension to open external links in a specific container
 * [open-webui/open-webui](https://github.com/open-webui/open-webui): User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 * [openai/openai-cookbook](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
@@ -2362,7 +2363,7 @@ creating your own Awesome List by GitHub stars!
 * [anomalyco/opencode](https://github.com/anomalyco/opencode): The open source coding agent.
 * [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher): Experience macOS just like before
 * [acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg): OpenCore bootloader
-* [PawanOsman/OpenCursor](https://github.com/PawanOsman/OpenCursor): Open-source Cursor-like AI coding agent for VS Code — agentic chat, multi-provider LLMs (OpenAI, Ollama, llama.cpp), semantic search, and MCP support
+* [PawanOsman/OpenCursor](https://github.com/PawanOsman/OpenCursor): Open-source Cursor-like AI coding agent for VS Code - agentic chat, multi-provider LLMs (OpenAI, Ollama, llama.cpp), semantic search, and MCP support
 * [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop): An open Apple AirDrop implementation written in Python
 * [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu): 🕹 Retro video game emulation for macOS
 * [hjerpbakk/OpenFolderInVSCode](https://github.com/hjerpbakk/OpenFolderInVSCode): With this macOS service, you can quickly open any given folder as a project in Visual Studio Code from the Finders context menu.
@@ -2865,7 +2866,7 @@ creating your own Awesome List by GitHub stars!
 * [SinTan1729/ReVancedBuilder](https://github.com/SinTan1729/ReVancedBuilder): A script to automatically build latest releases of ReVanced apps
 * [programminghoch10/ReVancedRepackaged](https://github.com/programminghoch10/ReVancedRepackaged): ReVanced, but patched locally.
 * [shekhawat2/RevancedYT](https://github.com/shekhawat2/RevancedYT): None
-* [thunderkex/revancex](https://github.com/thunderkex/revancex): Modern, high-performance Rust patcher & orchestrator for ReVanced, Morphe, Magisk, and KernelSU modules with WebUI and dynamic config.
+* [thunderkex/revancex](https://github.com/thunderkex/revancex): Modern, high-performance Rust patcher & orchestrator for ReVanced, Morphe. Magisk and KernelSU modules with WebUI and dynamic config.
 * [decipher3114/Revancify](https://github.com/decipher3114/Revancify): The only revancify
 * [shredthaGNAR/reveal-md](https://github.com/shredthaGNAR/reveal-md): None
 * [gaerfield/reveal-md-github-pages](https://github.com/gaerfield/reveal-md-github-pages): Automatically deploys reveal-md presentations to github-pages
@@ -2892,6 +2893,7 @@ creating your own Awesome List by GitHub stars!
 * [steventheworker/safari-userscripts](https://github.com/steventheworker/safari-userscripts): Enrich your browsing experience, whether it be on mobile (iOS) or your desktop (macOS)
 * [linuxscoop/safarifox-theme](https://github.com/linuxscoop/safarifox-theme): A Firefox theme look Like Safari Web Browser
 * [thepante/SAL-Firefox](https://github.com/thepante/SAL-Firefox): Sidebar Always Loaded for Firefox
+* [fahadalijaved/SamFonts](https://github.com/fahadalijaved/SamFonts): None
 * [CruelKernel/samsung-exynos9820](https://github.com/CruelKernel/samsung-exynos9820): Unified kernel tree for S10 and Note10 devices
 * [NHClaessens/samsung_pass_converter](https://github.com/NHClaessens/samsung_pass_converter): None
 * [sass/sass](https://github.com/sass/sass): Sass makes CSS fun!
@@ -3012,7 +3014,6 @@ creating your own Awesome List by GitHub stars!
 * [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku): Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 * [GregoryFore/shopfy-theme-dev](https://github.com/GregoryFore/shopfy-theme-dev): Shopify Theme Development
 * [vuestorefront/shopify](https://github.com/vuestorefront/shopify): Vue Storefront 2 integration for Shopify
-* [phillipkingston/Shopify---Change-Image-On-Hover](https://github.com/phillipkingston/Shopify---Change-Image-On-Hover): A few simple lines of code to swap product images on hover across collection pages and feature product sections on homepage and product pages in Shopify. Many projects in the Shopify App Store are a) expensive or b) do not work with the default Shopify Theme in 2020 (Debut) or c) do not work at all.
 * [JoshTag/shopify-2.0-dev-course](https://github.com/JoshTag/shopify-2.0-dev-course): None
 * [jeremybwilson/shopify-bebe](https://github.com/jeremybwilson/shopify-bebe): None
 * [Shopify/shopify-cli](https://github.com/Shopify/shopify-cli): Shopify CLI helps you build against the Shopify platform faster.
@@ -3732,7 +3733,7 @@ creating your own Awesome List by GitHub stars!
 * [yiisoft/yii2-app-basic](https://github.com/yiisoft/yii2-app-basic): Yii 2.0 Basic Application Template
 * [execut/yii2-people-finder](https://github.com/execut/yii2-people-finder): Library for search peoples via social networks
 * [mattDavo/Yippy](https://github.com/mattDavo/Yippy): macOS open source clipboard manager
-* [purocean/yn](https://github.com/purocean/yn): A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macro replacement.
+* [purocean/yn](https://github.com/purocean/yn): A highly extensible Markdown editor featuring version control, AI Copilot, document annotations, mind maps, document encryption, executable code snippets, chart embedding, HTML applets, plugins, and macro replacement. Its integrated sidebar terminal makes working with AI faster and more convenient.
 * [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript): CSS is powerful, you can do a lot of things without JS.
 * [soimort/you-get](https://github.com/soimort/you-get): :arrow_double_down: Dumb downloader that scrapes the web
 * [code-charity/youtube](https://github.com/code-charity/youtube): YouTube / Video Browser-Extension. [Top1 FOSS.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌300+ tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quality|codec|full tab|full screen|no distraction|shorts}
