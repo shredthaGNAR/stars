@@ -4589,6 +4589,9 @@
     "debridmediamanager/debrid-media-manager": [
         "Other"
     ],
+    "debridmediamanager/zurg-public": [
+        "Other"
+    ],
     "deciare/firefox-css": [
         "Other"
     ],
@@ -7148,9 +7151,6 @@
     "lmichelin/open-github-links-in-ide": [
         "Other"
     ],
-    "lobehub/lobehub": [
-        "Other"
-    ],
     "lobre/pocket2notion": [
         "Other"
     ],
@@ -8556,9 +8556,6 @@
         "Other"
     ],
     "phishdestroy/trustname-evidence": [
-        "Other"
-    ],
-    "phmullins/awesome-macos": [
         "Other"
     ],
     "phoihos/vscode-translate-it": [
