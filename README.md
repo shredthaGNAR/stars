@@ -215,7 +215,7 @@ creating your own Awesome List by GitHub stars!
 * [EvanZhouDev/apple-prompt-injection](https://github.com/EvanZhouDev/apple-prompt-injection): A list of Apple Intelligence prompt injections.
 * [mikeroyal/Apple-Silicon-Guide](https://github.com/mikeroyal/Apple-Silicon-Guide): Apple Silicon Guide. Learn all about the A17 Pro, A16 Bionic, R1, M1-series,  M2-series, and M3-series chips. Along with all the Devices, Operating Systems, Tools, Gaming, and Software that Apple Silicon powers.
 * [threeplanetssoftware/apple_cloud_notes_parser](https://github.com/threeplanetssoftware/apple_cloud_notes_parser): Parser for Apple Notes data stored on the Cloud as seen on Apple handsets
-* [bunnysayzz/AppleAI](https://github.com/bunnysayzz/AppleAI): A MacOS menu bar app for ChatGPT, Gemini,  Claude, Perplexity, Copilot, DeepSeek, Grok and many more into one streamlined interface
+* [bunnysayzz/AppleAI](https://github.com/bunnysayzz/AppleAI): Apple AI is a lightweight, privacy‑minded macOS menu bar app that keeps your favorite AI assistants one keystroke away. Open a compact, always‑on‑top chat window and jump between services like ChatGPT, Claude, Copilot, Perplexity, Gemini, and more. All from one place
 * [littlebyteorg/appledb](https://github.com/littlebyteorg/appledb): None
 * [revblaze/AppleMusicUltra](https://github.com/revblaze/AppleMusicUltra): Music Client for macOS. Use WebKit interoperability with JS-injection to add custom scripting and styling to your music experience.
 * [mattrose/AppleNotes2Joplin](https://github.com/mattrose/AppleNotes2Joplin): Apple Notes to Joplin - Export Apple notes to Markdown in Joplin export format
@@ -720,7 +720,7 @@ creating your own Awesome List by GitHub stars!
 * [aecreations/clippings](https://github.com/aecreations/clippings): Save frequently-entered text for pasting later. An extension for Firefox.
 * [aecreations/clippings-tb](https://github.com/aecreations/clippings-tb): Save frequently-entered text for pasting later. An extension for Thunderbird.
 * [XInTheDark/CLIProxyAPI](https://github.com/XInTheDark/CLIProxyAPI): Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API
-* [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI): Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model through API
+* [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI): Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Davin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API
 * [Clipy/Clipy](https://github.com/Clipy/Clipy): Clipboard extension app for macOS.
 * [ian4hu/Clipy](https://github.com/ian4hu/Clipy): Clipboard extension app for macOS.
 * [spieglt/Cloaker](https://github.com/spieglt/Cloaker): Simple, drag-and-drop, password-based file encryption
@@ -1908,6 +1908,7 @@ creating your own Awesome List by GitHub stars!
 * [jatinkrmalik/LLMFeeder](https://github.com/jatinkrmalik/LLMFeeder): Browser extension to convert web pages to clean Markdown and copy to clipboard so you can feed it to your favorite LLM model as context with just 1 click!
 * [kartikm7/llocal](https://github.com/kartikm7/llocal): Aiming to provide a seamless and privacy driven chatting experience with open-sourced technologies(Ollama), particularly open sourced LLM's(eg. Llama3, Phi-3, Mistral). Focused on ease of use. Available on both Windows and Mac.
 * [vybestack/llxprt-code](https://github.com/vybestack/llxprt-code): An open-source multi-provider AI assisted CLI development tool. Use whatever LLM you want to code in your terminal.
+* [lobehub/lobehub](https://github.com/lobehub/lobehub): 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 * [qazi0/local-ai-raycast](https://github.com/qazi0/local-ai-raycast): Chat with local LLMs (Ollama, LM Studio, llama.cpp) directly from Raycast
 * [mudler/LocalAI](https://github.com/mudler/LocalAI): LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 * [nagaraj-real/localaipilot-api](https://github.com/nagaraj-real/localaipilot-api): API container for Local AI Pilot extension
@@ -2122,6 +2123,7 @@ creating your own Awesome List by GitHub stars!
 * [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager): Morphe app patcher for Android
 * [MorpheApp/morphe-patches](https://github.com/MorpheApp/morphe-patches): Morphe Patches
 * [hoo-dles/morphe-patches](https://github.com/hoo-dles/morphe-patches): 🍃 Patches for Morphe
+* [MorpheApp/morphe-patches-library](https://github.com/MorpheApp/morphe-patches-library): Shared library for use by patch developers
 * [LeddaZ/morphe-repo](https://github.com/LeddaZ/morphe-repo): None
 * [LeddaZ/MorpheUpdater](https://github.com/LeddaZ/MorpheUpdater): Morphe Updater for my personal builds
 * [Svznify/MorpheX](https://github.com/Svznify/MorpheX): Unofficial APK Releases for YouTube Morphe (previously RVX/Revanced Extended) - Built and ready to install -  Safe and Trusted
@@ -2467,7 +2469,7 @@ creating your own Awesome List by GitHub stars!
 * [RooneyMcNibNug/pihole-stuff](https://github.com/RooneyMcNibNug/pihole-stuff): blocklists, scripts, etc.
 * [crimera/piko](https://github.com/crimera/piko): morphe patches for twitter and instagram
 * [sungshon/PimpMyStremio](https://github.com/sungshon/PimpMyStremio): Local add-on manager for Stremio
-* [bhootd/pin-unpin-tab](https://github.com/bhootd/pin-unpin-tab): Firefox add-on to pin or unpin current tab in more efficient ways.
+* [bhootd/pin-unpin-tab](https://github.com/bhootd/pin-unpin-tab): [Moved to https://git.sr.ht/~bhoot/pin-unpin-tab] Firefox add-on to pin or unpin current tab in more efficient ways.
 * [pinterest/PINCache](https://github.com/pinterest/PINCache): Fast, non-deadlocking parallel object cache for iOS, tvOS and OS X
 * [gocom/pinceau](https://github.com/gocom/pinceau): Personal Firefox userChrome and preference customizations
 * [LeakForge/Piracy-Extras](https://github.com/LeakForge/Piracy-Extras): A curated list of awesome warez and piracy links
@@ -2838,6 +2840,7 @@ creating your own Awesome List by GitHub stars!
 * [cormiertyshawn895/Retroactive](https://github.com/cormiertyshawn895/Retroactive): Run Aperture, iPhoto, and iTunes on macOS Golden Gate, macOS Tahoe, macOS Sequoia, macOS Sonoma, macOS Ventura, macOS Monterey, macOS Big Sur, and macOS Catalina. Xcode 11.7 on macOS Mojave. Final Cut Pro 7, Logic Pro 9, and iWork ’09 on macOS Mojave or macOS High Sierra.
 * [NoName-exe/revanced](https://github.com/NoName-exe/revanced): ReVanced YT and YT-M for both root and non-root users.
 * [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root): Real-time repository build Morphe, Revanced and Revanced Extended about 10 minutes after patch release
+* [kewld00d/Revanced-And-Revanced-Extended-Non-Root](https://github.com/kewld00d/Revanced-And-Revanced-Extended-Non-Root): Real-time repository build Revanced and Revanced Extended about 5 minutes after patch release
 * [n0k0m3/revanced-build-template](https://github.com/n0k0m3/revanced-build-template): Github Template for building Revanced
 * [reisxd/revanced-builder](https://github.com/reisxd/revanced-builder): A NodeJS ReVanced builder
 * [ReVanced/revanced-cli](https://github.com/ReVanced/revanced-cli): 💻 Command-line application to use ReVanced
@@ -3233,7 +3236,7 @@ creating your own Awesome List by GitHub stars!
 * [erosman/support](https://github.com/erosman/support): Support Location for all my extensions
 * [pieces-app/support](https://github.com/pieces-app/support): None
 * [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys): Map your keys for web surfing, expand your browser with javascript and keyboard.
-* [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense): Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://discord.gg/ejRNvftDp9
+* [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense): Air gapped, open source NotebookLM alternative. Join our Discord: https://discord.gg/ejRNvftDp9
 * [Loyalsoldier/surge-rules](https://github.com/Loyalsoldier/surge-rules): 🦄 🎃 👻 Surge 规则集(DOMAIN-SET 和 RULE-SET)，适用于 Surge for iOS 和 Surge for Mac 客户端。
 * [jekyllt/sustain](https://github.com/jekyllt/sustain): 🎹 Personal blog powered by Jekyll
 * [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler): Open source browser extension for finding, editing, exporting, optimizing, and managing SVG content.
@@ -3757,7 +3760,7 @@ creating your own Awesome List by GitHub stars!
 * [pateldevang/Youtube-music-macOS](https://github.com/pateldevang/Youtube-music-macOS): Youtube Music for macOS (Ads free) & Download Music For Free.
 * [organization/youtube-music-next](https://github.com/organization/youtube-music-next): YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader). forked from th-ch/youtube-music
 * [farag2/YouTube-Patcher](https://github.com/farag2/YouTube-Patcher): Build your YouTube ReVanced client in a cloud
-* [MANCrimSon/YouTube-ReVanced-Extended](https://github.com/MANCrimSon/YouTube-ReVanced-Extended): Automated builds of YouTube & YT Music (ReVanced Extended (anddea) & Morphe + Yandex VoT) for NonRoot (Obtainium) and Root (Magisk/KernelSU module).
+* [MANCrimSon/YouTube-ReVanced-Extended](https://github.com/MANCrimSon/YouTube-ReVanced-Extended): Auto-built YouTube & YT Music (RVX/Morphe + VoT) with in-app updates. NonRoot APKs (Obtainium) and Root modules (Magisk/KernelSU/APatch).
 * [alexmercerind/youtube-search-python](https://github.com/alexmercerind/youtube-search-python): 🔎 Search for YouTube videos, channels & playlists. Get 🎞 video &  📑 playlist info using link. Get search suggestions. WITHOUT YouTube Data API v3.
 * [PeerGroupSoftware/Youtube-To-Mac](https://github.com/PeerGroupSoftware/Youtube-To-Mac): Cocoa Interface for youtube-dl
 * [NikoboiNFTB/YouTube-Tweaks](https://github.com/NikoboiNFTB/YouTube-Tweaks): A collection of userscripts and a uBlock Origin blocklist for YouTube.
