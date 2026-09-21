@@ -30,7 +30,7 @@ creating your own Awesome List by GitHub stars!
 * [arch3rPro/1Panel-Appstore](https://github.com/arch3rPro/1Panel-Appstore): 1Panel-第三方应用商店(运维监控、免费大模型API、Nas工具、容器管理)
 * [tortious/2019Firefox](https://github.com/tortious/2019Firefox): None
 * [tortious/2021_Firefox](https://github.com/tortious/2021_Firefox): Updated config settings & possibilities for Firefox. This includes all file types (css; uc.js; js; etc) and other tips and tricks, including about:config tweaks
-* [rspk1/42](https://github.com/rspk1/42): @rsapkf's wiki. [Merged into rsapkf/www]
+* [cfgerr/42](https://github.com/cfgerr/42): @rsapkf's wiki. [Merged into rsapkf/www]
 * [Lexxrt/9xe3](https://github.com/Lexxrt/9xe3): 🔍sᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ ʟᴏᴏᴋᴜᴘ🔍
 * [ignaciocastro/a-dove-is-dumb](https://github.com/ignaciocastro/a-dove-is-dumb): Easily block Adobe telemetry checking domains. Continuously Updated. Useful for HostsMan / SwitchHosts / Pi-hole users ✨
 * [ffoodd/a11y.css-webextension](https://github.com/ffoodd/a11y.css-webextension): a11y.css webextension repository — for both Chromium and Firefox
@@ -85,7 +85,7 @@ creating your own Awesome List by GitHub stars!
 * [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents): A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 * [uno-forge-hub/agency-landing-page-Astrojs](https://github.com/uno-forge-hub/agency-landing-page-Astrojs): A simple agency landing page made with astrojs and tailwindcss
 * [jazzyalex/agent-sessions](https://github.com/jazzyalex/agent-sessions): Local-first macOS app to browse, search, analyze, and resume supported AI coding-agent session history across Codex, Claude Code, OpenCode, Cursor Agent, Antigravity, Hermes, OpenClaw, Copilot CLI, and more.
-* [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills): AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,115+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.
+* [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills): AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,400+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.
 * [piroor/aggregate-tabs-to-main-window](https://github.com/piroor/aggregate-tabs-to-main-window): Aggregate new tabs to a window which has most many tabs and largest size.
 * [AI-Anywhere/AI-Anywhere](https://github.com/AI-Anywhere/AI-Anywhere): Your agents. Any browser. Anywhere
 * [fastaddons/AI-Anywhere](https://github.com/fastaddons/AI-Anywhere): None
@@ -320,7 +320,7 @@ creating your own Awesome List by GitHub stars!
 * [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github): A collection of awesome browser extensions for GitHub.
 * [bskim45/awesome-btt-config](https://github.com/bskim45/awesome-btt-config): An curated list of awesome BetterTouchTool configs.
 * [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt): 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI [SUBMISSIONS ARE TEMPORARILY PAUSED BECAUSE OF TOO MANY LOW QUALITY SUBMISSIONS]
-* [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories): A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code skills.
+* [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories): A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code  and Codex skills.
 * [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts): This repo includes Claude prompt curation to use Claude better.
 * [MissMitsuha/awesome-course-piracy](https://github.com/MissMitsuha/awesome-course-piracy): An index of course piracy resources
 * [sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography): A curated list of cryptography resources and links.
@@ -2013,7 +2013,7 @@ creating your own Awesome List by GitHub stars!
 * [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk): The Magic Mask for Android
 * [Magisk-Modules-Repo/MagiskHidePropsConf](https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf): This tool is now dead...
 * [Clipy/Magnet](https://github.com/Clipy/Magnet): Customize global hotkeys in macOS.
-* [soxoj/maigret](https://github.com/soxoj/maigret): 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+* [soxoj/maigret](https://github.com/soxoj/maigret): 🕵️‍♂️ Collect a dossier on a person by username from 6K websites
 * [torerobo/maigret](https://github.com/torerobo/maigret): Collect a dossier on a person by username from a huge number of sites
 * [Bakhomious/mail-tm](https://github.com/Bakhomious/mail-tm): Uses Mail.tm API to generate a temporary email from Raycast.
 * [peci1/mailing-list-filter](https://github.com/peci1/mailing-list-filter): Thunderbird mail filter search term using mailing lists (and not whole addressbooks).
@@ -3236,7 +3236,7 @@ creating your own Awesome List by GitHub stars!
 * [erosman/support](https://github.com/erosman/support): Support Location for all my extensions
 * [pieces-app/support](https://github.com/pieces-app/support): None
 * [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys): Map your keys for web surfing, expand your browser with javascript and keyboard.
-* [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense): Air gapped, open source NotebookLM alternative. Join our Discord: https://discord.gg/ejRNvftDp9
+* [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense): Air gapped, privacy focused open source NotebookLM alternative. Join our Discord: https://discord.gg/ejRNvftDp9
 * [Loyalsoldier/surge-rules](https://github.com/Loyalsoldier/surge-rules): 🦄 🎃 👻 Surge 规则集(DOMAIN-SET 和 RULE-SET)，适用于 Surge for iOS 和 Surge for Mac 客户端。
 * [jekyllt/sustain](https://github.com/jekyllt/sustain): 🎹 Personal blog powered by Jekyll
 * [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler): Open source browser extension for finding, editing, exporting, optimizing, and managing SVG content.
@@ -3412,7 +3412,7 @@ creating your own Awesome List by GitHub stars!
 * [JimmyLaurent/torrent-search-api](https://github.com/JimmyLaurent/torrent-search-api): Yet another node torrent scraper (supports iptorrents, torrentleech, torrent9, torrentz2, 1337x, thepiratebay, Yggtorrent, TorrentProject, Eztv, Yts, LimeTorrents)
 * [r12habh/Torrent-To-Google-Drive-Downloader](https://github.com/r12habh/Torrent-To-Google-Drive-Downloader): Simple notebook to stream torrent files to Google Drive using Google Colab and python3.
 * [TheBeastLT/torrentio-scraper](https://github.com/TheBeastLT/torrentio-scraper): None
-* [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch): An Android app for searching torrents across multiple providers - fast, detailed, and packed with actions.
+* [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch): An Android app for searching torrents across multiple providers with fast search speed, detailed results, and packed with complete torrent actions.
 * [sindresorhus/touch-bar-simulator](https://github.com/sindresorhus/touch-bar-simulator): Use the Touch Bar on any Mac
 * [ris58h/Touch-Tab](https://github.com/ris58h/Touch-Tab): Switch apps with trackpad on macOS.
 * [GaffaSnobb/touchbar-crypto](https://github.com/GaffaSnobb/touchbar-crypto): Live update crypto prices on the Touch Bar.
@@ -3425,6 +3425,7 @@ creating your own Awesome List by GitHub stars!
 * [ngosang/trackerslist](https://github.com/ngosang/trackerslist): Updated list of public BitTorrent trackers
 * [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection): 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 * [RealityRipple/trackpackage](https://github.com/RealityRipple/trackpackage): Fork of Track Package for Pale Moon. 📦️ Track Packages from the right-click menu.
+* [trakt/trakt-api](https://github.com/trakt/trakt-api): The Trakt API is a RESTful API that allows developers to integrate TV show and movie tracking features into their applications. It enables access to Trakt's extensive media database and lets apps synchronize a user's watch history, ratings, and lists with their Trakt.tv profile.
 * [erickok/transdroid-search](https://github.com/erickok/transdroid-search): Cross-app torrent search results provider for Android
 * [menukaonline/transfer-between-drives](https://github.com/menukaonline/transfer-between-drives): This is a Google Colab notebook for transferring files/folders between drives from different Google accounts
 * [byeolbit/translucent](https://github.com/byeolbit/translucent): Translucent plastic card theme.
