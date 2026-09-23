@@ -85,7 +85,7 @@ creating your own Awesome List by GitHub stars!
 * [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents): A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 * [uno-forge-hub/agency-landing-page-Astrojs](https://github.com/uno-forge-hub/agency-landing-page-Astrojs): A simple agency landing page made with astrojs and tailwindcss
 * [jazzyalex/agent-sessions](https://github.com/jazzyalex/agent-sessions): Local-first macOS app to browse, search, analyze, and resume supported AI coding-agent session history across Codex, Claude Code, OpenCode, Cursor Agent, Antigravity, Hermes, OpenClaw, Copilot CLI, and more.
-* [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills): AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,400+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.
+* [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills): AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,445+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.
 * [piroor/aggregate-tabs-to-main-window](https://github.com/piroor/aggregate-tabs-to-main-window): Aggregate new tabs to a window which has most many tabs and largest size.
 * [AI-Anywhere/AI-Anywhere](https://github.com/AI-Anywhere/AI-Anywhere): Your agents. Any browser. Anywhere
 * [fastaddons/AI-Anywhere](https://github.com/fastaddons/AI-Anywhere): None
@@ -2655,7 +2655,7 @@ creating your own Awesome List by GitHub stars!
 * [WaldiPL/purplePrivateWindows](https://github.com/WaldiPL/purplePrivateWindows):  Extension for Firefox
 * [drduh/Purse](https://github.com/drduh/Purse): Manage secrets with Bash and GnuPG asymmetric encryption (YubiKey)
 * [filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox): A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
-* [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt): Desktop AI Assistant powered by GPT-6, GPT-5, Gemini, Claude, Ollama, Grok, DeepSeek, Perplexity, Bielik, chat, agents, vision, voice, RAG, image and video generation, tools, MCP, plugins, speech synthesis and recognition, web search, memory, presets, assistants,and more. Linux, Windows, Mac
+* [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt): Desktop AI Assistant powered by GPT-6, GPT-5, Gemini, Claude, Ollama, Grok, DeepSeek, Perplexity, chat, agents, vision, voice, RAG, image and video generation, tools, MCP, plugins, speech synthesis and recognition, web search, memory, presets, assistants,and more. Linux, Windows, Mac
 * [kevinschaich/py-imessage-shortcuts](https://github.com/kevinschaich/py-imessage-shortcuts): 💬 Send iMessages using Python through the Shortcuts app.
 * [DimaKudosh/pydfs-lineup-optimizer](https://github.com/DimaKudosh/pydfs-lineup-optimizer): Daily Fantasy Sports lineup optimzer for all popular daily fantasy sports sites
 * [glowinthedark/pylaunchd](https://github.com/glowinthedark/pylaunchd): MacOS launchd/launchctl GUI
@@ -3088,7 +3088,7 @@ creating your own Awesome List by GitHub stars!
 * [ronfybish/Signature-Generator](https://github.com/ronfybish/Signature-Generator): Email Signature Generator - React & Firebase
 * [silexlabs/Silex](https://github.com/silexlabs/Silex): Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together.
 * [SillyTavern/SillyTavern-Launcher](https://github.com/SillyTavern/SillyTavern-Launcher): Launcher scripts for SillyTavern and ST-Extras.
-* [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet): An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
+* [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet): The malleable knowledge base for you and your team. Powered by Markdown and Lua.
 * [tiansh/simple-context-search](https://github.com/tiansh/simple-context-search): An easy way to act a context searching with one-time selected search provider. Context Search should be Simple. This extension use your searching list configured in browser, which means it could be used just out-of-box.
 * [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups): Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
 * [migueravila/simplefox](https://github.com/migueravila/simplefox): A Userstyle theme for Firefox minimalist and Keyboard centered.
@@ -3268,7 +3268,7 @@ creating your own Awesome List by GitHub stars!
 * [syphon-org/syphon](https://github.com/syphon-org/syphon): ⚗️  a privacy centric matrix client 
 * [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
 * [Wyattwalls/system_prompts](https://github.com/Wyattwalls/system_prompts): None
-* [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks): Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.
+* [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks): Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.
 * [RoadToDream/SzContext](https://github.com/RoadToDream/SzContext): Add context menu to macOS Finder 
 * [janraasch/tab-ahead](https://github.com/janraasch/tab-ahead): Web Browser Extension that helps you to quickly find open tabs by title and URL.
 * [rtfcv/tab-attic](https://github.com/rtfcv/tab-attic): None
@@ -3285,7 +3285,7 @@ creating your own Awesome List by GitHub stars!
 * [menhera-org/TabArray](https://github.com/menhera-org/TabArray): Chrome-like tab groups using private and isolated containers: The ultimate tab manager and groups for Firefox.
 * [Bill13579/tabby](https://github.com/Bill13579/tabby): A web extension for managing great amounts of windows and tabs at ease.
 * [TabbyML/tabby](https://github.com/TabbyML/tabby): Self-hosted AI coding assistant
-* [tabler/tabler-icons](https://github.com/tabler/tabler-icons): A set of over 6100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+* [tabler/tabler-icons](https://github.com/tabler/tabler-icons): A set of over 6200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 * [jakob/TableTool](https://github.com/jakob/TableTool): A simple CSV editor for the Mac
 * [lbragile/TabMerger](https://github.com/lbragile/TabMerger): TabMerger is a cross-browser extension that stores your tabs in a single place to save memory usage and increase your productivity.
 * [onemen/TabMixPlus](https://github.com/onemen/TabMixPlus): New Tab mix plus for modern Firefox
