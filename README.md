@@ -1697,7 +1697,7 @@ creating your own Awesome List by GitHub stars!
 * [HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources): Autoupdate iptv sources
 * [4gray/iptvnator](https://github.com/4gray/iptvnator): :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
 * [axi0mX/ipwndfu](https://github.com/axi0mX/ipwndfu): open-source jailbreaking tool for many iOS devices
-* [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes): Over 600 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more
+* [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes): Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 600 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, Windows, Visual Studio,, Ghostty, and dozens more
 * [sindresorhus/iterm2-snazzy](https://github.com/sindresorhus/iterm2-snazzy): Elegant iTerm2 theme with bright colors
 * [ErnaneJ/itwg-apple-automator](https://github.com/ErnaneJ/itwg-apple-automator): AppleScript that uses the Gemini language model API (by Google) to enhance the writing, spelling, and formality of selected text.
 * [Jackett/Jackett](https://github.com/Jackett/Jackett): API Support for your favorite torrent trackers
@@ -2655,7 +2655,7 @@ creating your own Awesome List by GitHub stars!
 * [WaldiPL/purplePrivateWindows](https://github.com/WaldiPL/purplePrivateWindows):  Extension for Firefox
 * [drduh/Purse](https://github.com/drduh/Purse): Manage secrets with Bash and GnuPG asymmetric encryption (YubiKey)
 * [filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox): A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
-* [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt): Desktop AI Assistant powered by GPT-6, GPT-5, Gemini, Claude, Ollama, Grok, DeepSeek, Perplexity, chat, agents, vision, voice, RAG, image and video generation, tools, MCP, plugins, speech synthesis and recognition, web search, memory, presets, assistants,and more. Linux, Windows, Mac
+* [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt): Desktop AI Assistant powered by GPT-6, GPT-5, Gemini, Claude, Grok, Ollama, DeepSeek, Perplexity, and more - chat, agents, tools, MCP, plugins, RAG, vision, voice, image and video generation, speech synthesis and speech recognition, web search, memory, presets, canvas, assistants, themes, computer use. Windows, Linux, and Mac.
 * [kevinschaich/py-imessage-shortcuts](https://github.com/kevinschaich/py-imessage-shortcuts): 💬 Send iMessages using Python through the Shortcuts app.
 * [DimaKudosh/pydfs-lineup-optimizer](https://github.com/DimaKudosh/pydfs-lineup-optimizer): Daily Fantasy Sports lineup optimzer for all popular daily fantasy sports sites
 * [glowinthedark/pylaunchd](https://github.com/glowinthedark/pylaunchd): MacOS launchd/launchctl GUI
@@ -2883,6 +2883,7 @@ creating your own Awesome List by GitHub stars!
 * [ohmybahgosh/RockYou2021.txt](https://github.com/ohmybahgosh/RockYou2021.txt): RockYou2021.txt is a MASSIVE WORDLIST compiled of various other wordlists.  RockYou2021.txt DOES NOT CONTAIN USER:PASS logins!  
 * [rootfont/rootfont](https://github.com/rootfont/rootfont): The native font manager for designers and programmers on macOS.
 * [mike-kfed/roundcube-thunderbird_labels](https://github.com/mike-kfed/roundcube-thunderbird_labels): Thunderbird Labels Plugin for Roundcube Webmail
+* [fwdai/rowel](https://github.com/fwdai/rowel): 🔑   Free Offline-first Password Manager 
 * [caro401/royal-velvet](https://github.com/caro401/royal-velvet): A dark theme for obsidian.md
 * [moisseev/rspamd-spamness](https://github.com/moisseev/rspamd-spamness): Thunderbird add-on for visualizing rspamd spam scores.
 * [runningcheese/RunningCheese-Firefox](https://github.com/runningcheese/RunningCheese-Firefox): A Graceful and Powerful Customized Firefox
@@ -3251,7 +3252,6 @@ creating your own Awesome List by GitHub stars!
 * [CanisLupus/swift-selection-search](https://github.com/CanisLupus/swift-selection-search): Swift Selection Search (SSS) is a simple Firefox add-on that lets you quickly search for some text in a page using your favorite search engines.
 * [swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar): Powerful macOS menu bar customization tool
 * [Lord-Kamina/SwiftDefaultApps](https://github.com/Lord-Kamina/SwiftDefaultApps): Replacement for RCDefaultApps, written in Swift.
-* [swiftyapp/swifty](https://github.com/swiftyapp/swifty): 🔑   Free Offline-first Password Manager 
 * [anuejn/swipe-back](https://github.com/anuejn/swipe-back): A web extension that allows you to jump back/forward in the browser's history by swiping horizontally with two fingers on your touchpad. Mimics the default behaviour on Mac Os.
 * [totu/Swipe2Nav](https://github.com/totu/Swipe2Nav): Firefox Add-on to enable two-finger left and right gestures to navigate browser history
 * [numist/Switch](https://github.com/numist/Switch): A window-based context switcher for the Mac
