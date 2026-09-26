@@ -798,7 +798,7 @@ creating your own Awesome List by GitHub stars!
 * [home-assistant/core](https://github.com/home-assistant/core): :house_with_garden: Open source home automation that puts local control and privacy first.
 * [Andereoo/Cortland](https://github.com/Andereoo/Cortland): A sleek, modern, macOS-inspired theme for Firefox
 * [leminlimez/Cowabunga](https://github.com/leminlimez/Cowabunga): iOS 14.0-15.7.1 & 16.0-16.1.2 MacDirtyCow ToolBox
-* [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai): 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
+* [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai): Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.
 * [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg): A shell script to build fancy DMGs
 * [luooooob/create-my-awesome](https://github.com/luooooob/create-my-awesome): Github Actions for automatically generating the personal awesome list from all of the repositories you starred.
 * [ololx/create-symlink](https://github.com/ololx/create-symlink): Create Symlink is a simple mac Automator workflow which provides a GUI for the symbolic links creation on macOS. There is an alternative https://github.com/ololx/quick-symlink
@@ -973,7 +973,7 @@ creating your own Awesome List by GitHub stars!
 * [natelandau/dotfiles](https://github.com/natelandau/dotfiles): Home for my bootstrap script, dotfiles, and configuration files
 * [rinsuki/dotfiles](https://github.com/rinsuki/dotfiles): my dotfiles
 * [rkalis/dotfiles](https://github.com/rkalis/dotfiles): 💻 macOS System Configuration with Fish, Package Control, VS Code, Repo management, Hammerspoon
-* [servitola/dotfiles](https://github.com/servitola/dotfiles): servitola dotfiles repository
+* [servitola/dotfiles](https://github.com/servitola/dotfiles): How to live with macOS since 2020: Hammerspoon, Karabiner hyper layers, Birman layouts, one `up` to update 200+ apps, Claude Code skills
 * [timmybytes/dotfiles](https://github.com/timmybytes/dotfiles): My personal (.)dotfiles and configurations for various programs and environments. 
 * [trybick/dotfiles](https://github.com/trybick/dotfiles): Config files and new Mac setup guide
 * [vufly/dotfiles](https://github.com/vufly/dotfiles): This is the place where I keep my configuration.
@@ -2682,6 +2682,7 @@ creating your own Awesome List by GitHub stars!
 * [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy): Android real-time display control software
 * [Izheil/Quantum-Nox-Firefox-Customizations](https://github.com/Izheil/Quantum-Nox-Firefox-Customizations): Customizations for Firefox. You can add extra functions using the CSS and JS files here.
 * [jackyzha0/quartz](https://github.com/jackyzha0/quartz): 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
+* [quests-org/quests](https://github.com/quests-org/quests): The open-source app builder
 * [fffx/quick-bookmark](https://github.com/fffx/quick-bookmark): spotlight like search for chrome, firefox
 * [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins): List of useful Quick Look plugins for developers
 * [evanca/quick-portfolio](https://github.com/evanca/quick-portfolio): [DISCONTINUED] Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
