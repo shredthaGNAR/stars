@@ -85,7 +85,7 @@ creating your own Awesome List by GitHub stars!
 * [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents): A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 * [uno-forge-hub/agency-landing-page-Astrojs](https://github.com/uno-forge-hub/agency-landing-page-Astrojs): A simple agency landing page made with astrojs and tailwindcss
 * [jazzyalex/agent-sessions](https://github.com/jazzyalex/agent-sessions): Local-first macOS app to browse, search, analyze, and resume supported AI coding-agent session history across Codex, Claude Code, OpenCode, Cursor Agent, Antigravity, Hermes, OpenClaw, Copilot CLI, and more.
-* [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills): AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,445+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.
+* [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills): AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,400+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.
 * [piroor/aggregate-tabs-to-main-window](https://github.com/piroor/aggregate-tabs-to-main-window): Aggregate new tabs to a window which has most many tabs and largest size.
 * [AI-Anywhere/AI-Anywhere](https://github.com/AI-Anywhere/AI-Anywhere): Your agents. Any browser. Anywhere
 * [fastaddons/AI-Anywhere](https://github.com/fastaddons/AI-Anywhere): None
@@ -695,7 +695,7 @@ creating your own Awesome List by GitHub stars!
 * [postmodern/chruby](https://github.com/postmodern/chruby): Changes the current Ruby
 * [emvaized/circle-mouse-gestures](https://github.com/emvaized/circle-mouse-gestures): Chrome and Firefox extension for mouse gestures with visual representation of actions as a circle
 * [asilvas/circler](https://github.com/asilvas/circler): (non-official) Logitech Circle utility application (download etc)
-* [sp4ce84/classic-tabs-firefox](https://github.com/sp4ce84/classic-tabs-firefox): None
+* [sp4ce99/classic-tabs-firefox](https://github.com/sp4ce99/classic-tabs-firefox): None
 * [anymorph-ai/Claudable](https://github.com/anymorph-ai/Claudable): Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.
 * [anthropics/claude-code](https://github.com/anthropics/claude-code): Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 * [StamKavid/claude-code-prompting-101](https://github.com/StamKavid/claude-code-prompting-101): A comprehensive educational repository for mastering prompt engineering with Anthropic's Claude AI, from basic concepts to production-ready systems. Based on Anthropic's official Claude Code Prompting 101 tutorial with extensive enhancements.
@@ -1259,7 +1259,6 @@ creating your own Awesome List by GitHub stars!
 * [sagars007/Firefox-vertical-tabs-customUI](https://github.com/sagars007/Firefox-vertical-tabs-customUI): Custom userChrome and userContent.css for Firefox. Including vertical tabs(tree_style_tabs), full dark mode, thin title-bar text in nav-bar and much more.
 * [CaptainEureka/firefox-vibrancy](https://github.com/CaptainEureka/firefox-vibrancy): None
 * [hongde88/firefox-workspace-manager](https://github.com/hongde88/firefox-workspace-manager): A Firefox extension that groups tabs into workspaces through the hide and show tab APIs.
-* [tublydownloader/Firefox-YouTube-Downloader](https://github.com/tublydownloader/Firefox-YouTube-Downloader): Firefox add-on to download YouTube videos and Shorts, and convert to MP3 in one click.
 * [denesberta/firefox_compact_style](https://github.com/denesberta/firefox_compact_style): Make Firefox compact!
 * [Yash220402/firefox_css_ui](https://github.com/Yash220402/firefox_css_ui): None
 * [unode/firefox_decrypt](https://github.com/unode/firefox_decrypt): Firefox Decrypt is a tool to extract passwords from Mozilla (Firefox™, Waterfox™, Thunderbird®, SeaMonkey®) profiles
@@ -2277,7 +2276,7 @@ creating your own Awesome List by GitHub stars!
 * [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin): Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
 * [esodesod/obsidian-web-clipper-templates](https://github.com/esodesod/obsidian-web-clipper-templates): My collection of Obsidian Web Clipper templates
 * [KosmosisDire/obsidian-webpage-export](https://github.com/KosmosisDire/obsidian-webpage-export): Export html from single files, canvas pages, or whole vaults. Direct access to the exported HTML files allows you to publish your digital garden anywhere. Focuses on flexibility, features, and style parity.
-* [Lapis0x0/obsidian-yolo](https://github.com/Lapis0x0/obsidian-yolo): Agent-native AI assistant — chat, write, learning, all in one.
+* [Lapis0x0/obsidian-yolo](https://github.com/Lapis0x0/obsidian-yolo): Agent-native AI assistant — chat, write, whiteboard, learning, all in one.
 * [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium): Get Android app updates straight from the source.
 * [rlgrpe/ocr-raycast](https://github.com/rlgrpe/ocr-raycast): macOS OCR screenshot tool with Raycast integration. Uses Vision API for fast multilingual text recognition (uk, ru, en).
 * [DevipriyaSarkar/OCR-Reader](https://github.com/DevipriyaSarkar/OCR-Reader): An Android app to extract text from camera preview directly.
@@ -3594,7 +3593,7 @@ creating your own Awesome List by GitHub stars!
 * [sharkdp/vivid](https://github.com/sharkdp/vivid): A themeable LS_COLORS generator with a rich filetype datebase
 * [muhummadPatel/vLoader](https://github.com/muhummadPatel/vLoader): An extremely simple, no frills, GUI-based video downloader
 * [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils): Free and open-source macOS menu bar toolkit.
-* [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager): Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。
+* [voyager-crew/voyager](https://github.com/voyager-crew/voyager): Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。
 * [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot): Share your VPN connection over hotspot or repeater! (root required)
 * [AdamCaviness/vs-code-theme-monokai-dark-soda](https://github.com/AdamCaviness/vs-code-theme-monokai-dark-soda): A VS Code theme
 * [microsoft/vscode](https://github.com/microsoft/vscode): Visual Studio Code
@@ -3753,7 +3752,6 @@ creating your own Awesome List by GitHub stars!
 * [xcodian/youtube-dl-web](https://github.com/xcodian/youtube-dl-web): A good web interface for youtube-dl that allows you to download arbitrary mixes of audio and video, including up to the highest quality such as 8K.
 * [TheYellowArchitect/youtube-dlp-bash](https://github.com/TheYellowArchitect/youtube-dlp-bash): Bash script which opens youtube-dlp on the dmenu, and optionally pastes the clipboard
 * [karimelgazar/youtube-downloader](https://github.com/karimelgazar/youtube-downloader): Youtube Downloader for the blind 👨‍🦯 and the sighted 🚶
-* [tublydownloader/Youtube-Downloader-Extension](https://github.com/tublydownloader/Youtube-Downloader-Extension): A Chrome extension to download YouTube videos in 4K, convert to MP3, and save YouTube Shorts. https://tubly.download
 * [DenBeke/YouTube-Downloader-for-macOS](https://github.com/DenBeke/YouTube-Downloader-for-macOS): Simple menu bar app to download YouTube movies on your Mac
 * [luxysiv/youtube-morphe](https://github.com/luxysiv/youtube-morphe): Patch YouTube Morphe
 * [ytb2mp3/youtube-mp3-downloader](https://github.com/ytb2mp3/youtube-mp3-downloader): Extract music from YouTube videos
