@@ -511,6 +511,7 @@ creating your own Awesome List by GitHub stars!
 * [fedragon/bookmarkd](https://github.com/fedragon/bookmarkd): Stores HTML pages as Markdown files in an Obsidian vault
 * [vaeth/bookmarkdupes](https://github.com/vaeth/bookmarkdupes): A WebExtension which can display/remove duplicate bookmarks or empty folders
 * [dudor/BookmarkHub](https://github.com/dudor/BookmarkHub): BookmarkHub , sync bookmarks across different browsers
+* [K2SOsint/Bookmarklets](https://github.com/K2SOsint/Bookmarklets): A small collection of bookmarklets that are useful for OSINT, including ones for e-mail addresses, Facebook, extracting links and WhatsMyName.app.
 * [mems/bookmarklets-context-menu](https://github.com/mems/bookmarklets-context-menu): WebExtension allow to execute bookmarklets as privileged scripts
 * [CodeverDotDev/bookmarks](https://github.com/CodeverDotDev/bookmarks): :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.dev 
 * [SansGuidon/bookmarks](https://github.com/SansGuidon/bookmarks): :warning: Mirrored from https://gitea.zoemp.be/sansguidon/bookmarks ! :bookmark: +5K awesome resources for geeks and software crafters :beer: 
@@ -2064,7 +2065,7 @@ creating your own Awesome List by GitHub stars!
 * [WorldBrain/Memex](https://github.com/WorldBrain/Memex): Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 * [kormyen/memex](https://github.com/kormyen/memex): Simple bookmarks and notes
 * [memex-life/memex](https://github.com/memex-life/memex): Your second brain for the web browsing. An AI powered Chrome extension that constructs personal knowledge base for you. 
-* [usememos/memos](https://github.com/usememos/memos): Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+* [usememos/memos](https://github.com/usememos/memos): A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 * [xudaolong/memos-desktop](https://github.com/xudaolong/memos-desktop): Memos client built on electron cross-end framework
 * [austintraver/merge](https://github.com/austintraver/merge): Addon to replicate the Safari 'Merge All Windows' menu command
 * [wsmadsen/Merge-NHL-Odds](https://github.com/wsmadsen/Merge-NHL-Odds): Import NHL data from NHL website and merge odds
