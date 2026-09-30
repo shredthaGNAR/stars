@@ -1187,7 +1187,6 @@ creating your own Awesome List by GitHub stars!
 * [dexeonify/firefox-css](https://github.com/dexeonify/firefox-css): My CSS configuration to customise Firefox to my liking.
 * [seatedSinger/Firefox-CSS](https://github.com/seatedSinger/Firefox-CSS): None
 * [NiBa97/firefox-css-custom](https://github.com/NiBa97/firefox-css-custom): A modified version of Andreas Grafen's "ag-proton" design for firefox
-* [viesual/Firefox-CSS-for-MacOS](https://github.com/viesual/Firefox-CSS-for-MacOS): A custom Firefox CSS that works well with the current MacOS design
 * [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks): Collection of userstyles affecting the browser
 * [whitelightning76/Firefox-dark-theme](https://github.com/whitelightning76/Firefox-dark-theme): Just another dark theme
 * [junguler/firefox-dark-userContent.css](https://github.com/junguler/firefox-dark-userContent.css): css to compliment firefox's colors option for dark mode on all websites 
@@ -2121,7 +2120,7 @@ creating your own Awesome List by GitHub stars!
 * [MorpheApp/morphe-documentation](https://github.com/MorpheApp/morphe-documentation): General documentation about Morphe
 * [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager): Morphe app patcher for Android
 * [MorpheApp/morphe-patches](https://github.com/MorpheApp/morphe-patches): Morphe Patches
-* [hoo-dles/morphe-patches](https://github.com/hoo-dles/morphe-patches): 🍃 Patches for Morphe
+* [hoo-dles/morphe-patches](https://github.com/hoo-dles/morphe-patches): 🍃 Human-made patches for Morphe
 * [MorpheApp/morphe-patches-library](https://github.com/MorpheApp/morphe-patches-library): Shared library for use by patch developers
 * [LeddaZ/morphe-repo](https://github.com/LeddaZ/morphe-repo): None
 * [LeddaZ/MorpheUpdater](https://github.com/LeddaZ/MorpheUpdater): Morphe Updater for my personal builds
