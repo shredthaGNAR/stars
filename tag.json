@@ -3137,9 +3137,6 @@
     "alexmercerind/youtube-search-python": [
         "Other"
     ],
-    "alexpdraper/reading-list": [
-        "Other"
-    ],
     "alexrosepizant/clipper-for-appflowy": [
         "Other"
     ],
@@ -8984,6 +8981,9 @@
     "react/react": [
         "Other"
     ],
+    "reading-list-team/reading-list": [
+        "Other"
+    ],
     "realoatesman/Dawn": [
         "Other"
     ],
@@ -9600,6 +9600,9 @@
         "Other"
     ],
     "shredthaGNAR/static-marks-docker": [
+        "Other"
+    ],
+    "shredthaGNAR/swp-freelancer-portfolio": [
         "Other"
     ],
     "shredthaGNAR/wokiee": [
@@ -10521,6 +10524,12 @@
         "Other"
     ],
     "tubearchivist/tubearchivist": [
+        "Other"
+    ],
+    "tublydownloader/Firefox-YouTube-Downloader": [
+        "Other"
+    ],
+    "tublydownloader/Youtube-Downloader-Extension": [
         "Other"
     ],
     "tumpio/gmscripts": [

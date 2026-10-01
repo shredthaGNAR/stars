@@ -1259,6 +1259,7 @@ creating your own Awesome List by GitHub stars!
 * [sagars007/Firefox-vertical-tabs-customUI](https://github.com/sagars007/Firefox-vertical-tabs-customUI): Custom userChrome and userContent.css for Firefox. Including vertical tabs(tree_style_tabs), full dark mode, thin title-bar text in nav-bar and much more.
 * [CaptainEureka/firefox-vibrancy](https://github.com/CaptainEureka/firefox-vibrancy): None
 * [hongde88/firefox-workspace-manager](https://github.com/hongde88/firefox-workspace-manager): A Firefox extension that groups tabs into workspaces through the hide and show tab APIs.
+* [tublydownloader/Firefox-YouTube-Downloader](https://github.com/tublydownloader/Firefox-YouTube-Downloader): Firefox add-on to download YouTube videos and Shorts, and convert to MP3 in one click.
 * [denesberta/firefox_compact_style](https://github.com/denesberta/firefox_compact_style): Make Firefox compact!
 * [Yash220402/firefox_css_ui](https://github.com/Yash220402/firefox_css_ui): None
 * [unode/firefox_decrypt](https://github.com/unode/firefox_decrypt): Firefox Decrypt is a tool to extract passwords from Mozilla (Firefox™, Waterfox™, Thunderbird®, SeaMonkey®) profiles
@@ -1817,7 +1818,7 @@ creating your own Awesome List by GitHub stars!
 * [signerlabs/Klee](https://github.com/signerlabs/Klee): A native macOS AI chat app powered by MLX. 100% local inference on Apple Silicon, no cloud required. Built with ShipSwift.
 * [KDE/kleopatra](https://github.com/KDE/kleopatra): Certificate manager and GUI for OpenPGP and CMS cryptography
 * [kkkgo/KMS_VL_ALL](https://github.com/kkkgo/KMS_VL_ALL): 🔑KMS_VL_ALL - Smart Activation Script
-* [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp): Run GGUF models easily with a KoboldAI UI. One File. Zero Install.
+* [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp): KoboldCpp - Run GGUF AI models locally with a KoboldAI UI. One File. Zero Install.
 * [Bitte-ein-Git/kodi-repo](https://github.com/Bitte-ein-Git/kodi-repo): heyFordy's Kodi Repository
 * [gnonio/korporize](https://github.com/gnonio/korporize): OCR - Object Character Recognition for any image you browse upon
 * [onekiloparsec/KPCTabsControl](https://github.com/onekiloparsec/KPCTabsControl): A macOS control for tabs with enhanced capabilities, and styles: Safari, Chrome and custom ones.
@@ -2779,7 +2780,7 @@ creating your own Awesome List by GitHub stars!
 * [SuniRein/read-it-later](https://github.com/SuniRein/read-it-later): A light web browser extension to manage your read-it-later list easily.
 * [XcrossD/read-later-bookmarks](https://github.com/XcrossD/read-later-bookmarks): A chrome extension that add a read later view for chrome bookmarks
 * [rNeomy/reader-view](https://github.com/rNeomy/reader-view): Access Firefox's built in reader view from right click context menu
-* [alexpdraper/reading-list](https://github.com/alexpdraper/reading-list): A Chrome/Firefox extension for saving pages to read later.
+* [reading-list-team/reading-list](https://github.com/reading-list-team/reading-list): A Chrome/Firefox extension for saving pages to read later.
 * [codebox/reading-list-mover](https://github.com/codebox/reading-list-mover): A Python utility for moving bookmarks/reading lists between services
 * [napsternxg/ReadLater](https://github.com/napsternxg/ReadLater): This is a google chrome extension for saving links for later reading.
 * [sakuyaa/readLater](https://github.com/sakuyaa/readLater): A Read-it-later extension for Firefox using WebExtension APIs
@@ -3257,6 +3258,7 @@ creating your own Awesome List by GitHub stars!
 * [deweller/switchaudio-osx](https://github.com/deweller/switchaudio-osx): Change the audio source for Mac OS X from the command line.
 * [jason5122/switcher](https://github.com/jason5122/switcher): None
 * [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts): Switch hosts quickly!
+* [shredthaGNAR/swp-freelancer-portfolio](https://github.com/shredthaGNAR/swp-freelancer-portfolio): None
 * [calzoneman/sync](https://github.com/calzoneman/sync): Node.JS Server and JavaScript/HTML Client for synchronizing online media
 * [JasonkayZK/sync-onetab](https://github.com/JasonkayZK/sync-onetab): A tool to sync data in onetab plugin.
 * [FreeWebber/SyncedJSONtoOnetab](https://github.com/FreeWebber/SyncedJSONtoOnetab): Firefox Synced JSON of tabs to Onetab format
@@ -3752,6 +3754,7 @@ creating your own Awesome List by GitHub stars!
 * [xcodian/youtube-dl-web](https://github.com/xcodian/youtube-dl-web): A good web interface for youtube-dl that allows you to download arbitrary mixes of audio and video, including up to the highest quality such as 8K.
 * [TheYellowArchitect/youtube-dlp-bash](https://github.com/TheYellowArchitect/youtube-dlp-bash): Bash script which opens youtube-dlp on the dmenu, and optionally pastes the clipboard
 * [karimelgazar/youtube-downloader](https://github.com/karimelgazar/youtube-downloader): Youtube Downloader for the blind 👨‍🦯 and the sighted 🚶
+* [tublydownloader/Youtube-Downloader-Extension](https://github.com/tublydownloader/Youtube-Downloader-Extension): A Chrome extension to download YouTube videos in 4K, convert to MP3, and save YouTube Shorts. https://tubly.download
 * [DenBeke/YouTube-Downloader-for-macOS](https://github.com/DenBeke/YouTube-Downloader-for-macOS): Simple menu bar app to download YouTube movies on your Mac
 * [luxysiv/youtube-morphe](https://github.com/luxysiv/youtube-morphe): Patch YouTube Morphe
 * [ytb2mp3/youtube-mp3-downloader](https://github.com/ytb2mp3/youtube-mp3-downloader): Extract music from YouTube videos
