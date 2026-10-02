@@ -938,7 +938,6 @@ creating your own Awesome List by GitHub stars!
 * [SuffolkLITLab/docassemble-filler-extension](https://github.com/SuffolkLITLab/docassemble-filler-extension): A browser extension for Chrome, Edge and Firefox that fills dummy text in all input fields in a page. Adapted to work with Docassemble inputs.
 * [PepsRyuu/dock-window-preview](https://github.com/PepsRyuu/dock-window-preview): Mac OSX app that displays window previews when hovering over app icon on the Dock. 
 * [steventheworker/DockAltTab](https://github.com/steventheworker/DockAltTab): Window preview app for MacOS (on the dock) using AltTab.
-* [steventheworker/DockAltTab-home](https://github.com/steventheworker/DockAltTab-home): website for DockAltTab
 * [ejbills/DockDoor](https://github.com/ejbills/DockDoor): Window peeking, alt-tab and other enhancements for macOS
 * [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX): Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 * [nikhilbadyal/docker-py-revanced](https://github.com/nikhilbadyal/docker-py-revanced): One Click Python util to build all Revanced apps.
@@ -1259,7 +1258,6 @@ creating your own Awesome List by GitHub stars!
 * [sagars007/Firefox-vertical-tabs-customUI](https://github.com/sagars007/Firefox-vertical-tabs-customUI): Custom userChrome and userContent.css for Firefox. Including vertical tabs(tree_style_tabs), full dark mode, thin title-bar text in nav-bar and much more.
 * [CaptainEureka/firefox-vibrancy](https://github.com/CaptainEureka/firefox-vibrancy): None
 * [hongde88/firefox-workspace-manager](https://github.com/hongde88/firefox-workspace-manager): A Firefox extension that groups tabs into workspaces through the hide and show tab APIs.
-* [tublydownloader/Firefox-YouTube-Downloader](https://github.com/tublydownloader/Firefox-YouTube-Downloader): Firefox add-on to download YouTube videos and Shorts, and convert to MP3 in one click.
 * [denesberta/firefox_compact_style](https://github.com/denesberta/firefox_compact_style): Make Firefox compact!
 * [Yash220402/firefox_css_ui](https://github.com/Yash220402/firefox_css_ui): None
 * [unode/firefox_decrypt](https://github.com/unode/firefox_decrypt): Firefox Decrypt is a tool to extract passwords from Mozilla (Firefox™, Waterfox™, Thunderbird®, SeaMonkey®) profiles
@@ -2787,7 +2785,7 @@ creating your own Awesome List by GitHub stars!
 * [timleland/ReadLaterCE](https://github.com/timleland/ReadLaterCE): Read Later Chrome Extension
 * [aecreations/readnext](https://github.com/aecreations/readnext): The reading list that syncs to the cloud. An extension for Firefox.
 * [Hakanbaban53/RealFire](https://github.com/Hakanbaban53/RealFire): A minimalist animated oneliner theme for Firefox perfectly matching real Dark.
-* [steventheworker/recents-macos](https://github.com/steventheworker/recents-macos): Edit the 'recents lists' (or App Exposé entries) of other apps! Secondarily, a file or app launcher.
+* [steventheworker/recents-macos](https://github.com/steventheworker/recents-macos): Edit the 'recents lists' (or App Exposé entries) of other apps! Secondarily, a file or app launcher. —Features also available in Dock Exposé.
 * [bhavsec/reconspider](https://github.com/bhavsec/reconspider): 🔎 Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organizations.
 * [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle): Move and resize windows on macOS with keyboard shortcuts and snap areas
 * [rxhanson/RectanglePro-Community](https://github.com/rxhanson/RectanglePro-Community): Bug reports and discussion for the Rectangle Pro app
@@ -3754,7 +3752,6 @@ creating your own Awesome List by GitHub stars!
 * [xcodian/youtube-dl-web](https://github.com/xcodian/youtube-dl-web): A good web interface for youtube-dl that allows you to download arbitrary mixes of audio and video, including up to the highest quality such as 8K.
 * [TheYellowArchitect/youtube-dlp-bash](https://github.com/TheYellowArchitect/youtube-dlp-bash): Bash script which opens youtube-dlp on the dmenu, and optionally pastes the clipboard
 * [karimelgazar/youtube-downloader](https://github.com/karimelgazar/youtube-downloader): Youtube Downloader for the blind 👨‍🦯 and the sighted 🚶
-* [tublydownloader/Youtube-Downloader-Extension](https://github.com/tublydownloader/Youtube-Downloader-Extension): A Chrome extension to download YouTube videos in 4K, convert to MP3, and save YouTube Shorts. https://tubly.download
 * [DenBeke/YouTube-Downloader-for-macOS](https://github.com/DenBeke/YouTube-Downloader-for-macOS): Simple menu bar app to download YouTube movies on your Mac
 * [luxysiv/youtube-morphe](https://github.com/luxysiv/youtube-morphe): Patch YouTube Morphe
 * [ytb2mp3/youtube-mp3-downloader](https://github.com/ytb2mp3/youtube-mp3-downloader): Extract music from YouTube videos
