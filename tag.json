@@ -1517,9 +1517,6 @@
     "Mattlk13/h4cker": [
         "Other"
     ],
-    "Mattlk13/poogle": [
-        "Other"
-    ],
     "Medformatik/CrossDrop": [
         "Other"
     ],
@@ -2987,7 +2984,7 @@
     "adrianavarrete/raycast-ai-actions": [
         "Other"
     ],
-    "adriangrantdotorg/Raycast-Skill": [
+    "adriangrantdotorg/Raycast-AI-Skill": [
         "Other"
     ],
     "adriannier/applescript-functions": [
@@ -3105,9 +3102,6 @@
         "Other"
     ],
     "alanhe421/alfred-workflows": [
-        "Other"
-    ],
-    "albinstman/icloud-hide-my-email-api": [
         "Other"
     ],
     "alct/export-tabs-urls": [
@@ -8069,6 +8063,9 @@
     "nicooprat/alfred-ocr": [
         "Other"
     ],
+    "nicorobinreal/icloud-hide-my-email-api": [
+        "Other"
+    ],
     "nightmare-space/any_share": [
         "Other"
     ],
@@ -8562,9 +8559,6 @@
         "Other"
     ],
     "philc/vimium": [
-        "Other"
-    ],
-    "phishdestroy/trustname-evidence": [
         "Other"
     ],
     "phoihos/vscode-translate-it": [
@@ -9941,13 +9935,13 @@
     "steventheworker/DockAltTab": [
         "Other"
     ],
+    "steventheworker/Recents-macos-home": [
+        "Other"
+    ],
     "steventheworker/alt-tab-macos": [
         "Other"
     ],
     "steventheworker/applescripts": [
-        "Other"
-    ],
-    "steventheworker/recents-macos": [
         "Other"
     ],
     "steventheworker/safari-userscripts": [
