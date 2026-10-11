@@ -2420,6 +2420,7 @@ creating your own Awesome List by GitHub stars!
 * [devanshbatham/ParamSpider](https://github.com/devanshbatham/ParamSpider):  Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing 
 * [roddhjav/pass-import](https://github.com/roddhjav/pass-import): A pass extension for importing data from most existing password managers
 * [sindresorhus/Pasteboard-Viewer](https://github.com/sindresorhus/Pasteboard-Viewer): 📋 Inspect the system pasteboards on macOS
+* [Jman-Github/Patch-Bundle-Registry](https://github.com/Jman-Github/Patch-Bundle-Registry): An automated registry for ReVanced, Morphe, and ReSeam patch bundles, featuring searchable patch metadata, multi-runtime support, JSON feeds, a web interface, and REST/GraphQL APIs.
 * [yozdas/PdfCombiner](https://github.com/yozdas/PdfCombiner): This is Automator app built in Mac
 * [benwiggy/PDFsuite](https://github.com/benwiggy/PDFsuite): Python scripts, Automator Services and Quartz Filters for MacOS (OS X) that create, manipulate, and query PDF files
 * [Yumeo0/pear-desktop](https://github.com/Yumeo0/pear-desktop): Pear 🍐 is extension for music player
@@ -2854,7 +2855,6 @@ creating your own Awesome List by GitHub stars!
 * [inotia00/revanced-manager](https://github.com/inotia00/revanced-manager): 💊 Application to use ReVanced on Android 
 * [brosssh/revanced-manager-downloaders](https://github.com/brosssh/revanced-manager-downloaders): 🔌 ReVanced Manager downloaders
 * [peternmuller/revanced-morphe-builder](https://github.com/peternmuller/revanced-morphe-builder): An APK and Magisk/KernelSU module builder for RV/RVX/Morphe apps. Updated hourly.
-* [Jman-Github/ReVanced-Patch-Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles): Automatically aggregates alternative ReVanced & Morphe patch bundles into JSON files to import into the ReVanced & Morphe Managers.
 * [ReVanced/revanced-patcher](https://github.com/ReVanced/revanced-patcher): 💉 ReVanced Patcher used to patch Android applications
 * [anddea/revanced-patches](https://github.com/anddea/revanced-patches): 🧩 Patches for ReVanced
 * [inotia00/revanced-patches](https://github.com/inotia00/revanced-patches): 🧩 Patches for ReVanced
@@ -3234,7 +3234,7 @@ creating your own Awesome List by GitHub stars!
 * [erosman/support](https://github.com/erosman/support): Support Location for all my extensions
 * [pieces-app/support](https://github.com/pieces-app/support): None
 * [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys): Map your keys for web surfing, expand your browser with javascript and keyboard.
-* [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense): Air-gapped, privacy-focused, open-source NotebookLM alternative. AI agent that researches, transforms, and edits your documents (PDF, DOCX, XLSX, PPTX, etc.). Join our Discord: https://discord.gg/ejRNvftDp9
+* [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense): Air-gapped, privacy-focused, open-source NotebookLM alternative. AI agent that researches, transforms, and edits your documents. Join our Discord: https://discord.gg/ejRNvftDp9
 * [Loyalsoldier/surge-rules](https://github.com/Loyalsoldier/surge-rules): 🦄 🎃 👻 Surge 规则集(DOMAIN-SET 和 RULE-SET)，适用于 Surge for iOS 和 Surge for Mac 客户端。
 * [jekyllt/sustain](https://github.com/jekyllt/sustain): 🎹 Personal blog powered by Jekyll
 * [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler): Open source browser extension for finding, editing, exporting, optimizing, and managing SVG content.
