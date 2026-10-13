@@ -103,7 +103,7 @@ creating your own Awesome List by GitHub stars!
 * [tarurata/ai-text-transformer](https://github.com/tarurata/ai-text-transformer): Raycast extension to apply AI prompts to clipboard content
 * [lszefner/aiautomatize](https://github.com/lszefner/aiautomatize): A modern, multilingual landing page for AI Automatize - a service that helps businesses integrate AI-powered automation to improve conversion rates, save time, and scale operations.
 * [Aider-AI/aider](https://github.com/Aider-AI/aider): aider is AI pair programming in your terminal
-* [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists): A collection of unified blocklists designed to provide complete filtering capabilities for different online threats. Curated from multiple sources (click 🔴 The Sources 🔴 in README.md to view), these blocklists offer a robust solution for blocking ads, malware, trackers, and other unwanted content.
+* [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists): A collection of unified blocklists designed to provide complete filtering capabilities for different online threats. Curated from multiple sources (click SOURCES.md to view), these blocklists offer a robust solution for blocking ads, malware, trackers, and other unwanted content.
 * [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams): AIOStreams consolidates multiple Stremio addons and debrid/usenet services - including its own suite of built-in addons and a native Usenet streaming engine - into a single, highly customisable super-addon. 
 * [NeloF4/AIOTools](https://github.com/NeloF4/AIOTools): All In One Tools Hacking 
 * [AIPexStudio/AIPex](https://github.com/AIPexStudio/AIPex): AIPex: AI browser automation assistant, no migration and privacy first. Alternative to Manus Browser Operator、 Claude Chrome and Agent Browser
@@ -741,7 +741,7 @@ creating your own Awesome List by GitHub stars!
 * [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit): 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 * [zai-org/CodeGeeX2](https://github.com/zai-org/CodeGeeX2): CodeGeeX2: A More Powerful Multilingual Code Generation Model
 * [CodeverDotDev/codever](https://github.com/CodeverDotDev/codever): Bookmarks & Notes Manager for Developers — with Markdown and Code Snippets support
-* [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat): Blazing fast AI coding for VS Code
+* [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat): Blazing fast AI coding with static context
 * [jcv8000/Codex](https://github.com/jcv8000/Codex): A free note-taking software for programmers and Computer Science students
 * [openai/codex](https://github.com/openai/codex): Lightweight coding agent that runs in your terminal
 * [frankmdmc/CodexDidThis](https://github.com/frankmdmc/CodexDidThis): GPT Codex Did This
@@ -918,7 +918,7 @@ creating your own Awesome List by GitHub stars!
 * [nokeya/direct-links-out](https://github.com/nokeya/direct-links-out): Removes all "You are leaving our site" stuff from links
 * [zanetu/direct_google_images](https://github.com/zanetu/direct_google_images): Direct Google Images
 * [bluppus20/Disable-Gatekeeper-macOS-Sequoia-beta-3](https://github.com/bluppus20/Disable-Gatekeeper-macOS-Sequoia-beta-3):  Disable Gatekeeper macOS Sequoia beta 3 
-* [cygnusx-1-org/Discoverium](https://github.com/cygnusx-1-org/Discoverium): Android app for discovering open source Android apps
+* [cygnusx-1-org/Discoverium](https://github.com/cygnusx-1-org/Discoverium): Android phone and TV app for discovering open source Android apps
 * [Homebrew/discussions](https://github.com/Homebrew/discussions): 🗣 Public open-ended discussions. Replacement for our Discourse.
 * [disposable/disposable-email-domains](https://github.com/disposable/disposable-email-domains): Daily updated repository for https://github.com/disposable/disposable
 * [tapans/DIY-Surveillance-with-Smartphones](https://github.com/tapans/DIY-Surveillance-with-Smartphones): DIY hack for a complete CCTV solution using open source software and smartphones. 
@@ -972,7 +972,7 @@ creating your own Awesome List by GitHub stars!
 * [natelandau/dotfiles](https://github.com/natelandau/dotfiles): Home for my bootstrap script, dotfiles, and configuration files
 * [rinsuki/dotfiles](https://github.com/rinsuki/dotfiles): my dotfiles
 * [rkalis/dotfiles](https://github.com/rkalis/dotfiles): 💻 macOS System Configuration with Fish, Package Control, VS Code, Repo management, Hammerspoon
-* [servitola/dotfiles](https://github.com/servitola/dotfiles): How to live with macOS since 2020: Hammerspoon, Karabiner hyper layers, Birman layouts, one `up` to update 200+ apps, Claude Code skills
+* [servitola/dotfiles](https://github.com/servitola/dotfiles): How to live with macOS since 2020: Hammerspoon, Karabiner hyper layers, Birman layouts, one `up` to update 200+ apps, Claude Code
 * [timmybytes/dotfiles](https://github.com/timmybytes/dotfiles): My personal (.)dotfiles and configurations for various programs and environments. 
 * [trybick/dotfiles](https://github.com/trybick/dotfiles): Config files and new Mac setup guide
 * [vufly/dotfiles](https://github.com/vufly/dotfiles): This is the place where I keep my configuration.
@@ -1953,7 +1953,6 @@ creating your own Awesome List by GitHub stars!
 * [Renset/macai](https://github.com/Renset/macai): All-in-one native macOS AI chat application for virtually any AI provider
 * [glamorwish/MacAI](https://github.com/glamorwish/MacAI): All-in-one native macOS AI chat application: Deepseek, ChatGPT, Claude, xAI Grok, Google Gemini, Perplexity, OpenRouter, and all Open AI-compatible API services
 * [araa47/MacbookProTouchBar-Crypto-Ticker](https://github.com/araa47/MacbookProTouchBar-Crypto-Ticker): Customise your macbook pro touchbar into a cryptocurrency ticker 
-* [itsnex1s/MacClaw](https://github.com/itsnex1s/MacClaw): Raycast-style macOS client for OpenClaw
 * [p0deje/Maccy](https://github.com/p0deje/Maccy): Lightweight clipboard manager for macOS
 * [jonbeebe/MacDynamicWallpaper](https://github.com/jonbeebe/MacDynamicWallpaper): Mojave-style dynamic wallpapers for macOS.
 * [MacEnhance/MacForge](https://github.com/MacEnhance/MacForge): 📦 Plugin, App, and Theme store which includes plugin injection for macOS
@@ -2420,7 +2419,7 @@ creating your own Awesome List by GitHub stars!
 * [devanshbatham/ParamSpider](https://github.com/devanshbatham/ParamSpider):  Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing 
 * [roddhjav/pass-import](https://github.com/roddhjav/pass-import): A pass extension for importing data from most existing password managers
 * [sindresorhus/Pasteboard-Viewer](https://github.com/sindresorhus/Pasteboard-Viewer): 📋 Inspect the system pasteboards on macOS
-* [Jman-Github/Patch-Bundle-Registry](https://github.com/Jman-Github/Patch-Bundle-Registry): An automated registry for ReVanced, Morphe, and ReSeam patch bundles, featuring searchable patch metadata, multi-runtime support, JSON feeds, a web interface, and REST/GraphQL APIs.
+* [Jman-Github/Patch-Bundle-Registry](https://github.com/Jman-Github/Patch-Bundle-Registry): Patch bundle registry for ReVanced, Morphe, and Reseam, with searchable patches, app compatibility, historical releases, prereleases, and changelogs.
 * [yozdas/PdfCombiner](https://github.com/yozdas/PdfCombiner): This is Automator app built in Mac
 * [benwiggy/PDFsuite](https://github.com/benwiggy/PDFsuite): Python scripts, Automator Services and Quartz Filters for MacOS (OS X) that create, manipulate, and query PDF files
 * [Yumeo0/pear-desktop](https://github.com/Yumeo0/pear-desktop): Pear 🍐 is extension for music player
