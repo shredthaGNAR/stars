@@ -1273,7 +1273,6 @@ creating your own Awesome List by GitHub stars!
 * [Tenmag/FirefoxPrivacyConfig](https://github.com/Tenmag/FirefoxPrivacyConfig): Firefox privacy configuration (help + user.js)
 * [macleod-ee/FirefoxSidebar](https://github.com/macleod-ee/FirefoxSidebar): Vertical tab design for Firefox with dynamic indentation:: Sidebery and TreeStyleTabs (Legacy) themes available! [!] Moved to https://codeberg.org/macleod/FirefoxSidebar
 * [garywill/FirefoxTaskMonitor](https://github.com/garywill/FirefoxTaskMonitor): Show CPU & memory bar, per tab and all tasks. Firefox userChrome script. 🛠️📊 
-* [Yeove/FirefoxTweaks](https://github.com/Yeove/FirefoxTweaks): None
 * [gomita/firegestures](https://github.com/gomita/firegestures): FireGestures, a Firefox extension.
 * [josepedromonteiro/fireze](https://github.com/josepedromonteiro/fireze): Custome safari theme for Firefox
 * [kosimst/Firicico](https://github.com/kosimst/Firicico): Combined programming mono font with italics and font ligatures made from Fira Code and Pacifico for Italics
@@ -3409,7 +3408,6 @@ creating your own Awesome List by GitHub stars!
 * [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch): An Android app for searching torrents across multiple providers with fast search speed, detailed results, and packed with complete torrent actions.
 * [sindresorhus/touch-bar-simulator](https://github.com/sindresorhus/touch-bar-simulator): Use the Touch Bar on any Mac
 * [ris58h/Touch-Tab](https://github.com/ris58h/Touch-Tab): Switch apps with trackpad on macOS.
-* [GaffaSnobb/touchbar-crypto](https://github.com/GaffaSnobb/touchbar-crypto): Live update crypto prices on the Touch Bar.
 * [lilythstern/touchbar-cryptocoins](https://github.com/lilythstern/touchbar-cryptocoins): View BTC, LTC, ETH and NEO on your Macbook Touchbar using the BetterTouchTool.
 * [ZachAttackMLR/TouchBar-Fun](https://github.com/ZachAttackMLR/TouchBar-Fun): Using BetterTouchTool to display things on the new MacBook Pro's touch bar
 * [rickkas7/TowerInfo](https://github.com/rickkas7/TowerInfo): Tool to show the location of nearby cellular towers on a mobile device, tablet, or laptop
@@ -3717,6 +3715,7 @@ creating your own Awesome List by GitHub stars!
 * [asmvik/yabai](https://github.com/asmvik/yabai): A tiling window manager for macOS based on binary space partitioning
 * [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT): Locally running, hands-free ChatGPT UI
 * [hendrikbgr/YandexMail-Account-Creator](https://github.com/hendrikbgr/YandexMail-Account-Creator): 🚀 Create hundreds of free YandexMail Email Accounts in the matter of minutes 🚀
+* [Yeove/Yeoves_Custom_Firefox_CSS](https://github.com/Yeove/Yeoves_Custom_Firefox_CSS): None
 * [roleoroleo/yi-hack-Allwinner](https://github.com/roleoroleo/yi-hack-Allwinner): Custom firmware for Yi 1080p camera based on Allwinner platform
 * [roleoroleo/yi-hack-Allwinner-v2](https://github.com/roleoroleo/yi-hack-Allwinner-v2): Custom firmware for Yi 1080p camera based on Allwinner platform
 * [npetrovski/yi-hack-easy](https://github.com/npetrovski/yi-hack-easy): Customized firmware for Yi Home Camera 720p
