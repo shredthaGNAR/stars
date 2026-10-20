@@ -783,7 +783,7 @@ creating your own Awesome List by GitHub stars!
 * [zukixa/cool-ai-stuff](https://github.com/zukixa/cool-ai-stuff): This repository contains a list of free to use AI APIs and sites. We are NOT endorsing ANY of the listed services!
 * [hariprasd/cool-bookmarklets](https://github.com/hariprasd/cool-bookmarklets): Bookmarklets for Browsers, that are cool in some way for someone. Minimum Automation
 * [webkul/coolhue](https://github.com/webkul/coolhue): Coolest Gradient Hues and Swatches
-* [coollabsio/coolify](https://github.com/coollabsio/coolify): An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
+* [coollabsio/coolify](https://github.com/coollabsio/coolify): An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
 * [ericc-ch/copilot-api](https://github.com/ericc-ch/copilot-api): Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code!
 * [hugodemenez/copilot-openai-bridge](https://github.com/hugodemenez/copilot-openai-bridge): Exposes GitHub Copilot SDK as OpenAI-compatible API for Raycast Custom Providers
 * [piroor/copy-selected-tabs-to-clipboard](https://github.com/piroor/copy-selected-tabs-to-clipboard): Provides ability to copy title and URL of selected tabs to the clipboard for Firefox 63 and later.
@@ -2060,7 +2060,7 @@ creating your own Awesome List by GitHub stars!
 * [WorldBrain/Memex](https://github.com/WorldBrain/Memex): Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 * [kormyen/memex](https://github.com/kormyen/memex): Simple bookmarks and notes
 * [memex-life/memex](https://github.com/memex-life/memex): Your second brain for the web browsing. An AI powered Chrome extension that constructs personal knowledge base for you. 
-* [usememos/memos](https://github.com/usememos/memos): A timeline for your thoughts. Just type. It stays yours.
+* [usememos/memos](https://github.com/usememos/memos): Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
 * [xudaolong/memos-desktop](https://github.com/xudaolong/memos-desktop): Memos client built on electron cross-end framework
 * [austintraver/merge](https://github.com/austintraver/merge): Addon to replicate the Safari 'Merge All Windows' menu command
 * [wsmadsen/Merge-NHL-Odds](https://github.com/wsmadsen/Merge-NHL-Odds): Import NHL data from NHL website and merge odds
@@ -3714,7 +3714,7 @@ creating your own Awesome List by GitHub stars!
 * [asmvik/yabai](https://github.com/asmvik/yabai): A tiling window manager for macOS based on binary space partitioning
 * [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT): Locally running, hands-free ChatGPT UI
 * [hendrikbgr/YandexMail-Account-Creator](https://github.com/hendrikbgr/YandexMail-Account-Creator): 🚀 Create hundreds of free YandexMail Email Accounts in the matter of minutes 🚀
-* [Yeove/Yeoves_Custom_Firefox_CSS](https://github.com/Yeove/Yeoves_Custom_Firefox_CSS): None
+* [Yeove/yeove_CustomFirefoxCSS](https://github.com/Yeove/yeove_CustomFirefoxCSS): None
 * [roleoroleo/yi-hack-Allwinner](https://github.com/roleoroleo/yi-hack-Allwinner): Custom firmware for Yi 1080p camera based on Allwinner platform
 * [roleoroleo/yi-hack-Allwinner-v2](https://github.com/roleoroleo/yi-hack-Allwinner-v2): Custom firmware for Yi 1080p camera based on Allwinner platform
 * [npetrovski/yi-hack-easy](https://github.com/npetrovski/yi-hack-easy): Customized firmware for Yi Home Camera 720p
