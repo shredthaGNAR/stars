@@ -242,6 +242,9 @@
     "Anatoly-IVANOV/macos-finder-file-path-copy": [
         "Other"
     ],
+    "AndBoyS/raycast-gemini-proxyapi": [
+        "Other"
+    ],
     "Andereoo/Cortland": [
         "Other"
     ],
@@ -437,6 +440,9 @@
     "Cat7373/remove-web-limits": [
         "Other"
     ],
+    "CennoxX/spotify-ai-blocker": [
+        "Other"
+    ],
     "Century300/powerlevel10k": [
         "Other"
     ],
@@ -504,6 +510,9 @@
         "Other"
     ],
     "ColorlibHQ/email-templates": [
+        "Other"
+    ],
+    "ComposioHQ/awesome-claude-skills": [
         "Other"
     ],
     "Control-D-Inc/ctrld": [
@@ -815,6 +824,9 @@
     "FlickyOs/Adobe-Debloater": [
         "Other"
     ],
+    "FlorianBruniaux/claude-code-ultimate-guide": [
+        "Other"
+    ],
     "Fotom/Fortune": [
         "Other"
     ],
@@ -1001,6 +1013,9 @@
     "Homebrew/homebrew-core": [
         "Other"
     ],
+    "Homefronts/YTubic-Plus": [
+        "Other"
+    ],
     "HorlogeSkynet/thunderbird-user.js": [
         "Other"
     ],
@@ -1169,7 +1184,7 @@
     "JitouchApp/Jitouch-project": [
         "Other"
     ],
-    "Jman-Github/Awesome-ReVanced": [
+    "Jman-Github/Awesome-Android-Patching": [
         "Other"
     ],
     "Jman-Github/Patch-Bundle-Registry": [
@@ -2114,6 +2129,9 @@
     "SIMKL/script.simkl": [
         "Other"
     ],
+    "SKaplanOfficial/Placeholders-Toolkit": [
+        "Other"
+    ],
     "SKaplanOfficial/Raycast-PromptLab": [
         "Other"
     ],
@@ -2798,6 +2816,9 @@
     "Yeove/yeove_CustomFirefoxCSS": [
         "Other"
     ],
+    "YodaLightsabr/sidecast": [
+        "Other"
+    ],
     "YoshifumiFuyuno/Search-from-Popup-or-ContextMenu": [
         "Other"
     ],
@@ -2928,6 +2949,9 @@
         "Other"
     ],
     "abp-filters/abp-filters-anti-cv": [
+        "Other"
+    ],
+    "abue-ammar/tinycast": [
         "Other"
     ],
     "achembarpu/pockyt": [
@@ -3129,6 +3153,9 @@
         "Other"
     ],
     "alexrosepizant/clipper-for-appflowy": [
+        "Other"
+    ],
+    "alexsilver8/waypoint": [
         "Other"
     ],
     "alexta69/metube": [
@@ -4077,6 +4104,9 @@
         "Other"
     ],
     "cheap-glitch/warpgate": [
+        "Other"
+    ],
+    "cheaper-inference/OmniRoute": [
         "Other"
     ],
     "cheshire137/dotfiles": [
@@ -7292,6 +7322,9 @@
     "makilyes/shopifyTheme": [
         "Other"
     ],
+    "makio-san/OneTab": [
+        "Other"
+    ],
     "maldevel/EmailHarvester": [
         "Other"
     ],
@@ -7599,6 +7632,9 @@
         "Other"
     ],
     "min-uuu/GoldenRabbit-BTT": [
+        "Other"
+    ],
+    "mindsdb/mindshub": [
         "Other"
     ],
     "mingyaulee/Blazor.BrowserExtension": [
@@ -8978,6 +9014,9 @@
     "refined-github/refined-github": [
         "Other"
     ],
+    "regenrek/raycast-gpt-launcher": [
+        "Other"
+    ],
     "regnull/email-autodiscover": [
         "Other"
     ],
@@ -9000,6 +9039,9 @@
         "Other"
     ],
     "revblaze/AppleMusicUltra": [
+        "Other"
+    ],
+    "revenge-mod/revenge-bundle": [
         "Other"
     ],
     "rgcr/m-cli": [
@@ -9234,6 +9276,9 @@
         "Other"
     ],
     "ryderstorm/pocket_article_exporter": [
+        "Other"
+    ],
+    "rynfar/meridian": [
         "Other"
     ],
     "ryosama/mbox_spliter": [
@@ -9488,6 +9533,9 @@
     "shash007/People-Search-on-Social-Networks-using-Face-Recognition": [
         "Other"
     ],
+    "shbmx/claude-history": [
+        "Other"
+    ],
     "shedaniel/AutoConfig": [
         "Other"
     ],
@@ -9543,6 +9591,9 @@
         "Other"
     ],
     "shredthaGNAR/gh-bookmarks": [
+        "Other"
+    ],
+    "shredthaGNAR/kleopatra-macos-arm64": [
         "Other"
     ],
     "shredthaGNAR/my-awesome-starred": [
@@ -9624,6 +9675,9 @@
         "Other"
     ],
     "simonbs/alfred-youtube-workflow": [
+        "Other"
+    ],
+    "simonw/llm": [
         "Other"
     ],
     "simov/markdown-viewer": [
@@ -10017,9 +10071,6 @@
         "Other"
     ],
     "surrealroad/alfred-reminders": [
-        "Other"
-    ],
-    "svarts/OneTab": [
         "Other"
     ],
     "sveinbjornt/Platypus": [
@@ -10898,6 +10949,9 @@
     "webpack/webpack-dev-server": [
         "Other"
     ],
+    "webpro/browser-tab-bridge": [
+        "Other"
+    ],
     "webtorrent/webtorrent": [
         "Other"
     ],
@@ -10905,6 +10959,9 @@
         "Other"
     ],
     "weisser-dev/awesome-opencode": [
+        "Other"
+    ],
+    "wesammustafa/Claude-Code-Everything-You-Need-to-Know": [
         "Other"
     ],
     "wesbos/burner-email-providers": [
@@ -10992,6 +11049,9 @@
         "Other"
     ],
     "wshanks/tbkeys": [
+        "Other"
+    ],
+    "wshobson/agents": [
         "Other"
     ],
     "wsmadsen/Merge-NHL-Odds": [
@@ -11289,9 +11349,6 @@
         "Other"
     ],
     "zeon-studio/astroplate": [
-        "Other"
-    ],
-    "zephyrer/userChromeJS": [
         "Other"
     ],
     "zer0biwan/piracy-list-23": [
