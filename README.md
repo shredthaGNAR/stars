@@ -85,7 +85,7 @@ creating your own Awesome List by GitHub stars!
 * [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents): A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 * [uno-forge-hub/agency-landing-page-Astrojs](https://github.com/uno-forge-hub/agency-landing-page-Astrojs): A simple agency landing page made with astrojs and tailwindcss
 * [jazzyalex/agent-sessions](https://github.com/jazzyalex/agent-sessions): Local-first macOS app to browse, search, analyze, and resume supported AI coding-agent session history across Codex, Claude Code, OpenCode, Cursor Agent, Antigravity, Hermes, OpenClaw, Copilot CLI, and more.
-* [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills): AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,750+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.
+* [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills): 2,877+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
 * [wshobson/agents](https://github.com/wshobson/agents): Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
 * [piroor/aggregate-tabs-to-main-window](https://github.com/piroor/aggregate-tabs-to-main-window): Aggregate new tabs to a window which has most many tabs and largest size.
 * [AI-Anywhere/AI-Anywhere](https://github.com/AI-Anywhere/AI-Anywhere): Your agents. Any browser. Anywhere
@@ -105,7 +105,7 @@ creating your own Awesome List by GitHub stars!
 * [lszefner/aiautomatize](https://github.com/lszefner/aiautomatize): A modern, multilingual landing page for AI Automatize - a service that helps businesses integrate AI-powered automation to improve conversion rates, save time, and scale operations.
 * [Aider-AI/aider](https://github.com/Aider-AI/aider): aider is AI pair programming in your terminal
 * [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists): A collection of unified blocklists designed to provide complete filtering capabilities for different online threats. Curated from multiple sources (click SOURCES.md to view), these blocklists offer a robust solution for blocking ads, malware, trackers, and other unwanted content.
-* [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams): AIOStreams consolidates multiple Stremio addons and debrid/usenet services - including its own suite of built-in addons and a native Usenet streaming engine - into a single, highly customisable super-addon. 
+* [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams): AIOStreams brings your Stremio addons, debrid services and Usenet together into one list, filtered, sorted and formatted your way, and plays it in Stremio or in its own apps for every screen.
 * [NeloF4/AIOTools](https://github.com/NeloF4/AIOTools): All In One Tools Hacking 
 * [AIPexStudio/AIPex](https://github.com/AIPexStudio/AIPex): AIPex: AI browser automation assistant, no migration and privacy first. Alternative to Manus Browser Operator、 Claude Chrome and Agent Browser
 * [air-controller/air-controller-desktop](https://github.com/air-controller/air-controller-desktop): A new handy and powerful Android phone assistant， powered by Flutter.
@@ -2126,6 +2126,7 @@ creating your own Awesome List by GitHub stars!
 * [peci1/more-snooze](https://github.com/peci1/more-snooze): More Snooze addon for Thunderbird
 * [RookieEnough/Morphe-AutoBuilds](https://github.com/RookieEnough/Morphe-AutoBuilds): Config-driven CI pipeline that automates Android app builds daily. Educational purposes.
 * [elohim-etz/morphe-builder](https://github.com/elohim-etz/morphe-builder): A Magisk/KernelSU module and Apk builder for Morphe patches
+* [sixstrings/morphe-builder](https://github.com/sixstrings/morphe-builder): A Magisk/KernelSU module builder for Morphe modules. Builds also APKs. Updated several times daily. 
 * [MorpheApp/morphe-desktop](https://github.com/MorpheApp/morphe-desktop): Morphe desktop patching tool
 * [MorpheApp/morphe-documentation](https://github.com/MorpheApp/morphe-documentation): General documentation about Morphe
 * [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager): Morphe app patcher for Android
